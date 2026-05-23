@@ -70,3 +70,4 @@ Testing/
 
 #vs-code
 .vscode/
+.history/
