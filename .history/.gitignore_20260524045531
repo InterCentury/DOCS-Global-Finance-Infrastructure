@@ -68,5 +68,4 @@ vcpkg_installed/
 Testing/
 .cache/
 
-#vs-code
-.vscode/
+#
