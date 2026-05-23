@@ -254,3 +254,7 @@ DOCS-Global-Finance-Infrastructure/
 ```
 
 </details>
+
+```
+LICENSE: MIT
+```
