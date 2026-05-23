@@ -34,10 +34,10 @@ This repository covers topics related to:
 - Regulations and compliance
 
 ```
-# Repository Structure
+
 
 <details>
-<summary>Click to expand repository structure</summary>
+<summary><H1>Click to expand repository structure</H1></summary>
 
 ```txt
 DOCS-Global-Finance-Infrastructure/
