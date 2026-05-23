@@ -37,7 +37,7 @@ This repository covers topics related to:
 
 
 <details>
-<summary><H1>Click to expand repository structure</H1></summary>
+<summary><H3>Click to expand repository structure</H3></summary>
 
 ```txt
 DOCS-Global-Finance-Infrastructure/
