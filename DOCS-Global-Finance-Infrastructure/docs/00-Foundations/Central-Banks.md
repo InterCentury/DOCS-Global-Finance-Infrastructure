@@ -518,7 +518,7 @@ LENDER OF LAST RESORT FRAMEWORK
     │          │                                                                  │
     │          ▼                                                                  │
     │   ┌─────────────┐                                                           │
-    │   │  Liquidity   │                                                          │
+    │   │  Liquidity  │                                                           │
     │   │  Provided   │                                                           │
     │   └─────────────┘                                                           │
     │                                                                             │
