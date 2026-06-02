@@ -109,25 +109,25 @@ MONETARY POLICY TRANSMISSION CHAIN
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK ACTION                                                      │
+    │   CENTRAL BANK ACTION                                                       │
     │        │                                                                    │
     │        ▼                                                                    │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Policy Rate Change                                                  │   │
-    │   │  Open Market Operation                                               │   │
-    │   │  Reserve Requirement Adjustment                                      │   │
-    │   │  Quantitative Easing                                                 │   │
+    │   │  Policy Rate Change                                                 │   │
+    │   │  Open Market Operation                                              │   │
+    │   │  Reserve Requirement Adjustment                                     │   │
+    │   │  Quantitative Easing                                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │        │                                                                    │
     │        ▼                                                                    │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  INTERBANK MARKET                                                   │   │
     │   │                                                                     │   │
-    │   │  ┌──────────┐    ┌──────────┐    ┌──────────┐                      │   │
-    │   │  │ Bank A   │◄──►│ Bank B   │◄──►│ Bank C   │                      │   │
-    │   │  └──────────┘    └──────────┘    └──────────┘                      │   │
-    │   │        ▲               ▲               ▲                           │   │
-    │   │        └───────────────┼───────────────┘                           │   │
+    │   │  ┌──────────┐    ┌──────────┐    ┌──────────┐                       │   │
+    │   │  │ Bank A   │◄──►│ Bank B   │◄──►│ Bank C   │                       │   │
+    │   │  └──────────┘    └──────────┘    └──────────┘                       │   │
+    │   │        ▲               ▲               ▲                            │   │
+    │   │        └───────────────┼───────────────┘                            │   │
     │   │                    Rates change                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │        │                                                                    │
@@ -135,9 +135,9 @@ MONETARY POLICY TRANSMISSION CHAIN
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  COMMERCIAL BANK RESPONSE                                           │   │
     │   │                                                                     │   │
-    │   │  Deposit Rates ──────────────────► Savings behavior                │   │
-    │   │  Lending Rates  ──────────────────► Loan demand                    │   │
-    │   │  Credit Standards ────────────────► Loan approval rates            │   │
+    │   │  Deposit Rates ──────────────────► Savings behavior                 │   │
+    │   │  Lending Rates  ──────────────────► Loan demand                     │   │
+    │   │  Credit Standards ────────────────► Loan approval rates             │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │        │                                                                    │
     │        ▼                                                                    │
