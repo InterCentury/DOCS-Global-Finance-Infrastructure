@@ -397,49 +397,41 @@ MONETARY POLICY TOOLKIT
 ### Interest Rate Corridor System
 
 ```
-INTEREST RATE CORRIDOR
-
-    ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   Interest Rate                                                            │
-    │        ▲                                                                   │
-    │        │                                                                   │
-    │   5.00% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┐                │
-    │        │                                           ╱     │                │
-    │        │                                          ╱      │                │
-    │   4.75% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┤                │
-    │        │                                        │ ╲      │                │
-    │        │                                        │  ╲     │                │
-    │   4.50% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┼ ─ ─ ┤                │
-    │        │                                        │   ╲    │                │
-    │        │                                        │    ╲   │                │
-    │   4.25% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┼ ─ ─ ─┤                │
-    │        │                                        │     ╲  │                │
-    │        │                                        │      ╲ │                │
-    │   4.00% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┼ ─ ─ ─ ┤                │
-    │        │                                        │       ╲│                │
-    │        │                                        │        ╲                │
-    │   3.75% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┼ ─ ─ ─ ┼                │
-    │        │                                        │         │               │
-    │        └────────────────────────────────────────────────────────► Time    │
-    │                                                                             │
-    │                                                                             │
-    │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CORRIDOR COMPONENTS:                                               │   │
-    │   │                                                                     │   │
-    │   │  Lending Facility Rate (Ceiling) = Policy Rate + 0.50%             │   │
-    │   │  └── Banks can borrow overnight against collateral                │   │
-    │   │                                                                     │   │
-    │   │  Policy Rate (Target) = 4.50%                                      │   │
-    │   │  └── Announced target for interbank lending                        │   │
-    │   │                                                                     │   │
-    │   │  Deposit Facility Rate (Floor) = Policy Rate - 0.50%               │   │
-    │   │  └── Banks can park excess reserves overnight                      │   │
-    │   │                                                                     │   │
-    │   │  Corridor Width = 100 basis points                                 │   │
-    │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                                                             │
-    └─────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   Interest Rate                                                             │
+│         ▲                                                                   │
+│         │                                                                   │
+│   5.00% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ Ceiling   │
+│         │               \                                                   │
+│   4.75% ┼                \    Demand for Reserves                           │
+│         │                 \                                                 │
+│   4.50% ┼ ─ ─ ─ ─ ─ ─ ─ ─  \  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ Target    │
+│         │                   \                                               │
+│   4.25% ┼                    \                                              │
+│         │                     \                                             │
+│   4.00% ┼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─  \───────────────────────── ─ ─ ─ ─ Floor     │
+│         │                       (Perfectly elastic at floor)                │
+│   3.75% ┼                                                                   │
+│         │                                                                   │
+│         └────────────────────────────────────────────────────────► Quantity │
+│                                                                             │
+│   ┌─────────────────────────────────────────────────────────────────────┐   │
+│   │  CORRIDOR COMPONENTS:                                               │   │
+│   │                                                                     │   │
+│   │  Lending Facility Rate (Ceiling) = Policy Rate + 0.50%              │   │
+│   │  └── Banks can borrow overnight against collateral                  │   │
+│   │                                                                     │   │
+│   │  Policy Rate (Target) = 4.50%                                       │   │
+│   │  └── Announced target for interbank lending                         │   │
+│   │                                                                     │   │
+│   │  Deposit Facility Rate (Floor) = Policy Rate - 0.50%                │   │
+│   │  └── Banks can park excess reserves overnight                       │   │
+│   │                                                                     │   │
+│   │  Corridor Width = 100 basis points (1.00%)                          │   │
+│   └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## Lender of Last Resort (LOLR) Function
