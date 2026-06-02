@@ -144,17 +144,17 @@ MONETARY POLICY TRANSMISSION CHAIN
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  BUSINESS & CONSUMER RESPONSE                                       │   │
     │   │                                                                     │   │
-    │   │  Investment ──────────────────────► Capital spending               │   │
-    │   │  Consumption ─────────────────────► Durable goods purchases        │   │
-    │   │  Housing ─────────────────────────► Mortgage demand               │   │
+    │   │  Investment ──────────────────────► Capital spending                │   │
+    │   │  Consumption ─────────────────────► Durable goods purchases         │   │
+    │   │  Housing ─────────────────────────► Mortgage demand                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │        │                                                                    │
     │        ▼                                                                    │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  ECONOMIC OUTCOMES                                                  │   │
     │   │                                                                     │   │
-    │   │  GDP Growth ◄──────────────────────► Inflation Rate               │   │
-    │   │  Employment ◄──────────────────────► Asset Prices                 │   │
+    │   │  GDP Growth ◄──────────────────────► Inflation Rate                 │   │
+    │   │  Employment ◄──────────────────────► Asset Prices                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
