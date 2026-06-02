@@ -164,22 +164,22 @@ MONETARY POLICY TRANSMISSION CHAIN
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Channel              │ Mechanism                         │ Lag Time      │
-    │   ─────────────────────│───────────────────────────────────│────────────── │
-    │   Interest rate        │ Policy rate → bank rates →        │ 6-12 months   │
-    │   channel              │ spending/investment               │               │
-    │   ─────────────────────│───────────────────────────────────│────────────── │
-    │   Credit channel       │ Bank lending capacity → loan      │ 3-9 months    │
-    │                        │ availability                      │               │
-    │   ─────────────────────│───────────────────────────────────│────────────── │
-    │   Exchange rate        │ Interest differential → currency  │ Immediate     │
-    │   channel              │ value → net exports               │               │
-    │   ─────────────────────│───────────────────────────────────│────────────── │
-    │   Asset price channel  │ Discount rates → asset values →   │ 3-6 months    │
-    │                        │ wealth effect                     │               │
-    │   ─────────────────────│───────────────────────────────────│────────────── │
-    │   Expectations channel │ Forward guidance → market         │ Immediate     │
-    │                        │ expectations → current behavior   │               │
+    │   Channel              │ Mechanism                         │ Lag Time       │
+    │   ─────────────────────│───────────────────────────────────│──────────────  │
+    │   Interest rate        │ Policy rate → bank rates →        │ 6-12 months    │
+    │   channel              │ spending/investment               │                │
+    │   ─────────────────────│───────────────────────────────────│──────────────  │
+    │   Credit channel       │ Bank lending capacity → loan      │ 3-9 months     │
+    │                        │ availability                      │                │
+    │   ─────────────────────│───────────────────────────────────│──────────────  │
+    │   Exchange rate        │ Interest differential → currency  │ Immediate      │
+    │   channel              │ value → net exports               │                │
+    │   ─────────────────────│───────────────────────────────────│──────────────  │
+    │   Asset price channel  │ Discount rates → asset values →   │ 3-6 months     │
+    │                        │ wealth effect                     │                │
+    │   ─────────────────────│───────────────────────────────────│──────────────  │
+    │   Expectations channel │ Forward guidance → market         │ Immediate      │
+    │                        │ expectations → current behavior   │                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
