@@ -11,13 +11,13 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the core functions of central banks                          │
-    │   Learn monetary policy implementation tools                              │
-    │   Study central bank payment and settlement systems                       │
-    │   Analyze lender of last resort operations                               │
-    │   Examine reserve management and foreign exchange                        │
-    │   Understand central bank digital currency (CBDC) frameworks             │
-    │   Provide reference for financial system developers                      │
+    │   Understand the core functions of central banks                            │
+    │   Learn monetary policy implementation tools                                │
+    │   Study central bank payment and settlement systems                         │
+    │   Analyze lender of last resort operations                                  │
+    │   Examine reserve management and foreign exchange                           │
+    │   Understand central bank digital currency (CBDC) frameworks                │
+    │   Provide reference for financial system developers                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
