@@ -536,40 +536,40 @@ CENTRAL BANK BALANCE SHEET
     │                                                                             │
     │                         CENTRAL BANK BALANCE SHEET                          │
     │                                                                             │
-    │   ┌─────────────────────────────┐   ┌─────────────────────────────┐        │
-    │   │          ASSETS             │   │        LIABILITIES          │        │
-    │   ├─────────────────────────────┤   ├─────────────────────────────┤        │
-    │   │                             │   │                             │        │
-    │   │  ┌───────────────────────┐  │   │  ┌───────────────────────┐  │        │
-    │   │  │ Government Securities │  │   │  │ Currency in           │  │        │
-    │   │  │ (Treasury bonds,      │  │   │  │ Circulation           │  │        │
-    │   │  │  bills, MBS)          │  │   │  │ (Banknotes, coins)    │  │        │
-    │   │  └───────────────────────┘  │   │  └───────────────────────┘  │        │
-    │   │                             │   │                             │        │
-    │   │  ┌───────────────────────┐  │   │  ┌───────────────────────┐  │        │
-    │   │  │ Foreign Exchange      │  │   │  │ Reserve Balances      │  │        │
-    │   │  │ Reserves              │  │   │  │ (Bank deposits at     │  │        │
-    │   │  │ (Foreign currencies,  │  │   │  │  central bank)        │  │        │
-    │   │  │  gold, SDR)           │  │   │  └───────────────────────┘  │        │
-    │   │  └───────────────────────┘  │   │                             │        │
-    │   │                             │   │  ┌───────────────────────┐  │        │
-    │   │  ┌───────────────────────┐  │   │  │ Government Deposits   │  │        │
-    │   │  │ Loans to Banks        │  │   │  │ (Treasury accounts)   │  │        │
-    │   │  │ (Discount window,     │  │   │  └───────────────────────┘  │        │
-    │   │  │  repo agreements)     │  │   │                             │        │
-    │   │  └───────────────────────┘  │   │  ┌───────────────────────┐  │        │
-    │   │                             │   │  │ Other Liabilities     │  │        │
-    │   │  ┌───────────────────────┐  │   │  │ (Capital accounts,    │  │        │
-    │   │  │ Other Assets          │  │   │  │  IMF SDR allocations) │  │        │
-    │   │  │ (Emergency lending,   │  │   │  └───────────────────────┘  │        │
-    │   │  │  crisis facilities)   │  │   │                             │        │
-    │   │  └───────────────────────┘  │   │                             │        │
-    │   │                             │   │                             │        │
-    │   ├─────────────────────────────┤   ├─────────────────────────────┤        │
-    │   │      TOTAL ASSETS           │   │    TOTAL LIABILITIES        │        │
-    │   └─────────────────────────────┘   └─────────────────────────────┘        │
+    │   ┌─────────────────────────────┐   ┌─────────────────────────────┐         │
+    │   │          ASSETS             │   │        LIABILITIES          │         │
+    │   ├─────────────────────────────┤   ├─────────────────────────────┤         │
+    │   │                             │   │                             │         │
+    │   │  ┌───────────────────────┐  │   │  ┌───────────────────────┐  │         │
+    │   │  │ Government Securities │  │   │  │ Currency in           │  │         │
+    │   │  │ (Treasury bonds,      │  │   │  │ Circulation           │  │         │
+    │   │  │  bills, MBS)          │  │   │  │ (Banknotes, coins)    │  │         │
+    │   │  └───────────────────────┘  │   │  └───────────────────────┘  │         │
+    │   │                             │   │                             │         │
+    │   │  ┌───────────────────────┐  │   │  ┌───────────────────────┐  │         │
+    │   │  │ Foreign Exchange      │  │   │  │ Reserve Balances      │  │         │
+    │   │  │ Reserves              │  │   │  │ (Bank deposits at     │  │         │
+    │   │  │ (Foreign currencies,  │  │   │  │  central bank)        │  │         │
+    │   │  │  gold, SDR)           │  │   │  └───────────────────────┘  │         │
+    │   │  └───────────────────────┘  │   │                             │         │
+    │   │                             │   │  ┌───────────────────────┐  │         │
+    │   │  ┌───────────────────────┐  │   │  │ Government Deposits   │  │         │
+    │   │  │ Loans to Banks        │  │   │  │ (Treasury accounts)   │  │         │
+    │   │  │ (Discount window,     │  │   │  └───────────────────────┘  │         │
+    │   │  │  repo agreements)     │  │   │                             │         │
+    │   │  └───────────────────────┘  │   │  ┌───────────────────────┐  │         │
+    │   │                             │   │  │ Other Liabilities     │  │         │
+    │   │  ┌───────────────────────┐  │   │  │ (Capital accounts,    │  │         │
+    │   │  │ Other Assets          │  │   │  │  IMF SDR allocations) │  │         │
+    │   │  │ (Emergency lending,   │  │   │  └───────────────────────┘  │         │
+    │   │  │  crisis facilities)   │  │   │                             │         │
+    │   │  └───────────────────────┘  │   │                             │         │
+    │   │                             │   │                             │         │
+    │   ├─────────────────────────────┤   ├─────────────────────────────┤         │
+    │   │      TOTAL ASSETS           │   │    TOTAL LIABILITIES        │         │
+    │   └─────────────────────────────┘   └─────────────────────────────┘         │
     │                                                                             │
-    │   BALANCE SHEET IDENTITY: TOTAL ASSETS = TOTAL LIABILITIES                 │
+    │   BALANCE SHEET IDENTITY: TOTAL ASSETS = TOTAL LIABILITIES                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
