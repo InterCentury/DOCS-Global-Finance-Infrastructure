@@ -31,36 +31,36 @@ CENTRAL BANK CORE FUNCTIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   MONETARY POLICY                                                          │
-    │   ├── Price stability (inflation targeting)                               │
-    │   ├── Interest rate setting (policy rate)                                 │
-    │   ├── Open market operations (buy/sell securities)                        │
-    │   ├── Reserve requirements                                                │
-    │   └── Quantitative easing (asset purchases)                               │
+    │   MONETARY POLICY                                                           │
+    │   ├── Price stability (inflation targeting)                                 │
+    │   ├── Interest rate setting (policy rate)                                   │
+    │   ├── Open market operations (buy/sell securities)                          │
+    │   ├── Reserve requirements                                                  │
+    │   └── Quantitative easing (asset purchases)                                 │
     │                                                                             │
-    │   CURRENCY ISSUANCE                                                        │
-    │   ├── Sole right to issue banknotes and coins                             │
-    │   ├── Maintain public confidence in currency                              │
-    │   ├── Manage currency supply                                              │
-    │   └── Combat counterfeiting                                               │
+    │   CURRENCY ISSUANCE                                                         │
+    │   ├── Sole right to issue banknotes and coins                               │
+    │   ├── Maintain public confidence in currency                                │
+    │   ├── Manage currency supply                                                │
+    │   └── Combat counterfeiting                                                 │
     │                                                                             │
-    │   PAYMENT SYSTEM OVERSIGHT                                                 │
-    │   ├── Operate RTGS systems (Fedwire, TARGET2, CHAPS)                      │
-    │   ├── Oversee retail payment systems                                      │
-    │   ├── Ensure settlement finality                                          │
-    │   └── Reduce systemic risk                                                │
+    │   PAYMENT SYSTEM OVERSIGHT                                                  │
+    │   ├── Operate RTGS systems (Fedwire, TARGET2, CHAPS)                        │
+    │   ├── Oversee retail payment systems                                        │
+    │   ├── Ensure settlement finality                                            │
+    │   └── Reduce systemic risk                                                  │
     │                                                                             │
-    │   LENDER OF LAST RESORT                                                    │
-    │   ├── Provide emergency liquidity to banks                                │
-    │   ├── Prevent bank runs                                                   │
-    │   ├── Maintain financial stability                                        │
-    │   └── Operate discount window                                             │
+    │   LENDER OF LAST RESORT                                                     │
+    │   ├── Provide emergency liquidity to banks                                  │
+    │   ├── Prevent bank runs                                                     │
+    │   ├── Maintain financial stability                                          │
+    │   └── Operate discount window                                               │
     │                                                                             │
-    │   FOREIGN EXCHANGE RESERVE MANAGEMENT                                      │
-    │   ├── Hold and manage foreign currency reserves                           │
-    │   ├── Intervene in currency markets                                       │
-    │   ├── Maintain exchange rate stability                                    │
-    │   └── Support international trade                                         │
+    │   FOREIGN EXCHANGE RESERVE MANAGEMENT                                       │
+    │   ├── Hold and manage foreign currency reserves                             │
+    │   ├── Intervene in currency markets                                         │
+    │   ├── Maintain exchange rate stability                                      │
+    │   └── Support international trade                                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
