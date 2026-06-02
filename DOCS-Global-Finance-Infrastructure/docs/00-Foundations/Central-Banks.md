@@ -290,23 +290,23 @@ RTGS SYSTEM ARCHITECTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   WITHOUT LSM                      WITH LSM                                │
+    │   WITHOUT LSM                      WITH LSM                                 │
     │                                                                             │
-    │   Payment A ──┐                    Payment A ──┐                           │
-    │   Payment B ──┼── Queue ──► Settle Payment B ──┼── Queue ──┬── Offset ──┐  │
-    │   Payment C ──┘                    Payment C ──┘           │            │  │
-    │                                                           │            ▼  │
-    │   Requires: 3 units of liquidity                         │    ┌─────────────┐
-    │                                                           │    │   Net       │
-    │                                                           └───►│ Settlement  │
-    │                                                                │  (1 unit)   │
-    │                                                                └─────────────┘
+    │   Payment A ──┐                    Payment A ──┐                            │
+    │   Payment B ──┼── Queue ──► Settle Payment B ──┼── Queue ──┬── Offset ──┐   │
+    │   Payment C ──┘                    Payment C ──┘           │            │   │
+    │                                                            │            ▼   │
+    │   Requires: 3 units of liquidity                           │    ┌─────────────┐
+    │                                                            │    │   Net       │
+    │                                                            └───►│ Settlement  │
+    │                                                                 │  (1 unit)   │
+    │                                                                 └─────────────┘
     │                                                                             │
-    │   LSM MECHANISM:                                                           │
-    │   ├── Payment queuing and prioritization                                   │
-    │   ├── Bilateral and multilateral offsetting                                │
-    │   ├── Partial settlement using available liquidity                         │
-    │   └── Reduces liquidity needs by 40-60%                                   │
+    │   LSM MECHANISM:                                                            │
+    │   ├── Payment queuing and prioritization                                    │
+    │   ├── Bilateral and multilateral offsetting                                 │
+    │   ├── Partial settlement using available liquidity                          │
+    │   └── Reduces liquidity needs by 40-60%                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
