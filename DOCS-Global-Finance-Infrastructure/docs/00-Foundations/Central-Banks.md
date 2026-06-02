@@ -443,46 +443,46 @@ LENDER OF LAST RESORT FRAMEWORK
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BAGEHOT'S PRINCIPLE (1873):                                              │
-    │   "Lend freely at a penalty rate against good collateral"                  │
+    │   BAGEHOT'S PRINCIPLE (1873):                                               │
+    │   "Lend freely at a penalty rate against good collateral"                   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   DISTRESSED BANK ──► Central Bank ──► LIQUIDITY PROVIDED          │   │
+    │   │   DISTRESSED BANK ──► Central Bank ──► LIQUIDITY PROVIDED           │   │
     │   │        │                    │                    │                  │   │
     │   │        ▼                    ▼                    ▼                  │   │
-    │   │   Solvent but           Good              Penalty Rate             │   │
-    │   │   Illiquid?            Collateral?        +0.50%                   │   │
+    │   │   Solvent but           Good              Penalty Rate              │   │
+    │   │   Illiquid?            Collateral?        +0.50%                    │   │
     │   │        │                    │                    │                  │   │
     │   │        └────────────┬───────┘                    │                  │   │
     │   │                     ▼                            ▼                  │   │
-    │   │                YES + YES ──────────────────► APPROVED              │   │
+    │   │                YES + YES ──────────────────► APPROVED               │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DISCOUNT WINDOW TIERS:                                                   │
+    │   DISCOUNT WINDOW TIERS:                                                    │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  PRIMARY CREDIT                                                     │   │
-    │   │  ├── For financially sound institutions                            │   │
-    │   │  ├── No questions asked for first 90 days                          │   │
-    │   │  ├── Rate = policy rate + 0.50% (penalty)                          │   │
-    │   │  └── Overnight to 90-day terms                                     │   │
+    │   │  ├── For financially sound institutions                             │   │
+    │   │  ├── No questions asked for first 90 days                           │   │
+    │   │  ├── Rate = policy rate + 0.50% (penalty)                           │   │
+    │   │  └── Overnight to 90-day terms                                      │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  SECONDARY CREDIT                                                   │   │
-    │   │  ├── For institutions not qualifying for primary                   │   │
-    │   │  ├── Higher penalty rate (policy rate + 1.00%)                     │   │
-    │   │  └── Subject to greater restrictions                               │   │
+    │   │  ├── For institutions not qualifying for primary                    │   │
+    │   │  ├── Higher penalty rate (policy rate + 1.00%)                      │   │
+    │   │  └── Subject to greater restrictions                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  SEASONAL CREDIT                                                    │   │
-    │   │  ├── For smaller institutions with seasonal patterns               │   │
-    │   │  ├── Rate = average of selected market rates                       │   │
-    │   │  └── Up to 9 months                                                │   │
+    │   │  ├── For smaller institutions with seasonal patterns                │   │
+    │   │  ├── Rate = average of selected market rates                        │   │
+    │   │  └── Up to 9 months                                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
