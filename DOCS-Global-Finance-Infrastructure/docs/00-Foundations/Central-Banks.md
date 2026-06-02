@@ -56,10 +56,10 @@ CENTRAL BANK CORE FUNCTIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   FUNCTION BREAKDOWN:                                                      │
+    │   FUNCTION BREAKDOWN:                                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Monetary Policy                                                     │   │
+    │   │  Monetary Policy                                                    │   │
     │   │  ├── Price stability (inflation targeting)                          │   │
     │   │  ├── Interest rate setting (policy rate)                            │   │
     │   │  ├── Open market operations (buy/sell securities)                   │   │
@@ -68,7 +68,7 @@ CENTRAL BANK CORE FUNCTIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Currency Issuance                                                   │   │
+    │   │  Currency Issuance                                                  │   │
     │   │  ├── Sole right to issue banknotes and coins                        │   │
     │   │  ├── Maintain public confidence in currency                         │   │
     │   │  ├── Manage currency supply                                         │   │
@@ -76,7 +76,7 @@ CENTRAL BANK CORE FUNCTIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Payment System Oversight                                            │   │
+    │   │  Payment System Oversight                                           │   │
     │   │  ├── Operate RTGS systems (Fedwire, TARGET2, CHAPS)                 │   │
     │   │  ├── Oversee retail payment systems                                 │   │
     │   │  ├── Ensure settlement finality                                     │   │
@@ -84,7 +84,7 @@ CENTRAL BANK CORE FUNCTIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Lender of Last Resort                                               │   │
+    │   │  Lender of Last Resort                                              │   │
     │   │  ├── Provide emergency liquidity to banks                           │   │
     │   │  ├── Prevent bank runs                                              │   │
     │   │  ├── Maintain financial stability                                   │   │
@@ -92,7 +92,7 @@ CENTRAL BANK CORE FUNCTIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Foreign Exchange Reserve Management                                 │   │
+    │   │  Foreign Exchange Reserve Management                                │   │
     │   │  ├── Hold and manage foreign currency reserves                      │   │
     │   │  ├── Intervene in currency markets                                  │   │
     │   │  ├── Maintain exchange rate stability                               │   │
