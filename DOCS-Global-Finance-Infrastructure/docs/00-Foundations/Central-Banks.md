@@ -69,21 +69,19 @@ CENTRAL BANK CORE FUNCTIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Central Bank Action              Market Response          Economic Impact│
-    │   ──────────────────────────────────────────────────────────────────────── │
-    │                                                                             │
-    │   Raise policy rate         →    Higher bank rates    →    Reduced lending │
-    │                                                                             │
-    │   Sell government bonds     →    Lower bond prices    →    Higher yields   │
+    │   Central Bank Action              Market Response          Economic Impact │
+    ───────────────────────────────────────────────────────────────────────────────
+    │   Raise policy rate         →    Higher bank rates    →    Reduced lending  │
+    ───────────────────────────────────────────────────────────────────────────────
+    │   Sell government bonds     →    Lower bond prices    →    Higher yields    │
     │                             →    Tighter liquidity    →    Slower growth    │
-    │                                                                             │
-    │   Lower reserve requirement →    More lendable funds  →    Increased loans │
-    │                                                                             │
-    │   Quantitative easing       →    Buy assets           →    Inject liquidity│
+    ───────────────────────────────────────────────────────────────────────────────
+    │   Lower reserve requirement →    More lendable funds  →    Increased loans  │
+    ───────────────────────────────────────────────────────────────────────────────
+    │   Quantitative easing       →    Buy assets           →    Inject liquidity │
     │                             →    Lower long-term rates→    Stimulate economy│
-    │                                                                             │
-    │   Currency intervention     →    Buy/sell foreign FX  →    Stabilize rate  │
-    │                                                                             │
+    ───────────────────────────────────────────────────────────────────────────────
+    │   Currency intervention     →    Buy/sell foreign FX  →    Stabilize rate   │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
