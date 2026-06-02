@@ -193,47 +193,47 @@ MAJOR CENTRAL BANKS COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Federal Reserve (USA)                                                    │
-    │   ├── Currency: USD                                                        │
-    │   ├── Policy Rate: 5.25-5.50% (as of 2024)                                 │
-    │   ├── RTGS System: Fedwire                                                 │
-    │   ├── CBDC Status: In research (Project Cedar)                             │
-    │   └── Unique: Dual mandate (price stability + maximum employment)          │
+    │   Federal Reserve (USA)                                                     │
+    │   ├── Currency: USD                                                         │
+    │   ├── Policy Rate: 5.25-5.50% (as of 2024)                                  │
+    │   ├── RTGS System: Fedwire                                                  │
+    │   ├── CBDC Status: In research (Project Cedar)                              │
+    │   └── Unique: Dual mandate (price stability + maximum employment)           │
     │                                                                             │
-    │   European Central Bank (EU)                                               │
-    │   ├── Currency: EUR                                                        │
-    │   ├── Policy Rate: 4.50%                                                   │
-    │   ├── RTGS System: TARGET2                                                 │
-    │   ├── CBDC Status: Digital Euro (in progress)                              │
-    │   └── Unique: Serves 20 eurozone countries                                 │
+    │   European Central Bank (EU)                                                │
+    │   ├── Currency: EUR                                                         │
+    │   ├── Policy Rate: 4.50%                                                    │
+    │   ├── RTGS System: TARGET2                                                  │
+    │   ├── CBDC Status: Digital Euro (in progress)                               │
+    │   └── Unique: Serves 20 eurozone countries                                  │
     │                                                                             │
-    │   Bank of England (UK)                                                     │
-    │   ├── Currency: GBP                                                        │
-    │   ├── Policy Rate: 5.25%                                                   │
-    │   ├── RTGS System: CHAPS                                                   │
-    │   ├── CBDC Status: Digital Pound (in progress)                             │
-    │   └── Unique: Oldest central bank (1694)                                   │
+    │   Bank of England (UK)                                                      │
+    │   ├── Currency: GBP                                                         │
+    │   ├── Policy Rate: 5.25%                                                    │
+    │   ├── RTGS System: CHAPS                                                    │
+    │   ├── CBDC Status: Digital Pound (in progress)                              │
+    │   └── Unique: Oldest central bank (1694)                                    │
     │                                                                             │
-    │   Bank of Japan (Japan)                                                    │
-    │   ├── Currency: JPY                                                        │
-    │   ├── Policy Rate: -0.10%                                                  │
-    │   ├── RTGS System: BOJ-NET                                                 │
-    │   ├── CBDC Status: Digital Yen (in progress)                               │
-    │   └── Unique: Negative interest rate policy                                │
+    │   Bank of Japan (Japan)                                                     │
+    │   ├── Currency: JPY                                                         │
+    │   ├── Policy Rate: -0.10%                                                   │
+    │   ├── RTGS System: BOJ-NET                                                  │
+    │   ├── CBDC Status: Digital Yen (in progress)                                │
+    │   └── Unique: Negative interest rate policy                                 │
     │                                                                             │
-    │   People's Bank of China (PRC)                                             │
-    │   ├── Currency: CNY                                                        │
-    │   ├── Policy Rate: 3.45%                                                   │
-    │   ├── RTGS System: CNAPS                                                   │
-    │   ├── CBDC Status: e-CNY (live pilot, 260M users)                          │
-    │   └── Unique: Most advanced CBDC deployment                                │
+    │   People's Bank of China (PRC)                                              │
+    │   ├── Currency: CNY                                                         │
+    │   ├── Policy Rate: 3.45%                                                    │
+    │   ├── RTGS System: CNAPS                                                    │
+    │   ├── CBDC Status: e-CNY (live pilot, 260M users)                           │
+    │   └── Unique: Most advanced CBDC deployment                                 │
     │                                                                             │
-    │   Swiss National Bank (Switzerland)                                        │
-    │   ├── Currency: CHF                                                        │
-    │   ├── Policy Rate: 1.75%                                                   │
-    │   ├── RTGS System: SIC5                                                    │
-    │   ├── CBDC Status: Project Helvetia (wholesale pilot)                      │
-    │   └── Unique: First major wholesale CBDC pilot                             │
+    │   Swiss National Bank (Switzerland)                                         │
+    │   ├── Currency: CHF                                                         │
+    │   ├── Policy Rate: 1.75%                                                    │
+    │   ├── RTGS System: SIC5                                                     │
+    │   ├── CBDC Status: Project Helvetia (wholesale pilot)                       │
+    │   └── Unique: First major wholesale CBDC pilot                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
