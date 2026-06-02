@@ -276,11 +276,11 @@ RTGS SYSTEM ARCHITECTURE
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  KEY FEATURES:                                                      │   │
-    │   │  ├── Each payment settled individually (not netted)                │   │
-    │   │  ├── Final and irrevocable settlement                              │   │
-    │   │  ├── Central bank money (risk-free settlement asset)               │   │
-    │   │  ├── Intraday liquidity provided by central bank                   │   │
-    │   │  └── Handles large-value, time-critical payments                   │   │
+    │   │  ├── Each payment settled individually (not netted)                 │   │
+    │   │  ├── Final and irrevocable settlement                               │   │
+    │   │  ├── Central bank money (risk-free settlement asset)                │   │
+    │   │  ├── Intraday liquidity provided by central bank                    │   │
+    │   │  └── Handles large-value, time-critical payments                    │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
