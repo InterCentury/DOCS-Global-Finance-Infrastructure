@@ -347,48 +347,48 @@ MONETARY POLICY TOOLKIT
     │   │                                                                     │   │
     │   │   Effect: Primary tool for price stability                          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                      │                                     │
-    │                                      ▼                                     │
+    │                                      │                                      │
+    │                                      ▼                                      │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                    OPEN MARKET OPERATIONS (OMO)                     │   │
     │   │                                                                     │   │
-    │   │   ┌──────────────┐          ┌──────────────┐                       │   │
-    │   │   │ Central Bank │─────────►│  Commercial  │                       │   │
-    │   │   │              │◄─────────│    Banks     │                       │   │
-    │   │   └──────────────┘          └──────────────┘                       │   │
-    │   │        │                           │                               │   │
-    │   │        ▼                           ▼                               │   │
-    │   │   Buy/Sell Securities        Reserves Increase/Decrease            │   │
+    │   │   ┌──────────────┐          ┌──────────────┐                        │   │
+    │   │   │ Central Bank │─────────►│  Commercial  │                        │   │
+    │   │   │              │◄─────────│    Banks     │                        │   │
+    │   │   └──────────────┘          └──────────────┘                        │   │
+    │   │        │                           │                                │   │
+    │   │        ▼                           ▼                                │   │
+    │   │   Buy/Sell Securities        Reserves Increase/Decrease             │   │
     │   │                                                                     │   │
-    │   │   Effect: Daily reserve management                                 │   │
+    │   │   Effect: Daily reserve management                                  │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                      │                                     │
-    │                                      ▼                                     │
+    │                                      │                                      │
+    │                                      ▼                                      │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                    STANDING FACILITIES                              │   │
     │   │                                                                     │   │
-    │   │   Deposit Facility (Floor)     Lending Facility (Ceiling)          │   │
-    │   │   Rate = Policy - Spread       Rate = Policy + Spread              │   │
+    │   │   Deposit Facility (Floor)     Lending Facility (Ceiling)           │   │
+    │   │   Rate = Policy - Spread       Rate = Policy + Spread               │   │
     │   │                                                                     │   │
-    │   │   Effect: Creates interest rate corridor                           │   │
+    │   │   Effect: Creates interest rate corridor                            │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                      │                                     │
-    │                                      ▼                                     │
+    │                                      │                                      │
+    │                                      ▼                                      │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                  QUANTITATIVE EASING (QE)                           │   │
     │   │                                                                     │   │
-    │   │   Central Bank ──► Buys Bonds ──► Injects Liquidity                │   │
+    │   │   Central Bank ──► Buys Bonds ──► Injects Liquidity                 │   │
     │   │                                                                     │   │
-    │   │   Effect: Lowers long-term rates during crises                     │   │
+    │   │   Effect: Lowers long-term rates during crises                      │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                      │                                     │
-    │                                      ▼                                     │
+    │                                      │                                      │
+    │                                      ▼                                      │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                       FORWARD GUIDANCE                              │   │
     │   │                                                                     │   │
-    │   │   "Policy rate will remain at current level until conditions met"  │   │
+    │   │   "Policy rate will remain at current level until conditions met"   │   │
     │   │                                                                     │   │
-    │   │   Effect: Shapes market expectations                               │   │
+    │   │   Effect: Shapes market expectations                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
