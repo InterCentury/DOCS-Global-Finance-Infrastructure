@@ -490,39 +490,39 @@ LENDER OF LAST RESORT FRAMEWORK
 
     DISCOUNT WINDOW OPERATION FLOW
 
-    ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   ┌─────────────┐                                                           │
-    │   │  Bank has   │                                                           │
-    │   │  Liquidity  │                                                           │
-    │   │  Shortfall  │                                                           │
-    │   └──────┬──────┘                                                           │
-    │          │                                                                  │
-    │          ▼                                                                  │
-    │   ┌─────────────┐     NO     ┌─────────────┐                                │
-    │   │  Solvent?   │───────────►│  Denied     │                                │
-    │   └──────┬──────┘            └─────────────┘                                │
-    │          │ YES                                                              │
-    │          ▼                                                                  │
-    │   ┌─────────────┐     NO     ┌─────────────┐                                │
-    │   │  Eligible   │───────────►│ Secondary   │                                │
-    │   │  Collateral?│            │  Credit     │                                │
-    │   └──────┬──────┘            └─────────────┘                                │
-    │          │ YES                                                              │
-    │          ▼                                                                  │
-    │   ┌─────────────┐                                                           │
-    │   │  Primary    │                                                           │
-    │   │  Credit     │                                                           │
-    │   │  Approved   │                                                           │
-    │   └──────┬──────┘                                                           │
-    │          │                                                                  │
-    │          ▼                                                                  │
-    │   ┌─────────────┐                                                           │
-    │   │  Liquidity  │                                                           │
-    │   │  Provided   │                                                           │
-    │   └─────────────┘                                                           │
-    │                                                                             │
-    └─────────────────────────────────────────────────────────────────────────────┘
+    ┌────────────────────────────────────────────────┐
+    │                                                │
+    │   ┌─────────────┐                              │
+    │   │  Bank has   │                              │
+    │   │  Liquidity  │                              │
+    │   │  Shortfall  │                              │
+    │   └──────┬──────┘                              │
+    │          │                                     │
+    │          ▼                                     │
+    │   ┌─────────────┐     NO     ┌─────────────┐   │
+    │   │  Solvent?   │───────────►│  Denied     │   │
+    │   └──────┬──────┘            └─────────────┘   │
+    │          │ YES                                 │
+    │          ▼                                     │
+    │   ┌─────────────┐     NO     ┌─────────────┐   │
+    │   │  Eligible   │───────────►│ Secondary   │   │
+    │   │  Collateral?│            │  Credit     │   │
+    │   └──────┬──────┘            └─────────────┘   │
+    │          │ YES                                 │
+    │          ▼                                     │
+    │   ┌─────────────┐                              │
+    │   │  Primary    │                              │
+    │   │  Credit     │                              │
+    │   │  Approved   │                              │
+    │   └──────┬──────┘                              │
+    │          │                                     │
+    │          ▼                                     │
+    │   ┌─────────────┐                              │
+    │   │  Liquidity  │                              │
+    │   │  Provided   │                              │
+    │   └─────────────┘                              │
+    │                                                │
+    └────────────────────────────────────────────────┘
 ```
 
 ## Reserve Management and Balance Sheet
@@ -614,34 +614,34 @@ CENTRAL BANK BALANCE SHEET
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA:                                                                 │
+    │   FORMULA:                                                                  │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Money Multiplier = 1 / Reserve Requirement Ratio                 │   │
+    │   │   Money Multiplier = 1 / Reserve Requirement Ratio                  │   │
     │   │                                                                     │   │
-    │   │   Total Money Creation = Initial Deposit × Money Multiplier        │   │
+    │   │   Total Money Creation = Initial Deposit × Money Multiplier         │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   EXAMPLE (Reserve Ratio = 10%):                                           │
+    │   EXAMPLE (Reserve Ratio = 10%):                                            │
     │                                                                             │
-    │   Initial Deposit: $1,000                                                 │
+    │   Initial Deposit: $1,000                                                   │
     │                                                                             │
-    │   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐ │
-    │   │   Bank A    │───►│   Bank B    │───►│   Bank C    │───►│     ...     │ │
-    │   │             │    │             │    │             │    │             │ │
-    │   │ Deposit:    │    │ Deposit:    │    │ Deposit:    │    │             │ │
-    │   │ $1,000      │    │ $900        │    │ $810        │    │             │ │
-    │   │ Reserve:    │    │ Reserve:    │    │ Reserve:    │    │             │ │
-    │   │ $100        │    │ $90         │    │ $81         │    │             │ │
-    │   │ Loan: $900  │    │ Loan: $810  │    │ Loan: $729  │    │             │ │
-    │   └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘ │
+    │   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐  │
+    │   │   Bank A    │───►│   Bank B    │───►│   Bank C    │───►│     ...     │  │
+    │   │             │    │             │    │             │    │             │  │
+    │   │ Deposit:    │    │ Deposit:    │    │ Deposit:    │    │             │  │
+    │   │ $1,000      │    │ $900        │    │ $810        │    │             │  │
+    │   │ Reserve:    │    │ Reserve:    │    │ Reserve:    │    │             │  │
+    │   │ $100        │    │ $90         │    │ $81         │    │             │  │
+    │   │ Loan: $900  │    │ Loan: $810  │    │ Loan: $729  │    │             │  │
+    │   └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘  │
     │                                                                             │
-    │   Total Money Created = $1,000 × 10 = $10,000                              │
+    │   Total Money Created = $1,000 × 10 = $10,000                               │
     │                                                                             │
-    │   NOTE: Many central banks (Canada, UK, Australia) have zero reserve       │
-    │         requirements and use interest on reserves as primary tool.        │
+    │   NOTE: Many central banks (Canada, UK, Australia) have zero reserve        │
+    │         requirements and use interest on reserves as primary tool.          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
