@@ -752,33 +752,33 @@ CBDC ARCHITECTURE COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STATUS               │ COUNTRIES / PROJECTS                              │
-    │   ─────────────────────│───────────────────────────────────────────────────│
-    │   LIVE (Full launch)   │ Bahamas (Sand Dollar)                             │
-    │                        │ Nigeria (eNaira)                                  │
-    │                        │ Jamaica (JAM-DEX)                                 │
-    │                        │ Eastern Caribbean (DCash)                         │
-    │   ─────────────────────│───────────────────────────────────────────────────│
-    │   PILOT (Large scale)  │ China (e-CNY - 260M users)                        │
-    │                        │ India (e-Rupee)                                   │
-    │                        │ Brazil (Drex)                                     │
-    │                        │ Russia (Digital Ruble)                            │
-    │   ─────────────────────│───────────────────────────────────────────────────│
-    │   PILOT (Wholesale)    │ Switzerland (Project Helvetia)                    │
-    │                        │ Singapore (Project Ubin)                          │
-    │                        │ France (wCBDC experiments)                        │
-    │   ─────────────────────│───────────────────────────────────────────────────│
-    │   IN PROGRESS          │ Eurozone (Digital Euro)                           │
-    │                        │ UK (Digital Pound)                                │
-    │                        │ USA (Project Cedar)                               │
-    │                        │ Japan, South Korea                                │
-    │   ─────────────────────│───────────────────────────────────────────────────│
-    │   RESEARCH             │ Canada, Australia, Sweden (e-krona)               │
-    │                        │ Israel, Norway                                    │
-    │   ─────────────────────│───────────────────────────────────────────────────│
-    │   NO PLANS / PAUSED    │ Germany (prefers digital euro)                    │
-    │                        │ Ecuador (ended), Finland (no need)                │
-    │                        │ Senegal (ended)                                   │
+    │   STATUS               │ COUNTRIES / PROJECTS                               │
+    │   ─────────────────────│─────────────────────────────────────────────────── │
+    │   LIVE (Full launch)   │ Bahamas (Sand Dollar)                              │
+    │                        │ Nigeria (eNaira)                                   │
+    │                        │ Jamaica (JAM-DEX)                                  │
+    │                        │ Eastern Caribbean (DCash)                          │
+    │   ─────────────────────│─────────────────────────────────────────────────── │
+    │   PILOT (Large scale)  │ China (e-CNY - 260M users)                         │
+    │                        │ India (e-Rupee)                                    │
+    │                        │ Brazil (Drex)                                      │
+    │                        │ Russia (Digital Ruble)                             │
+    │   ─────────────────────│─────────────────────────────────────────────────── │
+    │   PILOT (Wholesale)    │ Switzerland (Project Helvetia)                     │
+    │                        │ Singapore (Project Ubin)                           │
+    │                        │ France (wCBDC experiments)                         │
+    │   ─────────────────────│─────────────────────────────────────────────────── │
+    │   IN PROGRESS          │ Eurozone (Digital Euro)                            │
+    │                        │ UK (Digital Pound)                                 │
+    │                        │ USA (Project Cedar)                                │
+    │                        │ Japan, South Korea                                 │
+    │   ─────────────────────│─────────────────────────────────────────────────── │
+    │   RESEARCH             │ Canada, Australia, Sweden (e-krona)                │
+    │                        │ Israel, Norway                                     │
+    │   ─────────────────────│─────────────────────────────────────────────────── │
+    │   NO PLANS / PAUSED    │ Germany (prefers digital euro)                     │
+    │                        │ Ecuador (ended), Finland (no need)                 │
+    │                        │ Senegal (ended)                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
