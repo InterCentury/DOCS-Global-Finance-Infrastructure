@@ -794,25 +794,25 @@ CURRENCY SWAP LINES
     │                                                                             │
     │   BILATERAL CURRENCY SWAP ARRANGEMENT                                       │
     │                                                                             │
-    │   ┌─────────────────────┐                       ┌─────────────────────┐    │
-    │   │    CENTRAL BANK A   │                       │    CENTRAL BANK B   │    │
-    │   │        (USD)        │                       │        (EUR)        │    │
-    │   │                     │                       │                     │    │
-    │   │  ┌───────────────┐  │    Swap Agreement     │  ┌───────────────┐  │    │
-    │   │  │ Sends USD     │──┼───────────────────────┼─►│ Receives USD  │  │    │
-    │   │  │               │  │                       │  │               │  │    │
-    │   │  │ Receives EUR  │◄─┼───────────────────────┼──│ Sends EUR     │  │    │
-    │   │  └───────────────┘  │                       │  └───────────────┘  │    │
-    │   │                     │                       │                     │    │
-    │   └─────────────────────┘                       └─────────────────────┘    │
+    │   ┌─────────────────────┐                       ┌─────────────────────┐     │
+    │   │    CENTRAL BANK A   │                       │    CENTRAL BANK B   │     │
+    │   │        (USD)        │                       │        (EUR)        │     │
+    │   │                     │                       │                     │     │
+    │   │  ┌───────────────┐  │    Swap Agreement     │  ┌───────────────┐  │     │
+    │   │  │ Sends USD     │──┼───────────────────────┼─►│ Receives USD  │  │     │
+    │   │  │               │  │                       │  │               │  │     │
+    │   │  │ Receives EUR  │◄─┼───────────────────────┼──│ Sends EUR     │  │     │
+    │   │  └───────────────┘  │                       │  └───────────────┘  │     │
+    │   │                     │                       │                     │     │
+    │   └─────────────────────┘                       └─────────────────────┘     │
     │                                                                             │
-    │   Federal Reserve Standing Swap Lines:                                     │
-    │   ├── Bank of Canada (CAD)                                                 │
-    │   ├── Bank of England (GBP)                                                │
-    │   ├── European Central Bank (EUR)                                          │
-    │   ├── Bank of Japan (JPY)                                                  │
-    │   ├── Swiss National Bank (CHF)                                            │
-    │   └── Others (Mexico, Brazil, Korea, Singapore - temporary)               │
+    │   Federal Reserve Standing Swap Lines:                                      │
+    │   ├── Bank of Canada (CAD)                                                  │
+    │   ├── Bank of England (GBP)                                                 │
+    │   ├── European Central Bank (EUR)                                           │
+    │   ├── Bank of Japan (JPY)                                                   │
+    │   ├── Swiss National Bank (CHF)                                             │
+    │   └── Others (Mexico, Brazil, Korea, Singapore - temporary)                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
