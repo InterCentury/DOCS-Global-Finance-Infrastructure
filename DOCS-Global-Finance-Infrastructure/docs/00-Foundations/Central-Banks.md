@@ -1013,24 +1013,23 @@ FORWARD GUIDANCE TYPES
 
     COMMUNICATION CHANNELS
 
-    ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   CHANNEL                          FREQUENCY              AUDIENCE         │
-    │   ───────────────────────────────────────────────────────────────────────── │
-    │   Monetary Policy Statement        6-8 times per year    Public, markets  │
-    │   ───────────────────────────────────────────────────────────────────────── │
-    │   Press Conference                 After each meeting    Media, public    │
-    │   ───────────────────────────────────────────────────────────────────────── │
-    │   Meeting Minutes                  3 weeks after         Markets, analysts│
-    │   ───────────────────────────────────────────────────────────────────────── │
-    │   Quarterly Report                 4 times per year      Public           │
-    │   ───────────────────────────────────────────────────────────────────────── │
-    │   Speeches by officials            Ongoing (monthly)     Markets, experts │
-    │   ───────────────────────────────────────────────────────────────────────── │
-    │   Economic Projections             4 times per year      Markets          │
-    │   (dot plots)                                                            │
-    │                                                                             │
-    └─────────────────────────────────────────────────────────────────────────────┘
+    ┌──────────────────────────────────────────────────────────────────────────────┐
+    │                                                                              │
+    │   CHANNEL                     │    FREQUENCY            │ AUDIENCE           │
+    │   ────────────────────────────│─────────────────────────│─────────────────── │
+    │   Monetary Policy Statement   │    6-8 times per year   │ Public, markets    │
+    │   ────────────────────────────│─────────────────────────│─────────────────── │
+    │   Press Conference            │    After each meeting   │ Media, public      │
+    │   ────────────────────────────│─────────────────────────│─────────────────── │
+    │   Meeting Minutes             │    3 weeks after        │ Markets, analysts  │
+    │   ────────────────────────────│─────────────────────────│─────────────────── │
+    │   Quarterly Report            │    4 times per year     │ Public             │
+    │   ────────────────────────────│─────────────────────────│─────────────────── │
+    │   Speeches by officials       │    Ongoing (monthly)    │ Markets, experts   │
+    │   ────────────────────────────│─────────────────────────│─────────────────── │
+    │   Economic Projections        │    4 times per year     │ Markets            │
+    │   (dot plots)                                                                │
+    └──────────────────────────────────────────────────────────────────────────────┘
 
 
     DOT PLOT EXAMPLE (Federal Reserve)
