@@ -154,27 +154,27 @@ GOOD VS BAD DEFLATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Characteristic      │ Good Deflation      │ Bad Deflation                │
+    │   Characteristic       │ Good Deflation      │ Bad Deflation                │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Primary cause       │ Supply-side         │ Demand-side                  │
-    │                        │ (technology,       │ (recession, crisis)          │
-    │                        │ productivity)      │                              │
+    │   Primary cause        │ Supply-side         │ Demand-side                  │
+    │                        │ (technology,        │ (recession, crisis)          │
+    │                        │ productivity)       │                              │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Output growth       │ Positive or stable │ Negative (recession)         │
+    │   Output growth        │ Positive or stable  │ Negative (recession)         │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Employment          │ Stable or rising   │ Falling (unemployment)       │
+    │   Employment           │ Stable or rising    │ Falling (unemployment)       │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Real wages          │ Rising             │ Stagnant or falling          │
+    │   Real wages           │ Rising              │ Stagnant or falling          │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Business profits    │ Can be maintained  │ Falling sharply              │
+    │   Business profits     │ Can be maintained   │ Falling sharply              │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Debt burden         │ Neutral or         │ Rising (real debt            │
-    │                        │ manageable         │ increases)                   │
+    │   Debt burden          │ Neutral or          │ Rising (real debt            │
+    │                        │ manageable          │ increases)                   │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Feedback loop       │ None or positive   │ Destructive downward spiral  │
+    │   Feedback loop        │ None or positive    │ Destructive downward spiral  │
     │   ─────────────────────│─────────────────────│──────────────────────────────│
-    │   Historical example  │ 1870-1890          │ Great Depression 1929-1933   │
-    │                        │ (Industrial)       │ Japan 1990-2010s             │
+    │   Historical example   │ 1870-1890           │ Great Depression 1929-1933   │
+    │                        │ (Industrial)        │ Japan 1990-2010s             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
