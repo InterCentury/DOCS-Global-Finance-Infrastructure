@@ -190,44 +190,44 @@ DEBT-DEFLATION SPIRAL (Fisher's Nine Steps)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: OVER-INDEBTEDNESS                                                │
-    │   └── Excessive borrowing during boom, high debt levels                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: DISTRESS SELLING                                                │
-    │   └── Debtors forced to sell assets to meet obligations                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: ASSET PRICE DECLINE                                             │
-    │   └── Distress selling drives down asset prices                           │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: REAL DEBT INCREASES                                             │
-    │   └── Falling prices increase real value of nominal debt                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: BANKRUPTCIES AND DEFAULTS                                       │
-    │   └── Higher real debt causes business failures                           │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 6: BANK FAILURES                                                   │
-    │   └── Defaults cause bank losses and failures                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 7: MONEY SUPPLY CONTRACTION                                        │
-    │   └── Bank failures destroy deposits and reduce money supply              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 8: ECONOMIC CONTRACTION                                            │
-    │   └── Money supply falls, spending collapses                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 9: FURTHER DEFLATION                                               │
-    │   └── Reduced spending drives prices down further                         │
-    │        │                                                                   │
-    │        └────────────────────────────────────────────────────────┐         │
-    │                                                                  │         │
-    │        ◄──────────────────────FEEDS BACK TO STEP 2──────────────┘         │
+    │   STEP 1: OVER-INDEBTEDNESS                                                 │
+    │   └── Excessive borrowing during boom, high debt levels                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: DISTRESS SELLING                                                  │
+    │   └── Debtors forced to sell assets to meet obligations                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: ASSET PRICE DECLINE                                               │
+    │   └── Distress selling drives down asset prices                             │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: REAL DEBT INCREASES                                               │
+    │   └── Falling prices increase real value of nominal debt                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: BANKRUPTCIES AND DEFAULTS                                         │
+    │   └── Higher real debt causes business failures                             │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 6: BANK FAILURES                                                     │
+    │   └── Defaults cause bank losses and failures                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 7: MONEY SUPPLY CONTRACTION                                          │
+    │   └── Bank failures destroy deposits and reduce money supply                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 8: ECONOMIC CONTRACTION                                              │
+    │   └── Money supply falls, spending collapses                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 9: FURTHER DEFLATION                                                 │
+    │   └── Reduced spending drives prices down further                           │
+    │        │                                                                    │
+    │        └────────────────────────────────────────────────────────┐           │
+    │                                                                 │           │
+    │        ◄──────────────────────FEEDS BACK TO STEP 2──────────────┘           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
