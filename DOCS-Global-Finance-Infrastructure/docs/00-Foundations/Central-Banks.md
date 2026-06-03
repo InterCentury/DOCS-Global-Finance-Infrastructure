@@ -864,53 +864,53 @@ CPMI AND PFMI FRAMEWORK
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CPMI (Committee on Payments and Market Infrastructures)                  │
+    │   CPMI (Committee on Payments and Market Infrastructures)                   │
     │   │                                                                         │
-    │   ├── Hosted by Bank for International Settlements (BIS)                   │
-    │   ├── 28 member central banks                                              │
-    │   ├── Sets standards for payment and settlement systems                    │
-    │   └── Publishes PFMI (Principles for Financial Market Infrastructures)    │
+    │   ├── Hosted by Bank for International Settlements (BIS)                    │
+    │   ├── 28 member central banks                                               │
+    │   ├── Sets standards for payment and settlement systems                     │
+    │   └── Publishes PFMI (Principles for Financial Market Infrastructures)      │
     │                                                                             │
     │                                                                             │
-    │   PFMI - 24 PRINCIPLES FOR FMIs                                            │
+    │   PFMI - 24 PRINCIPLES FOR FMIs                                             │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  PRINCIPLE                     CATEGORY                             │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  1. Legal basis                General organization                │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  1. Legal basis                General organization                 │   │
     │   │  2. Governance                  (Principles 1-3)                    │   │
-    │   │  3. Risk management                                               │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  4. Credit risk                 Credit & liquidity risk            │   │
-    │   │  5. Collateral                   (Principles 4-7)                  │   │
-    │   │  6. Margin                                                        │   │
-    │   │  7. Liquidity risk                                                │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  8. Settlement finality         Settlement (Principles 8-10)      │   │
-    │   │  9. Money settlements                                             │   │
-    │   │  10. Physical deliveries                                           │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  11. CSDs (central securities    Central securities depositories  │   │
-    │   │       depositories)               (Principles 11-12)              │   │
-    │   │  12. Exchange-of-value                                             │   │
-    │   │       settlement systems                                           │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  13. Participant-default rules   Default management &             │   │
-    │   │  14. Segregation & transfer        operational risk              │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  15. General business risk       Business & operational           │   │
-    │   │  16. Custody & investment risks   (Principles 15-17)              │   │
-    │   │  17. Operational risk                                              │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  18. Access & participation      Access & efficiency              │   │
-    │   │  19. Tiered participation         (Principles 18-20)              │   │
-    │   │  20. Efficiency & transparency                                     │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  21. Communication & reporting   Transparency (Principles 21-22)  │   │
-    │   │  22. Disclosure                                                   │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
-    │   │  23. Resilience                  Resilience & recovery            │   │
-    │   │  24. Recovery & wind-down         (Principles 23-24)              │   │
+    │   │  3. Risk management                                                 │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  4. Credit risk                 Credit & liquidity risk             │   │
+    │   │  5. Collateral                   (Principles 4-7)                   │   │
+    │   │  6. Margin                                                          │   │
+    │   │  7. Liquidity risk                                                  │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  8. Settlement finality         Settlement (Principles 8-10)        │   │
+    │   │  9. Money settlements                                               │   │
+    │   │  10. Physical deliveries                                            │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  11. CSDs (central securities    Central securities depositories    │   │
+    │   │       depositories)               (Principles 11-12)                │   │
+    │   │  12. Exchange-of-value                                              │   │
+    │   │       settlement systems                                            │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  13. Participant-default rules   Default management &               │   │
+    │   │  14. Segregation & transfer        operational risk                 │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  15. General business risk       Business & operational             │   │
+    │   │  16. Custody & investment risks   (Principles 15-17)                │   │
+    │   │  17. Operational risk                                               │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  18. Access & participation      Access & efficiency                │   │
+    │   │  19. Tiered participation         (Principles 18-20)                │   │
+    │   │  20. Efficiency & transparency                                      │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  21. Communication & reporting   Transparency (Principles 21-22)    │   │
+    │   │  22. Disclosure                                                     │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
+    │   │  23. Resilience                  Resilience & recovery              │   │
+    │   │  24. Recovery & wind-down         (Principles 23-24)                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
@@ -925,22 +925,22 @@ CENTRAL BANK RESILIENCE ARCHITECTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   RESILIENCE LAYERS                                                        │
+    │   RESILIENCE LAYERS                                                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LAYER 5: RECOVERY                                                  │   │
-    │   │  ├── Offline air-gapped backups                                    │   │
-    │   │  ├── Manual override capabilities                                  │   │
-    │   │  └── Paper-based fallback procedures                               │   │
+    │   │  ├── Offline air-gapped backups                                     │   │
+    │   │  ├── Manual override capabilities                                   │   │
+    │   │  └── Paper-based fallback procedures                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                    ▲                                       │
+    │                                    ▲                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LAYER 4: MONITORING                                                │   │
-    │   │  ├── SIEM with real-time alerting                                  │   │
-    │   │  ├── 24/7 security operations center (SOC)                         │   │
-    │   │  └── Threat hunting and intelligence                               │   │
+    │   │  ├── SIEM with real-time alerting                                   │   │
+    │   │  ├── 24/7 security operations center (SOC)                          │   │
+    │   │  └── Threat hunting and intelligence                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                    ▲                                       │
+    │                                    ▲                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LAYER 3: DATA PROTECTION                                           │   │
     │   │  ├── AES-256 encryption at rest                                    │   │
