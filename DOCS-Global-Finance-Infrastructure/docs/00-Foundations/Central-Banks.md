@@ -943,31 +943,31 @@ CENTRAL BANK RESILIENCE ARCHITECTURE
     │                                    ▲                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LAYER 3: DATA PROTECTION                                           │   │
-    │   │  ├── AES-256 encryption at rest                                    │   │
-    │   │  ├── TLS encryption in transit                                     │   │
-    │   │  └── Hardware security modules (HSMs)                              │   │
+    │   │  ├── AES-256 encryption at rest                                     │   │
+    │   │  ├── TLS encryption in transit                                      │   │
+    │   │  └── Hardware security modules (HSMs)                               │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                    ▲                                       │
+    │                                    ▲                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LAYER 2: NETWORK & APPLICATION SECURITY                            │   │
-    │   │  ├── Air-gapped backup systems                                     │   │
-    │   │  ├── DDoS protection (multi-terabit capacity)                      │   │
-    │   │  ├── Regular penetration testing                                   │   │
-    │   │  └── Secure software development lifecycle                         │   │
+    │   │  ├── Air-gapped backup systems                                      │   │
+    │   │  ├── DDoS protection (multi-terabit capacity)                       │   │
+    │   │  ├── Regular penetration testing                                    │   │
+    │   │  └── Secure software development lifecycle                          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                    ▲                                       │
+    │                                    ▲                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LAYER 1: IDENTITY MANAGEMENT                                       │   │
-    │   │  └── Multi-factor authentication for all privileged access         │   │
+    │   │  └── Multi-factor authentication for all privileged access          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   RECOVERY OBJECTIVES:                                                     │
+    │   RECOVERY OBJECTIVES:                                                      │
     │                                                                             │
-    │   RTO (Recovery Time Objective):     < 2 hours for critical systems       │
-    │   RPO (Recovery Point Objective):    < 5 minutes data loss                │
-    │   Geographic redundancy:             Minimum 2 data centers > 50 km apart │
-    │   Annual testing:                    Full failover drills (2x per year)   │
+    │   RTO (Recovery Time Objective):     < 2 hours for critical systems         │
+    │   RPO (Recovery Point Objective):    < 5 minutes data loss                  │
+    │   Geographic redundancy:             Minimum 2 data centers > 50 km apart   │
+    │   Annual testing:                    Full failover drills (2x per year)     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
