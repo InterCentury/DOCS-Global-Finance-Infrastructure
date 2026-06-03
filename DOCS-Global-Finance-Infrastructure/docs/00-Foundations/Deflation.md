@@ -119,30 +119,30 @@ BAD DEFLATION MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DEMAND COLLAPSE                                                          │
-    │   (Recession, crisis, policy failure)                                      │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   BUSINESSES CUT PRICES TO ATTRACT CUSTOMERS                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   REVENUES FALL                                                           │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   PROFITS DECLINE                                        WAGES STAGNATE   │
-    │        │                                                     │            │
-    │        ▼                                                     ▼            │
-    │   LAYOFFS AND                                             WORKERS HAVE     │
-    │   UNEMPLOYMENT                                            LESS INCOME     │
-    │        │                                                     │            │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    FURTHER DEMAND REDUCTION                               │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    DEFLATIONARY SPIRAL                                    │
+    │   DEMAND COLLAPSE                                                           │
+    │   (Recession, crisis, policy failure)                                       │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   BUSINESSES CUT PRICES TO ATTRACT CUSTOMERS                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   REVENUES FALL                                                             │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   PROFITS DECLINE                                        WAGES STAGNATE     │
+    │        │                                                     │              │
+    │        ▼                                                     ▼              │
+    │   LAYOFFS AND                                             WORKERS HAVE      │
+    │   UNEMPLOYMENT                                            LESS INCOME       │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    FURTHER DEMAND REDUCTION                                 │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    DEFLATIONARY SPIRAL                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
