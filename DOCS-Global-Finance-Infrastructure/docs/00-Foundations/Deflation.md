@@ -82,23 +82,23 @@ GOOD DEFLATION MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TECHNOLOGY OR PRODUCTIVITY IMPROVEMENT                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   LOWER PRODUCTION COSTS                                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   INCREASED AGGREGATE SUPPLY                                               │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   LOWER PRICES                                           HIGHER OUTPUT    │
-    │   (DEFLATION)                                           (GROWTH)          │
+    │   TECHNOLOGY OR PRODUCTIVITY IMPROVEMENT                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   LOWER PRODUCTION COSTS                                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   INCREASED AGGREGATE SUPPLY                                                │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   LOWER PRICES                                           HIGHER OUTPUT      │
+    │   (DEFLATION)                                           (GROWTH)            │
     │                                                                             │
-    │   Historical examples:                                                     │
-    │   ├── Late 19th century industrial revolution (1870-1890)                 │
-    │   ├── Electronics and computing industry (falling prices per unit)        │
-    │   └── Globalized manufacturing (China's export prices 2000-2015)          │
+    │   Historical examples:                                                      │
+    │   ├── Late 19th century industrial revolution (1870-1890)                   │
+    │   ├── Electronics and computing industry (falling prices per unit)          │
+    │   └── Globalized manufacturing (China's export prices 2000-2015)            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
