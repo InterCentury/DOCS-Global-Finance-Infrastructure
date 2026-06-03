@@ -257,25 +257,25 @@ LIQUIDITY TRAP DIAGRAM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Interest Rate                                                           │
-    │        ▲                                                                   │
-    │      4%┼                                                              ●    │
-    │        │                                                           ●       │
-    │      3%┼                                                        ●          │
-    │        │                                                     ●             │
-    │      2%┼                                                  ●                │
-    │        │                                               ●                   │
-    │      1%┼                                            ●                      │
-    │        │                                         ●                         │
-    │      0%┼──────────────────────────────────────●───────────────────────    │
-    │        │                                   ●                               │
-    │     -1%┼                                ●  (Unreachable below zero)        │
-    │        │                                                                   │
-    │        └────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────► Money    │
-    │             1    2    3    4    5    6    7    8    9    10    Supply     │
+    │   Interest Rate                                                             │
+    │        ▲                                                                    │
+    │      4%┼                                                              ●     │
+    │        │                                                           ●        │
+    │      3%┼                                                        ●           │
+    │        │                                                     ●              │
+    │      2%┼                                                  ●                 │
+    │        │                                               ●                    │
+    │      1%┼                                            ●                       │
+    │        │                                         ●                          │
+    │      0%┼──────────────────────────────────────●───────────────────────      │
+    │        │                                   ●                                │
+    │     -1%┼                                ●  (Unreachable below zero)         │
+    │        │                                                                    │
+    │        └────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────► Money       │
+    │             1    2    3    4    5    6    7    8    9    10    Supply       │
     │                                                                             │
-    │   At the zero lower bound, increasing money supply has no effect          │
-    │   on interest rates. The demand for money becomes perfectly elastic.      │
+    │   At the zero lower bound, increasing money supply has no effect            │
+    │   on interest rates. The demand for money becomes perfectly elastic.        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
