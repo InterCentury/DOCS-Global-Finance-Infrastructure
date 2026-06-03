@@ -821,29 +821,29 @@ CURRENCY SWAP LINES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   mBridge (BIS Innovation Hub)                                             │
+    │   mBridge (BIS Innovation Hub)                                              │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   China ──┐                                                         │   │
     │   │   Hong Kong┼──┐                                                     │   │
-    │   │   Thailand ┼──┼── DLT Platform ──► Cross-border Settlement         │   │
+    │   │   Thailand ┼──┼── DLT Platform ──► Cross-border Settlement          │   │
     │   │   UAE      ┼──┘                                                     │   │
     │   │   Saudi ───┘                                                        │   │
     │   │                                                                     │   │
-    │   │   Wholesale CBDC platform for cross-border payments                │   │
+    │   │   Wholesale CBDC platform for cross-border payments                 │   │
     │   │   Reduces correspondent banking costs                               │   │
     │   │   Minimum viable product launched 2024                              │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   Project Nexus (BIS)                                                      │
+    │   Project Nexus (BIS)                                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   Malaysia ──┐                                                      │   │
     │   │   Philippines┼──┐                                                   │   │
-    │   │   Singapore  ┼──┼── Link FPS Systems ──► Instant Cross-border      │   │
+    │   │   Singapore  ┼──┼── Link FPS Systems ──► Instant Cross-border       │   │
     │   │   Thailand   ┼──┘                        Retail Payments            │   │
     │   │   India ─────┘                                                      │   │
     │   │                                                                     │   │
