@@ -373,30 +373,30 @@ QUANTITATIVE EASING MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK                                                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   CREATES NEW RESERVES (Money creation)                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   BUYS GOVERNMENT BONDS FROM BANKS                                         │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   BANKS HAVE MORE                                       BOND PRICES       │
-    │   RESERVES (Lendable)                                   RISE (Yields fall) │
-    │        │                                                     │            │
-    │        ▼                                                     ▼            │
-    │   INCREASED LENDING                                     LOWER BORROWING   │
-    │   TO BUSINESSES                                         COSTS FOR ALL     │
-    │        │                                                     │            │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    SPENDING AND INVESTMENT INCREASE                       │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    PRICES RISE (Deflation ends)                           │
+    │   CENTRAL BANK                                                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   CREATES NEW RESERVES (Money creation)                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   BUYS GOVERNMENT BONDS FROM BANKS                                          │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   BANKS HAVE MORE                                       BOND PRICES         │
+    │   RESERVES (Lendable)                                   RISE (Yields fall)  │
+    │        │                                                     │              │
+    │        ▼                                                     ▼              │
+    │   INCREASED LENDING                                     LOWER BORROWING     │
+    │   TO BUSINESSES                                         COSTS FOR ALL       │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    SPENDING AND INVESTMENT INCREASE                         │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    PRICES RISE (Deflation ends)                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
