@@ -290,17 +290,17 @@ RTGS SYSTEM ARCHITECTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   WITHOUT LSM                      WITH LSM                                 │
-    │                                                                             │
-    │   Payment A ──┐                    Payment A ──┐                            │
-    │   Payment B ──┼── Queue ──► Settle Payment B ──┼── Queue ──┬── Offset ──┐   │
-    │   Payment C ──┘                    Payment C ──┘           │            │   │
-    │                                                            │            ▼   │
-    │   Requires: 3 units of liquidity                           │    ┌─────────────┐
-    │                                                            │    │   Net       │
-    │                                                            └───►│ Settlement  │
-    │                                                                 │  (1 unit)   │
-    │                                                                 └─────────────┘
+    │   WITHOUT LSM                      │ WITH LSM                               │
+    │                                    │                                        │
+    │   Payment A ──┐                    │ Payment A ──┐                          │
+    │   Payment B ──┼── Queue ──► Settle │ Payment B ──┼── Queue ──┬── Offset ──┐ │
+    │   Payment C ──┘                    │ Payment C ──┘           │            │ │
+    │                                    │                         │            ▼ │
+    │   Requires: 3 units of liquidity   │                         │    ┌─────────────┐
+    │                                    │                         │    │   Net       │
+    │                                    │                         └───►│ Settlement  │
+    │                                    │                              │  (1 unit)   │
+    │                                    │                              └─────────────┘
     │                                                                             │
     │   LSM MECHANISM:                                                            │
     │   ├── Payment queuing and prioritization                                    │
