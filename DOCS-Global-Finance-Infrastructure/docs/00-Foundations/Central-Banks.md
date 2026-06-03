@@ -696,29 +696,29 @@ CBDC ARCHITECTURE COMPARISON
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   HYBRID CBDC                                                              │
+    │   HYBRID CBDC                                                               │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   CENTRAL BANK ──────────────────────────────────────────┐          │   │
-    │   │        │                                                │          │   │
-    │   │        │ Wholesale CBDC                                 │ Oversight│   │
-    │   │        ▼                                                ▼          │   │
-    │   │   ┌─────────────────────────────────────────────────────────────┐  │   │
-    │   │   │                    COMMERCIAL BANKS                         │  │   │
-    │   │   │                                                             │  │   │
-    │   │   │  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐       │  │   │
-    │   │   │  │  Bank   │  │  Bank   │  │  Bank   │  │  Bank   │       │  │   │
-    │   │   │  │    A    │  │    B    │  │    C    │  │    D    │       │  │   │
-    │   │   │  └────┬────┘  └────┬────┘  └────┬────┘  └────┬────┘       │  │   │
-    │   │   │       │            │            │            │             │  │   │
-    │   │   │       ▼            ▼            ▼            ▼             │  │   │
-    │   │   │    Public       Public        Public        Public          │  │   │
-    │   │   └─────────────────────────────────────────────────────────────┘  │   │
+    │   │        │                                                 │          │   │
+    │   │        │ Wholesale CBDC                                  │ Oversight│   │
+    │   │        ▼                                                 ▼          │   │
+    │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
+    │   │   │                    COMMERCIAL BANKS                         │   │   │
+    │   │   │                                                             │   │   │
+    │   │   │  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐         │   │   │
+    │   │   │  │  Bank   │  │  Bank   │  │  Bank   │  │  Bank   │         │   │   │
+    │   │   │  │    A    │  │    B    │  │    C    │  │    D    │         │   │   │
+    │   │   │  └────┬────┘  └────┬────┘  └────┬────┘  └────┬────┘         │   │   │
+    │   │   │       │            │            │            │              │   │   │
+    │   │   │       ▼            ▼            ▼            ▼              │   │   │
+    │   │   │    Public       Public        Public        Public          │   │   │
+    │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │                                                                     │   │
-    │   │   Central bank handles wholesale settlement                        │   │
-    │   │   Private intermediaries handle customer-facing services           │   │
-    │   │   Central bank can see all transactions (privacy concerns)         │   │
+    │   │   Central bank handles wholesale settlement                         │   │
+    │   │   Private intermediaries handle customer-facing services            │   │
+    │   │   Central bank can see all transactions (privacy concerns)          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
