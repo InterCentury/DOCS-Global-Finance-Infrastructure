@@ -981,32 +981,32 @@ FORWARD GUIDANCE TYPES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1. CALENDAR-BASED                                                        │
+    │   1. CALENDAR-BASED                                                         │
     │                                                                             │
-    │      "Policy rate will remain at current level until Q2 2026"             │
+    │      "Policy rate will remain at current level until Q2 2026"               │
     │                                                                             │
-    │      └── Provides certainty about time horizon                            │
-    │                                                                             │
-    │                                                                             │
-    │   2. STATE-BASED (OUTCOME)                                                 │
-    │                                                                             │
-    │      "Rates will not increase until inflation sustainably reaches 2%"     │
-    │                                                                             │
-    │      └── Conditions guidance on observable economic outcomes              │
+    │      └── Provides certainty about time horizon                              │
     │                                                                             │
     │                                                                             │
-    │   3. STATE-BASED (THRESHOLD)                                               │
+    │   2. STATE-BASED (OUTCOME)                                                  │
     │                                                                             │
-    │      "Asset purchases will continue until unemployment falls below 6.5%"  │
+    │      "Rates will not increase until inflation sustainably reaches 2%"       │
     │                                                                             │
-    │      └── Clear numerical threshold, easy to communicate                   │
+    │      └── Conditions guidance on observable economic outcomes                │
     │                                                                             │
     │                                                                             │
-    │   4. OPEN-ENDED                                                            │
+    │   3. STATE-BASED (THRESHOLD)                                                │
     │                                                                             │
-    │      "Policy will remain accommodative for an extended period"            │
+    │      "Asset purchases will continue until unemployment falls below 6.5%"    │
     │                                                                             │
-    │      └── Maximum flexibility, least precise                               │
+    │      └── Clear numerical threshold, easy to communicate                     │
+    │                                                                             │
+    │                                                                             │
+    │   4. OPEN-ENDED                                                             │
+    │                                                                             │
+    │      "Policy will remain accommodative for an extended period"              │
+    │                                                                             │
+    │      └── Maximum flexibility, least precise                                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
