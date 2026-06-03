@@ -655,7 +655,7 @@ CBDC ARCHITECTURE COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DIRECT CBDC (RETAIL)                                                     │
+    │   DIRECT CBDC (RETAIL)                                                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                        CENTRAL BANK                                 │   │
@@ -663,12 +663,12 @@ CBDC ARCHITECTURE COMPARISON
     │   │              ┌──────────────┼──────────────┐                        │   │
     │   │              │              │              │                        │   │
     │   │              ▼              ▼              ▼                        │   │
-    │   │         ┌────────┐    ┌────────┐    ┌────────┐                     │   │
-    │   │         │Public A│    │Public B│    │Public C│                     │   │
-    │   │         └────────┘    └────────┘    └────────┘                     │   │
+    │   │         ┌────────┐    ┌────────┐    ┌────────┐                      │   │
+    │   │         │Public A│    │Public B│    │Public C│                      │   │
+    │   │         └────────┘    └────────┘    └────────┘                      │   │
     │   │                                                                     │   │
-    │   │   Central bank holds all accounts and processes payments directly  │   │
-    │   │   No commercial bank intermediation                                │   │
+    │   │   Central bank holds all accounts and processes payments directly   │   │
+    │   │   No commercial bank intermediation                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
