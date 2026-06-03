@@ -498,25 +498,25 @@ DEFLATION FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100       │
+    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100        │
     │                                                                             │
-    │   Deflation occurs when Inflation Rate < 0 for sustained period            │
+    │   Deflation occurs when Inflation Rate < 0 for sustained period             │
     │                                                                             │
-    │   Real Interest Rate = Nominal Rate - Expected Inflation Rate              │
+    │   Real Interest Rate = Nominal Rate - Expected Inflation Rate               │
     │                                                                             │
-    │   (With expected deflation of -2%, real rate = 0% - (-2%) = +2%)           │
+    │   (With expected deflation of -2%, real rate = 0% - (-2%) = +2%)            │
     │                                                                             │
-    │   Real Debt Value = Nominal Debt / Price Level                             │
+    │   Real Debt Value = Nominal Debt / Price Level                              │
     │                                                                             │
-    │   Real Wage = Nominal Wage / Price Level                                   │
+    │   Real Wage = Nominal Wage / Price Level                                    │
     │                                                                             │
-    │   Fisher Equation: i = r + π_e                                            │
-    │   (i = nominal rate, r = real rate, π_e = expected inflation)              │
+    │   Fisher Equation: i = r + π_e                                              │
+    │   (i = nominal rate, r = real rate, π_e = expected inflation)               │
     │                                                                             │
-    │   Debt-to-GDP Dynamics: Δd = (r - g) × d - s                               │
-    │   (d = debt/GDP, r = real interest rate, g = growth, s = primary surplus) │
+    │   Debt-to-GDP Dynamics: Δd = (r - g) × d - s                                │
+    │   (d = debt/GDP, r = real interest rate, g = growth, s = primary surplus)   │
     │                                                                             │
-    │   With deflation (negative π), r rises even if i = 0, increasing debt     │
+    │   With deflation (negative π), r rises even if i = 0, increasing debt       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
