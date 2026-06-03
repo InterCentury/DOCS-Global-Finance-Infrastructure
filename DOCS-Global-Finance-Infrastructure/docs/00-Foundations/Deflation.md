@@ -11,13 +11,13 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand deflation as negative inflation rate                         │
-    │   Learn distinction between good and bad deflation                        │
-    │   Study debt-deflation spiral mechanism                                   │
-    │   Analyze liquidity trap and zero lower bound                             │
-    │   Examine historical deflation episodes (Great Depression, Japan)        │
-    │   Understand policy tools to combat deflation                             │
-    │   Learn central bank roles in deflationary crises                         │
+    │   Understand deflation as negative inflation rate                           │
+    │   Learn distinction between good and bad deflation                          │
+    │   Study debt-deflation spiral mechanism                                     │
+    │   Analyze liquidity trap and zero lower bound                               │
+    │   Examine historical deflation episodes (Great Depression, Japan)           │
+    │   Understand policy tools to combat deflation                               │
+    │   Learn central bank roles in deflationary crises                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
