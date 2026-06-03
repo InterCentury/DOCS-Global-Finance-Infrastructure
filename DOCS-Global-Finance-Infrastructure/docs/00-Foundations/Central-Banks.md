@@ -1067,25 +1067,25 @@ FORMULA REFERENCE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Money Multiplier = 1 / Reserve Requirement Ratio                         │
+    │   Money Multiplier = 1 / Reserve Requirement Ratio                          │
     │                                                                             │
-    │   Required Reserves = RR Ratio × Transaction Deposits                      │
+    │   Required Reserves = RR Ratio × Transaction Deposits                       │
     │                                                                             │
-    │   Excess Reserves = Actual Reserves - Required Reserves                    │
+    │   Excess Reserves = Actual Reserves - Required Reserves                     │
     │                                                                             │
-    │   Policy Rate Corridor = Lending Rate - Deposit Rate                       │
+    │   Policy Rate Corridor = Lending Rate - Deposit Rate                        │
     │                                                                             │
-    │   Real Interest Rate = Nominal Rate - Inflation Rate                       │
+    │   Real Interest Rate = Nominal Rate - Inflation Rate                        │
     │                                                                             │
-    │   Quantity Theory: MV = PQ                                                 │
+    │   Quantity Theory: MV = PQ                                                  │
     │                                                                             │
-    │   Taylor Rule: i = r* + π + 0.5(π - π*) + 0.5(y - y*)                     │
+    │   Taylor Rule: i = r* + π + 0.5(π - π*) + 0.5(y - y*)                       │
     │                                                                             │
-    │   Reserve Balance = Assets - Currency - Other Liabilities                  │
+    │   Reserve Balance = Assets - Currency - Other Liabilities                   │
     │                                                                             │
-    │   Discount Window Penalty (Primary) = Policy Rate + 0.50%                  │
+    │   Discount Window Penalty (Primary) = Policy Rate + 0.50%                   │
     │                                                                             │
-    │   Discount Window Penalty (Secondary) = Policy Rate + 1.00%                │
+    │   Discount Window Penalty (Secondary) = Policy Rate + 1.00%                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
