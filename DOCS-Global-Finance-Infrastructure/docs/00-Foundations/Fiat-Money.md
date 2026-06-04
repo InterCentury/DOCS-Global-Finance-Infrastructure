@@ -107,58 +107,58 @@ COMPLETE FIAT MONEY PROCESS FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: MONEY CREATION (Central Bank)                                    │
+    │   STEP 1: MONEY CREATION (Central Bank)                                     │
     │                                                                             │
-    │   Central bank creates money by expanding its balance sheet.              │
+    │   Central bank creates money by expanding its balance sheet.                │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  CENTRAL BANK BALANCE SHEET EXPANSION                               │   │
     │   │                                                                     │   │
     │   │  ASSETS                    LIABILITIES                              │   │
-    │   │  ┌─────────────────────┐   ┌─────────────────────────────────────┐ │   │
-    │   │  │ Government Bonds    │   │ Bank Reserves (Newly Created Money) │ │   │
-    │   │  │ (+$1 million)       │   │ (+$1 million)                       │ │   │
-    │   │  └─────────────────────┘   └─────────────────────────────────────┘ │   │
+    │   │  ┌─────────────────────┐   ┌─────────────────────────────────────┐  │   │
+    │   │  │ Government Bonds    │   │ Bank Reserves (Newly Created Money) │  │   │
+    │   │  │ (+$1 million)       │   │ (+$1 million)                       │  │   │
+    │   │  └─────────────────────┘   └─────────────────────────────────────┘  │   │
     │   │                                                                     │   │
     │   │  Two methods:                                                       │   │
-    │   │  ├── Open Market Purchase: Buying bonds from banks                 │   │
-    │   │  ├── Direct Monetization: Buying bonds from government directly    │   │
-    │   │  └── Printing physical currency                                    │   │
+    │   │  ├── Open Market Purchase: Buying bonds from banks                  │   │
+    │   │  ├── Direct Monetization: Buying bonds from government directly     │   │
+    │   │  └── Printing physical currency                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: MONEY ENTERS BANKING SYSTEM                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: MONEY ENTERS BANKING SYSTEM                                       │
     │                                                                             │
-    │   New reserves credited to commercial bank accounts at central bank.      │
+    │   New reserves credited to commercial bank accounts at central bank.        │
     │                                                                             │
-    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                 │
-    │   │  Bank A     │     │  Bank B     │     │  Bank C     │                 │
-    │   │  Reserves   │     │  Reserves   │     │  Reserves   │                 │
-    │   │  +$300k     │     │  +$300k     │     │  +$400k     │                 │
-    │   └─────────────┘     └─────────────┘     └─────────────┘                 │
-    │        │                   │                   │                           │
-    │        └───────────────────┼───────────────────┘                           │
-    │                            │                                               │
-    │                            ▼                                               │
-    │   STEP 3: MULTIPLE DEPOSIT CREATION (Fractional Reserve Banking)          │
+    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                   │
+    │   │  Bank A     │     │  Bank B     │     │  Bank C     │                   │
+    │   │  Reserves   │     │  Reserves   │     │  Reserves   │                   │
+    │   │  +$300k     │     │  +$300k     │     │  +$400k     │                   │
+    │   └─────────────┘     └─────────────┘     └─────────────┘                   │
+    │        │                   │                   │                            │
+    │        └───────────────────┼───────────────────┘                            │
+    │                            │                                                │
+    │                            ▼                                                │
+    │   STEP 3: MULTIPLE DEPOSIT CREATION (Fractional Reserve Banking)            │
     │                                                                             │
-    │   Banks lend out excess reserves, creating new deposits.                  │
+    │   Banks lend out excess reserves, creating new deposits.                    │
     │                                                                             │
-    │   Initial Reserve Injection: $1,000,000                                   │
-    │   Reserve Requirement: 10%                                                │
-    │   Money Multiplier: 10                                                    │
-    │   Total Money Created: $10,000,000                                        │
+    │   Initial Reserve Injection: $1,000,000                                     │
+    │   Reserve Requirement: 10%                                                  │
+    │   Money Multiplier: 10                                                      │
+    │   Total Money Created: $10,000,000                                          │
     │                                                                             │
-    │   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐                   │
-    │   │  Bank A     │───►│  Bank B     │───►│  Bank C     │                   │
-    │   │  Receives   │    │  Receives   │    │  Receives   │                   │
-    │   │  $1M        │    │  $900k      │    │  $810k      │                   │
-    │   │  Lends $900k│    │  Lends $810k│    │  Lends $729k│                   │
-    │   └─────────────┘    └─────────────┘    └─────────────┘                   │
-    │        │                   │                   │                           │
-    │        └───────────────────┼───────────────────┘                           │
-    │                            │                                               │
-    │                            ▼                                               │
+    │   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐                     │
+    │   │  Bank A     │───►│  Bank B     │───►│  Bank C     │                     │
+    │   │  Receives   │    │  Receives   │    │  Receives   │                     │
+    │   │  $1M        │    │  $900k      │    │  $810k      │                     │
+    │   │  Lends $900k│    │  Lends $810k│    │  Lends $729k│                     │
+    │   └─────────────┘    └─────────────┘    └─────────────┘                     │
+    │        │                   │                   │                            │
+    │        └───────────────────┼───────────────────┘                            │
+    │                            │                                                │
+    │                            ▼                                                │
     │   STEP 4: MONEY CIRCULATES IN ECONOMY                                     │
     │                                                                             │
     │   Money used for transactions, wages, purchases, investments.             │
