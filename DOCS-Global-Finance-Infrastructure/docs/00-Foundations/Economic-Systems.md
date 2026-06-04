@@ -312,40 +312,40 @@ ECONOMIC SYSTEMS COMPARISON MATRIX
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Feature           │ Market     │ Command    │ Mixed      │ Traditional   │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Ownership of       │ Private    │ State      │ Mixed      │ Communal      │
-    │   production         │            │            │            │ or tribal     │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Coordination       │ Prices     │ Central    │ Prices +   │ Custom        │
-    │   mechanism          │            │ plan       │ regulation │               │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Decision making    │ Decentral- │ Centralized│ Both       │ Traditional   │
-    │   location           │ ized       │            │ levels     │ authorities   │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Incentives         │ Profit     │ Meeting    │ Profit +   │ Social        │
-    │                      │            │ targets    │ compliance │ approval      │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Innovation driver  │ Competition│ Central    │ Both       │ Rare          │
-    │                      │            │ research   │            │               │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Income             │ Unequal    │ Equal      │ Moderately │ Determined    │
-    │   distribution       │            │ (theoret-  │ unequal    │ by status     │
-    │                      │            │ ically)    │            │               │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Response to        │ Fast       │ Slow       │ Moderate   │ None          │
-    │   shortages          │ (prices    │ (re-plan)  │            │               │
-    │                      │ rise)      │            │            │               │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Unemployment       │ Possible   │ Rare       │ Managed    │ Not relevant  │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Growth potential   │ High       │ Variable   │ High       │ Low to none   │
-    │                      │            │ (often     │            │               │
-    │                      │            │ low)       │            │               │
-    │   ──────────────────│────────────│────────────│────────────│───────────────│
-    │   Modern examples    │ USA,       │ North      │ Germany,   │ Indigenous    │
-    │                      │ Singapore  │ Korea,     │ Canada,    │ communities   │
-    │                      │            │ Cuba       │ Australia  │               │
+    │   Feature           │ Market     │ Command    │ Mixed      │ Traditional    │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Ownership of      │ Private    │ State      │ Mixed      │ Communal       │
+    │   production        │            │            │            │ or tribal      │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Coordination      │ Prices     │ Central    │ Prices +   │ Custom         │
+    │   mechanism         │            │ plan       │ regulation │                │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Decision making   │ Decentral- │ Centralized│ Both       │ Traditional    │
+    │   location          │ ized       │            │ levels     │ authorities    │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Incentives        │ Profit     │ Meeting    │ Profit +   │ Social         │
+    │                     │            │ targets    │ compliance │ approval       │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Innovation driver │ Competition│ Central    │ Both       │ Rare           │
+    │                     │            │ research   │            │                │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Income            │ Unequal    │ Equal      │ Moderately │ Determined     │
+    │   distribution      │            │ (theoret-  │ unequal    │ by status      │
+    │                     │            │ ically)    │            │                │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Response to       │ Fast       │ Slow       │ Moderate   │ None           │
+    │   shortages         │ (prices    │ (re-plan)  │            │                │
+    │                     │ rise)      │            │            │                │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Unemployment      │ Possible   │ Rare       │ Managed    │ Not relevant   │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Growth potential  │ High       │ Variable   │ High       │ Low to none    │
+    │                     │            │ (often     │            │                │
+    │                     │            │ low)       │            │                │
+    │   ──────────────────│────────────│────────────│────────────│─────────────── │
+    │   Modern examples   │ USA,       │ North      │ Germany,   │ Indigenous     │
+    │                     │ Singapore  │ Korea,     │ Canada,    │ communities    │
+    │                     │            │ Cuba       │ Australia  │                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
