@@ -413,23 +413,23 @@ FOR WHOM TO PRODUCE BY SYSTEM TYPE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   System      │ How "For Whom" is Decided                                  │
+    │   System      │ How "For Whom" is Decided                                   │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Market      │ Distribution based on purchasing power. Those who can      │
-    │               │ pay the market price get the goods. Income from labor      │
-    │               │ and capital ownership determines access.                   │
+    │   Market      │ Distribution based on purchasing power. Those who can       │
+    │               │ pay the market price get the goods. Income from labor       │
+    │               │ and capital ownership determines access.                    │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Command     │ Distribution based on need or equal shares. Prices kept    │
-    │               │ low. Rationing during shortages. Privileged groups         │
-    │               │ (party officials, military) often receive more.           │
+    │   Command     │ Distribution based on need or equal shares. Prices kept     │
+    │               │ low. Rationing during shortages. Privileged groups          │
+    │               │ (party officials, military) often receive more.             │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Mixed       │ Market distribution for most goods, with safety net        │
-    │               │ for poor. Welfare, food stamps, subsidized housing,        │
-    │               │ public healthcare. Progressive taxation funds transfers.   │
+    │   Mixed       │ Market distribution for most goods, with safety net         │
+    │               │ for poor. Welfare, food stamps, subsidized housing,         │
+    │               │ public healthcare. Progressive taxation funds transfers.    │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Traditional │ Distribution based on social status, kinship, tribal       │
-    │               │ affiliation. Elders, chiefs, family heads allocate.       │
-    │               │ Sharing and reciprocity norms.                             │
+    │   Traditional │ Distribution based on social status, kinship, tribal        │
+    │               │ affiliation. Elders, chiefs, family heads allocate.         │
+    │               │ Sharing and reciprocity norms.                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
