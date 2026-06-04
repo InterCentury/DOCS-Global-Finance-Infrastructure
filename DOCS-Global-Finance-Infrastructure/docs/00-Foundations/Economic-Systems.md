@@ -657,30 +657,30 @@ COMMAND FAILURE TYPES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Command Failure Type  │ Description           │ Market Solution          │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Information Problem   │ Planners cannot       │ Decentralized price      │
-    │                         │ know all preferences, │ signals convey           │
-    │                         │ costs, and            │ information efficiently  │
-    │                         │ capacities            │                          │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Incentive Problem     │ No profit motive      │ Profit incentives drive  │
-    │                         │ reduces effort and    │ efficiency, innovation,  │
-    │                         │ innovation            │ cost reduction           │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Coordination Problem  │ Multiple plans        │ Spontaneous order        │
-    │                         │ must be consistent    │ through market prices    │
-    │                         │ (input-output         │ coordinates independent  │
-    │                         │ matrices)             │ decisions                │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Calculation Problem   │ Impossible to         │ Market prices provide    │
-    │                         │ calculate rational    │ rational basis for       │
-    │                         │ prices without        │ resource allocation      │
-    │                         │ markets               │ (Hayek argument)         │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Rent Seeking          │ Officials allocate    │ Competition reduces      │
-    │                         │ resources based on    │ opportunities for        │
-    │                         │ bribes or favoritism  │ corrupt allocation       │
+    │   Command Failure Type  │ Description           │ Market Solution           │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Information Problem   │ Planners cannot       │ Decentralized price       │
+    │                         │ know all preferences, │ signals convey            │
+    │                         │ costs, and            │ information efficiently   │
+    │                         │ capacities            │                           │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Incentive Problem     │ No profit motive      │ Profit incentives drive   │
+    │                         │ reduces effort and    │ efficiency, innovation,   │
+    │                         │ innovation            │ cost reduction            │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Coordination Problem  │ Multiple plans        │ Spontaneous order         │
+    │                         │ must be consistent    │ through market prices     │
+    │                         │ (input-output         │ coordinates independent   │
+    │                         │ matrices)             │ decisions                 │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Calculation Problem   │ Impossible to         │ Market prices provide     │
+    │                         │ calculate rational    │ rational basis for        │
+    │                         │ prices without        │ resource allocation       │
+    │                         │ markets               │ (Hayek argument)          │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Rent Seeking          │ Officials allocate    │ Competition reduces       │
+    │                         │ resources based on    │ opportunities for         │
+    │                         │ bribes or favoritism  │ corrupt allocation        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
