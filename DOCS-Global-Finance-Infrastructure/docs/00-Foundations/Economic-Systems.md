@@ -40,7 +40,7 @@ THE THREE FUNDAMENTAL QUESTIONS
     │   │   In what quantities?                                               │   │
     │   │   What quality standards?                                           │   │
     │   │                                                                     │   │
-    │   │   Country level: Should resources go to healthcare, defense,       │   │
+    │   │   Country level: Should resources go to healthcare, defense,        │   │
     │   │   education, or consumer goods?                                     │   │
     │   │                                                                     │   │
     │   │   Company level: Which products should the company manufacture?     │   │
