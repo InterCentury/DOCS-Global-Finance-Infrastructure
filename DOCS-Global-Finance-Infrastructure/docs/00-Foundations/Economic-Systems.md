@@ -472,24 +472,24 @@ COMPANY INTERNAL ECONOMIC SYSTEMS
     │                                                                             │
     │   INTERNAL COMMAND SYSTEM                                                   │
     │                                                                             │
-    │   Central headquarters sets production targets and allocates resources     │
-    │   to divisions.                                                            │
+    │   Central headquarters sets production targets and allocates resources      │
+    │   to divisions.                                                             │
     │                                                                             │
     │                         CORPORATE HEADQUARTERS                              │
-    │                              │                                             │
-    │              ┌───────────────┼───────────────┐                             │
-    │              │               │               │                             │
-    │              ▼               ▼               ▼                             │
-    │       ┌─────────────┐ ┌─────────────┐ ┌─────────────┐                      │
-    │       │ Division A  │ │ Division B  │ │ Division C  │                      │
-    │       │ (Target:    │ │ (Target:    │ │ (Target:    │                      │
-    │       │  1,000      │ │  800 units) │ │  500 units) │                      │
-    │       │  units)     │ │             │ │             │                      │
-    │       └─────────────┘ └─────────────┘ └─────────────┘                      │
+    │                              │                                              │
+    │              ┌───────────────┼───────────────┐                              │
+    │              │               │               │                              │
+    │              ▼               ▼               ▼                              │
+    │       ┌─────────────┐ ┌─────────────┐ ┌─────────────┐                       │
+    │       │ Division A  │ │ Division B  │ │ Division C  │                       │
+    │       │ (Target:    │ │ (Target:    │ │ (Target:    │                       │
+    │       │  1,000      │ │  800 units) │ │  500 units) │                       │
+    │       │  units)     │ │             │ │             │                       │
+    │       └─────────────┘ └─────────────┘ └─────────────┘                       │
     │                                                                             │
-    │   How it works: Headquarters sets output quotas. Inputs allocated from     │
-    │   central inventory. Performance measured by meeting targets. Little       │
-    │   autonomy for division managers. Used in military, disaster response,     │
+    │   How it works: Headquarters sets output quotas. Inputs allocated from      │
+    │   central inventory. Performance measured by meeting targets. Little        │
+    │   autonomy for division managers. Used in military, disaster response,      │
     │   or highly integrated production.                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
