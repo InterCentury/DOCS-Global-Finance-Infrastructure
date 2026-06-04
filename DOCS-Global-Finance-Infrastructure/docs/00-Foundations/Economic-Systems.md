@@ -557,31 +557,31 @@ TRANSITION SEQUENCE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   COMMAND ECONOMY                                                          │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PHASE 1: LIBERALIZATION                                                 │
-    │   ├── Remove price controls                                                │
-    │   ├── Allow private enterprise                                             │
-    │   └── Open to trade                                                        │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PHASE 2: PRIVATIZATION                                                  │
-    │   ├── Sell state enterprises                                               │
-    │   ├── Voucher programs                                                     │
-    │   └── Management buyouts                                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PHASE 3: INSTITUTION BUILDING                                           │
-    │   ├── Legal system for contracts                                           │
-    │   ├── Banking and finance                                                  │
-    │   ├── Competition policy                                                   │
-    │   └── Social safety net                                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   MARKET ECONOMY                                                          │
+    │   COMMAND ECONOMY                                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PHASE 1: LIBERALIZATION                                                   │
+    │   ├── Remove price controls                                                 │
+    │   ├── Allow private enterprise                                              │
+    │   └── Open to trade                                                         │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PHASE 2: PRIVATIZATION                                                    │
+    │   ├── Sell state enterprises                                                │
+    │   ├── Voucher programs                                                      │
+    │   └── Management buyouts                                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PHASE 3: INSTITUTION BUILDING                                             │
+    │   ├── Legal system for contracts                                            │
+    │   ├── Banking and finance                                                   │
+    │   ├── Competition policy                                                    │
+    │   └── Social safety net                                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   MARKET ECONOMY                                                            │
     │                                                                             │
-    │   Examples: Post-Soviet states, China (1978- ), Vietnam (Doi Moi)          │
+    │   Examples: Post-Soviet states, China (1978- ), Vietnam (Doi Moi)           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
