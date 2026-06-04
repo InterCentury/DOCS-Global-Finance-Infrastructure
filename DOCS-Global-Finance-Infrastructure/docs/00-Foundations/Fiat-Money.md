@@ -234,23 +234,23 @@ FUNCTIONS OF MONEY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FUNCTION          │ HOW FIAT PERFORMS           │ IMPORTANCE             │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Medium of         │ Accepted universally for   │ Eliminates barter      │
-    │   exchange          │ transactions by law and    │ double coincidence     │
-    │                     │ convention                 │ of wants problem       │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Unit of account   │ Prices denominated in      │ Enables economic       │
-    │                     │ fiat units ($, €, ¥)        │ calculation and        │
-    │                     │                            │ comparison             │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Store of value    │ Holds value over time      │ Enables saving and     │
-    │                     │ (subject to inflation      │ deferred payment       │
-    │                     │ risk)                      │                        │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Standard of       │ Used for future payments   │ Enables lending,       │
-    │   deferred payment  │ (loans, bonds, contracts)  │ credit, and debt       │
-    │                     │ denominated in fiat        │ markets                │
+    │   FUNCTION          │ HOW FIAT PERFORMS          │ IMPORTANCE               │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Medium of         │ Accepted universally for   │ Eliminates barter        │
+    │   exchange          │ transactions by law and    │ double coincidence       │
+    │                     │ convention                 │ of wants problem         │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Unit of account   │ Prices denominated in      │ Enables economic         │
+    │                     │ fiat units ($, €, ¥)       │ calculation and          │
+    │                     │                            │ comparison               │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Store of value    │ Holds value over time      │ Enables saving and       │
+    │                     │ (subject to inflation      │ deferred payment         │
+    │                     │ risk)                      │                          │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Standard of       │ Used for future payments   │ Enables lending,         │
+    │   deferred payment  │ (loans, bonds, contracts)  │ credit, and debt         │
+    │                     │ denominated in fiat        │ markets                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
