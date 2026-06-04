@@ -347,33 +347,33 @@ MONEY SUPPLY AGGREGATES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   AGGREGATE      │ COMPONENTS                      │ LIQUIDITY             │
-    │   ───────────────│─────────────────────────────────│───────────────────────│
-    │   M0 (Monetary   │ Physical currency (coins,       │ Most liquid           │
-    │   Base)          │ banknotes) + Bank reserves      │                       │
-    │                  │ at central bank                 │                       │
-    │   ───────────────│─────────────────────────────────│───────────────────────│
-    │   M1             │ M0 + Demand deposits +          │ Very liquid           │
-    │                  │ Traveler's checks + Other       │                       │
-    │                  │ checkable deposits              │                       │
-    │   ───────────────│─────────────────────────────────│───────────────────────│
-    │   M2             │ M1 + Savings deposits +         │ Moderately liquid     │
-    │                  │ Small time deposits +           │                       │
-    │                  │ Money market mutual funds       │                       │
-    │   ───────────────│─────────────────────────────────│───────────────────────│
-    │   M3 (Less       │ M2 + Large time deposits +      │ Less liquid           │
-    │   common)        │ Institutional money funds +     │                       │
-    │                  │ Repurchase agreements           │                       │
+    │   AGGREGATE      │ COMPONENTS                      │ LIQUIDITY              │
+    │   ───────────────│─────────────────────────────────│─────────────────────── │
+    │   M0 (Monetary   │ Physical currency (coins,       │ Most liquid            │
+    │   Base)          │ banknotes) + Bank reserves      │                        │
+    │                  │ at central bank                 │                        │
+    │   ───────────────│─────────────────────────────────│─────────────────────── │
+    │   M1             │ M0 + Demand deposits +          │ Very liquid            │
+    │                  │ Traveler's checks + Other       │                        │
+    │                  │ checkable deposits              │                        │
+    │   ───────────────│─────────────────────────────────│─────────────────────── │
+    │   M2             │ M1 + Savings deposits +         │ Moderately liquid      │
+    │                  │ Small time deposits +           │                        │
+    │                  │ Money market mutual funds       │                        │
+    │   ───────────────│─────────────────────────────────│─────────────────────── │
+    │   M3 (Less       │ M2 + Large time deposits +      │ Less liquid            │
+    │   common)        │ Institutional money funds +     │                        │
+    │                  │ Repurchase agreements           │                        │
     │                                                                             │
     │                                                                             │
     │   MONEY MULTIPLIER (Reserve Ratio = 10%)                                    │
     │                                                                             │
-    │   Money Multiplier = 1 / Reserve Ratio = 1 / 0.10 = 10                     │
+    │   Money Multiplier = 1 / Reserve Ratio = 1 / 0.10 = 10                      │
     │                                                                             │
-    │   Total Money Supply (M1) = Monetary Base × Money Multiplier               │
+    │   Total Money Supply (M1) = Monetary Base × Money Multiplier                │
     │                                                                             │
-    │   If Monetary Base = $1 trillion:                                          │
-    │   M1 = $1 trillion × 10 = $10 trillion                                     │
+    │   If Monetary Base = $1 trillion:                                           │
+    │   M1 = $1 trillion × 10 = $10 trillion                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
