@@ -268,30 +268,30 @@ SEIGNIORAGE CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PHYSICAL CURRENCY:                                                       │
+    │   PHYSICAL CURRENCY:                                                        │
     │                                                                             │
-    │   Seigniorage = Face Value - Production Cost                               │
+    │   Seigniorage = Face Value - Production Cost                                │
     │                                                                             │
-    │   Example ($100 bill):                                                     │
-    │   Face Value: $100.00                                                      │
-    │   Production Cost: $0.14                                                   │
-    │   Seigniorage: $99.86 per bill                                             │
-    │                                                                             │
-    │                                                                             │
-    │   DIGITAL CURRENCY (Reserves):                                             │
-    │                                                                             │
-    │   Seigniorage = Face Value - Zero Production Cost                          │
-    │                                                                             │
-    │   Example ($1 million digital creation):                                   │
-    │   Seigniorage: $1 million                                                  │
+    │   Example ($100 bill):                                                      │
+    │   Face Value: $100.00                                                       │
+    │   Production Cost: $0.14                                                    │
+    │   Seigniorage: $99.86 per bill                                              │
     │                                                                             │
     │                                                                             │
-    │   ANNUAL SEIGNIORAGE REVENUE (Selected countries):                         │
+    │   DIGITAL CURRENCY (Reserves):                                              │
     │                                                                             │
-    │   United States: ~$70 billion per year                                     │
-    │   Eurozone: ~€50 billion per year                                          │
-    │   Japan: ~¥2 trillion per year                                             │
-    │   United Kingdom: ~£10 billion per year                                    │
+    │   Seigniorage = Face Value - Zero Production Cost                           │
+    │                                                                             │
+    │   Example ($1 million digital creation):                                    │
+    │   Seigniorage: $1 million                                                   │
+    │                                                                             │
+    │                                                                             │
+    │   ANNUAL SEIGNIORAGE REVENUE (Selected countries):                          │
+    │                                                                             │
+    │   United States: ~$70 billion per year                                      │
+    │   Eurozone: ~€50 billion per year                                           │
+    │   Japan: ~¥2 trillion per year                                              │
+    │   United Kingdom: ~£10 billion per year                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
