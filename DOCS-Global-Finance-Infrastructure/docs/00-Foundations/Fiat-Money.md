@@ -66,33 +66,33 @@ COMMODITY VS FIAT MONEY COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Feature              │ Commodity Money        │ Fiat Money               │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Intrinsic value      │ Has value outside      │ No intrinsic value       │
-    │                        │ money use (gold,       │ (paper or digital)       │
-    │                        │ silver, salt, cattle)  │                          │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Value source         │ Physical properties    │ Government decree +      │
-    │                        │ + scarcity             │ social trust             │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Supply flexibility   │ Limited by mining/     │ Potentially unlimited    │
-    │                        │ production capacity    │ (but constrained by      │
-    │                        │                        │ policy)                  │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Storage cost         │ High (physical         │ Low (digital or paper)   │
-    │                        │ security, insurance)   │                          │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Divisibility         │ Limited (physical      │ Highly divisible         │
-    │                        │ constraints)           │ (digital to any amount)  │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Portability          │ Poor (heavy,           │ Excellent (light,        │
-    │                        │ bulky)                 │ digital transfer)        │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Monetary policy      │ Impossible (supply     │ Full central bank        │
-    │   control              │ fixed by mining)       │ control                  │
-    │   ─────────────────────│────────────────────────│──────────────────────────│
-    │   Examples             │ Gold standard, silver  │ US Dollar, Euro, Yen,    │
-    │                        │ standard, gold coins   │ Pound, all modern        │
+    │   Feature              │ Commodity Money        │ Fiat Money                │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Intrinsic value      │ Has value outside      │ No intrinsic value        │
+    │                        │ money use (gold,       │ (paper or digital)        │
+    │                        │ silver, salt, cattle)  │                           │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Value source         │ Physical properties    │ Government decree +       │
+    │                        │ + scarcity             │ social trust              │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Supply flexibility   │ Limited by mining/     │ Potentially unlimited     │
+    │                        │ production capacity    │ (but constrained by       │
+    │                        │                        │ policy)                   │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Storage cost         │ High (physical         │ Low (digital or paper)    │
+    │                        │ security, insurance)   │                           │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Divisibility         │ Limited (physical      │ Highly divisible          │
+    │                        │ constraints)           │ (digital to any amount)   │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Portability          │ Poor (heavy,           │ Excellent (light,         │
+    │                        │ bulky)                 │ digital transfer)         │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Monetary policy      │ Impossible (supply     │ Full central bank         │
+    │   control              │ fixed by mining)       │ control                   │
+    │   ─────────────────────│────────────────────────│────────────────────────── │
+    │   Examples             │ Gold standard, silver  │ US Dollar, Euro, Yen,     │
+    │                        │ standard, gold coins   │ Pound, all modern         │
     │                        │                        │ currencies                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
