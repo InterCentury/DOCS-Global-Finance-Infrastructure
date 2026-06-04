@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the fundamental economic questions                            │
-    │   Learn market economy mechanisms and price signals                        │
-    │   Study command economy planning and coordination                          │
-    │   Analyze mixed economy models and public-private balance                  │
-    │   Examine traditional economy characteristics                              │
-    │   Compare economic systems at country level                                │
-    │   Apply economic system principles to company structures                   │
-    │   Understand transitions between systems                                   │
+    │   Understand the fundamental economic questions                             │
+    │   Learn market economy mechanisms and price signals                         │
+    │   Study command economy planning and coordination                           │
+    │   Analyze mixed economy models and public-private balance                   │
+    │   Examine traditional economy characteristics                               │
+    │   Compare economic systems at country level                                 │
+    │   Apply economic system principles to company structures                    │
+    │   Understand transitions between systems                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
