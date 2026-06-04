@@ -498,8 +498,8 @@ COMPANY INTERNAL ECONOMIC SYSTEMS
     │                                                                             │
     │   INTERNAL MIXED SYSTEM                                                     │
     │                                                                             │
-    │   Most large corporations operate this way. Strategic decisions at         │
-    │   headquarters (command), operational decisions decentralized (market).    │
+    │   Most large corporations operate this way. Strategic decisions at          │
+    │   headquarters (command), operational decisions decentralized (market).     │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
