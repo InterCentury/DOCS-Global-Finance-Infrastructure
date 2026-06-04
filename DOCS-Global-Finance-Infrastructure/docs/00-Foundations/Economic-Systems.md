@@ -445,26 +445,26 @@ COMPANY INTERNAL ECONOMIC SYSTEMS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   INTERNAL MARKET SYSTEM                                                   │
+    │   INTERNAL MARKET SYSTEM                                                    │
     │                                                                             │
-    │   Divisions treated as profit centers that buy and sell from each other    │
-    │   using transfer prices.                                                   │
+    │   Divisions treated as profit centers that buy and sell from each other     │
+    │   using transfer prices.                                                    │
     │                                                                             │
-    │   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐                   │
-    │   │ Division A  │───►│ Division B  │───►│ Division C  │                   │
-    │   │ (Raw        │    │ (Component  │    │ (Assembly)  │                   │
-    │   │ Materials)  │    │ Production) │    │             │                   │
-    │   └─────────────┘    └─────────────┘    └─────────────┘                   │
-    │         │                  │                  │                           │
-    │         └──────────────────┼──────────────────┘                           │
-    │                            │                                               │
-    │                    Transfer Prices set                                    │
-    │                    by internal market                                     │
+    │   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐                     │
+    │   │ Division A  │───►│ Division B  │───►│ Division C  │                     │
+    │   │ (Raw        │    │ (Component  │    │ (Assembly)  │                     │
+    │   │ Materials)  │    │ Production) │    │             │                     │
+    │   └─────────────┘    └─────────────┘    └─────────────┘                     │
+    │         │                  │                  │                             │
+    │         └──────────────────┼──────────────────┘                             │
+    │                            │                                                │
+    │                    Transfer Prices set                                      │
+    │                    by internal market                                       │
     │                                                                             │
-    │   How it works: Divisions compete to supply internal customers. Managers  │
-    │   can buy from external suppliers if internal prices too high. Profit     │
-    │   center performance measured by divisional profit. Capital allocated     │
-    │   based on return on investment.                                           │
+    │   How it works: Divisions compete to supply internal customers. Managers    │
+    │   can buy from external suppliers if internal prices too high. Profit       │
+    │   center performance measured by divisional profit. Capital allocated       │
+    │   based on return on investment.                                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
