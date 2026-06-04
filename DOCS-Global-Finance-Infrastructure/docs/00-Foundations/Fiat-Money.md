@@ -313,29 +313,29 @@ CENTRAL BANK POLICY TOOLS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOOL              │ HOW IT WORKS                │ EFFECT ON MONEY        │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Policy Rate       │ Interest rate on bank      │ Higher rate reduces     │
-    │   (Interest on      │ reserves at central bank   │ lending and money       │
-    │   Reserves)         │                            │ creation. Lower rate    │
-    │                     │                            │ increases.              │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Open Market       │ Central bank buys or sells │ Purchase injects        │
-    │   Operations        │ government bonds           │ money. Sale removes     │
-    │                     │                            │ money.                  │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Reserve           │ Required reserves as % of  │ Higher requirement      │
-    │   Requirements      │ deposits                   │ reduces money           │
-    │                     │                            │ multiplier. Lower       │
-    │                     │                            │ increases.              │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Quantitative      │ Large-scale asset          │ Injects large amounts   │
-    │   Easing            │ purchases beyond normal    │ directly into           │
-    │                     │ OMO                        │ financial system        │
-    │   ──────────────────│────────────────────────────│────────────────────────│
-    │   Forward Guidance  │ Communication of future    │ Shapes expectations,    │
-    │                     │ policy path                │ influences long-term    │
-    │                     │                            │ rates                   │
+    │   TOOL              │ HOW IT WORKS               │ EFFECT ON MONEY          │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Policy Rate       │ Interest rate on bank      │ Higher rate reduces      │
+    │   (Interest on      │ reserves at central bank   │ lending and money        │
+    │   Reserves)         │                            │ creation. Lower rate     │
+    │                     │                            │ increases.               │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Open Market       │ Central bank buys or sells │ Purchase injects         │
+    │   Operations        │ government bonds           │ money. Sale removes      │
+    │                     │                            │ money.                   │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Reserve           │ Required reserves as % of  │ Higher requirement       │
+    │   Requirements      │ deposits                   │ reduces money            │
+    │                     │                            │ multiplier. Lower        │
+    │                     │                            │ increases.               │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Quantitative      │ Large-scale asset          │ Injects large amounts    │
+    │   Easing            │ purchases beyond normal    │ directly into            │
+    │                     │ OMO                        │ financial system         │
+    │   ──────────────────│────────────────────────────│────────────────────────  │
+    │   Forward Guidance  │ Communication of future    │ Shapes expectations,     │
+    │                     │ policy path                │ influences long-term     │
+    │                     │                            │ rates                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
