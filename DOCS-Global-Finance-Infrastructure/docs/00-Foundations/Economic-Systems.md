@@ -617,33 +617,33 @@ MARKET FAILURE TYPES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Market Failure Type   │ Description           │ Government Response      │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Externalities         │ Costs/benefits affect │ Taxes on negative        │
-    │                         │ third parties not     │ externalities (carbon    │
-    │                         │ involved in           │ tax). Subsidies for      │
-    │                         │ transaction           │ positive externalities   │
-    │                         │                       │ (education, vaccines)    │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Public Goods          │ Non-excludable,       │ Government provision     │
-    │                         │ non-rivalrous         │ (defense, roads,         │
-    │                         │ (free rider problem)  │ lighthouses, basic       │
-    │                         │                       │ research)                │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Monopoly Power        │ Single seller can     │ Antitrust enforcement,   │
-    │                         │ restrict output and   │ price regulation,        │
-    │                         │ raise prices          │ breaking up monopolies   │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Information           │ One party has more    │ Disclosure requirements, │
-    │   Asymmetry             │ information than      │ consumer protection,     │
-    │                         │ other (adverse        │ professional licensing   │
-    │                         │ selection, moral      │                          │
-    │                         │ hazard)               │                          │
-    │   ──────────────────────│───────────────────────│──────────────────────────│
-    │   Inequality /          │ Market distribution   │ Progressive taxation,    │
-    │   Distributional        │ may be socially       │ welfare programs,        │
-    │   Concerns              │ unacceptable          │ minimum wage, public     │
-    │                         │                       │ services                 │
+    │   Market Failure Type   │ Description           │ Government Response       │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Externalities         │ Costs/benefits affect │ Taxes on negative         │
+    │                         │ third parties not     │ externalities (carbon     │
+    │                         │ involved in           │ tax). Subsidies for       │
+    │                         │ transaction           │ positive externalities    │
+    │                         │                       │ (education, vaccines)     │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Public Goods          │ Non-excludable,       │ Government provision      │
+    │                         │ non-rivalrous         │ (defense, roads,          │
+    │                         │ (free rider problem)  │ lighthouses, basic        │
+    │                         │                       │ research)                 │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Monopoly Power        │ Single seller can     │ Antitrust enforcement,    │
+    │                         │ restrict output and   │ price regulation,         │
+    │                         │ raise prices          │ breaking up monopolies    │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Information           │ One party has more    │ Disclosure requirements,  │
+    │   Asymmetry             │ information than      │ consumer protection,      │
+    │                         │ other (adverse        │ professional licensing    │
+    │                         │ selection, moral      │                           │
+    │                         │ hazard)               │                           │
+    │   ──────────────────────│───────────────────────│────────────────────────── │
+    │   Inequality /          │ Market distribution   │ Progressive taxation,     │
+    │   Distributional        │ may be socially       │ welfare programs,         │
+    │   Concerns              │ unacceptable          │ minimum wage, public      │
+    │                         │                       │ services                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
