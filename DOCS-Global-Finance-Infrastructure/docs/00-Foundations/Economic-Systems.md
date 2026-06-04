@@ -386,22 +386,22 @@ HOW TO PRODUCE BY SYSTEM TYPE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   System      │ How "How to Produce" is Decided                            │
+    │   System      │ How "How to Produce" is Decided                             │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Market      │ Producers choose cost-minimizing methods. Competition      │
-    │               │ drives efficiency. Technology adopted for cost reduction.  │
-    │               │ Example: Automation adopted if cheaper than labor.         │
+    │   Market      │ Producers choose cost-minimizing methods. Competition       │
+    │               │ drives efficiency. Technology adopted for cost reduction.   │
+    │               │ Example: Automation adopted if cheaper than labor.          │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Command     │ Planners specify production methods and input ratios.      │
-    │               │ Efficiency low due to no profit motive. Technology         │
-    │               │ adoption slow. Waste common.                               │
+    │   Command     │ Planners specify production methods and input ratios.       │
+    │               │ Efficiency low due to no profit motive. Technology          │
+    │               │ adoption slow. Waste common.                                │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Mixed       │ Market efficiency encouraged but regulations on labor      │
-    │               │ standards, environmental impact, safety. Tax incentives    │
-    │               │ for desired methods (renewable energy, local hiring).      │
+    │   Mixed       │ Market efficiency encouraged but regulations on labor       │
+    │               │ standards, environmental impact, safety. Tax incentives     │
+    │               │ for desired methods (renewable energy, local hiring).       │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Traditional │ Traditional methods passed through generations. Same       │
-    │               │ tools and techniques as ancestors. Resistance to change.   │
+    │   Traditional │ Traditional methods passed through generations. Same        │
+    │               │ tools and techniques as ancestors. Resistance to change.    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
