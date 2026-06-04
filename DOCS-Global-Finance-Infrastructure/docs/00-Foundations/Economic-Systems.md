@@ -359,22 +359,22 @@ WHAT TO PRODUCE BY SYSTEM TYPE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   System      │ How "What to Produce" is Decided                           │
+    │   System      │ How "What to Produce" is Decided                            │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Market      │ Consumer demand expressed through spending decisions.      │
-    │               │ Producers respond to profit signals from market prices.    │
-    │               │ Example: Smartphones produced because consumers buy them.  │
+    │   Market      │ Consumer demand expressed through spending decisions.       │
+    │               │ Producers respond to profit signals from market prices.     │
+    │               │ Example: Smartphones produced because consumers buy them.   │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Command     │ Central planners decide based on national priorities.      │
-    │               │ Military goods, heavy industry often prioritized.          │
-    │               │ Consumer goods may be under-produced.                      │
+    │   Command     │ Central planners decide based on national priorities.       │
+    │               │ Military goods, heavy industry often prioritized.           │
+    │               │ Consumer goods may be under-produced.                       │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Mixed       │ Combination: markets for most goods, government for        │
-    │               │ public goods (defense, roads, education). Regulation on    │
-    │               │ harmful goods (drugs, unsafe products).                    │
+    │   Mixed       │ Combination: markets for most goods, government for         │
+    │               │ public goods (defense, roads, education). Regulation on     │
+    │               │ harmful goods (drugs, unsafe products).                     │
     │   ────────────│─────────────────────────────────────────────────────────────│
-    │   Traditional │ Custom determines what is produced. Same goods as          │
-    │               │ previous generations. Subsistence farming, basic crafts.   │
+    │   Traditional │ Custom determines what is produced. Same goods as           │
+    │               │ previous generations. Subsistence farming, basic crafts.    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
