@@ -11,15 +11,15 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and nature of fiat money                       │
-    │   Learn the distinction between commodity money and fiat money             │
-    │   Study the trust-based value mechanism                                    │
+    │   Understand the definition and nature of fiat money                        │
+    │   Learn the distinction between commodity money and fiat money              │
+    │   Study the trust-based value mechanism                                     │
     │   Analyze the role of legal tender laws                                     │
-    │   Examine the money creation process through banking                       │
-    │   Understand seigniorage and its economic implications                     │
-    │   Learn central bank roles in fiat systems                                 │
-    │   Study inflation risks and hyperinflation failures                        │
-    │   Compare fiat to commodity and cryptocurrency alternatives                │
+    │   Examine the money creation process through banking                        │
+    │   Understand seigniorage and its economic implications                      │
+    │   Learn central bank roles in fiat systems                                  │
+    │   Study inflation risks and hyperinflation failures                         │
+    │   Compare fiat to commodity and cryptocurrency alternatives                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
