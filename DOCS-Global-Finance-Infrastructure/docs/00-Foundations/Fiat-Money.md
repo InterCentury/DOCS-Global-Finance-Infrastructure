@@ -1,4 +1,4 @@
-# 04 - Fiat Money
+# Fiat Money
 
 ## Documentation Overview
 
