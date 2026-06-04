@@ -201,28 +201,28 @@ LEGAL TENDER HIERARCHY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   GOVERNMENT DECLARES FIAT CURRENCY AS LEGAL TENDER                        │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   TAXES MUST BE PAID IN THAT CURRENCY                                      │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   CITIZENS NEED CURRENCY FOR TAX PAYMENT                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   EMPLOYERS PAY WAGES IN THAT CURRENCY                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
+    │   GOVERNMENT DECLARES FIAT CURRENCY AS LEGAL TENDER                         │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   TAXES MUST BE PAID IN THAT CURRENCY                                       │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   CITIZENS NEED CURRENCY FOR TAX PAYMENT                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   EMPLOYERS PAY WAGES IN THAT CURRENCY                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   WORKERS ACCEPT CURRENCY FOR LABOR                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   SHOPS ACCEPT CURRENCY TO PAY WORKERS AND TAXES                           │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ACCEPTANCE BECOMES UNIVERSAL (Self-reinforcing cycle)                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FIAT MONEY FUNCTIONS AS MEDIUM OF EXCHANGE                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   SHOPS ACCEPT CURRENCY TO PAY WORKERS AND TAXES                            │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ACCEPTANCE BECOMES UNIVERSAL (Self-reinforcing cycle)                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FIAT MONEY FUNCTIONS AS MEDIUM OF EXCHANGE                                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
