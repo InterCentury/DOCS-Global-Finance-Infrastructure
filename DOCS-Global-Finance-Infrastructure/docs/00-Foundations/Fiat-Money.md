@@ -159,26 +159,26 @@ COMPLETE FIAT MONEY PROCESS FLOW
     │        └───────────────────┼───────────────────┘                            │
     │                            │                                                │
     │                            ▼                                                │
-    │   STEP 4: MONEY CIRCULATES IN ECONOMY                                     │
+    │   STEP 4: MONEY CIRCULATES IN ECONOMY                                       │
     │                                                                             │
-    │   Money used for transactions, wages, purchases, investments.             │
+    │   Money used for transactions, wages, purchases, investments.               │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                         ECONOMY                                     │   │
     │   │                                                                     │   │
-    │   │   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐         │   │
-    │   │   │ Wages   │───►│ Rent    │───►│ Goods   │───►│ Savings │         │   │
-    │   │   │ $500    │    │ $200    │    │ $300    │    │ $100    │         │   │
-    │   │   └─────────┘    └─────────┘    └─────────┘    └─────────┘         │   │
+    │   │   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐          │   │
+    │   │   │ Wages   │───►│ Rent    │───►│ Goods   │───►│ Savings │          │   │
+    │   │   │ $500    │    │ $200    │    │ $300    │    │ $100    │          │   │
+    │   │   └─────────┘    └─────────┘    └─────────┘    └─────────┘          │   │
     │   │                                                                     │   │
     │   │   Transactions occur at market prices determined by supply/demand   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: TAXATION AND MONEY DESTRUCTION                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: TAXATION AND MONEY DESTRUCTION                                    │
     │                                                                             │
-    │   Government collects taxes, removing money from circulation.             │
+    │   Government collects taxes, removing money from circulation.               │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Tax Payment → Government → Central Bank (Money Destroyed)          │   │
