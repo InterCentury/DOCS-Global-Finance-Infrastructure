@@ -36,42 +36,42 @@ FULL RESERVE VS FRACTIONAL RESERVE COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FULL RESERVE BANKING (100% Reserve)                                      │
+    │   FULL RESERVE BANKING (100% Reserve)                                       │
     │                                                                             │
-    │   Depositor                                                               │
-    │       │                                                                   │
-    │       │ $1000 deposit                                                     │
-    │       ▼                                                                   │
+    │   Depositor                                                                 │
+    │       │                                                                     │
+    │       │ $1000 deposit                                                       │
+    │       ▼                                                                     │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                              BANK                                    │   │
+    │   │                              BANK                                   │   │
     │   │                                                                     │   │
     │   │   RESERVES: $1000          LOANS: $0                                │   │
     │   │   (100% of deposits)       (0% of deposits)                         │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Total Money Supply = $1000 (original deposit only)                      │
+    │   Total Money Supply = $1000 (original deposit only)                        │
     │                                                                             │
     │                                                                             │
-    │   FRACTIONAL RESERVE BANKING (10% Reserve)                                 │
+    │   FRACTIONAL RESERVE BANKING (10% Reserve)                                  │
     │                                                                             │
-    │   Depositor                                                               │
-    │       │                                                                   │
-    │       │ $1000 deposit                                                     │
-    │       ▼                                                                   │
+    │   Depositor                                                                 │
+    │       │                                                                     │
+    │       │ $1000 deposit                                                       │
+    │       ▼                                                                     │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                              BANK                                    │   │
+    │   │                              BANK                                   │   │
     │   │                                                                     │   │
     │   │   RESERVES: $100            LOANS: $900                             │   │
     │   │   (10% of deposits)         (90% of deposits)                       │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │       │                                                                   │
-    │       │ $900 loan                                                         │
-    │       ▼                                                                   │
-    │   Borrower spends $900 → Merchant deposits $900 → Bank B                 │
+    │       │                                                                     │
+    │       │ $900 loan                                                           │
+    │       ▼                                                                     │
+    │   Borrower spends $900 → Merchant deposits $900 → Bank B                    │
     │                                                                             │
-    │   Total Money Supply = $1000 + $900 + $810 + ... = up to $10,000          │
+    │   Total Money Supply = $1000 + $900 + $810 + ... = up to $10,000            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
