@@ -543,31 +543,29 @@ FIAT VS GOLD STANDARD
 FIAT VS CRYPTOCURRENCY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   Aspect            │ Fiat Money              │ Cryptocurrency (Bitcoin)   │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Issuer            │ Government / Central    │ No central issuer          │
-    │                     │ Bank                    │ (algorithmic)              │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Supply limit      │ No fixed limit          │ Fixed (21 million BTC)     │
-    │                     │ (policy constrained)    │                            │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Transaction cost  │ Low (especially         │ High (energy, fees)        │
-    │                     │ digital)                │                            │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Transaction speed │ Very fast (digital)     │ Slow (10-60 minutes)       │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Legal tender      │ Yes (by law)            │ No (in most countries)     │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Backing           │ Government decree +     │ Cryptographic proof +      │
-    │                     │ trust                   │ consensus                  │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Price volatility  │ Low (stable economies)  │ Very high (>50% annual)    │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Monetary policy   │ Active management       │ None (fixed supply)        │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Adoption          │ Universal               │ Niche (few transactions)   │
-    │                                                                             │
+    │   Aspect            │ Fiat Money             │ Cryptocurrency (Bitcoin)     │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Issuer            │ Government / Central   │ No central issuer            │
+    │                     │ Bank                   │ (algorithmic)                │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Supply limit      │ No fixed limit         │ Fixed (21 million BTC)       │
+    │                     │ (policy constrained)   │                              │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Transaction cost  │ Low (especially        │ High (energy, fees)          │
+    │                     │ digital)               │                              │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Transaction speed │ Very fast (digital)    │ Slow (10-60 minutes)         │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Legal tender      │ Yes (by law)           │ No (in most countries)       │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Backing           │ Government decree +    │ Cryptographic proof +        │
+    │                     │ trust                  │ consensus                    │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Price volatility  │ Low (stable economies) │ Very high (>50% annual)      │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Monetary policy   │ Active management      │ None (fixed supply)          │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Adoption          │ Universal              │ Niche (few transactions)     │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
