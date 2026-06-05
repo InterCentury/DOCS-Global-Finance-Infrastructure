@@ -294,35 +294,35 @@ EUROPEAN PAPER MONEY TIMELINE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1609 CE    │ Bank of Amsterdam established                               │
-    │              │ ├── Accepts gold and silver deposits                        │
-    │              │ ├── Issues receipts (bank money) transferable by book entry│
-    │              │ └── 100% reserve (warehouse banking)                        │
-    │                                                                             │
-    │   1661 CE    │ Stockholms Banco (Sweden) - first European banknotes       │
-    │              │ ├── Issued by private bank                                 │
-    │              │ ├── Initially backed by copper coins                        │
-    │              │ ├── Over-issued, bank failed 1664                           │
-    │              │ └── Lessons learned influenced later central banks          │
-    │                                                                             │
-    │   1694 CE    │ Bank of England established                                 │
-    │              │ ├── First successful central bank                          │
-    │              │ ├── Issued banknotes backed by gold                         │
-    │              │ ├── Lent to government                                      │
-    │              │ └── Banknotes gradually became legal tender                │
-    │                                                                             │
-    │   1716-1720  │ John Law's Mississippi Scheme (France)                      │
-    │              │ ├── Banque Generale (later Banque Royale)                  │
-    │              │ ├── Issued paper money backed by land                       │
-    │              │ ├── Massive over-issuance                                  │
-    │              │ ├── Hyperinflation and collapse                            │
-    │              │ └── French distrust of paper money for 100+ years          │
-    │                                                                             │
-    │   1797-1821  │ British Restriction Period                                  │
-    │              │ ├── Bank of England suspends gold convertibility            │
-    │              │ ├── First large-scale irredeemable paper money              │
-    │              │ ├── Inflation but no collapse                               │
-    │              │ └── Return to gold standard 1821                            │
+    │   1609 CE    │ Bank of Amsterdam established                                │
+    │              │ ├── Accepts gold and silver deposits                         │
+    │              │ ├── Issues receipts (bank money) transferable by book entry  │
+    │              │ └── 100% reserve (warehouse banking)                         │
+    │   ──────────────────────────────────────────────────────────────────────────│
+    │   1661 CE    │ Stockholms Banco (Sweden) - first European banknotes         │
+    │              │ ├── Issued by private bank                                   │
+    │              │ ├── Initially backed by copper coins                         │
+    │              │ ├── Over-issued, bank failed 1664                            │
+    │              │ └── Lessons learned influenced later central banks           │
+    │   ──────────────────────────────────────────────────────────────────────────│
+    │   1694 CE    │ Bank of England established                                  │
+    │              │ ├── First successful central bank                            │
+    │              │ ├── Issued banknotes backed by gold                          │
+    │              │ ├── Lent to government                                       │
+    │              │ └── Banknotes gradually became legal tender                  │
+    │   ──────────────────────────────────────────────────────────────────────────│
+    │   1716-1720  │ John Law's Mississippi Scheme (France)                       │
+    │              │ ├── Banque Generale (later Banque Royale)                    │
+    │              │ ├── Issued paper money backed by land                        │
+    │              │ ├── Massive over-issuance                                    │
+    │              │ ├── Hyperinflation and collapse                              │
+    │              │ └── French distrust of paper money for 100+ years            │
+    │   ──────────────────────────────────────────────────────────────────────────│
+    │   1797-1821  │ British Restriction Period                                   │
+    │              │ ├── Bank of England suspends gold convertibility             │
+    │              │ ├── First large-scale irredeemable paper money               │
+    │              │ ├── Inflation but no collapse                                │
+    │              │ └── Return to gold standard 1821                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
