@@ -505,30 +505,30 @@ FRACTIONAL RESERVE BANKING FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Reserve Ratio = Reserves / Deposits                                      │
+    │   Reserve Ratio = Reserves / Deposits                                       │
     │                                                                             │
-    │   Required Reserves = Reserve Requirement Ratio × Deposits                 │
+    │   Required Reserves = Reserve Requirement Ratio × Deposits                  │
     │                                                                             │
-    │   Excess Reserves = Actual Reserves - Required Reserves                    │
+    │   Excess Reserves = Actual Reserves - Required Reserves                     │
     │                                                                             │
-    │   Simple Money Multiplier = 1 / Reserve Requirement Ratio                  │
+    │   Simple Money Multiplier = 1 / Reserve Requirement Ratio                   │
     │                                                                             │
-    │   Total Money Created = Initial Deposit × Money Multiplier                 │
+    │   Total Money Created = Initial Deposit × Money Multiplier                  │
     │                                                                             │
-    │   Complex Money Multiplier = (1 + c) / (rr + c + e)                        │
-    │   (c = currency drain ratio, e = excess reserve ratio)                     │
+    │   Complex Money Multiplier = (1 + c) / (rr + c + e)                         │
+    │   (c = currency drain ratio, e = excess reserve ratio)                      │
     │                                                                             │
-    │   Bank Capital Ratio = Capital / Risk-Weighted Assets                      │
+    │   Bank Capital Ratio = Capital / Risk-Weighted Assets                       │
     │                                                                             │
-    │   Liquidity Coverage Ratio = High-Quality Liquid Assets /                 │
+    │   Liquidity Coverage Ratio = High-Quality Liquid Assets /                   │
     │                              (Total Net Cash Outflows over 30 days)         │
     │                                                                             │
-    │   Net Interest Margin = (Interest Income - Interest Expense) /             │
+    │   Net Interest Margin = (Interest Income - Interest Expense) /              │
     │                         Average Earning Assets                              │
     │                                                                             │
-    │   Loan Loss Provision = Expected Losses on Loan Portfolio                  │
+    │   Loan Loss Provision = Expected Losses on Loan Portfolio                   │
     │                                                                             │
-    │   Deposit Multiplier (with leakage) = ΔDeposits / ΔReserves                │
+    │   Deposit Multiplier (with leakage) = ΔDeposits / ΔReserves                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
