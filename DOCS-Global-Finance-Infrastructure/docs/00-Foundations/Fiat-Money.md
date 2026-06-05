@@ -389,32 +389,32 @@ INFLATION MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   EXCESSIVE MONEY CREATION                                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   MORE MONEY CHASING SAME AMOUNT OF GOODS                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PRICES RISE                                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PURCHASING POWER OF EACH MONETARY UNIT FALLS                            │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   SAVERS LOSE VALUE                                     DEBTORS BENEFIT   │
-    │   (Real returns negative)                               (Repay with        │
-    │                                                        cheaper money)      │
+    │   EXCESSIVE MONEY CREATION                                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   MORE MONEY CHASING SAME AMOUNT OF GOODS                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PRICES RISE                                                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PURCHASING POWER OF EACH MONETARY UNIT FALLS                              │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   SAVERS LOSE VALUE                                     DEBTORS BENEFIT     │
+    │   (Real returns negative)                               (Repay with         │
+    │                                                        cheaper money)       │
     │                                                                             │
     │                                                                             │
-    │   QUANTITY THEORY OF MONEY: MV = PQ                                        │
+    │   QUANTITY THEORY OF MONEY: MV = PQ                                         │
     │                                                                             │
-    │   M = Money Supply                                                         │
-    │   V = Velocity of Money (assumed constant)                                 │
-    │   P = Price Level                                                          │
-    │   Q = Real Output                                                          │
+    │   M = Money Supply                                                          │
+    │   V = Velocity of Money (assumed constant)                                  │
+    │   P = Price Level                                                           │
+    │   Q = Real Output                                                           │
     │                                                                             │
-    │   If M increases faster than Q, P must rise (inflation)                   │
+    │   If M increases faster than Q, P must rise (inflation)                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -432,21 +432,21 @@ HYPERINFLATION EXAMPLES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Country        │ Period          │ Peak Monthly   │ Price Increase       │
-    │                  │                 │ Inflation      │ (over period)        │
-    │   ───────────────│─────────────────│────────────────│──────────────────────│
-    │   Weimar Germany │ 1921-1923       │ 29,500%        │ 1,000,000,000:1      │
+    │   Country        │ Period          │ Peak Monthly   │ Price Increase        │
+    │                  │                 │ Inflation      │ (over period)         │
+    │   ───────────────│─────────────────│────────────────│────────────────────── │
+    │   Weimar Germany │ 1921-1923       │ 29,500%        │ 1,000,000,000:1       │
     │   (1923)         │                 │ (Oct 1923)     │ (over 2 years)        │
-    │   ───────────────│─────────────────│────────────────│──────────────────────│
+    │   ───────────────│─────────────────│────────────────│────────────────────── │
     │   Zimbabwe       │ 2007-2009       │ 79,600,000,000%│ 10,000,000,000,000:1  │
     │                  │                 │ (Nov 2008)     │                       │
-    │   ───────────────│─────────────────│────────────────│──────────────────────│
+    │   ───────────────│─────────────────│────────────────│────────────────────── │
     │   Yugoslavia     │ 1992-1994       │ 313,000,000%   │ 100,000,000,000:1     │
-    │   ───────────────│─────────────────│────────────────│──────────────────────│
-    │   Hungary        │ 1945-1946       │ 41,900,000,000,│ 400,000,000,000,000, │
+    │   ───────────────│─────────────────│────────────────│────────────────────── │
+    │   Hungary        │ 1945-1946       │ 41,900,000,000,│ 400,000,000,000,000,  │
     │                  │                 │ 000% (July 46) │ 000,000,000,000,000:1 │
-    │   ───────────────│─────────────────│────────────────│──────────────────────│
-    │   Venezuela      │ 2016-2021       │ 53,000,000%    │ 100,000,000:1        │
+    │   ───────────────│─────────────────│────────────────│────────────────────── │
+    │   Venezuela      │ 2016-2021       │ 53,000,000%    │ 100,000,000:1         │
     │                  │                 │ (2019)         │                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
