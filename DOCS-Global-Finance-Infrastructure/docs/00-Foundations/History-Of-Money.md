@@ -139,19 +139,19 @@ CHARACTERISTICS OF GOOD MONEY
     │                     │ transport                   │ weight                  │
     │   ──────────────────│─────────────────────────────│─────────────────────────│
     │   Divisibility      │ Can be divided into         │ Gold can be melted      │
-    │                     │ smaller units               │ and divided              │
+    │                     │ smaller units               │ and divided             │
     │   ──────────────────│─────────────────────────────│─────────────────────────│
     │   Uniformity        │ Each unit is identical      │ Pure gold is same       │
-    │                     │ to others                   │ everywhere               │
+    │                     │ to others                   │ everywhere              │
     │   ──────────────────│─────────────────────────────│─────────────────────────│
     │   Recognizability   │ Easy to identify and        │ Gold color and weight   │
-    │                     │ verify                      │ are distinctive          │
+    │                     │ verify                      │ are distinctive         │
     │   ──────────────────│─────────────────────────────│─────────────────────────│
     │   Scarcity          │ Limited supply prevents     │ Gold mining is costly,  │
-    │                     │ inflation                   │ supply grows slowly      │
+    │                     │ inflation                   │ supply grows slowly     │
     │   ──────────────────│─────────────────────────────│─────────────────────────│
     │   Stability         │ Value remains relatively    │ Gold value stable over  │
-    │                     │ constant over time          │ centuries                │
+    │                     │ constant over time          │ centuries               │
     │   ──────────────────│─────────────────────────────│─────────────────────────│
     │   Acceptability     │ Widely accepted in trade    │ Gold accepted globally  │
     │                     │                             │ throughout history      │
