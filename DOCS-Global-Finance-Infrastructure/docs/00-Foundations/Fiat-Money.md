@@ -512,29 +512,28 @@ FIAT VS GOLD STANDARD
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Aspect            │ Fiat Money              │ Gold Standard              │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Supply control    │ Active (central bank)   │ Passive (mining rate)      │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Inflation         │ Possible (policy error) │ Low (limited supply)       │
-    │   response          │                         │                            │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Deflation         │ Possible (policy error) │ Common (supply fixed,      │
-    │   response          │                         │ output grows)              │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Crisis response   │ Can inject liquidity   │ Constrained (limited gold)  │
-    │   (2008, 2020)      │ freely                 │                            │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Seigniorage       │ Full profit to         │ None (gold miners profit)   │
-    │                     │ government              │                            │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   International     │ Floating exchange      │ Fixed exchange rates       │
-    │   adjustment        │ rates                   │ (often unstable)           │
-    │   ──────────────────│────────────────────────│────────────────────────────│
-    │   Current system    │ Universal since 1971   │ Ended 1914-1971            │
-    │                     │ (Nixon shock)           │ (final US gold window      │
-    │                     │                         │ closed 1971)               │
-    │                                                                             │
+    │   Aspect            │ Fiat Money             │ Gold Standard                │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Supply control    │ Active (central bank)  │ Passive (mining rate)        │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Inflation         │ Possible (policy error)│ Low (limited supply)         │
+    │   response          │                        │                              │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Deflation         │ Possible (policy error)│ Common (supply fixed,        │
+    │   response          │                        │ output grows)                │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Crisis response   │ Can inject liquidity   │ Constrained (limited gold)   │
+    │   (2008, 2020)      │ freely                 │                              │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Seigniorage       │ Full profit to         │ None (gold miners profit)    │
+    │                     │ government             │                              │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   International     │ Floating exchange      │ Fixed exchange rates         │
+    │   adjustment        │ rates                  │ (often unstable)             │
+    │   ──────────────────│────────────────────────│────────────────────────────  │
+    │   Current system    │ Universal since 1971   │ Ended 1914-1971              │
+    │                     │ (Nixon shock)          │ (final US gold window        │
+    │                     │                        │ closed 1971)                 │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
