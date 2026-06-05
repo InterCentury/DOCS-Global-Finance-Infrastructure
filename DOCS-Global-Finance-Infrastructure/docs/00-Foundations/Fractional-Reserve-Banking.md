@@ -456,30 +456,30 @@ MODERN FRACTIONAL RESERVE PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK sets policy rate and pays interest on reserves             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   COMMERCIAL BANKS hold reserves at central bank                          │
-    │        │                                                                   │
-    │        ├── Required reserves (if any)                                     │
-    │        └── Excess reserves (earn interest)                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   BANKS LEND to creditworthy borrowers                                    │
-    │        │                                                                   │
-    │        ├── Loans create new deposits (money creation)                     │
-    │        ├── Loans are funded by both deposits and bank capital             │
-    │        └── Loans are constrained by capital requirements                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   LOANS ARE SECURITIZED or held to maturity                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   RISK MANAGEMENT: Diversification, stress testing, hedging              │
+    │   CENTRAL BANK sets policy rate and pays interest on reserves               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   COMMERCIAL BANKS hold reserves at central bank                            │
+    │        │                                                                    │
+    │        ├── Required reserves (if any)                                       │
+    │        └── Excess reserves (earn interest)                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   BANKS LEND to creditworthy borrowers                                      │
+    │        │                                                                    │
+    │        ├── Loans create new deposits (money creation)                       │
+    │        ├── Loans are funded by both deposits and bank capital               │
+    │        └── Loans are constrained by capital requirements                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   LOANS ARE SECURITIZED or held to maturity                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   RISK MANAGEMENT: Diversification, stress testing, hedging                 │
     │                                                                             │
-    │   DEPOSIT INSURANCE protects retail depositors                            │
+    │   DEPOSIT INSURANCE protects retail depositors                              │
     │                                                                             │
-    │   SUPERVISION: Regular examinations, stress tests, capital reviews        │
+    │   SUPERVISION: Regular examinations, stress tests, capital reviews          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
