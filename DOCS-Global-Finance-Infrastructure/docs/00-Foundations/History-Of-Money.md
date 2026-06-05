@@ -1,4 +1,4 @@
-# 06 - History of Money
+# History of Money
 
 ## Documentation Overview
 
