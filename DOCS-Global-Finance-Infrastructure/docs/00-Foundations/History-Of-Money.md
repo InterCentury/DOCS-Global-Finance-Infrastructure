@@ -176,25 +176,25 @@ LYDIAN COIN INNOVATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BEFORE COINS: Precious metals weighed for each transaction              │
+    │   BEFORE COINS: Precious metals weighed for each transaction                │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Merchant: "I need to pay 5 grams of gold"                          │   │
     │   │  Scales: Balance weighed gold each time                             │   │
-    │   │  Problem: Time-consuming, fraud possible (debased metals)          │   │
+    │   │  Problem: Time-consuming, fraud possible (debased metals)           │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   LYDIAN SOLUTION: Standardized coins with official stamp                 │
+    │   LYDIAN SOLUTION: Standardized coins with official stamp                   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   ┌─────────┐                                                        │   │
+    │   │   ┌─────────┐                                                       │   │
     │   │   │   ██    │  Electrum coin (natural gold-silver alloy)            │   │
     │   │   │   ██    │  Stamped with lion's head                             │   │
     │   │   └─────────┘  Guaranteed weight and purity by the king             │   │
     │   │                                                                     │   │
-    │   │   Advantages:                                                        │   │
+    │   │   Advantages:                                                       │   │
     │   │   ├── No weighing needed                                            │   │
     │   │   ├── No purity testing needed                                      │   │
     │   │   ├── Royal guarantee prevented counterfeiting                      │   │
@@ -202,10 +202,10 @@ LYDIAN COIN INNOVATION
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Croesus (560-546 BCE): First bimetallic system                         │
-    │   ├── Pure gold coins (Croeseid)                                          │
-    │   ├── Pure silver coins                                                   │
-    │   └── Fixed exchange rate between gold and silver                        │
+    │   Croesus (560-546 BCE): First bimetallic system                            │
+    │   ├── Pure gold coins (Croeseid)                                            │
+    │   ├── Pure silver coins                                                     │
+    │   └── Fixed exchange rate between gold and silver                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
