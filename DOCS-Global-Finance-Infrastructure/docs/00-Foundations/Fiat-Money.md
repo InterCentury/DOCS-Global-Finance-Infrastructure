@@ -624,31 +624,31 @@ FIAT MONEY FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Quantity Theory: MV = PQ                                                 │
-    │   M = Money Supply                                                         │
-    │   V = Velocity of Money                                                    │
-    │   P = Price Level                                                          │
-    │   Q = Real Output                                                          │
+    │   Quantity Theory: MV = PQ                                                  │
+    │   M = Money Supply                                                          │
+    │   V = Velocity of Money                                                     │
+    │   P = Price Level                                                           │
+    │   Q = Real Output                                                           │
     │                                                                             │
-    │   Money Multiplier = 1 / Reserve Requirement Ratio                         │
+    │   Money Multiplier = 1 / Reserve Requirement Ratio                          │
     │                                                                             │
-    │   Total Money Supply = Monetary Base × Money Multiplier                    │
+    │   Total Money Supply = Monetary Base × Money Multiplier                     │
     │                                                                             │
-    │   Seigniorage (Physical) = Face Value - Production Cost                    │
+    │   Seigniorage (Physical) = Face Value - Production Cost                     │
     │                                                                             │
-    │   Seigniorage (Digital) = Face Value (effective)                           │
+    │   Seigniorage (Digital) = Face Value (effective)                            │
     │                                                                             │
-    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100      │
+    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100        │
     │                                                                             │
-    │   Real Value of Money = Nominal Value / Price Level                        │
+    │   Real Value of Money = Nominal Value / Price Level                         │
     │                                                                             │
-    │   Real Interest Rate = Nominal Rate - Inflation Rate                       │
+    │   Real Interest Rate = Nominal Rate - Inflation Rate                        │
     │                                                                             │
-    │   Purchasing Power Decline = 1 - (1 / (1 + Inflation Rate))                │
-    │   Example: 10% inflation → 1 - (1/1.1) = 9.1% decline in purchasing power  │
+    │   Purchasing Power Decline = 1 - (1 / (1 + Inflation Rate))                 │
+    │   Example: 10% inflation → 1 - (1/1.1) = 9.1% decline in purchasing power   │
     │                                                                             │
-    │   Hyperinflation (Cagan model): ln(P) = ln(M) × α + constant              │
-    │   (Prices increase exponentially with money supply during hyperinflation)  │
+    │   Hyperinflation (Cagan model): ln(P) = ln(M) × α + constant                │
+    │   (Prices increase exponentially with money supply during hyperinflation)   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
