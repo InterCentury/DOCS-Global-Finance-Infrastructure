@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the limitations of barter systems                             │
-    │   Learn the emergence and characteristics of commodity money               │
-    │   Study the invention and spread of coinage                                │
-    │   Analyze the development of paper money and banknotes                     │
-    │   Examine the gold standard era and its collapse                           │
-    │   Understand the transition to fiat money                                  │
-    │   Learn the evolution of electronic and digital payments                   │
-    │   Study the emergence of cryptocurrencies and CBDCs                        │
+    │   Understand the limitations of barter systems                              │
+    │   Learn the emergence and characteristics of commodity money                │
+    │   Study the invention and spread of coinage                                 │
+    │   Analyze the development of paper money and banknotes                      │
+    │   Examine the gold standard era and its collapse                            │
+    │   Understand the transition to fiat money                                   │
+    │   Learn the evolution of electronic and digital payments                    │
+    │   Study the emergence of cryptocurrencies and CBDCs                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
