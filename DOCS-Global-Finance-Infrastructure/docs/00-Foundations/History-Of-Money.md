@@ -259,28 +259,28 @@ CHINESE PAPER MONEY DEVELOPMENT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TANG DYNASTY (618-907 CE): Private "flying cash" (feiqian)              │
-    │   ├── Used by merchants to transfer funds between cities                  │
-    │   ├── Receipts issued against coin deposits                               │
-    │   └── Reduced need to transport heavy coins                               │
+    │   TANG DYNASTY (618-907 CE): Private "flying cash" (feiqian)                │
+    │   ├── Used by merchants to transfer funds between cities                    │
+    │   ├── Receipts issued against coin deposits                                 │
+    │   └── Reduced need to transport heavy coins                                 │
     │                                                                             │
-    │   SONG DYNASTY (960-1279 CE): First government-issued paper money         │
-    │   ├── 1024 CE: Official paper currency (jiaozi) in Sichuan province       │
-    │   ├── Backed by copper and iron coin reserves (early convertibility)      │
-    │   ├── Later became irredeemable (over-issuance)                           │
-    │   └── Hyperinflation led to abandonment by 1500 CE                        │
+    │   SONG DYNASTY (960-1279 CE): First government-issued paper money           │
+    │   ├── 1024 CE: Official paper currency (jiaozi) in Sichuan province         │
+    │   ├── Backed by copper and iron coin reserves (early convertibility)        │
+    │   ├── Later became irredeemable (over-issuance)                             │
+    │   └── Hyperinflation led to abandonment by 1500 CE                          │
     │                                                                             │
-    │   YUAN DYNASTY (1271-1368 CE): First nationwide paper currency            │
-    │   ├── Kublai Khan issued chao (unbacked paper money)                      │
-    │   ├── Forced acceptance (legal tender)                                    │
-    │   ├── Gold and silver circulation banned                                  │
-    │   └── Marco Polo marveled at system in his writings                       │
+    │   YUAN DYNASTY (1271-1368 CE): First nationwide paper currency              │
+    │   ├── Kublai Khan issued chao (unbacked paper money)                        │
+    │   ├── Forced acceptance (legal tender)                                      │
+    │   ├── Gold and silver circulation banned                                    │
+    │   └── Marco Polo marveled at system in his writings                         │
     │                                                                             │
-    │   MING DYNASTY (1368-1644 CE): Early success, then collapse               │
-    │   ├── Initial convertibility to silver                                    │
-    │   ├── Over-issuance from 1430s onward                                     │
-    │   ├── Hyperinflation by mid-1400s                                         │
-    │   └── Paper money abandoned by 1500; returned to silver                  │
+    │   MING DYNASTY (1368-1644 CE): Early success, then collapse                 │
+    │   ├── Initial convertibility to silver                                      │
+    │   ├── Over-issuance from 1430s onward                                       │
+    │   ├── Hyperinflation by mid-1400s                                           │
+    │   └── Paper money abandoned by 1500; returned to silver                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
