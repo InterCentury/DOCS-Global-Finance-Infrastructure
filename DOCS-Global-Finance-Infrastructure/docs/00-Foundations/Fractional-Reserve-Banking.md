@@ -312,40 +312,40 @@ BANK RUN MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   NORMAL CONDITIONS                                                        │
+    │   NORMAL CONDITIONS                                                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  BANK BALANCE SHEET                                                  │   │
+    │   │  BANK BALANCE SHEET                                                 │   │
     │   │                                                                     │   │
     │   │  ASSETS                    LIABILITIES                              │   │
-    │   │  ┌─────────────────────┐   ┌─────────────────────────────────────┐ │   │
-    │   │  │ Reserves: $10M      │   │ Deposits: $100M                     │ │   │
-    │   │  │ Loans: $90M         │   │ Capital: $10M (equity)              │ │   │
-    │   │  └─────────────────────┘   └─────────────────────────────────────┘ │   │
+    │   │  ┌─────────────────────┐   ┌─────────────────────────────────────┐  │   │
+    │   │  │ Reserves: $10M      │   │ Deposits: $100M                     │  │   │
+    │   │  │ Loans: $90M         │   │ Capital: $10M (equity)              │  │   │
+    │   │  └─────────────────────┘   └─────────────────────────────────────┘  │   │
     │   │                                                                     │   │
-    │   │  10% reserve ratio: $10M reserves against $100M deposits           │   │
+    │   │  10% reserve ratio: $10M reserves against $100M deposits            │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   RUMOR OR SHOCK TRIGGERS FEAR                                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   DEPOSITORS RUSH TO WITHDRAW                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FIRST WAVE: Bank pays from reserves                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   RESERVES DEPLETED: Bank must sell loans at loss                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FIRE SALE OF ASSETS: Loan values fall                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   CAPITAL DEPLETED: Bank becomes insolvent                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   BANK FAILURE                                                             │
+    │   RUMOR OR SHOCK TRIGGERS FEAR                                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   DEPOSITORS RUSH TO WITHDRAW                                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FIRST WAVE: Bank pays from reserves                                       │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   RESERVES DEPLETED: Bank must sell loans at loss                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FIRE SALE OF ASSETS: Loan values fall                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   CAPITAL DEPLETED: Bank becomes insolvent                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   BANK FAILURE                                                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
