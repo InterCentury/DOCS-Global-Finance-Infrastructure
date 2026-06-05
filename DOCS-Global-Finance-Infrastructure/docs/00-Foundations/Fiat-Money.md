@@ -576,43 +576,43 @@ COMPLETE LIFECYCLE OF FIAT MONEY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CREATION                                                                 │
-    │   │                                                                        │
-    │   ├── Central bank creates reserves (digital)                             │
-    │   ├── Treasury mints coins and prints notes (physical)                    │
-    │   └── Commercial banks create deposits through lending                    │
-    │   │                                                                        │
-    │   ▼                                                                        │
-    │   CIRCULATION                                                             │
-    │   │                                                                        │
-    │   ├── Wages paid to workers                                              │
-    │   ├── Consumers buy goods and services                                    │
-    │   ├── Businesses pay suppliers and taxes                                  │
-    │   ├── Banks lend to borrowers                                             │
-    │   └── Government spends on programs                                       │
-    │   │                                                                        │
-    │   ▼                                                                        │
-    │   VALUE CHANGE (Inflation or Deflation)                                   │
-    │   │                                                                        │
-    │   ├── If money supply grows faster than output → Inflation               │
-    │   ├── If money supply grows slower than output → Deflation               │
-    │   └── Purchasing power changes over time                                 │
-    │   │                                                                        │
-    │   ▼                                                                        │
-    │   DESTRUCTION                                                             │
-    │   │                                                                        │
-    │   ├── Taxes paid to government (removed from circulation)                │
-    │   ├── Central bank sells bonds (absorbs reserves)                        │
-    │   ├── Physical currency withdrawn and destroyed (worn out)               │
-    │   └── Loans repaid (deposits destroyed in fractional reserve)            │
-    │   │                                                                        │
-    │   ▼                                                                        │
-    │   SYSTEM FAILURE (Potential)                                              │
-    │   │                                                                        │
-    │   ├── Hyperinflation: Currency becomes worthless                         │
-    │   ├── Currency abandonment: Shift to foreign currency                    │
-    │   ├── Monetary reform: New currency issued (redenomination)              │
-    │   └── Return to commodity backing or cryptocurrency                      │
+    │   CREATION                                                                  │
+    │   │                                                                         │
+    │   ├── Central bank creates reserves (digital)                               │
+    │   ├── Treasury mints coins and prints notes (physical)                      │
+    │   └── Commercial banks create deposits through lending                      │
+    │   │                                                                         │
+    │   ▼                                                                         │
+    │   CIRCULATION                                                               │
+    │   │                                                                         │
+    │   ├── Wages paid to workers                                                 │
+    │   ├── Consumers buy goods and services                                      │
+    │   ├── Businesses pay suppliers and taxes                                    │
+    │   ├── Banks lend to borrowers                                               │
+    │   └── Government spends on programs                                         │
+    │   │                                                                         │
+    │   ▼                                                                         │
+    │   VALUE CHANGE (Inflation or Deflation)                                     │
+    │   │                                                                         │
+    │   ├── If money supply grows faster than output → Inflation                  │
+    │   ├── If money supply grows slower than output → Deflation                  │
+    │   └── Purchasing power changes over time                                    │
+    │   │                                                                         │
+    │   ▼                                                                         │
+    │   DESTRUCTION                                                               │
+    │   │                                                                         │
+    │   ├── Taxes paid to government (removed from circulation)                   │
+    │   ├── Central bank sells bonds (absorbs reserves)                           │
+    │   ├── Physical currency withdrawn and destroyed (worn out)                  │
+    │   └── Loans repaid (deposits destroyed in fractional reserve)               │
+    │   │                                                                         │
+    │   ▼                                                                         │
+    │   SYSTEM FAILURE (Potential)                                                │
+    │   │                                                                         │
+    │   ├── Hyperinflation: Currency becomes worthless                            │
+    │   ├── Currency abandonment: Shift to foreign currency                       │
+    │   ├── Monetary reform: New currency issued (redenomination)                 │
+    │   └── Return to commodity backing or cryptocurrency                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
