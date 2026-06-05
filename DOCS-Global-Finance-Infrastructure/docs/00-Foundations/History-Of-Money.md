@@ -86,26 +86,26 @@ COMMODITY MONEY THROUGH HISTORY
     │                                                                             │
     │   Commodity        │ Time Period          │ Regions                         │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
-    │   Cattle           │ 9000-6000 BCE        │ Middle East, Africa, Europe    │
+    │   Cattle           │ 9000-6000 BCE        │ Middle East, Africa, Europe     │
     │   (oxen, cows)     │                      │                                 │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
-    │   Grain            │ 8000-3000 BCE        │ Fertile Crescent, China, Egypt │
+    │   Grain            │ 8000-3000 BCE        │ Fertile Crescent, China, Egypt  │
     │   (wheat, barley)  │                      │                                 │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
     │   Salt             │ 6000 BCE - present   │ Africa, Europe, Asia            │
     │                    │ (still used in       │ (word "salary" from Latin       │
     │                    │ Ethiopia)            │ "salarium" - salt payments)     │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
-    │   Cowrie Shells    │ 2000 BCE - 1900 CE   │ Africa, Asia, Pacific Islands  │
+    │   Cowrie Shells    │ 2000 BCE - 1900 CE   │ Africa, Asia, Pacific Islands   │
     │                    │ (longest-used        │ Used in China until 1900s)      │
     │                    │ currency in history) │                                 │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
-    │   Copper           │ 3000 BCE - present   │ Mesopotamia, Egypt, China      │
+    │   Copper           │ 3000 BCE - present   │ Mesopotamia, Egypt, China       │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
-    │   Silver           │ 2500 BCE - present   │ Mesopotamia, Lydia, Greece,    │
+    │   Silver           │ 2500 BCE - present   │ Mesopotamia, Lydia, Greece,     │
     │                    │                      │ Rome, Spain (Spanish dollar)    │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
-    │   Gold             │ 2500 BCE - 1971 CE   │ Egypt, Lydia, Rome, Byzantine, │
+    │   Gold             │ 2500 BCE - 1971 CE   │ Egypt, Lydia, Rome, Byzantine,  │
     │                    │ (end of gold         │ Britain, USA (gold standard)    │
     │                    │ standard)            │                                 │
     │   ─────────────────│──────────────────────│─────────────────────────────────│
@@ -116,7 +116,7 @@ COMMODITY MONEY THROUGH HISTORY
     │   ─────────────────│──────────────────────│─────────────────────────────────│
     │   Rai Stones       │ 500 CE - present     │ Yap Island, Micronesia          │
     │   (limestone disks)│ (still used for      │ Largest stone is 4 meters,      │
-    │                    │ ceremonial exchange) │ weight 4 tons                    │
+    │                    │ ceremonial exchange) │ weight 4 tons                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
