@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand fractional reserve banking definition and mechanics          │
-    │   Learn the distinction between reserves and deposits                      │
-    │   Study the money creation process through lending                         │
-    │   Analyze the money multiplier formula and its limitations                 │
-    │   Examine reserve requirement ratios across jurisdictions                  │
-    │   Understand bank runs and liquidity risk                                  │
-    │   Learn deposit insurance and lender of last resort functions              │
-    │   Study capital requirements and prudential regulation                     │
+    │   Understand fractional reserve banking definition and mechanics            │
+    │   Learn the distinction between reserves and deposits                       │
+    │   Study the money creation process through lending                          │
+    │   Analyze the money multiplier formula and its limitations                  │
+    │   Examine reserve requirement ratios across jurisdictions                   │
+    │   Understand bank runs and liquidity risk                                   │
+    │   Learn deposit insurance and lender of last resort functions               │
+    │   Study capital requirements and prudential regulation                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
