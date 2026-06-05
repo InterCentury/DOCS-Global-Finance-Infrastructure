@@ -34,44 +34,38 @@ BARTER SYSTEM LIMITATIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   THE DOUBLE COINCIDENCE OF WANTS                                          │
+    │   THE DOUBLE COINCIDENCE OF WANTS                                           │
     │                                                                             │
-    │   For barter to occur, each party must want exactly what the other offers  │
-    │   at exactly the same time.                                                │
+    │   For barter to occur, each party must want exactly what the other offers   │
+    │   at exactly the same time.                                                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Farmer has wheat ──► Wants shoes                                 │   │
+    │   │   Farmer has wheat ──► Wants shoes                                  │   │
     │   │                                                                     │   │
-    │   │   Shoemaker has shoes ──► Wants wheat                              │   │
+    │   │   Shoemaker has shoes ──► Wants wheat                               │   │
     │   │                                                                     │   │
-    │   │   RESULT: Successful barter                                        │   │
+    │   │   RESULT: Successful barter                                         │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Farmer has wheat ──► Wants shoes                                 │   │
+    │   │   Farmer has wheat ──► Wants shoes                                  │   │
     │   │                                                                     │   │
-    │   │   Shoemaker has shoes ──► Wants cattle (not wheat)                 │   │
+    │   │   Shoemaker has shoes ──► Wants cattle (not wheat)                  │   │
     │   │                                                                     │   │
     │   │   RESULT: No trade possible                                         │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
+    │   OTHER LIMITATIONS OF BARTER:                                              │
     │                                                                             │
-    │   OTHER LIMITATIONS OF BARTER:                                             │
-    │                                                                             │
-    │   1. Indivisibility: Cannot trade half a cow for a pair of shoes          │
-    │                                                                             │
-    │   2. Lack of standard value: How many chickens equal one goat?            │
-    │                                                                             │
-    │   3. Perishability: Food cannot be stored for future trade                │
-    │                                                                             │
-    │   4. No deferred payment: Cannot easily lend or borrow                    │
-    │                                                                             │
-    │   5. High transaction costs: Time spent searching for trading partners    │
-    │                                                                             │
+    │   1. Indivisibility: Cannot trade half a cow for a pair of shoes            │
+    │   2. Lack of standard value: How many chickens equal one goat?              │
+    │   3. Perishability: Food cannot be stored for future trade                  │
+    │   4. No deferred payment: Cannot easily lend or borrow                      │
+    │   5. High transaction costs: Time spent searching for trading partners      │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
