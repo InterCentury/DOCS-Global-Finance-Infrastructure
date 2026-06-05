@@ -404,21 +404,21 @@ CAPITAL REQUIREMENTS HIERARCHY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FIRST LOSS: EQUITY (Shareholder Capital)                                 │
-    │   ├── Common Equity Tier 1 (CET1): 4.5% minimum                           │
-    │   ├── Additional Tier 1: 1.5%                                              │
-    │   └── Tier 2: 2.0%                                                         │
-    │        │                                                                   │
-    │        │ Losses absorbed here first                                        │
-    │        ▼                                                                   │
-    │   SECOND LOSS: DEPOSIT INSURANCE                                           │
-    │   ├── Covers depositors up to limit                                        │
-    │   └── Funded by bank premiums                                              │
-    │        │                                                                   │
-    │        │ If losses exceed capital and insurance...                         │
-    │        ▼                                                                   │
-    │   THIRD LOSS: DEPOSITORS (Uninsured portion)                               │
-    │   └── Losses beyond capital and insurance limits                          │
+    │   FIRST LOSS: EQUITY (Shareholder Capital)                                  │
+    │   ├── Common Equity Tier 1 (CET1): 4.5% minimum                             │
+    │   ├── Additional Tier 1: 1.5%                                               │
+    │   └── Tier 2: 2.0%                                                          │
+    │        │                                                                    │
+    │        │ Losses absorbed here first                                         │
+    │        ▼                                                                    │
+    │   SECOND LOSS: DEPOSIT INSURANCE                                            │
+    │   ├── Covers depositors up to limit                                         │
+    │   └── Funded by bank premiums                                               │
+    │        │                                                                    │
+    │        │ If losses exceed capital and insurance...                          │
+    │        ▼                                                                    │
+    │   THIRD LOSS: DEPOSITORS (Uninsured portion)                                │
+    │   └── Losses beyond capital and insurance limits                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
