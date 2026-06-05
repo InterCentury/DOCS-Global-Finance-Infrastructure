@@ -225,30 +225,30 @@ MONEY MULTIPLIER FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   SIMPLE MONEY MULTIPLIER (No leakages):                                   │
+    │   SIMPLE MONEY MULTIPLIER (No leakages):                                    │
     │                                                                             │
-    │   m = 1 / rr                                                               │
+    │   m = 1 / rr                                                                │
     │                                                                             │
-    │   Where:                                                                   │
-    │   m = money multiplier                                                     │
-    │   rr = reserve requirement ratio (as decimal)                              │
+    │   Where:                                                                    │
+    │   m = money multiplier                                                      │
+    │   rr = reserve requirement ratio (as decimal)                               │
     │                                                                             │
-    │   Example: rr = 0.10 → m = 1 / 0.10 = 10                                   │
+    │   Example: rr = 0.10 → m = 1 / 0.10 = 10                                    │
     │                                                                             │
     │                                                                             │
-    │   COMPLEX MONEY MULTIPLIER (With leakages):                                │
+    │   COMPLEX MONEY MULTIPLIER (With leakages):                                 │
     │                                                                             │
-    │   m = (1 + c) / (rr + c + e)                                               │
+    │   m = (1 + c) / (rr + c + e)                                                │
     │                                                                             │
-    │   Where:                                                                   │
-    │   c = currency drain ratio (cash held by public / deposits)                │
-    │   e = excess reserve ratio (excess reserves / deposits)                    │
-    │   rr = required reserve ratio                                              │
+    │   Where:                                                                    │
+    │   c = currency drain ratio (cash held by public / deposits)                 │
+    │   e = excess reserve ratio (excess reserves / deposits)                     │
+    │   rr = required reserve ratio                                               │
     │                                                                             │
-    │   Example: c = 0.05, e = 0.01, rr = 0.10                                   │
-    │   m = (1 + 0.05) / (0.10 + 0.05 + 0.01) = 1.05 / 0.16 = 6.56               │
+    │   Example: c = 0.05, e = 0.01, rr = 0.10                                    │
+    │   m = (1 + 0.05) / (0.10 + 0.05 + 0.01) = 1.05 / 0.16 = 6.56                │
     │                                                                             │
-    │   Real-world multiplier is typically 3-8, not the simple 10               │
+    │   Real-world multiplier is typically 3-8, not the simple 10                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
