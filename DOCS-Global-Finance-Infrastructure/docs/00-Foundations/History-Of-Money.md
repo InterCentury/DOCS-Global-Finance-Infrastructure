@@ -221,27 +221,27 @@ COINAGE TIMELINE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   600 BCE    │ First coins, Lydia (electrum)                               │
-    │   560-546 BCE│ Bimetallic system, King Croesus (pure gold and silver)     │
-    │   550 BCE    │ Coinage reaches Greece (Aegina, Athens, Corinth)            │
-    │   520 BCE    │ Persian Daric (gold coin of Darius I)                       │
-    │   269 BCE    │ First Roman silver coins (didrachms)                        │
-    │   211 BCE    │ Roman Denarius introduced (standard Roman silver coin)      │
-    │   221 BCE    │ Qin Dynasty, China standardizes bronze coin (Ban Liang)     │
-    │   118 BCE    │ Chinese Wu Zhu coin (used for over 700 years)               │
-    │   45 CE      │ Roman Aureus (gold coin) standardized                       │
-    │   498 CE     │ Byzantine gold Solidus (nomisma) - standard for 700 years   │
-    │   1252 CE    │ Florence gold Florin (standard European trade coin)        │
-    │   1284 CE    │ Venice gold Ducat (used until 1797)                         │
-    │   1520 CE    │ Spanish Silver Real ("piece of eight") - world's first      │
-    │              │ global currency                                             │
-    │   1660 CE    │ British gold Guinea                                         │
-    │   1816 CE    │ British gold Sovereign                                      │
-    │   1792 CE    │ US Mint established, US Dollar defined as 24.75 grains gold │
-    │   1849 CE    │ US Double Eagle ($20 gold coin)                             │
-    │   1870 CE    │ Latin Monetary Union (France, Italy, Belgium, Switzerland,  │
-    │              │ Greece) standardize coins                                   │
-    │   1933 CE    │ US ends gold coinage (Gold Recall)                          │
+    │   600 BCE    │ First coins, Lydia (electrum)                                │
+    │   560-546 BCE│ Bimetallic system, King Croesus (pure gold and silver)       │
+    │   550 BCE    │ Coinage reaches Greece (Aegina, Athens, Corinth)             │
+    │   520 BCE    │ Persian Daric (gold coin of Darius I)                        │
+    │   269 BCE    │ First Roman silver coins (didrachms)                         │
+    │   211 BCE    │ Roman Denarius introduced (standard Roman silver coin)       │
+    │   221 BCE    │ Qin Dynasty, China standardizes bronze coin (Ban Liang)      │
+    │   118 BCE    │ Chinese Wu Zhu coin (used for over 700 years)                │
+    │   45 CE      │ Roman Aureus (gold coin) standardized                        │
+    │   498 CE     │ Byzantine gold Solidus (nomisma) - standard for 700 years    │
+    │   1252 CE    │ Florence gold Florin (standard European trade coin)          │
+    │   1284 CE    │ Venice gold Ducat (used until 1797)                          │
+    │   1520 CE    │ Spanish Silver Real ("piece of eight") - world's first       │
+    │              │ global currency                                              │
+    │   1660 CE    │ British gold Guinea                                          │
+    │   1816 CE    │ British gold Sovereign                                       │
+    │   1792 CE    │ US Mint established, US Dollar defined as 24.75 grains gold  │
+    │   1849 CE    │ US Double Eagle ($20 gold coin)                              │
+    │   1870 CE    │ Latin Monetary Union (France, Italy, Belgium, Switzerland,   │
+    │              │ Greece) standardize coins                                    │
+    │   1933 CE    │ US ends gold coinage (Gold Recall)                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
