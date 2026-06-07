@@ -1,4 +1,4 @@
-# 08 - Monetary Policy
+# Monetary Policy
 
 ## Documentation Overview
 
