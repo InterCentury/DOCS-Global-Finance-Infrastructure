@@ -758,30 +758,30 @@ INFLATION FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100       │
+    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100        │
     │                                                                             │
-    │   CPI = (Cost of basket current year / Cost of basket base year) × 100     │
+    │   CPI = (Cost of basket current year / Cost of basket base year) × 100      │
     │                                                                             │
-    │   GDP Deflator = (Nominal GDP / Real GDP) × 100                            │
+    │   GDP Deflator = (Nominal GDP / Real GDP) × 100                             │
     │                                                                             │
-    │   Real Interest Rate = Nominal Interest Rate - Inflation Rate              │
+    │   Real Interest Rate = Nominal Interest Rate - Inflation Rate               │
     │                                                                             │
-    │   Real Value = Nominal Value / (1 + Inflation Rate)^Years                  │
+    │   Real Value = Nominal Value / (1 + Inflation Rate)^Years                   │
     │                                                                             │
-    │   Quantity Theory: MV = PQ                                                 │
+    │   Quantity Theory: MV = PQ                                                  │
     │                                                                             │
-    │   %ΔM + %ΔV = %ΔP + %ΔQ (growth rates)                                     │
+    │   %ΔM + %ΔV = %ΔP + %ΔQ (growth rates)                                      │
     │                                                                             │
-    │   Phillips Curve: π = π^e - β(u - u_n) + ε                                 │
+    │   Phillips Curve: π = π^e - β(u - u_n) + ε                                  │
     │                                                                             │
-    │   Fisher Equation: i = r + π^e                                             │
-    │   (i = nominal rate, r = real rate, π^e = expected inflation)              │
+    │   Fisher Equation: i = r + π^e                                              │
+    │   (i = nominal rate, r = real rate, π^e = expected inflation)               │
     │                                                                             │
-    │   Rule of 72 (price doubling time): Years to double = 72 / Inflation Rate  │
-    │   Example: 8% inflation → 72/8 = 9 years to double prices                  │
+    │   Rule of 72 (price doubling time): Years to double = 72 / Inflation Rate   │
+    │   Example: 8% inflation → 72/8 = 9 years to double prices                   │
     │                                                                             │
-    │   Hyperinflation doubling time: Days to double = 72 / Monthly rate (%)     │
-    │   Example: 50% monthly → 72/50 = 1.44 days (about 34 hours)                │
+    │   Hyperinflation doubling time: Days to double = 72 / Monthly rate (%)      │
+    │   Example: 50% monthly → 72/50 = 1.44 days (about 34 hours)                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
