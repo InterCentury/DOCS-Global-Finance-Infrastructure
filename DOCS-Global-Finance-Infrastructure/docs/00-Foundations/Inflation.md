@@ -1,4 +1,4 @@
-# 07 - Inflation
+# Inflation
 
 ## Documentation Overview
 
