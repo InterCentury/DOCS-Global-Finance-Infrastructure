@@ -586,28 +586,28 @@ BITCOIN INNOVATIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   KEY INNOVATIONS:                                                         │
+    │   KEY INNOVATIONS:                                                          │
     │                                                                             │
-    │   1. Blockchain / Distributed Ledger                                       │
-    │      ├── Transactions recorded on public, shared ledger                    │
-    │      ├── No central database                                               │
-    │      └── Thousands of computers verify each transaction                   │
+    │   1. Blockchain / Distributed Ledger                                        │
+    │      ├── Transactions recorded on public, shared ledger                     │
+    │      ├── No central database                                                │
+    │      └── Thousands of computers verify each transaction                     │
     │                                                                             │
-    │   2. Proof of Work (Mining)                                                │
-    │      ├── Computers solve mathematical puzzles                             │
-    │      ├── First to solve adds block to chain                               │
-    │      ├── Receives new bitcoins as reward                                  │
-    │      └── Energy-intensive (criticism)                                     │
+    │   2. Proof of Work (Mining)                                                 │
+    │      ├── Computers solve mathematical puzzles                               │
+    │      ├── First to solve adds block to chain                                 │
+    │      ├── Receives new bitcoins as reward                                    │
+    │      └── Energy-intensive (criticism)                                       │
     │                                                                             │
-    │   3. Fixed Supply (21 million)                                             │
-    │      ├── No central bank to increase supply                               │
-    │      ├── Deflationary by design                                           │
-    │      └── Halving every 4 years reduces new supply                         │
+    │   3. Fixed Supply (21 million)                                              │
+    │      ├── No central bank to increase supply                                 │
+    │      ├── Deflationary by design                                             │
+    │      └── Halving every 4 years reduces new supply                           │
     │                                                                             │
-    │   4. Pseudonymity                                                          │
-    │      ├── Addresses not linked to real identity                            │
-    │      ├── Transactions public but owners unknown                           │
-    │      └── Not fully anonymous (traceable)                                  │
+    │   4. Pseudonymity                                                           │
+    │      ├── Addresses not linked to real identity                              │
+    │      ├── Transactions public but owners unknown                             │
+    │      └── Not fully anonymous (traceable)                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
