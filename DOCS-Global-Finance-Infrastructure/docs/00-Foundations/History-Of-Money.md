@@ -473,37 +473,37 @@ NIXON SHOCK: CAUSES AND CONSEQUENCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CAUSES OF COLLAPSE:                                                      │
+    │   CAUSES OF COLLAPSE:                                                       │
     │                                                                             │
-    │   1. US inflation (Vietnam War, Great Society spending)                   │
-    │      ├── US printed dollars faster than gold production                   │
-    │      └── Foreign central banks accumulated excess dollars                 │
+    │   1. US inflation (Vietnam War, Great Society spending)                     │
+    │      ├── US printed dollars faster than gold production                     │
+    │      └── Foreign central banks accumulated excess dollars                   │
     │                                                                             │
-    │   2. US gold reserves depleted                                             │
-    │      ├── Foreign central banks redeemed dollars for gold                  │
-    │      ├── US gold fell from 20,000 tons (1945) to 8,000 tons (1971)        │
-    │      └── At $35/ounce, remaining gold worth only fraction of dollars      │
+    │   2. US gold reserves depleted                                              │
+    │      ├── Foreign central banks redeemed dollars for gold                    │
+    │      ├── US gold fell from 20,000 tons (1945) to 8,000 tons (1971)          │
+    │      └── At $35/ounce, remaining gold worth only fraction of dollars        │
     │                                                                             │
-    │   3. Speculative attacks                                                   │
-    │      ├── France and other countries demanded gold                         │
-    │      ├── Speculators bet dollar would devalue                             │
-    │      └── System became unsustainable                                      │
-    │                                                                             │
-    │                                                                             │
-    │   AUGUST 15, 1971 - NIXON ANNOUNCES:                                      │
-    │   "I have directed Secretary Connally to suspend temporarily the         │
-    │    convertibility of the dollar into gold..."                             │
+    │   3. Speculative attacks                                                    │
+    │      ├── France and other countries demanded gold                           │
+    │      ├── Speculators bet dollar would devalue                               │
+    │      └── System became unsustainable                                        │
     │                                                                             │
     │                                                                             │
-    │   IMMEDIATE CONSEQUENCES:                                                 │
-    │   ├── End of gold standard worldwide                                      │
-    │   ├── All currencies become fiat money                                    │
-    │   ├── Exchange rates float freely                                         │
-    │   ├── Dollar devalued (later to $38/oz, then $42.22/oz)                   │
-    │   └── Smithsonian Agreement (Dec 1971) attempted salvage but failed       │
+    │   AUGUST 15, 1971 - NIXON ANNOUNCES:                                        │
+    │   "I have directed Secretary Connally to suspend temporarily the            │
+    │    convertibility of the dollar into gold..."                               │
     │                                                                             │
-    │   1973: Final collapse of fixed exchange rates                            │
-    │   └── World shifts to floating exchange rates                             │
+    │                                                                             │
+    │   IMMEDIATE CONSEQUENCES:                                                   │
+    │   ├── End of gold standard worldwide                                        │
+    │   ├── All currencies become fiat money                                      │
+    │   ├── Exchange rates float freely                                           │
+    │   ├── Dollar devalued (later to $38/oz, then $42.22/oz)                     │
+    │   └── Smithsonian Agreement (Dec 1971) attempted salvage but failed         │
+    │                                                                             │
+    │   1973: Final collapse of fixed exchange rates                              │
+    │   └── World shifts to floating exchange rates                               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
