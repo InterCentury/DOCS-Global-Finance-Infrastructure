@@ -340,41 +340,41 @@ GOLD STANDARD MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CORE PRINCIPLE: Currency convertible to gold at fixed rate              │
+    │   CORE PRINCIPLE: Currency convertible to gold at fixed rate                │
     │                                                                             │
-    │   Example: US Dollar = 23.22 grains (1.5046 grams) of fine gold           │
-    │            British Pound = 113 grains (7.322 grams) of fine gold           │
-    │            Exchange rate: £1 = $4.8665 (automatically fixed)               │
-    │                                                                             │
-    │                                                                             │
-    │   AUTOMATIC ADJUSTMENT MECHANISM (Price-Specie Flow)                       │
-    │                                                                             │
-    │   Country has trade surplus                                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Gold flows into country                                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Money supply increases                                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Domestic prices rise                                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Exports become less competitive                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Trade surplus decreases (automatic correction)                          │
+    │   Example: US Dollar = 23.22 grains (1.5046 grams) of fine gold             │
+    │            British Pound = 113 grains (7.322 grams) of fine gold            │
+    │            Exchange rate: £1 = $4.8665 (automatically fixed)                │
     │                                                                             │
     │                                                                             │
-    │   COUNTRIES ON GOLD STANDARD (by 1900):                                   │
-    │   ├── United Kingdom (1821) - first to adopt                              │
-    │   ├── Germany (1871) - using French war reparations                       │
-    │   ├── United States (1879) - after Civil War suspension                  │
-    │   ├── France (1878)                                                       │
-    │   ├── Japan (1897)                                                        │
-    │   ├── Russia (1897)                                                       │
-    │   └── Most of Europe, Latin America, and Asia by 1900                     │
+    │   AUTOMATIC ADJUSTMENT MECHANISM (Price-Specie Flow)                        │
+    │                                                                             │
+    │   Country has trade surplus                                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Gold flows into country                                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Money supply increases                                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Domestic prices rise                                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Exports become less competitive                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Trade surplus decreases (automatic correction)                            │
+    │                                                                             │
+    │                                                                             │
+    │   COUNTRIES ON GOLD STANDARD (by 1900):                                     │
+    │   ├── United Kingdom (1821) - first to adopt                                │
+    │   ├── Germany (1871) - using French war reparations                         │
+    │   ├── United States (1879) - after Civil War suspension                     │
+    │   ├── France (1878)                                                         │
+    │   ├── Japan (1897)                                                          │
+    │   ├── Russia (1897)                                                         │
+    │   └── Most of Europe, Latin America, and Asia by 1900                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
