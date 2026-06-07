@@ -521,23 +521,23 @@ FIAT MONEY SYSTEM CHARACTERISTICS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Characteristic        │ Fiat System (1971-present)                       │
+    │   Characteristic         │ Fiat System (1971-present)                       │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Backing               │ None (government decree + trust)                 │
+    │   Backing                │ None (government decree + trust)                 │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Convertibility        │ Not convertible to any commodity                 │
+    │   Convertibility         │ Not convertible to any commodity                 │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Money supply control  │ Active central bank management                   │
+    │   Money supply control   │ Active central bank management                   │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Exchange rates        │ Floating (market determined)                     │
+    │   Exchange rates         │ Floating (market determined)                     │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Inflation target      │ 2% typical                                       │
+    │   Inflation target       │ 2% typical                                       │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Seigniorage           │ Full profit to government                        │
+    │   Seigniorage            │ Full profit to government                        │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Crisis response       │ Can create unlimited liquidity                   │
+    │   Crisis response        │ Can create unlimited liquidity                   │
     │   ───────────────────────│──────────────────────────────────────────────────│
-    │   Physical form         │ Paper notes, metal coins, digital bank money    │
+    │   Physical form          │ Paper notes, metal coins, digital bank money     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
