@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand inflation definition and measurement                          │
-    │   Learn the distinction between inflation, disinflation, deflation        │
-    │   Study the causes of inflation (demand-pull, cost-push, monetary)        │
-    │   Analyze different types and severity levels of inflation                │
-    │   Examine the effects of inflation on different economic agents           │
-    │   Understand the relationship between inflation and unemployment          │
-    │   Learn central bank roles in controlling inflation                       │
-    │   Study hyperinflation causes and consequences                            │
+    │   Understand inflation definition and measurement                           │
+    │   Learn the distinction between inflation, disinflation, deflation          │
+    │   Study the causes of inflation (demand-pull, cost-push, monetary)          │
+    │   Analyze different types and severity levels of inflation                  │
+    │   Examine the effects of inflation on different economic agents             │
+    │   Understand the relationship between inflation and unemployment            │
+    │   Learn central bank roles in controlling inflation                         │
+    │   Study hyperinflation causes and consequences                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
