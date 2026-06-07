@@ -197,49 +197,49 @@ COST-PUSH INFLATION MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TRIGGERS OF HIGHER PRODUCTION COSTS:                                     │
-    │   ├── Oil price shocks (1973, 1979, 2008, 2022)                           │
-    │   ├── Rising wages (union bargaining, minimum wage increases)              │
-    │   ├── Currency depreciation (imported inputs become more expensive)        │
-    │   ├── Supply chain disruptions (pandemics, wars, natural disasters)        │
-    │   └── Increased regulation or taxes on production                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PRODUCTION COSTS RISE                                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FIRMS REDUCE PRODUCTION AND/OR RAISE PRICES                              │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   OUTPUT FALLS                                          PRICES RISE       │
-    │   (Unemployment rises)                                  (Inflation)        │
+    │   TRIGGERS OF HIGHER PRODUCTION COSTS:                                      │
+    │   ├── Oil price shocks (1973, 1979, 2008, 2022)                             │
+    │   ├── Rising wages (union bargaining, minimum wage increases)               │
+    │   ├── Currency depreciation (imported inputs become more expensive)         │
+    │   ├── Supply chain disruptions (pandemics, wars, natural disasters)         │
+    │   └── Increased regulation or taxes on production                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PRODUCTION COSTS RISE                                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FIRMS REDUCE PRODUCTION AND/OR RAISE PRICES                               │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   OUTPUT FALLS                                          PRICES RISE         │
+    │   (Unemployment rises)                                  (Inflation)         │
     │                                                                             │
     │                                                                             │
-    │   GRAPHICAL REPRESENTATION:                                                │
+    │   GRAPHICAL REPRESENTATION:                                                 │
     │                                                                             │
-    │   Price Level                                                              │
-    │        ▲                                                                   │
-    │        │                                         AS2                       │
-    │        │                                    ──── AS1                       │
-    │     P2 ┼────────────────────────────────────●                              │
-    │        │                                 ●                                 │
-    │     P1 ┼──────────────────────────────●───                                 │
-    │        │                           ●                                      │
-    │        │                        ●                                         │
-    │        │                     ●                                            │
-    │        │                  ●                                               │
-    │        │               ●                                                  │
-    │        │            ●                                                     │
-    │        │         ●                                                        │
-    │        │      ●                                                           │
-    │        │   ●                                                              │
-    │        │ ●                                                                │
-    │        └────────────────────────────────────────────────────────► Output  │
-    │                       Q2   Q1                                             │
+    │   Price Level                                                               │
+    │        ▲                                                                    │
+    │        │                                         AS2                        │
+    │        │                                    ──── AS1                        │
+    │     P2 ┼────────────────────────────────────●                               │
+    │        │                                 ●                                  │
+    │     P1 ┼──────────────────────────────●───                                  │
+    │        │                           ●                                        │
+    │        │                        ●                                           │
+    │        │                     ●                                              │
+    │        │                  ●                                                 │
+    │        │               ●                                                    │
+    │        │            ●                                                       │
+    │        │         ●                                                          │
+    │        │      ●                                                             │
+    │        │   ●                                                                │
+    │        │ ●                                                                  │
+    │        └────────────────────────────────────────────────────────► Output    │
+    │                       Q2   Q1                                               │
     │                                                                             │
-    │   AS shifts left (supply decreases) → Prices rise (P1 to P2)              │
-    │   Output falls (Q1 to Q2) → Stagflation                                    │
+    │   AS shifts left (supply decreases) → Prices rise (P1 to P2)                │
+    │   Output falls (Q1 to Q2) → Stagflation                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
