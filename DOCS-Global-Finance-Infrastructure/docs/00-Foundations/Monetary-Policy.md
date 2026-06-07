@@ -12,13 +12,13 @@ DOCUMENTATION OBJECTIVES
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   Understand monetary policy objectives and mandates                        │
-    │   Learn conventional monetary policy tools                                 │
-    │   Study unconventional policy tools for crises                             │
-    │   Analyze transmission mechanism channels                                  │
-    │   Examine expansionary vs contractionary policy                            │
-    │   Understand inflation targeting frameworks                                │
-    │   Learn central bank independence and credibility                          │
-    │   Study monetary policy in different economic conditions                   │
+    │   Learn conventional monetary policy tools                                  │
+    │   Study unconventional policy tools for crises                              │
+    │   Analyze transmission mechanism channels                                   │
+    │   Examine expansionary vs contractionary policy                             │
+    │   Understand inflation targeting frameworks                                 │
+    │   Learn central bank independence and credibility                           │
+    │   Study monetary policy in different economic conditions                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
