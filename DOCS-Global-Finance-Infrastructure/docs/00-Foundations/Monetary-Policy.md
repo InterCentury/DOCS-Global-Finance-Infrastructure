@@ -36,7 +36,7 @@ MONETARY POLICY OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PRIMARY OBJECTIVES:                                                      │
+    │   PRIMARY OBJECTIVES:                                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  PRICE STABILITY (Low and stable inflation)                         │   │
@@ -48,12 +48,12 @@ MONETARY POLICY OBJECTIVES
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  MAXIMUM EMPLOYMENT (Dual mandate - US Federal Reserve)             │   │
     │   │  ├── Promote conditions for job creation                            │   │
-    │   │  ├── Reduce unemployment toward natural rate                         │   │
+    │   │  ├── Reduce unemployment toward natural rate                        │   │
     │   │  └── Balance with price stability                                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  FINANCIAL STABILITY                                                 │   │
+    │   │  FINANCIAL STABILITY                                                │   │
     │   │  ├── Prevent banking crises and financial panics                    │   │
     │   │  ├── Ensure smooth functioning of payment systems                   │   │
     │   │  └── Act as lender of last resort                                   │   │
