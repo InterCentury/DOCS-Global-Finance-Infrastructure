@@ -564,40 +564,40 @@ EXPECTATIONS-AUGMENTED PHILLIPS CURVE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: π = π^e - β(u - u_n) + ε                                       │
+    │   FORMULA: π = π^e - β(u - u_n) + ε                                         │
     │                                                                             │
-    │   Where:                                                                   │
-    │   π = actual inflation                                                     │
-    │   π^e = expected inflation                                                 │
-    │   u = actual unemployment                                                  │
-    │   u_n = natural rate of unemployment (NAIRU)                               │
-    │   β = sensitivity coefficient                                              │
-    │   ε = supply shock term                                                    │
+    │   Where:                                                                    │
+    │   π = actual inflation                                                      │
+    │   π^e = expected inflation                                                  │
+    │   u = actual unemployment                                                   │
+    │   u_n = natural rate of unemployment (NAIRU)                                │
+    │   β = sensitivity coefficient                                               │
+    │   ε = supply shock term                                                     │
+    │   ────────────────────────────────────────────────────────────────────────  │
     │                                                                             │
+    │   GRAPHICAL REPRESENTATION:                                                 │
     │                                                                             │
-    │   GRAPHICAL REPRESENTATION:                                                │
+    │   Inflation Rate                                                            │
+    │        ▲                                                                    │
+    │        │                                                                    │
+    │        │                    Long-run Phillips Curve (vertical)              │
+    │        │                              │                                     │
+    │        │                              │                                     │
+    │        │                          ┌───┼───┐                                 │
+    │        │                          │   │   │  Short-run curves shift         │
+    │        │                          │   │   │  as expectations change         │
+    │        │                          └───┼───┘                                 │
+    │        │                              │                                     │
+    │        │                              │                                     │
+    │        │                              │                                     │
+    │        │                              │                                     │
+    │        └──────────────────────────────┼────────────────────────► Unemp.     │
+    │                                       │                                     │
+    │                                     u_n                                     │
     │                                                                             │
-    │   Inflation Rate                                                           │
-    │        ▲                                                                   │
-    │        │                                                                   │
-    │        │                    Long-run Phillips Curve (vertical)            │
-    │        │                              │                                    │
-    │        │                              │                                    │
-    │        │                          ┌───┼───┐                                │
-    │        │                          │   │   │  Short-run curves shift        │
-    │        │                          │   │   │  as expectations change        │
-    │        │                          └───┼───┘                                │
-    │        │                              │                                    │
-    │        │                              │                                    │
-    │        │                              │                                    │
-    │        │                              │                                    │
-    │        └──────────────────────────────┼────────────────────────► Unemp.    │
-    │                                       │                                    │
-    │                                     u_n                                    │
-    │                                                                             │
-    │   Key insight: No long-run trade-off between inflation and unemployment   │
-    │   Expansionary policy only lowers unemployment temporarily until           │
-    │   expectations adjust.                                                    │
+    │   Key insight: No long-run trade-off between inflation and unemployment     │
+    │   Expansionary policy only lowers unemployment temporarily until            │
+    │   expectations adjust.                                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
