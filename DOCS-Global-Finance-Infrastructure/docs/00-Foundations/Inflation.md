@@ -481,26 +481,26 @@ INFLATION HEDGES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Asset Class           │ Inflation Protection          │ Effectiveness    │
-    │   ──────────────────────│───────────────────────────────│──────────────────│
-    │   TIPS (Treasury        │ Principal adjusts with CPI    │ Excellent        │
-    │   Inflation-Protected   │                               │                  │
-    │   Securities)           │                               │                  │
-    │   ──────────────────────│───────────────────────────────│──────────────────│
+    │   Asset Class           │ Inflation Protection          │ Effectiveness     │
+    │   ──────────────────────│───────────────────────────────│────────────────── │
+    │   TIPS (Treasury        │ Principal adjusts with CPI    │ Excellent         │
+    │   Inflation-Protected   │                               │                   │
+    │   Securities)           │                               │                   │
+    │   ──────────────────────│───────────────────────────────│────────────────── │
     │   Gold and precious     │ Historical store of value     │ Good (long-term)  │
-    │   metals                │                               │                  │
-    │   ──────────────────────│───────────────────────────────│──────────────────│
+    │   metals                │                               │                   │
+    │   ──────────────────────│───────────────────────────────│────────────────── │
     │   Real estate           │ Rents and values rise with    │ Good              │
-    │                         │ inflation                     │                  │
-    │   ──────────────────────│───────────────────────────────│──────────────────│
+    │                         │ inflation                     │                   │
+    │   ──────────────────────│───────────────────────────────│────────────────── │
     │   Commodities (oil,     │ Prices rise directly with     │ Good              │
-    │   food, metals)         │ inflation                     │                  │
-    │   ──────────────────────│───────────────────────────────│──────────────────│
-    │   Equities (stocks)     │ Companies can raise prices    │ Moderate         │
-    │   ──────────────────────│───────────────────────────────│──────────────────│
-    │   Cash                  │ Loses value directly          │ Poor             │
-    │   ──────────────────────│───────────────────────────────│──────────────────│
-    │   Fixed-rate bonds      │ Real returns decline          │ Poor             │
+    │   food, metals)         │ inflation                     │                   │
+    │   ──────────────────────│───────────────────────────────│────────────────── │
+    │   Equities (stocks)     │ Companies can raise prices    │ Moderate          │
+    │   ──────────────────────│───────────────────────────────│────────────────── │
+    │   Cash                  │ Loses value directly          │ Poor              │
+    │   ──────────────────────│───────────────────────────────│────────────────── │
+    │   Fixed-rate bonds      │ Real returns decline          │ Poor              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
