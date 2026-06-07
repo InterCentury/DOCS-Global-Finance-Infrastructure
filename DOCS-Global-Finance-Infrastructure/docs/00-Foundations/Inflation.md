@@ -686,20 +686,20 @@ GERMAN HYPERINFLATION (1923)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Date          │ Marks per US Dollar    │ Notes                           │
-    │   ──────────────│────────────────────────│─────────────────────────────────│
-    │   Jan 1921      │ 64                     │ Pre-hyperinflation             │
-    │   Jan 1922      │ 191                    │ Beginning acceleration         │
-    │   Jan 1923      │ 17,972                 │ Rapid increase                 │
-    │   Jul 1923      │ 353,412                │ Galloping                      │
-    │   Aug 1923      │ 4,621,000              │ Hyperinflation begins          │
-    │   Sep 1923      │ 98,860,000             │ Prices double weekly           │
-    │   Oct 1923      │ 25,260,000,000         │ Prices double daily            │
-    │   Nov 1923      │ 4,200,000,000,000      │ Peak hyperinflation            │
-    │   Dec 1923      │ 4,200,000,000,000      │ Currency reform (Rentenmark)   │
+    │   Date          │ Marks per US Dollar    │ Notes                            │
+    │   ──────────────│────────────────────────│───────────────────────────────── │
+    │   Jan 1921      │ 64                     │ Pre-hyperinflation               │
+    │   Jan 1922      │ 191                    │ Beginning acceleration           │
+    │   Jan 1923      │ 17,972                 │ Rapid increase                   │
+    │   Jul 1923      │ 353,412                │ Galloping                        │
+    │   Aug 1923      │ 4,621,000              │ Hyperinflation begins            │
+    │   Sep 1923      │ 98,860,000             │ Prices double weekly             │
+    │   Oct 1923      │ 25,260,000,000         │ Prices double daily              │
+    │   Nov 1923      │ 4,200,000,000,000      │ Peak hyperinflation              │
+    │   Dec 1923      │ 4,200,000,000,000      │ Currency reform (Rentenmark)     │
     │                                                                             │
-    │   Anecdote: Workers paid twice daily. Wheelbarrows of cash for bread.     │
-    │   Children playing with stacks of near-worthless banknotes.               │
+    │   Anecdote: Workers paid twice daily. Wheelbarrows of cash for bread.       │
+    │   Children playing with stacks of near-worthless banknotes.                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
