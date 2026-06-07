@@ -85,25 +85,25 @@ CENTRAL BANK MANDATES COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Central Bank        │ Mandate Type          │ Specific Target            │
-    │   ────────────────────│───────────────────────│────────────────────────────│
-    │   Federal Reserve     │ Dual Mandate          │ Maximum employment +       │
-    │   (US)                │                       │ 2% inflation               │
-    │   ────────────────────│───────────────────────│────────────────────────────│
-    │   European Central    │ Price Stability       │ Below but close to 2%      │
+    │   Central Bank        │ Mandate Type          │ Specific Target             │
+    │   ────────────────────│───────────────────────│──────────────────────────── │
+    │   Federal Reserve     │ Dual Mandate          │ Maximum employment +        │
+    │   (US)                │                       │ 2% inflation                │
+    │   ────────────────────│───────────────────────│──────────────────────────── │
+    │   European Central    │ Price Stability       │ Below but close to 2%       │
     │   Bank (EU)           │ (Hierarchical)        │ inflation                   │
-    │   ────────────────────│───────────────────────│────────────────────────────│
-    │   Bank of England     │ Price Stability +     │ 2% inflation target        │
-    │   (UK)                │ Support growth        │ (symmetric)                │
-    │   ────────────────────│───────────────────────│────────────────────────────│
-    │   Bank of Japan       │ Price Stability       │ 2% inflation target        │
-    │   (JP)                │                       │ (since 2013)               │
-    │   ────────────────────│───────────────────────│────────────────────────────│
-    │   People's Bank of    │ Multiple Objectives   │ Price + growth +           │
-    │   China (CN)          │                       │ exchange rate stability    │
-    │   ────────────────────│───────────────────────│────────────────────────────│
-    │   Reserve Bank of     │ Price Stability +     │ 2-3% inflation target      │
-    │   Australia (AU)      │ Full employment       │                            │
+    │   ────────────────────│───────────────────────│──────────────────────────── │
+    │   Bank of England     │ Price Stability +     │ 2% inflation target         │
+    │   (UK)                │ Support growth        │ (symmetric)                 │
+    │   ────────────────────│───────────────────────│──────────────────────────── │
+    │   Bank of Japan       │ Price Stability       │ 2% inflation target         │
+    │   (JP)                │                       │ (since 2013)                │
+    │   ────────────────────│───────────────────────│──────────────────────────── │
+    │   People's Bank of    │ Multiple Objectives   │ Price + growth +            │
+    │   China (CN)          │                       │ exchange rate stability     │
+    │   ────────────────────│───────────────────────│──────────────────────────── │
+    │   Reserve Bank of     │ Price Stability +     │ 2-3% inflation target       │
+    │   Australia (AU)      │ Full employment       │                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
