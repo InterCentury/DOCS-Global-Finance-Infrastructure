@@ -121,33 +121,33 @@ POLICY RATE TRANSMISSION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK CHANGES POLICY RATE                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   INTERBANK RATES CHANGE                                                   │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   BANK LENDING RATES                                     DEPOSIT RATES     │
-    │   (Loans to businesses,                                 (Savings accounts, │
-    │    mortgages, credit cards)                              money market)     │
-    │        │                                                     │            │
-    │        ▼                                                     ▼            │
-    │   BORROWING COSTS                                       SAVING INCENTIVES  │
-    │   FOR HOUSEHOLDS &                                      (Higher rates      │
-    │   BUSINESSES                                            encourage saving)  │
-    │        │                                                     │            │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    SPENDING AND INVESTMENT                                │
-    │                    (Rate cut: Increase; Rate hike: Decrease)              │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    AGGREGATE DEMAND CHANGES                                │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    INFLATION AND OUTPUT ADJUST                            │
+    │   CENTRAL BANK CHANGES POLICY RATE                                          │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   INTERBANK RATES CHANGE                                                    │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   BANK LENDING RATES                                     DEPOSIT RATES      │
+    │   (Loans to businesses,                                 (Savings accounts,  │
+    │    mortgages, credit cards)                              money market)      │
+    │        │                                                     │              │
+    │        ▼                                                     ▼              │
+    │   BORROWING COSTS                                       SAVING INCENTIVES   │
+    │   FOR HOUSEHOLDS &                                      (Higher rates       │
+    │   BUSINESSES                                            encourage saving)   │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    SPENDING AND INVESTMENT                                  │
+    │                    (Rate cut: Increase; Rate hike: Decrease)                │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    AGGREGATE DEMAND CHANGES                                 │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    INFLATION AND OUTPUT ADJUST                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
