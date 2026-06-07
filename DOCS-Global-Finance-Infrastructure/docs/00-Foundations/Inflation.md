@@ -141,47 +141,47 @@ DEMAND-PULL INFLATION MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TRIGGERS OF EXCESS DEMAND:                                               │
-    │   ├── Expansionary monetary policy (low interest rates, money creation)    │
-    │   ├── Expansionary fiscal policy (tax cuts, spending increases)            │
-    │   ├── Currency devaluation (exports cheaper, imports more expensive)       │
-    │   ├── Wealth effects (rising asset prices increase spending)               │
-    │   └── Consumer and business confidence (spending increases)                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   AGGREGATE DEMAND INCREASES FASTER THAN AGGREGATE SUPPLY                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FIRMS RAISE PRICES                                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   INFLATION RISES                                                          │
+    │   TRIGGERS OF EXCESS DEMAND:                                                │
+    │   ├── Expansionary monetary policy (low interest rates, money creation)     │
+    │   ├── Expansionary fiscal policy (tax cuts, spending increases)             │
+    │   ├── Currency devaluation (exports cheaper, imports more expensive)        │
+    │   ├── Wealth effects (rising asset prices increase spending)                │
+    │   └── Consumer and business confidence (spending increases)                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   AGGREGATE DEMAND INCREASES FASTER THAN AGGREGATE SUPPLY                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FIRMS RAISE PRICES                                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   INFLATION RISES                                                           │
     │                                                                             │
     │                                                                             │
-    │   GRAPHICAL REPRESENTATION:                                                │
+    │   GRAPHICAL REPRESENTATION:                                                 │
     │                                                                             │
-    │   Price Level                                                              │
-    │        ▲                                                                   │
-    │        │                                                    AS             │
-    │        │                                                ────               │
-    │        │                                           ────                    │
-    │     P2 ┼───────────────────────────────────────●                           │
-    │        │                                   ●                               │
-    │     P1 ┼────────────────────────────────●──                               │
-    │        │                            ●                                     │
-    │        │                         ●                                        │
-    │        │                      ●                                           │
-    │        │                   ●                                              │
-    │        │                ●                                                 │
-    │        │             ●                                                    │
-    │        │          ●                                                       │
-    │        │       ●                                                          │
-    │        │    ●                                                             │
-    │        │ ●                                                                │
-    │        └────────────────────────────────────────────────────────► Output  │
-    │                   AD1    AD2    AD3                                        │
+    │   Price Level                                                               │
+    │        ▲                                                                    │
+    │        │                                                    AS              │
+    │        │                                                ────                │
+    │        │                                           ────                     │
+    │     P2 ┼───────────────────────────────────────●                            │
+    │        │                                   ●                                │
+    │     P1 ┼────────────────────────────────●──                                 │
+    │        │                            ●                                       │
+    │        │                         ●                                          │
+    │        │                      ●                                             │
+    │        │                   ●                                                │
+    │        │                ●                                                   │
+    │        │             ●                                                      │
+    │        │          ●                                                         │
+    │        │       ●                                                            │
+    │        │    ●                                                               │
+    │        │ ●                                                                  │
+    │        └────────────────────────────────────────────────────────► Output    │
+    │                   AD1    AD2    AD3                                         │
     │                                                                             │
-    │   AD shifts right (demand increases) → Prices rise (P1 to P2)             │
+    │   AD shifts right (demand increases) → Prices rise (P1 to P2)               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
