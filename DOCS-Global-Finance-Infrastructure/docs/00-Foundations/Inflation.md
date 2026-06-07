@@ -715,22 +715,22 @@ US INFLATION 1965-1982
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Year    │ CPI Inflation │ Fed Funds Rate │ Real Rate  │ Notes            │
-    │   ────────│───────────────│────────────────│────────────│──────────────────│
-    │   1965    │ 1.6%          │ 4.0%           │ 2.4%       │ Beginning        │
-    │   1968    │ 4.2%          │ 5.5%           │ 1.3%       │ Vietnam peak     │
-    │   1971    │ 4.4%          │ 4.5%           │ 0.1%       │ Nixon controls   │
-    │   1973    │ 6.2%          │ 7.0%           │ 0.8%       │ Oil shock 1      │
-    │   1974    │ 11.0%         │ 9.0%           │ -2.0%      │ High inflation   │
-    │   1975    │ 9.1%          │ 6.0%           │ -3.1%      │ Recession        │
-    │   1979    │ 11.3%         │ 10.0%          │ -1.3%      │ Oil shock 2      │
-    │   1980    │ 13.5%         │ 13.0%          │ -0.5%      │ Peak inflation   │
-    │   1981    │ 10.3%         │ 15.0%          │ 4.7%       │ Volcker tight    │
-    │   1982    │ 6.2%          │ 10.0%          │ 3.8%       │ Inflation falls  │
+    │   Year    │ CPI Inflation │ Fed Funds Rate │ Real Rate  │ Notes             │
+    │   ────────│───────────────│────────────────│────────────│────────────────── │
+    │   1965    │ 1.6%          │ 4.0%           │ 2.4%       │ Beginning         │
+    │   1968    │ 4.2%          │ 5.5%           │ 1.3%       │ Vietnam peak      │
+    │   1971    │ 4.4%          │ 4.5%           │ 0.1%       │ Nixon controls    │
+    │   1973    │ 6.2%          │ 7.0%           │ 0.8%       │ Oil shock 1       │
+    │   1974    │ 11.0%         │ 9.0%           │ -2.0%      │ High inflation    │
+    │   1975    │ 9.1%          │ 6.0%           │ -3.1%      │ Recession         │
+    │   1979    │ 11.3%         │ 10.0%          │ -1.3%      │ Oil shock 2       │
+    │   1980    │ 13.5%         │ 13.0%          │ -0.5%      │ Peak inflation    │
+    │   1981    │ 10.3%         │ 15.0%          │ 4.7%       │ Volcker tight     │
+    │   1982    │ 6.2%          │ 10.0%          │ 3.8%       │ Inflation falls   │
     │                                                                             │
-    │   Paul Volcker (Fed Chair 1979-1987): Raised rates to 20% in 1981,        │
-    │   caused deep recession (1981-1982, unemployment 10.8%), but broke        │
-    │   inflation expectations.                                                  │
+    │   Paul Volcker (Fed Chair 1979-1987): Raised rates to 20% in 1981,          │
+    │   caused deep recession (1981-1982, unemployment 10.8%), but broke          │
+    │   inflation expectations.                                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
