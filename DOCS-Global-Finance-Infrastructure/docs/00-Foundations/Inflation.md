@@ -441,25 +441,25 @@ REAL INTEREST RATE CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: Real Interest Rate = Nominal Interest Rate - Inflation Rate     │
+    │   FORMULA: Real Interest Rate = Nominal Interest Rate - Inflation Rate      │
     │                                                                             │
-    │   EXAMPLES:                                                                │
+    │   EXAMPLES:                                                                 │
     │                                                                             │
-    │   Scenario 1: Low inflation                                               │
-    │   Nominal rate = 3%, Inflation = 2%                                       │
-    │   Real rate = 1% (Creditor gains, Debtor loses)                           │
+    │   Scenario 1: Low inflation                                                 │
+    │   Nominal rate = 3%, Inflation = 2%                                         │
+    │   Real rate = 1% (Creditor gains, Debtor loses)                             │
     │                                                                             │
-    │   Scenario 2: Moderate inflation                                          │
-    │   Nominal rate = 5%, Inflation = 5%                                       │
-    │   Real rate = 0% (Wealth transfer neutral)                                │
+    │   Scenario 2: Moderate inflation                                            │
+    │   Nominal rate = 5%, Inflation = 5%                                         │
+    │   Real rate = 0% (Wealth transfer neutral)                                  │
     │                                                                             │
-    │   Scenario 3: High inflation (unanticipated)                              │
-    │   Nominal rate = 6%, Inflation = 12%                                      │
-    │   Real rate = -6% (Debtor gains, Creditor loses)                          │
+    │   Scenario 3: High inflation (unanticipated)                                │
+    │   Nominal rate = 6%, Inflation = 12%                                        │
+    │   Real rate = -6% (Debtor gains, Creditor loses)                            │
     │                                                                             │
-    │   Scenario 4: Deflation                                                   │
-    │   Nominal rate = 2%, Deflation = -2% (Inflation = -2%)                    │
-    │   Real rate = 4% (Creditor gains strongly, Debtor loses strongly)         │
+    │   Scenario 4: Deflation                                                     │
+    │   Nominal rate = 2%, Deflation = -2% (Inflation = -2%)                      │
+    │   Real rate = 4% (Creditor gains strongly, Debtor loses strongly)           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
