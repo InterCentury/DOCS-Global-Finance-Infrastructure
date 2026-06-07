@@ -311,34 +311,34 @@ INFLATION EXPECTATIONS CHANNEL
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PEOPLE EXPECT HIGHER INFLATION                                           │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   WORKERS DEMAND                                      BUSINESSES SET      │
-    │   HIGHER WAGES                                         HIGHER PRICES       │
-    │        │                                                     │            │
-    │        ▼                                                     ▼            │
-    │   LABOR COSTS RISE                                      HIGHER SELLING     │
-    │                                                           PRICES           │
-    │        │                                                     │            │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    ACTUAL INFLATION RISES                                 │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    EXPECTATIONS CONFIRMED                                 │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    SELF-FULFILLING CYCLE CONTINUES                        │
+    │   PEOPLE EXPECT HIGHER INFLATION                                            │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   WORKERS DEMAND                                      BUSINESSES SET        │
+    │   HIGHER WAGES                                         HIGHER PRICES        │
+    │        │                                                     │              │
+    │        ▼                                                     ▼              │
+    │   LABOR COSTS RISE                                      HIGHER SELLING      │
+    │                                                           PRICES            │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    ACTUAL INFLATION RISES                                   │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    EXPECTATIONS CONFIRMED                                   │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    SELF-FULFILLING CYCLE CONTINUES                          │
     │                                                                             │
     │                                                                             │
-    │   Anchored expectations: Central bank credibility keeps expectations       │
-    │   near target (e.g., 2%). Low and stable.                                 │
+    │   Anchored expectations: Central bank credibility keeps expectations        │
+    │   near target (e.g., 2%). Low and stable.                                   │
     │                                                                             │
-    │   Unanchored expectations: Expectations drift upward or downward,         │
-    │   making inflation harder to control.                                     │
+    │   Unanchored expectations: Expectations drift upward or downward,           │
+    │   making inflation harder to control.                                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
