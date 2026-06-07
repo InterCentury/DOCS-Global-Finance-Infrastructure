@@ -451,13 +451,13 @@ BRETTON WOODS SYSTEM STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   INSTITUTIONS CREATED:                                                   │
-    │   ├── International Monetary Fund (IMF): Monitors system, provides loans  │
-    │   ├── World Bank (IBRD): Provides development loans                       │
-    │   └── GATT (later WTO): Manages international trade                      │
+    │   INSTITUTIONS CREATED:                                                     │
+    │   ├── International Monetary Fund (IMF): Monitors system, provides loans    │
+    │   ├── World Bank (IBRD): Provides development loans                         │
+    │   └── GATT (later WTO): Manages international trade                         │
     │                                                                             │
-    │   ADJUSTMENT MECHANISM: Countries could devalue (up to 10%) without       │
-    │                        IMF approval for larger devaluations               │
+    │   ADJUSTMENT MECHANISM: Countries could devalue (up to 10%) without         │
+    │                        IMF approval for larger devaluations                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
