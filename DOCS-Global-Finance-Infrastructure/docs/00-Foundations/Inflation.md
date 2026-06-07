@@ -255,47 +255,47 @@ QUANTITY THEORY OF MONEY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   EQUATION: MV = PQ                                                        │
+    │   EQUATION: MV = PQ                                                         │
     │                                                                             │
-    │   Where:                                                                   │
-    │   M = Money Supply                                                         │
-    │   V = Velocity of Money (average number of times each unit is spent)      │
-    │   P = Price Level                                                          │
-    │   Q = Real Output (quantity of goods and services)                        │
-    │                                                                             │
-    │                                                                             │
-    │   ASSUMING V AND Q ARE CONSTANT IN THE SHORT RUN:                          │
-    │                                                                             │
-    │   %ΔM ≈ %ΔP (Inflation Rate)                                              │
+    │   Where:                                                                    │
+    │   M = Money Supply                                                          │
+    │   V = Velocity of Money (average number of times each unit is spent)        │
+    │   P = Price Level                                                           │
+    │   Q = Real Output (quantity of goods and services)                          │
     │                                                                             │
     │                                                                             │
-    │   EXAMPLE:                                                                 │
+    │   ASSUMING V AND Q ARE CONSTANT IN THE SHORT RUN:                           │
     │                                                                             │
-    │   Money supply increases by 10%                                            │
-    │   Velocity constant                                                        │
-    │   Real output constant (economy at full capacity)                          │
-    │                                                                             │
-    │   Result: Prices must rise by approximately 10%                           │
+    │   %ΔM ≈ %ΔP (Inflation Rate)                                                │
     │                                                                             │
     │                                                                             │
-    │   MONETARY INFLATION PROCESS:                                              │
+    │   EXAMPLE:                                                                  │
     │                                                                             │
-    │   Central bank creates money                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Banks have more reserves                                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Banks lend more                                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Borrowers spend newly created money                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Spending increases faster than production                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Prices rise (inflation)                                                 │
+    │   Money supply increases by 10%                                             │
+    │   Velocity constant                                                         │
+    │   Real output constant (economy at full capacity)                           │
+    │                                                                             │
+    │   Result: Prices must rise by approximately 10%                             │
+    │                                                                             │
+    │                                                                             │
+    │   MONETARY INFLATION PROCESS:                                               │
+    │                                                                             │
+    │   Central bank creates money                                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Banks have more reserves                                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Banks lend more                                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Borrowers spend newly created money                                       │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Spending increases faster than production                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Prices rise (inflation)                                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
