@@ -393,24 +393,24 @@ INTERWAR GOLD STANDARD PROBLEMS
     │   1914-1918  │ World War I: All major currencies suspend gold               │
     │              │ convertibility to finance war spending                       │
     │              │ Result: Inflation, currency depreciation                     │
-    │                                                                             │
+    │ ─────────────────────────────────────────────────────────────────────────── │
     │   1922       │ Genoa Conference: Proposed gold exchange standard            │
     │              │ ├── Only major currencies (dollar, pound) backed by gold     │
     │              │ ├── Other currencies backed by dollars or pounds             │
     │              │ └── Created pyramid of currency reserves                     │
-    │                                                                             │
+    │ ─────────────────────────────────────────────────────────────────────────── │
     │   1925       │ UK returns to gold standard at pre-war parity                │
     │              │ ├── Pound overvalued (deflationary)                          │
     │              │ ├── Mass unemployment and labor unrest                       │
     │              │ ├── Keynes calls it "the greatest mistake"                   │
     │              │ └── Abandoned 1931                                           │
-    │                                                                             │
+    │ ─────────────────────────────────────────────────────────────────────────── │
     │   1929-1933  │ Great Depression                                             │
     │              │ ├── Bank failures across world                               │
     │              │ ├── Gold hoarding                                            │
     │              │ ├── Countries race to abandon gold to reflate                │
     │              │ └── UK abandons 1931, US abandons 1933                       │
-    │                                                                             │
+    │ ─────────────────────────────────────────────────────────────────────────── │
     │   1933       │ US Gold Recall (Executive Order 6102)                        │
     │              │ ├── Forbids private gold ownership (except coins)            │
     │              │ ├── Citizens must sell gold to Treasury                      │
