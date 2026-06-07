@@ -36,39 +36,39 @@ INFLATION, DISINFLATION, DEFLATION COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Price Level                                                              │
-    │        ▲                                                                   │
-    │        │                                                                   │
-    │   120  ┼                                   ●  Inflation (prices rising)    │
-    │        │                                ●                                  │
-    │   115  ┼                             ●                                     │
-    │        │                          ●                                        │
-    │   110  ┼                       ●                                           │
-    │        │                    ●                                              │
-    │   105  ┼                 ●                                                 │
-    │        │              ●                                                    │
-    │   100  ┼──────────●──────────────────────────────────────────────────     │
-    │        │          ●  Disinflation (prices rising slower)                   │
-    │    95  ┼             ●                                                     │
-    │        │                ●                                                  │
-    │    90  ┼                   ●                                               │
-    │        │                       ●  Deflation (prices falling)               │
-    │    85  ┼                          ●                                        │
-    │        │                              ●                                    │
-    │        └────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────► Time      │
-    │             1    2    3    4    5    6    7    8    9    10                │
+    │   Price Level                                                               │
+    │        ▲                                                                    │
+    │        │                                                                    │
+    │   120  ┼                                   ●  Inflation (prices rising)     │
+    │        │                                ●                                   │
+    │   115  ┼                             ●                                      │
+    │        │                          ●                                         │
+    │   110  ┼                       ●                                            │
+    │        │                    ●                                               │
+    │   105  ┼                 ●                                                  │
+    │        │              ●                                                     │
+    │   100  ┼──────────●──────────────────────────────────────────────────       │
+    │        │          ●  Disinflation (prices rising slower)                    │
+    │    95  ┼             ●                                                      │
+    │        │                ●                                                   │
+    │    90  ┼                   ●                                                │
+    │        │                       ●  Deflation (prices falling)                │
+    │    85  ┼                          ●                                         │
+    │        │                              ●                                     │
+    │        └────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────► Time        │
+    │             1    2    3    4    5    6    7    8    9    10                 │
     │                                                                             │
     │                                                                             │
     │   TERM              │ DEFINITION                                            │
     │   ──────────────────│───────────────────────────────────────────────────────│
-    │   Inflation         │ Sustained increase in general price level           │
+    │   Inflation         │ Sustained increase in general price level             │
     │   ──────────────────│───────────────────────────────────────────────────────│
-    │   Disinflation      │ Slowing of the inflation rate (prices still rising,  │
+    │   Disinflation      │ Slowing of the inflation rate (prices still rising,   │
     │                     │ but more slowly)                                      │
     │   ──────────────────│───────────────────────────────────────────────────────│
-    │   Deflation         │ Sustained decrease in general price level            │
+    │   Deflation         │ Sustained decrease in general price level             │
     │   ──────────────────│───────────────────────────────────────────────────────│
-    │   Stagflation       │ High inflation + high unemployment + slow growth     │
+    │   Stagflation       │ High inflation + high unemployment + slow growth      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
