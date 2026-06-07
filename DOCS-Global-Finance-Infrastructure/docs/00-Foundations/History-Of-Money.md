@@ -659,43 +659,43 @@ COMPLETE MONEY TIMELINE
     │                                                                             │
     │   PERIOD                    │ DEVELOPMENT                                   │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   Pre-9000 BCE              │ Barter (direct exchange of goods)            │
+    │   Pre-9000 BCE              │ Barter (direct exchange of goods)             │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   9000-3000 BCE             │ Commodity money (cattle, grain, salt)        │
+    │   9000-3000 BCE             │ Commodity money (cattle, grain, salt)         │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   3000-600 BCE              │ Precious metals (gold, silver, copper)       │
+    │   3000-600 BCE              │ Precious metals (gold, silver, copper)        │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   600 BCE                   │ First coins (Lydia)                          │
+    │   600 BCE                   │ First coins (Lydia)                           │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   600-900 CE                │ Paper money invented (China, Tang Dynasty)   │
+    │   600-900 CE                │ Paper money invented (China, Tang Dynasty)    │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1024 CE                   │ First government paper money (China, Song)   │
+    │   1024 CE                   │ First government paper money (China, Song)    │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1609 CE                   │ Bank of Amsterdam (100% reserve banking)     │
+    │   1609 CE                   │ Bank of Amsterdam (100% reserve banking)      │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1661 CE                   │ First European banknotes (Stockholms Banco)  │
+    │   1661 CE                   │ First European banknotes (Stockholms Banco)   │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1694 CE                   │ Bank of England established                  │
+    │   1694 CE                   │ Bank of England established                   │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1816-1870s                │ Classical gold standard spreads              │
+    │   1816-1870s                │ Classical gold standard spreads               │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1914-1918                 │ World War I: gold standard suspended         │
+    │   1914-1918                 │ World War I: gold standard suspended          │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1925-1931                 │ Failed interwar gold standard return         │
+    │   1925-1931                 │ Failed interwar gold standard return          │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1933                      │ US Gold Recall (private gold illegal)        │
+    │   1933                      │ US Gold Recall (private gold illegal)         │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1944                      │ Bretton Woods system established             │
+    │   1944                      │ Bretton Woods system established              │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1971                      │ Nixon Shock: US ends gold convertibility     │
+    │   1971                      │ Nixon Shock: US ends gold convertibility      │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1971-present              │ Fiat money era (all currencies irredeemable) │
+    │   1971-present              │ Fiat money era (all currencies irredeemable)  │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   1950s-1990s               │ Credit cards, ATMs, electronic banking       │
+    │   1950s-1990s               │ Credit cards, ATMs, electronic banking        │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   2009                      │ Bitcoin launched                             │
+    │   2009                      │ Bitcoin launched                              │
     │   ──────────────────────────│───────────────────────────────────────────────│
-    │   2014-present              │ Central Bank Digital Currency experiments   │
+    │   2014-present              │ Central Bank Digital Currency experiments     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
