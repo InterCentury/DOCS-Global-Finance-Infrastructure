@@ -631,21 +631,21 @@ CBDC DEVELOPMENT TIMELINE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   2014       │ Ecuador: First CBDC project (ended 2018)                    │
-    │   2014       │ China: PBOC begins e-CNY research                           │
-    │   2016       │ Canada: Project Jasper (wholesale DLT)                      │
-    │   2017       │ Singapore: Project Ubin                                     │
-    │   2018       │ Sweden: e-krona project                                     │
-    │   2019       │ China: e-CNY pilot begins (Shenzhen, Suzhou)               │
-    │   2020       │ Bahamas: Sand Dollar (first retail CBDC launched)          │
-    │   2021       │ Nigeria: eNaira launched                                    │
-    │   2021       │ Eastern Caribbean: DCash launched                          │
-    │   2022       │ India: Digital Rupee pilot                                 │
-    │   2023       │ China: e-CNY reaches 250 million users                     │
-    │   2023       │ Brazil: Drex pilot                                         │
-    │   2024       │ Eurozone: Digital Euro preparation phase                   │
-    │   2024-2025  │ Multiple countries: Wholesale CBDC pilots (mBridge,        │
-    │              │ Project Agorá, Project Helvetia)                            │
+    │   2014       │ Ecuador: First CBDC project (ended 2018)                     │
+    │   2014       │ China: PBOC begins e-CNY research                            │
+    │   2016       │ Canada: Project Jasper (wholesale DLT)                       │
+    │   2017       │ Singapore: Project Ubin                                      │
+    │   2018       │ Sweden: e-krona project                                      │
+    │   2019       │ China: e-CNY pilot begins (Shenzhen, Suzhou)                 │
+    │   2020       │ Bahamas: Sand Dollar (first retail CBDC launched)            │
+    │   2021       │ Nigeria: eNaira launched                                     │
+    │   2021       │ Eastern Caribbean: DCash launched                            │
+    │   2022       │ India: Digital Rupee pilot                                   │
+    │   2023       │ China: e-CNY reaches 250 million users                       │
+    │   2023       │ Brazil: Drex pilot                                           │
+    │   2024       │ Eurozone: Digital Euro preparation phase                     │
+    │   2024-2025  │ Multiple countries: Wholesale CBDC pilots (mBridge,          │
+    │              │ Project Agorá, Project Helvetia)                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
