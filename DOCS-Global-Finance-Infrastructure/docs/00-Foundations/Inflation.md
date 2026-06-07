@@ -82,48 +82,48 @@ INFLATION MEASUREMENT METHODS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CONSUMER PRICE INDEX (CPI)                                               │
+    │   CONSUMER PRICE INDEX (CPI)                                                │
     │                                                                             │
-    │   Measures price changes from perspective of urban consumers.              │
+    │   Measures price changes from perspective of urban consumers.               │
     │                                                                             │
-    │   Basket composition (typical US CPI weights):                             │
+    │   Basket composition (typical US CPI weights):                              │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Category                    Weight (%)                             │   │
-    │   │  ───────────────────────────────────────────────────────────────── │   │
+    │   │  ─────────────────────────────────────────────────────────────────  │   │
     │   │  Housing (shelter)           33%                                    │   │
     │   │  Transportation              16%                                    │   │
     │   │  Food                        14%                                    │   │
     │   │  Medical care                 9%                                    │   │
     │   │  Recreation                   6%                                    │   │
-    │   │  Education                   5%                                    │   │
-    │   │  Apparel                     3%                                    │   │
-    │   │  Other goods and services    14%                                   │   │
+    │   │  Education                    5%                                    │   │
+    │   │  Apparel                      3%                                    │   │
+    │   │  Other goods and services    14%                                    │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   FORMULA:                                                                 │
-    │   CPI = (Cost of basket in current year / Cost of basket in base year)    │
-    │         × 100                                                              │
+    │   FORMULA:                                                                  │
+    │   CPI = (Cost of basket in current year / Cost of basket in base year)      │
+    │         × 100                                                               │
     │                                                                             │
-    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100      │
-    │                                                                             │
-    │                                                                             │
-    │   PRODUCER PRICE INDEX (PPI)                                               │
-    │                                                                             │
-    │   Measures price changes from perspective of domestic producers.          │
-    │   Leading indicator for CPI (producer price increases often passed to      │
-    │   consumers).                                                              │
+    │   Inflation Rate = (CPI_current - CPI_previous) / CPI_previous × 100        │
     │                                                                             │
     │                                                                             │
-    │   GDP DEFLATOR                                                             │
+    │   PRODUCER PRICE INDEX (PPI)                                                │
     │                                                                             │
-    │   Broadest measure, covers all domestically produced goods and services.  │
-    │   Formula: GDP Deflator = (Nominal GDP / Real GDP) × 100                   │
+    │   Measures price changes from perspective of domestic producers.            │
+    │   Leading indicator for CPI (producer price increases often passed to       │
+    │   consumers).                                                               │
     │                                                                             │
     │                                                                             │
-    │   CORE INFLATION                                                           │
+    │   GDP DEFLATOR                                                              │
     │                                                                             │
-    │   CPI excluding food and energy (volatile components).                     │
-    │   Reveals underlying inflation trend.                                      │
+    │   Broadest measure, covers all domestically produced goods and services.    │
+    │   Formula: GDP Deflator = (Nominal GDP / Real GDP) × 100                    │
+    │                                                                             │
+    │                                                                             │
+    │   CORE INFLATION                                                            │
+    │                                                                             │
+    │   CPI excluding food and energy (volatile components).                      │
+    │   Reveals underlying inflation trend.                                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
