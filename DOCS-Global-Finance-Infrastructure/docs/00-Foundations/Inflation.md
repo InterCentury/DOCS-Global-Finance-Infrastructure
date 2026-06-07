@@ -613,24 +613,24 @@ MONETARY POLICY TOOLS FOR INFLATION CONTROL
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOOL                    │ HOW IT WORKS                 │ EFFECT          │
-    │   ────────────────────────│─────────────────────────────│─────────────────│
-    │   Raise policy rate       │ Increases cost of            │ Reduces         │
-    │                           │ borrowing for banks          │ borrowing and   │
-    │                           │                             │ spending        │
-    │   ────────────────────────│─────────────────────────────│─────────────────│
-    │   Sell bonds (OMO)        │ Removes reserves from        │ Reduces money   │
-    │                           │ banking system               │ supply          │
-    │   ────────────────────────│─────────────────────────────│─────────────────│
-    │   Raise reserve           │ Reduces money multiplier     │ Reduces lending │
-    │   requirements            │                             │ and deposit     │
-    │                           │                             │ creation        │
-    │   ────────────────────────│─────────────────────────────│─────────────────│
-    │   Quantitative            │ Reduces central bank         │ Reduces money   │
-    │   tightening             │ balance sheet                │ supply          │
-    │   ────────────────────────│─────────────────────────────│─────────────────│
-    │   Forward guidance        │ Signals future rate         │ Shapes          │
-    │   (hawkish)              │ increases                    │ expectations    │
+    │   TOOL                    │ HOW IT WORKS                │ EFFECT            │
+    │   ────────────────────────│─────────────────────────────│─────────────────  │
+    │   Raise policy rate       │ Increases cost of           │ Reduces           │
+    │                           │ borrowing for banks         │ borrowing and     │
+    │                           │                             │ spending          │
+    │   ────────────────────────│─────────────────────────────│─────────────────  │
+    │   Sell bonds (OMO)        │ Removes reserves from       │ Reduces money     │
+    │                           │ banking system              │ supply            │
+    │   ────────────────────────│─────────────────────────────│─────────────────  │
+    │   Raise reserve           │ Reduces money multiplier    │ Reduces lending   │
+    │   requirements            │                             │ and deposit       │
+    │                           │                             │ creation          │
+    │   ────────────────────────│─────────────────────────────│─────────────────  │
+    │   Quantitative            │ Reduces central bank        │ Reduces money     │
+    │   tightening              │ balance sheet               │ supply            │
+    │   ────────────────────────│─────────────────────────────│─────────────────  │
+    │   Forward guidance        │ Signals future rate         │ Shapes            │
+    │   (hawkish)               │ increases                   │ expectations      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
