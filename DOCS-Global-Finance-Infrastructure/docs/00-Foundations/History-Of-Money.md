@@ -553,22 +553,22 @@ ELECTRONIC MONEY TIMELINE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1950       │ Diners Club: First credit card                              │
-    │   1958       │ Bank of America: BankAmericard (later Visa)                │
-    │   1966       │ Interbank Card Association (later MasterCard)              │
-    │   1967       │ First ATM installed (Barclays, London)                      │
-    │   1973       │ SWIFT established (interbank messaging)                     │
-    │   1974       │ First point-of-sale (POS) terminal                          │
-    │   1980s      │ Home banking via telephone                                  │
-    │   1990s      │ Online banking via internet                                 │
-    │   1998       │ PayPal founded                                              │
-    │   1999       │ Mobile banking begins                                       │
-    │   2007       │ First iPhone: mobile payments possible                      │
-    │   2009       │ Contactless payments (credit cards)                         │
-    │   2011       │ Google Wallet (first NFC mobile payment)                    │
-    │   2014       │ Apple Pay launched                                          │
-    │   2016-2020  │ UPI (India), Pix (Brazil), FedNow (US - 2023)              │
-    │              │ Fast payment systems worldwide                              │
+    │   1950       │ Diners Club: First credit card                               │
+    │   1958       │ Bank of America: BankAmericard (later Visa)                  │
+    │   1966       │ Interbank Card Association (later MasterCard)                │
+    │   1967       │ First ATM installed (Barclays, London)                       │
+    │   1973       │ SWIFT established (interbank messaging)                      │
+    │   1974       │ First point-of-sale (POS) terminal                           │
+    │   1980s      │ Home banking via telephone                                   │
+    │   1990s      │ Online banking via internet                                  │
+    │   1998       │ PayPal founded                                               │
+    │   1999       │ Mobile banking begins                                        │
+    │   2007       │ First iPhone: mobile payments possible                       │
+    │   2009       │ Contactless payments (credit cards)                          │
+    │   2011       │ Google Wallet (first NFC mobile payment)                     │
+    │   2014       │ Apple Pay launched                                           │
+    │   2016-2020  │ UPI (India), Pix (Brazil), FedNow (US - 2023)                │
+    │              │ Fast payment systems worldwide                               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
