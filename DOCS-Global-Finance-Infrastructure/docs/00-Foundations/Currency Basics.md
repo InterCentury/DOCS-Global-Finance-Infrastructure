@@ -112,46 +112,46 @@ BARTER VS MONEY ECONOMY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BARTER ECONOMY (Double coincidence required)                            │
+    │   BARTER ECONOMY (Double coincidence required)                              │
     │                                                                             │
-    │   ┌──────────┐                              ┌──────────┐                   │
-    │   │ Farmer   │─────────────────────────────►│ Baker    │                   │
-    │   │ (Wheat)  │◄─────────────────────────────│ (Bread)  │                   │
-    │   └──────────┘                              └──────────┘                   │
-    │        │                                         │                         │
-    │        │ No direct trade                         │ No direct trade         │
-    │        ▼                                         ▼                         │
-    │   ┌──────────┐                              ┌──────────┐                   │
-    │   │ Shoemaker│                              │ Butcher  │                   │
-    │   │ (Shoes)  │                              │ (Meat)   │                   │
-    │   └──────────┘                              └──────────┘                   │
+    │   ┌──────────┐                              ┌──────────┐                    │
+    │   │ Farmer   │─────────────────────────────►│ Baker    │                    │
+    │   │ (Wheat)  │◄─────────────────────────────│ (Bread)  │                    │
+    │   └──────────┘                              └──────────┘                    │
+    │        │                                         │                          │
+    │        │ No direct trade                         │ No direct trade          │
+    │        ▼                                         ▼                          │
+    │   ┌──────────┐                              ┌──────────┐                    │
+    │   │ Shoemaker│                              │ Butcher  │                    │
+    │   │ (Shoes)  │                              │ (Meat)   │                    │
+    │   └──────────┘                              └──────────┘                    │
     │                                                                             │
-    │   Farmer wants shoes. Shoemaker wants meat (not wheat).                    │
-    │   Farmer must find chain of trades: wheat → bread → meat → shoes          │
+    │   Farmer wants shoes. Shoemaker wants meat (not wheat).                     │
+    │   Farmer must find chain of trades: wheat → bread → meat → shoes            │
     │                                                                             │
     │                                                                             │
-    │   MONEY ECONOMY (No double coincidence required)                          │
+    │   MONEY ECONOMY (No double coincidence required)                            │
     │                                                                             │
-    │                      ┌──────────┐                                          │
-    │                      │  MONEY   │                                          │
-    │                      └────┬─────┘                                          │
-    │                ▲          │          ▲                                    │
-    │                │          │          │                                    │
-    │          Sell for      Buy with    Sell for      Buy with                 │
-    │          money          money       money         money                    │
-    │                │          │          │          │                         │
-    │          ┌─────┴──────┐   │   ┌──────┴─────┐    │                         │
-    │          ▼            │   │   ▼            │    │                         │
-    │   ┌──────────┐        │   │   ┌──────────┐ │    │                         │
-    │   │ Farmer   │────────┘   └──►│ Shoemaker│◄┘    │                         │
-    │   │ (Wheat)  │                 │ (Shoes)  │      │                         │
-    │   └──────────┘                 └──────────┘      │                         │
-    │          │                              ▲       │                         │
-    │          │                              │       │                         │
-    │          └──────────────────────────────┘       │                         │
-    │                                                 │                         │
-    │   Farmer sells wheat for money. Buys shoes with same money.               │
-    │   Shoemaker accepts money because others will accept it.                  │
+    │                      ┌──────────┐                                           │
+    │                      │  MONEY   │                                           │
+    │                      └────┬─────┘                                           │
+    │                ▲          │          ▲                                      │
+    │                │          │          │                                      │
+    │          Sell for      Buy with    Sell for                                 │
+    │          money          money       money                                   │
+    │                │          │          │                                      │
+    │          ┌─────┴──────┐   │   ┌──────┴─────┐                                │
+    │          ▼            │   │   ▼            │                                │
+    │   ┌──────────┐        │   │   ┌──────────┐ │                                │
+    │   │ Farmer   │────────┘   └──►│ Shoemaker│◄┘                                │
+    │   │ (Wheat)  │                │ (Shoes)  │                                  │
+    │   └──────────┘                └──────────┘                                  │
+    │          │                              ▲                                   │
+    │          │                              │                                   │
+    │          └──────────────────────────────┘                                   │
+    │                                                                             │
+    │   Farmer sells wheat for money. Buys shoes with same money.                 │
+    │   Shoemaker accepts money because others will accept it.                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
