@@ -271,25 +271,25 @@ CUSTOMER ACCOUNT LEDGER EXAMPLE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Account Number: 12345678                                                 │
-    │   Account Holder: John Smith                                               │
-    │   Account Type: Checking                                                   │
+    │   Account Number: 12345678                                                  │
+    │   Account Holder: John Smith                                                │
+    │   Account Type: Checking                                                    │
     │                                                                             │
-    │   Date        │ Description        │ Debit ($) │ Credit ($) │ Balance ($)  │
-    │   ────────────│────────────────────│───────────│────────────│──────────────│
-    │   2024-01-01  │ Opening Balance    │           │            │ 5,000.00     │
-    │   2024-01-03  │ Direct Deposit     │           │ 2,000.00   │ 7,000.00     │
-    │               │ (Payroll)          │           │            │              │
-    │   2024-01-05  │ ATM Withdrawal     │ 200.00    │            │ 6,800.00     │
-    │   2024-01-07  │ Check #1001        │ 150.00    │            │ 6,650.00     │
-    │   2024-01-10  │ Debit Card Purchase│ 45.50     │            │ 6,604.50     │
-    │   2024-01-15  │ Transfer to Savings│ 500.00    │            │ 6,104.50     │
-    │   2024-01-20  │ Interest Credit    │           │ 5.25       │ 6,109.75     │
-    │   2024-01-25  │ Online Payment     │ 800.00    │            │ 5,309.75     │
-    │   2024-01-31  │ Monthly Fee        │ 10.00     │            │ 5,299.75     │
+    │   Date        │ Description        │ Debit ($) │ Credit ($) │ Balance ($)   │
+    │   ────────────│────────────────────│───────────│────────────│────────────── │
+    │   2024-01-01  │ Opening Balance    │           │            │ 5,000.00      │
+    │   2024-01-03  │ Direct Deposit     │           │ 2,000.00   │ 7,000.00      │
+    │               │ (Payroll)          │           │            │               │
+    │   2024-01-05  │ ATM Withdrawal     │ 200.00    │            │ 6,800.00      │
+    │   2024-01-07  │ Check #1001        │ 150.00    │            │ 6,650.00      │
+    │   2024-01-10  │ Debit Card Purchase│ 45.50     │            │ 6,604.50      │
+    │   2024-01-15  │ Transfer to Savings│ 500.00    │            │ 6,104.50      │
+    │   2024-01-20  │ Interest Credit    │           │ 5.25       │ 6,109.75      │
+    │   2024-01-25  │ Online Payment     │ 800.00    │            │ 5,309.75      │
+    │   2024-01-31  │ Monthly Fee        │ 10.00     │            │ 5,299.75      │
     │                                                                             │
-    │   Bank's perspective: This is a liability account. Credit increases      │
-    │   the bank's obligation to the customer. Debit decreases it.              │
+    │   Bank's perspective: This is a liability account. Credit increases         │
+    │   the bank's obligation to the customer. Debit decreases it.                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
