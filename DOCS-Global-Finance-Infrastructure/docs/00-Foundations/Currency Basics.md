@@ -359,29 +359,29 @@ HIERARCHY OF MONEY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   LEVEL 1: CENTRAL BANK MONEY (Highest, no credit risk)                   │
-    │   ├── Physical currency (notes and coins)                                 │
-    │   └── Bank reserves (digital accounts at central bank)                    │
-    │        │                                                                   │
-    │        │ Backed by central bank                                           │
-    │        ▼                                                                   │
-    │   LEVEL 2: COMMERCIAL BANK MONEY (Fiat convertible to central bank money) │
-    │   ├── Checking accounts                                                   │
-    │   ├── Savings accounts                                                    │
-    │   └── Money market deposits                                               │
-    │        │                                                                   │
-    │        │ Backed by commercial bank                                        │
-    │        ▼                                                                   │
-    │   LEVEL 3: OTHER FINANCIAL INSTITUTION MONEY (Less liquid, higher risk)   │
-    │   ├── Money market mutual funds                                           │
-    │   ├── Repurchase agreements                                               │
-    │   └── Short-term government securities                                    │
-    │        │                                                                   │
-    │        │ Lower acceptability                                              │
-    │        ▼                                                                   │
-    │   LEVEL 4: NON-MONEY FINANCIAL ASSETS                                     │
-    │   ├── Stocks, bonds, real estate, commodities                            │
-    │   └── Must be sold before spending                                        │
+    │   LEVEL 1: CENTRAL BANK MONEY (Highest, no credit risk)                     │
+    │   ├── Physical currency (notes and coins)                                   │
+    │   └── Bank reserves (digital accounts at central bank)                      │
+    │        │                                                                    │
+    │        │ Backed by central bank                                             │
+    │        ▼                                                                    │
+    │   LEVEL 2: COMMERCIAL BANK MONEY (Fiat convertible to central bank money)   │
+    │   ├── Checking accounts                                                     │
+    │   ├── Savings accounts                                                      │
+    │   └── Money market deposits                                                 │
+    │        │                                                                    │
+    │        │ Backed by commercial bank                                          │
+    │        ▼                                                                    │
+    │   LEVEL 3: OTHER FINANCIAL INSTITUTION MONEY (Less liquid, higher risk)     │
+    │   ├── Money market mutual funds                                             │
+    │   ├── Repurchase agreements                                                 │
+    │   └── Short-term government securities                                      │
+    │        │                                                                    │
+    │        │ Lower acceptability                                                │
+    │        ▼                                                                    │
+    │   LEVEL 4: NON-MONEY FINANCIAL ASSETS                                       │
+    │   ├── Stocks, bonds, real estate, commodities                               │
+    │   └── Must be sold before spending                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
