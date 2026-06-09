@@ -559,20 +559,20 @@ CREDIT CHANNEL COMPONENTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BANK LENDING CHANNEL:                                                    │
+    │   BANK LENDING CHANNEL:                                                     │
     │                                                                             │
-    │   Expansionary policy → ↑ Reserves → ↑ Bank lending capacity              │
-    │   → ↑ Loans to businesses and households → ↑ Spending                     │
+    │   Expansionary policy → ↑ Reserves → ↑ Bank lending capacity                │
+    │   → ↑ Loans to businesses and households → ↑ Spending                       │
     │                                                                             │
-    │   Balance sheet channel (borrower):                                        │
+    │   Balance sheet channel (borrower):                                         │
     │                                                                             │
-    │   Expansionary policy → ↑ Asset prices (collateral value)                 │
-    │   → ↑ Net worth of borrowers → ↑ Ability to borrow → ↑ Spending           │
+    │   Expansionary policy → ↑ Asset prices (collateral value)                   │
+    │   → ↑ Net worth of borrowers → ↑ Ability to borrow → ↑ Spending             │
     │                                                                             │
-    │   Balance sheet channel (bank):                                            │
+    │   Balance sheet channel (bank):                                             │
     │                                                                             │
-    │   Expansionary policy → ↑ Bank capital (from asset price increases)       │
-    │   → ↑ Bank lending capacity (capital constraints relaxed)                 │
+    │   Expansionary policy → ↑ Bank capital (from asset price increases)         │
+    │   → ↑ Bank lending capacity (capital constraints relaxed)                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
