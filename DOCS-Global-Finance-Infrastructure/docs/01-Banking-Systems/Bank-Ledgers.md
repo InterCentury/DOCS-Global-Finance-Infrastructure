@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the fundamental purpose of bank ledgers                       │
-    │   Learn double-entry bookkeeping mechanics                                 │
-    │   Study the structure of general ledger and subsidiary ledgers            │
-    │   Analyze the role of ledgers in money creation                           │
-    │   Examine the distinction between bank money and central bank money       │
-    │   Understand ledger reconciliation processes                               │
-    │   Learn the evolution from physical to digital ledgers                    │
-    │   Study distributed ledger technology and its applications                │
+    │   Understand the fundamental purpose of bank ledgers                        │
+    │   Learn double-entry bookkeeping mechanics                                  │
+    │   Study the structure of general ledger and subsidiary ledgers              │
+    │   Analyze the role of ledgers in money creation                             │
+    │   Examine the distinction between bank money and central bank money         │
+    │   Understand ledger reconciliation processes                                │
+    │   Learn the evolution from physical to digital ledgers                      │
+    │   Study distributed ledger technology and its applications                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
