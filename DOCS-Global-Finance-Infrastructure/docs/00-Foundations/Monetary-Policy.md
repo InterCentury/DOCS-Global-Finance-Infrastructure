@@ -629,15 +629,15 @@ WEALTH EFFECT TRANSMISSION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Rate cut → Lower discount rates → Higher present value of future        │
-    │   earnings → Stock prices rise → Household net worth increases            │
-    │   → Households spend more (marginal propensity to consume ≈ 0.03-0.07     │
-    │   per dollar of wealth increase) → Aggregate demand increases             │
+    │   Rate cut → Lower discount rates → Higher present value of future          │
+    │   earnings → Stock prices rise → Household net worth increases              │
+    │   → Households spend more (marginal propensity to consume ≈ 0.03-0.07       │
+    │   per dollar of wealth increase) → Aggregate demand increases               │
     │                                                                             │
-    │   Same mechanism applies to real estate:                                  │
-    │   Lower rates → Lower mortgage rates → Higher house prices               │
-    │   → Home equity increases → Homeowners borrow against equity             │
-    │   → Spending increases                                                     │
+    │   Same mechanism applies to real estate:                                    │
+    │   Lower rates → Lower mortgage rates → Higher house prices                  │
+    │   → Home equity increases → Homeowners borrow against equity                │
+    │   → Spending increases                                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
