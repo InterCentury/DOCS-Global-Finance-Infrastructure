@@ -238,32 +238,32 @@ CHARACTERISTICS OF GOOD MONEY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CHARACTERISTIC    │ MEANING                    │ GOLD EXAMPLE            │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Durability        │ Does not decay or          │ Gold never rusts,       │
-    │                     │ deteriorate over time      │ corrodes, or decays     │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Portability       │ High value relative to     │ Gold has high value     │
-    │                     │ weight and volume          │ per gram                │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Divisibility      │ Can be divided into        │ Gold can be melted and  │
-    │                     │ smaller units without      │ divided into tiny       │
-    │                     │ losing value               │ fractions               │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Uniformity        │ Each unit is identical     │ Pure gold is the same   │
-    │                     │ to every other unit        │ everywhere              │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Recognizability   │ Easy to identify and       │ Gold's color and        │
-    │                     │ verify authenticity        │ weight are distinctive  │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Scarcity          │ Limited supply prevents    │ Gold is rare, mining    │
-    │                     │ value erosion              │ is expensive            │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Stability of      │ Value does not fluctuate   │ Gold value stable over  │
-    │   value             │ widely                     │ long periods            │
-    │   ──────────────────│────────────────────────────│─────────────────────────│
-    │   Acceptability     │ Widely accepted in trade   │ Gold accepted           │
-    │                     │                            │ worldwide historically  │
+    │   CHARACTERISTIC    │ MEANING                    │ GOLD EXAMPLE             │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Durability        │ Does not decay or          │ Gold never rusts,        │
+    │                     │ deteriorate over time      │ corrodes, or decays      │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Portability       │ High value relative to     │ Gold has high value      │
+    │                     │ weight and volume          │ per gram                 │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Divisibility      │ Can be divided into        │ Gold can be melted and   │
+    │                     │ smaller units without      │ divided into tiny        │
+    │                     │ losing value               │ fractions                │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Uniformity        │ Each unit is identical     │ Pure gold is the same    │
+    │                     │ to every other unit        │ everywhere               │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Recognizability   │ Easy to identify and       │ Gold's color and         │
+    │                     │ verify authenticity        │ weight are distinctive   │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Scarcity          │ Limited supply prevents    │ Gold is rare, mining     │
+    │                     │ value erosion              │ is expensive             │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Stability of      │ Value does not fluctuate   │ Gold value stable over   │
+    │   value             │ widely                     │ long periods             │
+    │   ──────────────────│────────────────────────────│───────────────────────── │
+    │   Acceptability     │ Widely accepted in trade   │ Gold accepted            │
+    │                     │                            │ worldwide historically   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
