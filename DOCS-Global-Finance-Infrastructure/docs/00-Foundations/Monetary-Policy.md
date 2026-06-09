@@ -759,25 +759,25 @@ POLICY OPTIONS AT ZERO LOWER BOUND
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Conventional tools exhausted (rates at 0%)                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Unconventional options:                                                 │
+    │   Conventional tools exhausted (rates at 0%)                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Unconventional options:                                                   │
     │                                                                             │
-    │   1. Quantitative Easing (QE)                                             │
-    │      └── Buy long-term bonds, lower long-term rates                       │
+    │   1. Quantitative Easing (QE)                                               │
+    │      └── Buy long-term bonds, lower long-term rates                         │
     │                                                                             │
-    │   2. Forward Guidance                                                      │
-    │      └── Commit to future accommodation                                   │
+    │   2. Forward Guidance                                                       │
+    │      └── Commit to future accommodation                                     │
     │                                                                             │
-    │   3. Negative Interest Rates                                               │
-    │      └── Charge banks for reserves                                        │
+    │   3. Negative Interest Rates                                                │
+    │      └── Charge banks for reserves                                          │
     │                                                                             │
-    │   4. Yield Curve Control (YCC)                                            │
-    │      └── Cap specific bond yields                                         │
+    │   4. Yield Curve Control (YCC)                                              │
+    │      └── Cap specific bond yields                                           │
     │                                                                             │
-    │   5. Credit Easing                                                         │
-    │      └── Purchase private sector assets                                   │
+    │   5. Credit Easing                                                          │
+    │      └── Purchase private sector assets                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
