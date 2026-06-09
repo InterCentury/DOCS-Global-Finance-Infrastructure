@@ -207,27 +207,27 @@ RESERVE REQUIREMENT EFFECT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   RESERVE REQUIREMENT = 10%                                                │
+    │   RESERVE REQUIREMENT = 10%                                                 │
     │                                                                             │
-    │   Money Multiplier = 1 / 0.10 = 10                                         │
-    │   Initial Deposit: $1000                                                   │
-    │   Total Money Created: $10,000                                             │
-    │                                                                             │
-    │                                                                             │
-    │   RESERVE REQUIREMENT INCREASED TO 20%                                     │
-    │                                                                             │
-    │   Money Multiplier = 1 / 0.20 = 5                                          │
-    │   Initial Deposit: $1000                                                   │
-    │   Total Money Created: $5,000                                              │
-    │                                                                             │
-    │   Effect: Cutting money creation capacity by 50%                          │
+    │   Money Multiplier = 1 / 0.10 = 10                                          │
+    │   Initial Deposit: $1000                                                    │
+    │   Total Money Created: $10,000                                              │
     │                                                                             │
     │                                                                             │
-    │   RESERVE REQUIREMENT ELIMINATED (0%)                                      │
+    │   RESERVE REQUIREMENT INCREASED TO 20%                                      │
     │                                                                             │
-    │   Money Multiplier becomes undefined (infinite theoretically)             │
-    │   Central bank uses interest on reserves as primary tool                  │
-    │   Examples: US (2020), UK (1980s), Canada, Australia                       │
+    │   Money Multiplier = 1 / 0.20 = 5                                           │
+    │   Initial Deposit: $1000                                                    │
+    │   Total Money Created: $5,000                                               │
+    │                                                                             │
+    │   Effect: Cutting money creation capacity by 50%                            │
+    │                                                                             │
+    │                                                                             │
+    │   RESERVE REQUIREMENT ELIMINATED (0%)                                       │
+    │                                                                             │
+    │   Money Multiplier becomes undefined (infinite theoretically)               │
+    │   Central bank uses interest on reserves as primary tool                    │
+    │   Examples: US (2020), UK (1980s), Canada, Australia                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
