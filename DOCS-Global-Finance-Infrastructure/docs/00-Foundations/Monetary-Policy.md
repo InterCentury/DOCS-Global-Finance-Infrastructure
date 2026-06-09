@@ -832,30 +832,30 @@ MONETARY POLICY FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Money Multiplier = 1 / Reserve Requirement Ratio                         │
+    │   Money Multiplier = 1 / Reserve Requirement Ratio                          │
     │                                                                             │
-    │   Quantity Theory: MV = PQ                                                 │
+    │   Quantity Theory: MV = PQ                                                  │
     │                                                                             │
-    │   Fisher Equation: i = r + π^e                                             │
-    │   (i = nominal rate, r = real rate, π^e = expected inflation)              │
+    │   Fisher Equation: i = r + π^e                                              │
+    │   (i = nominal rate, r = real rate, π^e = expected inflation)               │
     │                                                                             │
-    │   Taylor Rule: i = r* + π + 0.5(π - π*) + 0.5(y - y*)                     │
-    │   (Policy rate guidance formula)                                           │
+    │   Taylor Rule: i = r* + π + 0.5(π - π*) + 0.5(y - y*)                       │
+    │   (Policy rate guidance formula)                                            │
     │                                                                             │
-    │   Real Interest Rate = Nominal Rate - Inflation Rate                       │
+    │   Real Interest Rate = Nominal Rate - Inflation Rate                        │
     │                                                                             │
-    │   Neutral Rate (r*) = Real rate when economy at full employment           │
-    │   with stable inflation                                                    │
+    │   Neutral Rate (r*) = Real rate when economy at full employment             │
+    │   with stable inflation                                                     │
     │                                                                             │
-    │   Policy Reaction Function: Δi = α(π - π*) + β(u - u_n)                    │
+    │   Policy Reaction Function: Δi = α(π - π*) + β(u - u_n)                     │
     │                                                                             │
-    │   Quantity of Reserves = Monetary Base - Currency in Circulation          │
+    │   Quantity of Reserves = Monetary Base - Currency in Circulation            │
     │                                                                             │
-    │   Excess Reserves = Actual Reserves - Required Reserves                    │
+    │   Excess Reserves = Actual Reserves - Required Reserves                     │
     │                                                                             │
-    │   Discount Window Penalty (Primary) = Policy Rate + 0.50%                  │
+    │   Discount Window Penalty (Primary) = Policy Rate + 0.50%                   │
     │                                                                             │
-    │   Discount Window Penalty (Secondary) = Policy Rate + 1.00%                │
+    │   Discount Window Penalty (Secondary) = Policy Rate + 1.00%                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
