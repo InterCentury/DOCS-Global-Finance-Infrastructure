@@ -138,56 +138,49 @@ DOUBLE-ENTRY RULES
 ### Transaction Examples
 
 ```
-BANK TRANSACTION LEDGER ENTRIES
+BANK TRANSACTION LEDGER ENTRIE
 
-    ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   EXAMPLE 1: Customer deposits $1000 cash                                 │
-    │                                                                             │
-    │   Account                    │ Debit ($)    │ Credit ($)                   │
-    │   ───────────────────────────│──────────────│──────────────────────────────│
-    │   Cash (Asset)               │ 1,000        │                              │
-    │   Customer Deposits (Liability)│            │ 1,000                        │
-    │                                                                             │
-    │   Explanation: Bank receives cash (asset increases) and incurs a deposit   │
-    │   liability to customer (liability increases).                             │
-    │                                                                             │
-    │                                                                             │
-    │   EXAMPLE 2: Bank makes $5000 loan to customer                            │
-    │                                                                             │
-    │   Account                    │ Debit ($)    │ Credit ($)                   │
-    │   ───────────────────────────│──────────────│──────────────────────────────│
-    │   Loans Receivable (Asset)   │ 5,000        │                              │
-    │   Customer Deposit (Liability)│            │ 5,000                         │
-    │                                                                             │
-    │   Explanation: Bank creates a loan asset and credits the customer's       │
-    │   deposit account (new money creation).                                   │
-    │                                                                             │
-    │                                                                             │
-    │   EXAMPLE 3: Customer transfers $200 to another customer                   │
-    │                                                                             │
-    │   Account                    │ Debit ($)    │ Credit ($)                   │
-    │   ───────────────────────────│──────────────│──────────────────────────────│
-    │   Customer A Deposits        │ 200          │                              │
-    │   (Liability)                │              │                              │
-    │   Customer B Deposits        │              │ 200                          │
-    │   (Liability)                │              │                              │
-    │                                                                             │
-    │   Explanation: One liability account decreases, another increases.        │
-    │   Total liabilities unchanged.                                             │
-    │                                                                             │
-    │                                                                             │
-    │   EXAMPLE 4: Bank pays $1000 interest to depositors                        │
-    │                                                                             │
-    │   Account                    │ Debit ($)    │ Credit ($)                   │
-    │   ───────────────────────────│──────────────│──────────────────────────────│
-    │   Interest Expense           │ 1,000        │                              │
-    │   (Equity reduction)         │              │                              │
-    │   Customer Deposits (Liability)│            │ 1,000                        │
-    │                                                                             │
-    │   Explanation: Expense reduces equity; liability to customer increases.   │
-    │                                                                             │
-    └─────────────────────────────────────────────────────────────────────────────┘
+EXAMPLE 1: Customer deposits $1000 cash
+
+    Account                          │ Debit ($)    │ Credit ($)
+    ─────────────────────────────────│──────────────│────────────────────────────
+    Cash (Asset)                     │ 1,000        │
+    Customer Deposits (Liability)    │              │ 1,000
+
+    Explanation: Bank receives cash (asset increases) and incurs a deposit
+    liability to customer (liability increases).
+
+
+EXAMPLE 2: Bank makes $5000 loan to customer
+
+    Account                          │ Debit ($)    │ Credit ($)
+    ─────────────────────────────────│──────────────│────────────────────────────
+    Loans Receivable (Asset)         │ 5,000        │
+    Customer Deposit (Liability)     │              │ 5,000
+
+    Explanation: Bank creates a loan asset and credits the customer's
+    deposit account (new money creation).
+
+
+EXAMPLE 3: Customer transfers $200 to another customer
+
+    Account                          │ Debit ($)    │ Credit ($)
+    ─────────────────────────────────│──────────────│────────────────────────────
+    Customer A Deposits (Liability)  │ 200          │
+    Customer B Deposits (Liability)  │              │ 200
+
+    Explanation: One liability account decreases, another increases.
+    Total liabilities unchanged.
+
+
+EXAMPLE 4: Bank pays $1000 interest to depositors
+
+    Account                          │ Debit ($)    │ Credit ($)
+    ─────────────────────────────────│──────────────│────────────────────────────
+    Interest Expense (Equity reduction)│ 1,000      │
+    Customer Deposits (Liability)    │              │ 1,000
+
+    Explanation: Expense reduces equity; liability to customer increases.
 ```
 
 ## Ledger Structure
