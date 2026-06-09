@@ -64,7 +64,6 @@ DOCS-Global-Finance-Infrastructure/
 │   │   ├── Deflation.md
 │   │   ├── Central-Banks.md
 │   │   ├── Fractional-Reserve-Banking.md
-│   │   ├── Trust-In-Money.md
 │   │   ├── Monetary-Policy.md
 │   │   └── Economic-Systems.md
 │   │
