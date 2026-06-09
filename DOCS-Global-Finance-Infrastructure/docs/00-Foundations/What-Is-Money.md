@@ -36,30 +36,30 @@ MONEY AS A SOCIAL CONSTRUCT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   THE ACCEPTANCE CYCLE:                                                    │
+    │   THE ACCEPTANCE CYCLE:                                                     │
     │                                                                             │
-    │   I accept money because I believe others will accept it from me          │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Others accept money because they believe others will accept it          │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   The belief becomes self-fulfilling                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Money functions as medium of exchange                                    │
+    │   I accept money because I believe others will accept it from me            │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Others accept money because they believe others will accept it            │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   The belief becomes self-fulfilling                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Money functions as medium of exchange                                     │
     │                                                                             │
     │                                                                             │
-    │   KEY INSIGHTS:                                                            │
+    │   KEY INSIGHTS:                                                             │
     │                                                                             │
-    │   Money is not wealth: A millionaire does not become poor by              │
-    │   burning a million dollars. They simply destroy the claim on wealth.     │
+    │   Money is not wealth: A millionaire does not become poor by                │
+    │   burning a million dollars. They simply destroy the claim on wealth.       │
     │                                                                             │
-    │   Money is a claim on real goods and services: It represents a            │
-    │   deferred claim on future production.                                     │
+    │   Money is a claim on real goods and services: It represents a              │
+    │   deferred claim on future production.                                      │
     │                                                                             │
-    │   Money is a social agreement: Its value depends on collective            │
-    │   belief, not intrinsic properties.                                        │
+    │   Money is a social agreement: Its value depends on collective              │
+    │   belief, not intrinsic properties.                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
