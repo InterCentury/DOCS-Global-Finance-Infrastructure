@@ -533,30 +533,30 @@ BRIEF EVOLUTION SEQUENCE
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   BARTER                                                                    │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   COMMODITY MONEY (cattle, grain, salt, shells)                           │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   PRECIOUS METALS (gold, silver, copper)                                   │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   COINAGE (standardized weight, royal stamp)                              │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   COMMODITY-BACKED PAPER (gold certificates)                               │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   FIAT PAPER MONEY (no backing, legal tender)                             │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   DIGITAL BANK MONEY (electronic deposits)                                │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   CRYPTOCURRENCY (decentralized, algorithmic)                             │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   CBDC (central bank digital currency)                                    │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   COMMODITY MONEY (cattle, grain, salt, shells)                             │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   PRECIOUS METALS (gold, silver, copper)                                    │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   COINAGE (standardized weight, royal stamp)                                │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   COMMODITY-BACKED PAPER (gold certificates)                                │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   FIAT PAPER MONEY (no backing, legal tender)                               │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   DIGITAL BANK MONEY (electronic deposits)                                  │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   CRYPTOCURRENCY (decentralized, algorithmic)                               │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   CBDC (central bank digital currency)                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
