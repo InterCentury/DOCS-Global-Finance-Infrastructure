@@ -470,31 +470,31 @@ LIQUIDITY SPECTRUM
     │                                                                             │
     │   MOST LIQUID ◄───────────────────────────────────────────────► LEAST LIQUID│
     │                                                                             │
-    │   Cash                                                                     │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Checking deposits                                                        │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Savings deposits                                                         │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Money market funds                                                       │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Short-term government bonds                                              │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Corporate bonds                                                          │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Stocks                                                                   │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Real estate                                                              │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Art, collectibles                                                        │
+    │   Cash                                                                      │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Checking deposits                                                         │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Savings deposits                                                          │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Money market funds                                                        │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Short-term government bonds                                               │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Corporate bonds                                                           │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Stocks                                                                    │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Real estate                                                               │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Art, collectibles                                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
