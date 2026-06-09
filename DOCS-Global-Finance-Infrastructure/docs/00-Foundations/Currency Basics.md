@@ -397,23 +397,23 @@ MONETARY AGGREGATES (US Federal Reserve definitions)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   AGGREGATE    │ COMPONENTS                        │ LIQUIDITY            │
-    │   ─────────────│───────────────────────────────────│──────────────────────│
-    │   M0 (Monetary │ Physical currency (notes and      │ Most liquid          │
-    │   Base)        │ coins) + Bank reserves at         │ (immediately         │
-    │                │ central bank                      │ spendable)           │
-    │   ─────────────│───────────────────────────────────│──────────────────────│
-    │   M1 (Narrow   │ M0 + Demand deposits +            │ Very liquid          │
-    │   Money)       │ Traveler's checks + Other         │ (checkable)          │
-    │                │ checkable deposits                │                      │
-    │   ─────────────│───────────────────────────────────│──────────────────────│
-    │   M2 (Broad    │ M1 + Savings deposits + Small     │ Moderately liquid    │
-    │   Money)       │ time deposits + Money market      │ (convertible to      │
-    │                │ deposit accounts                  │ cash quickly)        │
-    │   ─────────────│───────────────────────────────────│──────────────────────│
-    │   M3 (Broadest,│ M2 + Large time deposits +        │ Less liquid          │
-    │   discontinued │ Institutional money funds +       │ (notice periods,     │
-    │   in 2006)     │ Repurchase agreements             │ penalties)           │
+    │   AGGREGATE    │ COMPONENTS                        │ LIQUIDITY              │
+    │   ─────────────│───────────────────────────────────│──────────────────────  │
+    │   M0 (Monetary │ Physical currency (notes and      │ Most liquid            │
+    │   Base)        │ coins) + Bank reserves at         │ (immediately           │
+    │                │ central bank                      │ spendable)             │
+    │   ─────────────│───────────────────────────────────│──────────────────────  │
+    │   M1 (Narrow   │ M0 + Demand deposits +            │ Very liquid            │
+    │   Money)       │ Traveler's checks + Other         │ (checkable)            │
+    │                │ checkable deposits                │                        │
+    │   ─────────────│───────────────────────────────────│──────────────────────  │
+    │   M2 (Broad    │ M1 + Savings deposits + Small     │ Moderately liquid      │
+    │   Money)       │ time deposits + Money market      │ (convertible to        │
+    │                │ deposit accounts                  │ cash quickly)          │
+    │   ─────────────│───────────────────────────────────│──────────────────────  │
+    │   M3 (Broadest,│ M2 + Large time deposits +        │ Less liquid            │
+    │   discontinued │ Institutional money funds +       │ (notice periods,       │
+    │   in 2006)     │ Repurchase agreements             │ penalties)             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
