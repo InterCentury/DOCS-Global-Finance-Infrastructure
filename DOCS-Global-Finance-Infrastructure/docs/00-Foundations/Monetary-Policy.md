@@ -801,26 +801,26 @@ MONETARY VS FISCAL POLICY COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Aspect              │ Monetary Policy        │ Fiscal Policy             │
-    │   ────────────────────│────────────────────────│───────────────────────────│
-    │   Conducted by        │ Central bank           │ Government (Treasury)     │
-    │   ────────────────────│────────────────────────│───────────────────────────│
-    │   Main tools          │ Interest rates,        │ Taxes, spending           │
-    │                       │ money supply           │                           │
-    │   ────────────────────│────────────────────────│───────────────────────────│
-    │   Decision speed      │ Fast (meetings         │ Slow (budget process)     │
-    │                       │ every 6-8 weeks)       │                           │
-    │   ────────────────────│────────────────────────│───────────────────────────│
-    │   Implementation lag  │ Short                  │ Long                      │
-    │   ────────────────────│────────────────────────│───────────────────────────│
-    │   Effect lag          │ 12-24 months           │ 6-18 months               │
-    │   ────────────────────│────────────────────────│───────────────────────────│
-    │   Political           │ Independent            │ Highly political          │
-    │   independence        │                         │                           │
-    │   ────────────────────│────────────────────────│───────────────────────────│
-    │   Primary focus       │ Demand management      │ Demand management,        │
-    │                       │                         │ redistribution,           │
-    │                       │                         │ public goods              │
+    │   Aspect              │ Monetary Policy        │ Fiscal Policy              │
+    │   ────────────────────│────────────────────────│─────────────────────────── │
+    │   Conducted by        │ Central bank           │ Government (Treasury)      │
+    │   ────────────────────│────────────────────────│─────────────────────────── │
+    │   Main tools          │ Interest rates,        │ Taxes, spending            │
+    │                       │ money supply           │                            │
+    │   ────────────────────│────────────────────────│─────────────────────────── │
+    │   Decision speed      │ Fast (meetings         │ Slow (budget process)      │
+    │                       │ every 6-8 weeks)       │                            │
+    │   ────────────────────│────────────────────────│─────────────────────────── │
+    │   Implementation lag  │ Short                  │ Long                       │
+    │   ────────────────────│────────────────────────│─────────────────────────── │
+    │   Effect lag          │ 12-24 months           │ 6-18 months                │
+    │   ────────────────────│────────────────────────│─────────────────────────── │
+    │   Political           │ Independent            │ Highly political           │
+    │   independence        │                        │                            │
+    │   ────────────────────│────────────────────────│─────────────────────────── │
+    │   Primary focus       │ Demand management      │ Demand management,         │
+    │                       │                        │ redistribution,            │
+    │                       │                        │ public goods               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
