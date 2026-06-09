@@ -36,9 +36,9 @@ BANK LEDGER FUNDAMENTAL IDENTITY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   THE ACCOUNTING EQUATION:                                                 │
+    │   THE ACCOUNTING EQUATION:                                                  │
     │                                                                             │
-    │   ASSETS = LIABILITIES + EQUITY                                            │
+    │   ASSETS = LIABILITIES + EQUITY                                             │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
@@ -61,8 +61,8 @@ BANK LEDGER FUNDAMENTAL IDENTITY
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Every transaction affects at least two accounts. The ledger must        │
-    │   always satisfy this equation.                                           │
+    │   Every transaction affects at least two accounts. The ledger must          │
+    │   always satisfy this equation.                                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
