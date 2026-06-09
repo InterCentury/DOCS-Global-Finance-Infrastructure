@@ -167,27 +167,27 @@ UNIT OF ACCOUNT FUNCTION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   WITHOUT MONEY (Multiple prices per good)                                 │
+    │   WITHOUT MONEY (Multiple prices per good)                                  │
     │                                                                             │
-    │   1 cow = 10 goats OR 5 pigs OR 100 chickens OR 2 sheep                   │
-    │   1 goat = 0.1 cows OR 0.5 pigs OR 10 chickens OR 0.2 sheep              │
-    │   1 pig = 0.2 cows OR 2 goats OR 20 chickens OR 0.4 sheep                 │
+    │   1 cow = 10 goats OR 5 pigs OR 100 chickens OR 2 sheep                     │
+    │   1 goat = 0.1 cows OR 0.5 pigs OR 10 chickens OR 0.2 sheep                 │
+    │   1 pig = 0.2 cows OR 2 goats OR 20 chickens OR 0.4 sheep                   │
     │                                                                             │
-    │   With 10 goods, there are 45 distinct exchange rates.                    │
-    │   With 100 goods, there are 4,950 exchange rates.                         │
-    │   With 1,000 goods, there are 499,500 exchange rates.                     │
+    │   With 10 goods, there are 45 distinct exchange rates.                      │
+    │   With 100 goods, there are 4,950 exchange rates.                           │
+    │   With 1,000 goods, there are 499,500 exchange rates.                       │
     │                                                                             │
     │                                                                             │
-    │   WITH MONEY (One price per good)                                          │
+    │   WITH MONEY (One price per good)                                           │
     │                                                                             │
-    │   1 cow = $500                                                             │
-    │   1 goat = $50                                                             │
-    │   1 pig = $100                                                             │
-    │   1 chicken = $5                                                           │
-    │   1 sheep = $250                                                           │
+    │   1 cow = $500                                                              │
+    │   1 goat = $50                                                              │
+    │   1 pig = $100                                                              │
+    │   1 chicken = $5                                                            │
+    │   1 sheep = $250                                                            │
     │                                                                             │
-    │   With 1,000 goods, there are 1,000 prices.                               │
-    │   Comparison is immediate and calculation is simple.                      │
+    │   With 1,000 goods, there are 1,000 prices.                                 │
+    │   Comparison is immediate and calculation is simple.                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
