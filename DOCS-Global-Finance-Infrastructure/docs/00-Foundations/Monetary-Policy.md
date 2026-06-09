@@ -272,27 +272,27 @@ EXPANSIONARY POLICY ACTIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ACTION                    │ MECHANISM                 │ EFFECT           │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Lower policy rate         │ Reduces cost of           │ Increases        │
-    │                            │ borrowing                 │ borrowing and    │
-    │                            │                           │ spending         │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Buy bonds (OMO)           │ Injects reserves into     │ Expands money    │
-    │                            │ banking system            │ supply           │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Lower reserve             │ Increases money           │ Expands credit   │
-    │   requirements              │ multiplier                │ creation         │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Quantitative easing       │ Large-scale asset         │ Injects massive  │
-    │   (QE)                      │ purchases                 │ liquidity        │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Forward guidance          │ Signals low rates for     │ Lowers long-term │
-    │   (dovish)                  │ extended period           │ rates            │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Negative interest rates   │ Charges banks for         │ Forces lending   │
-    │                            │ holding reserves          │ rather than      │
-    │                            │                           │ hoarding         │
+    │   ACTION                    │ MECHANISM                 │ EFFECT            │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Lower policy rate         │ Reduces cost of           │ Increases         │
+    │                             │ borrowing                 │ borrowing and     │
+    │                             │                           │ spending          │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Buy bonds (OMO)           │ Injects reserves into     │ Expands money     │
+    │                             │ banking system            │ supply            │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Lower reserve             │ Increases money           │ Expands credit    │
+    │   requirements              │ multiplier                │ creation          │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Quantitative easing       │ Large-scale asset         │ Injects massive   │
+    │   (QE)                      │ purchases                 │ liquidity         │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Forward guidance          │ Signals low rates for     │ Lowers long-term  │
+    │   (dovish)                  │ extended period           │ rates             │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Negative interest rates   │ Charges banks for         │ Forces lending    │
+    │                             │ holding reserves          │ rather than       │
+    │                             │                           │ hoarding          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
