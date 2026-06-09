@@ -313,23 +313,23 @@ CONTRACTIONARY POLICY ACTIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ACTION                    │ MECHANISM                 │ EFFECT           │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Raise policy rate         │ Increases cost of         │ Reduces          │
-    │                            │ borrowing                 │ borrowing and    │
-    │                            │                           │ spending         │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Sell bonds (OMO)          │ Removes reserves from     │ Contracts money  │
-    │                            │ banking system            │ supply           │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Raise reserve             │ Decreases money           │ Restricts credit │
-    │   requirements              │ multiplier                │ creation         │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Quantitative tightening   │ Reduces central bank      │ Removes          │
-    │   (QT)                      │ balance sheet             │ liquidity        │
-    │   ──────────────────────────│───────────────────────────│──────────────────│
-    │   Forward guidance          │ Signals higher rates      │ Raises long-term │
-    │   (hawkish)                 │ ahead                     │ rates            │
+    │   ACTION                    │ MECHANISM                 │ EFFECT            │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Raise policy rate         │ Increases cost of         │ Reduces           │
+    │                             │ borrowing                 │ borrowing and     │
+    │                             │                           │ spending          │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Sell bonds (OMO)          │ Removes reserves from     │ Contracts money   │
+    │                             │ banking system            │ supply            │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Raise reserve             │ Decreases money           │ Restricts credit  │
+    │   requirements              │ multiplier                │ creation          │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Quantitative tightening   │ Reduces central bank      │ Removes           │
+    │   (QT)                      │ balance sheet             │ liquidity         │
+    │   ──────────────────────────│───────────────────────────│────────────────── │
+    │   Forward guidance          │ Signals higher rates      │ Raises long-term  │
+    │   (hawkish)                 │ ahead                     │ rates             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
