@@ -75,7 +75,6 @@ The bank ledger serves multiple critical functions in the financial system.
 LEDGER FUNCTIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   FUNCTION                │ DESCRIPTION                                     │
     │   ────────────────────────│─────────────────────────────────────────────────│
     │   Record Keeping          │ Maintains permanent record of all               │
@@ -100,7 +99,6 @@ LEDGER FUNCTIONS
     │   ────────────────────────│─────────────────────────────────────────────────│
     │   Financial Statement     │ Feeds into bank's income statement and          │
     │   Preparation             │ balance sheet                                   │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
