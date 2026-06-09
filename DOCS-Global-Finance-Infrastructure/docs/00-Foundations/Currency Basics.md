@@ -437,20 +437,20 @@ MONEY CREATION SOURCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1. CENTRAL BANK creates base money (M0)                                  │
-    │      ├── Prints physical currency                                          │
-    │      ├── Creates digital reserves through open market operations          │
-    │      └── Accounts for 5-10% of total money supply                         │
+    │   1. CENTRAL BANK creates base money (M0)                                   │
+    │      ├── Prints physical currency                                           │
+    │      ├── Creates digital reserves through open market operations            │
+    │      └── Accounts for 5-10% of total money supply                           │
     │                                                                             │
-    │   2. COMMERCIAL BANKS create deposit money (M1/M2)                         │
-    │      ├── Creates new deposits when making loans                           │
-    │      ├── Expands money supply through fractional reserve                  │
-    │      └── Accounts for 90-95% of total money supply                        │
+    │   2. COMMERCIAL BANKS create deposit money (M1/M2)                          │
+    │      ├── Creates new deposits when making loans                             │
+    │      ├── Expands money supply through fractional reserve                    │
+    │      └── Accounts for 90-95% of total money supply                          │
     │                                                                             │
-    │   3. GOVERNMENT creates money (indirectly)                                 │
-    │      ├── Spending injects money into economy                              │
-    │      ├── Taxation removes money                                            │
-    │      └── Through central bank monetization of debt                        │
+    │   3. GOVERNMENT creates money (indirectly)                                  │
+    │      ├── Spending injects money into economy                                │
+    │      ├── Taxation removes money                                             │
+    │      └── Through central bank monetization of debt                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
