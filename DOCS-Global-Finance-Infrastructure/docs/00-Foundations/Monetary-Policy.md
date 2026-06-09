@@ -676,7 +676,7 @@ INFLATION TARGETING FRAMEWORK
     │   ├── Provides clear yardstick for accountability                           │
     │   ├── Reduces time-inconsistency problem                                    │
     │   └── Allows focus on domestic conditions                                   │
-    │                                                                             │
+    │   ────────────────────────────────────────────────────────────────────────  │
     │   DISADVANTAGES:                                                            │
     │   ├── May ignore other objectives (employment, growth)                      │
     │   ├── Difficult to forecast inflation accurately                            │
