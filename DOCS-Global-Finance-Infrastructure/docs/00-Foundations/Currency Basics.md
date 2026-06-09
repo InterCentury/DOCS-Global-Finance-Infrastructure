@@ -203,22 +203,22 @@ STORE OF VALUE COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Asset Type        │ Store of Value Quality        │ Volatility           │
-    │   ──────────────────│───────────────────────────────│──────────────────────│
-    │   Stable fiat       │ Good (2% annual loss)         │ Low                  │
-    │   money (USD, EUR)  │                               │                      │
-    │   ──────────────────│───────────────────────────────│──────────────────────│
-    │   High-inflation    │ Poor (rapid value loss)       │ High                 │
-    │   fiat money        │                               │                      │
-    │   ──────────────────│───────────────────────────────│──────────────────────│
-    │   Gold              │ Good (historical)             │ Moderate             │
-    │   ──────────────────│───────────────────────────────│──────────────────────│
-    │   Real estate       │ Good (long-term)              │ Moderate to high     │
-    │   ──────────────────│───────────────────────────────│──────────────────────│
-    │   Stocks            │ Good (over long periods)      │ High (short-term)    │
-    │   ──────────────────│───────────────────────────────│──────────────────────│
-    │   Cryptocurrency    │ Poor (very volatile)          │ Very high            │
-    │   (Bitcoin)         │                               │                      │
+    │   Asset Type        │ Store of Value Quality        │ Volatility            │
+    │   ──────────────────│───────────────────────────────│────────────────────── │
+    │   Stable fiat       │ Good (2% annual loss)         │ Low                   │
+    │   money (USD, EUR)  │                               │                       │
+    │   ──────────────────│───────────────────────────────│────────────────────── │
+    │   High-inflation    │ Poor (rapid value loss)       │ High                  │
+    │   fiat money        │                               │                       │
+    │   ──────────────────│───────────────────────────────│────────────────────── │
+    │   Gold              │ Good (historical)             │ Moderate              │
+    │   ──────────────────│───────────────────────────────│────────────────────── │
+    │   Real estate       │ Good (long-term)              │ Moderate to high      │
+    │   ──────────────────│───────────────────────────────│────────────────────── │
+    │   Stocks            │ Good (over long periods)      │ High (short-term)     │
+    │   ──────────────────│───────────────────────────────│────────────────────── │
+    │   Cryptocurrency    │ Poor (very volatile)          │ Very high             │
+    │   (Bitcoin)         │                               │                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
