@@ -305,13 +305,13 @@ DEPOSIT PROCESSING FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER DEPOSITS $1000 CASH                                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   TELLER ENTERS TRANSACTION INTO BANK SYSTEM                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   LEDGER UPDATES:                                                          │
+    │   CUSTOMER DEPOSITS $1000 CASH                                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   TELLER ENTERS TRANSACTION INTO BANK SYSTEM                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   LEDGER UPDATES:                                                           │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  SUBSIDIARY LEDGER (Customer Account)                               │   │
@@ -325,9 +325,9 @@ DEPOSIT PROCESSING FLOW
     │   │  ├── Vault Cash Count: +$1,000                                      │   │
     │   │  └── Serial number tracking (if required)                           │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   RECONCILIATION: Customer account balance matches transaction history    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   RECONCILIATION: Customer account balance matches transaction history      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
