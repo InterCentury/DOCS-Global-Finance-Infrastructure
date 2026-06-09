@@ -243,20 +243,20 @@ DISCOUNT WINDOW STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PRIMARY CREDIT (For sound institutions)                                  │
-    │   ├── Rate = Policy Rate + 0.50%                                           │
-    │   ├── Overnight to 90 days                                                 │
-    │   └── No questions asked for first 90 days                                 │
+    │   PRIMARY CREDIT (For sound institutions)                                   │
+    │   ├── Rate = Policy Rate + 0.50%                                            │
+    │   ├── Overnight to 90 days                                                  │
+    │   └── No questions asked for first 90 days                                  │
     │                                                                             │
-    │   SECONDARY CREDIT (For weaker institutions)                               │
-    │   ├── Rate = Policy Rate + 1.00%                                           │
-    │   ├── Shorter terms                                                        │
-    │   └── Greater restrictions                                                 │
+    │   SECONDARY CREDIT (For weaker institutions)                                │
+    │   ├── Rate = Policy Rate + 1.00%                                            │
+    │   ├── Shorter terms                                                         │
+    │   └── Greater restrictions                                                  │
     │                                                                             │
-    │   SEASONAL CREDIT (For small banks with seasonal patterns)                │
-    │   ├── Rate = Average of market rates                                       │
-    │   ├── Up to 9 months                                                       │
-    │   └── Agricultural and tourist banks                                       │
+    │   SEASONAL CREDIT (For small banks with seasonal patterns)                  │
+    │   ├── Rate = Average of market rates                                        │
+    │   ├── Up to 9 months                                                        │
+    │   └── Agricultural and tourist banks                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
