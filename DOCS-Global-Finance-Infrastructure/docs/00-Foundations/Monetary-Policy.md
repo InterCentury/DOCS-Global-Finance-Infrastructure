@@ -523,27 +523,27 @@ INTEREST RATE CHANNEL FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Policy Rate Cut                                                          │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ↓ Interbank Lending Rate                                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ↓ Prime Rate (Bank Lending Rate)                                        │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ↓ Mortgage Rates, ↓ Credit Card Rates, ↓ Auto Loan Rates                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ↑ Residential Investment, ↑ Consumer Durables, ↑ Business Investment    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ↑ Aggregate Demand                                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ↑ Output, ↑ Employment, ↑ Inflation                                      │
+    │   Policy Rate Cut                                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ↓ Interbank Lending Rate                                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ↓ Prime Rate (Bank Lending Rate)                                          │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ↓ Mortgage Rates, ↓ Credit Card Rates, ↓ Auto Loan Rates                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ↑ Residential Investment, ↑ Consumer Durables, ↑ Business Investment      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ↑ Aggregate Demand                                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ↑ Output, ↑ Employment, ↑ Inflation                                       │
     │                                                                             │
-    │   Lag: 12-24 months for full effect                                        │
+    │   Lag: 12-24 months for full effect                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
