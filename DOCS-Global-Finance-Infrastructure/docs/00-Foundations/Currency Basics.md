@@ -1,8 +1,8 @@
-# What Is Money
+# What is CURRENCY ?
 
 ## Documentation Overview
 
-Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts in a particular country or socio-economic context. While most people recognize money when they see it, a deeper understanding requires examining its functions, characteristics, forms, and evolution. This document covers the fundamental nature of money, its essential functions, the properties that make something suitable as money, and the different types of money that have existed throughout history.
+Currency is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts in a particular country or socio-economic context. While most people recognize Currency when they see it, a deeper understanding requires examining its functions, characteristics, forms, and evolution. This document covers the fundamental nature of Currency, its essential functions, the properties that make something suitable as Currency, and the different types of Currency that have existed throughout history.
 
 ## Documentation Objectives
 
