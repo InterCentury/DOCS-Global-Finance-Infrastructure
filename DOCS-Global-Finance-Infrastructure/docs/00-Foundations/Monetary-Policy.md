@@ -659,28 +659,28 @@ INFLATION TARGETING FRAMEWORK
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: Central bank announces inflation target (e.g., 2%)              │
+    │   STEP 1: Central bank announces inflation target (e.g., 2%)                │
     │                                                                             │
-    │   STEP 2: Central bank forecasts inflation (2-3 years ahead)              │
+    │   STEP 2: Central bank forecasts inflation (2-3 years ahead)                │
     │                                                                             │
-    │   STEP 3: If forecast above target → Tighten policy                       │
-    │           If forecast below target → Ease policy                          │
+    │   STEP 3: If forecast above target → Tighten policy                         │
+    │           If forecast below target → Ease policy                            │
     │                                                                             │
-    │   STEP 4: Transparent communication of decisions                          │
+    │   STEP 4: Transparent communication of decisions                            │
     │                                                                             │
-    │   STEP 5: Accountability (regular reports, parliamentary testimony)       │
+    │   STEP 5: Accountability (regular reports, parliamentary testimony)         │
     │                                                                             │
     │                                                                             │
-    │   ADVANTAGES:                                                              │
-    │   ├── Anchors inflation expectations                                       │
-    │   ├── Provides clear yardstick for accountability                         │
-    │   ├── Reduces time-inconsistency problem                                  │
-    │   └── Allows focus on domestic conditions                                 │
+    │   ADVANTAGES:                                                               │
+    │   ├── Anchors inflation expectations                                        │
+    │   ├── Provides clear yardstick for accountability                           │
+    │   ├── Reduces time-inconsistency problem                                    │
+    │   └── Allows focus on domestic conditions                                   │
     │                                                                             │
-    │   DISADVANTAGES:                                                           │
-    │   ├── May ignore other objectives (employment, growth)                    │
-    │   ├── Difficult to forecast inflation accurately                          │
-    │   └── May be too rigid for supply shocks                                  │
+    │   DISADVANTAGES:                                                            │
+    │   ├── May ignore other objectives (employment, growth)                      │
+    │   ├── Difficult to forecast inflation accurately                            │
+    │   └── May be too rigid for supply shocks                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
