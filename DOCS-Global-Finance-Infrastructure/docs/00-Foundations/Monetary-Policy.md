@@ -163,35 +163,35 @@ OPEN MARKET OPERATIONS MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   EXPANSIONARY OMO (Buying bonds)                                          │
+    │   EXPANSIONARY OMO (Buying bonds)                                           │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  CENTRAL BANK ──────$100 million─────────────────► COMMERCIAL BANK  │   │
-    │   │                     (payment for bonds)                              │   │
+    │   │                     (payment for bonds)                             │   │
     │   │                                                                     │   │
     │   │  CENTRAL BANK ◄─────Government Bonds───────────── COMMERCIAL BANK   │   │
     │   │                                                                     │   │
-    │   │  Result: Bank reserves +$100 million, money supply expands         │   │
+    │   │  Result: Bank reserves +$100 million, money supply expands          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   CONTRACTIONARY OMO (Selling bonds)                                       │
+    │   CONTRACTIONARY OMO (Selling bonds)                                        │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  CENTRAL BANK ◄─────$100 million───────────────── COMMERCIAL BANK   │   │
-    │   │                     (payment for bonds)                              │   │
+    │   │                     (payment for bonds)                             │   │
     │   │                                                                     │   │
     │   │  CENTRAL BANK ──────Government Bonds─────────────► COMMERCIAL BANK  │   │
     │   │                                                                     │   │
-    │   │  Result: Bank reserves -$100 million, money supply contracts       │   │
+    │   │  Result: Bank reserves -$100 million, money supply contracts        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   TYPES OF OMO:                                                            │
-    │   ├── Permanent OMO: Outright purchase or sale (long-term effect)         │
-    │   ├── Repurchase agreement (Repo): Temporary purchase with agreement      │
-    │   │   to sell back (short-term liquidity management)                      │
-    │   └── Reverse repo: Temporary sale with agreement to buy back             │
+    │   TYPES OF OMO:                                                             │
+    │   ├── Permanent OMO: Outright purchase or sale (long-term effect)           │
+    │   ├── Repurchase agreement (Repo): Temporary purchase with agreement        │
+    │   │   to sell back (short-term liquidity management)                        │
+    │   └── Reverse repo: Temporary sale with agreement to buy back               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
