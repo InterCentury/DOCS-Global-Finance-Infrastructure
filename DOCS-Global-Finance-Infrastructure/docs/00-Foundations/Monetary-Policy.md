@@ -445,31 +445,31 @@ FORWARD GUIDANCE TYPES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CALENDAR-BASED GUIDANCE:                                                 │
-    │   "The policy rate will remain at 0% until at least the end of 2025"      │
+    │   CALENDAR-BASED GUIDANCE:                                                  │
+    │   "The policy rate will remain at 0% until at least the end of 2025"        │
     │                                                                             │
-    │   Example: ECB (2013) "rates will remain at present or lower levels       │
-    │            for an extended period of time"                                 │
-    │                                                                             │
-    │                                                                             │
-    │   STATE-BASED GUIDANCE (Outcome):                                          │
-    │   "Rates will not increase until inflation sustainably reaches 2%"        │
-    │                                                                             │
-    │   Example: Fed (2020) "rates on hold until labor market conditions        │
-    │            consistent with maximum employment"                             │
+    │   Example: ECB (2013) "rates will remain at present or lower levels         │
+    │            for an extended period of time"                                  │
     │                                                                             │
     │                                                                             │
-    │   STATE-BASED GUIDANCE (Threshold):                                        │
-    │   "Rates will stay at zero until unemployment falls below 6.5%"           │
+    │   STATE-BASED GUIDANCE (Outcome):                                           │
+    │   "Rates will not increase until inflation sustainably reaches 2%"          │
     │                                                                             │
-    │   Example: Fed (2012) Evans Rule - rates unchanged while unemployment     │
-    │            above 6.5% and inflation below 2.5%                            │
+    │   Example: Fed (2020) "rates on hold until labor market conditions          │
+    │            consistent with maximum employment"                              │
     │                                                                             │
     │                                                                             │
-    │   OPEN-ENDED GUIDANCE:                                                     │
-    │   "Policy will remain accommodative for an extended period"               │
+    │   STATE-BASED GUIDANCE (Threshold):                                         │
+    │   "Rates will stay at zero until unemployment falls below 6.5%"             │
     │                                                                             │
-    │   Example: BOJ "continuing with powerful monetary easing"                 │
+    │   Example: Fed (2012) Evans Rule - rates unchanged while unemployment       │
+    │            above 6.5% and inflation below 2.5%                              │
+    │                                                                             │
+    │                                                                             │
+    │   OPEN-ENDED GUIDANCE:                                                      │
+    │   "Policy will remain accommodative for an extended period"                 │
+    │                                                                             │
+    │   Example: BOJ "continuing with powerful monetary easing"                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
