@@ -800,7 +800,6 @@ How it works: The central bank provides unlimited liquidity to solvent banks. It
 MONETARY VS FISCAL POLICY COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Aspect              │ Monetary Policy        │ Fiscal Policy              │
     │   ────────────────────│────────────────────────│─────────────────────────── │
     │   Conducted by        │ Central bank           │ Government (Treasury)      │
@@ -821,7 +820,6 @@ MONETARY VS FISCAL POLICY COMPARISON
     │   Primary focus       │ Demand management      │ Demand management,         │
     │                       │                        │ redistribution,            │
     │                       │                        │ public goods               │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
