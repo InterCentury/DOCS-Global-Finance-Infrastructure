@@ -1,4 +1,4 @@
-# 09 - What Is Money
+# What Is Money
 
 ## Documentation Overview
 
