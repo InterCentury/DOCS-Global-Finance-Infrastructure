@@ -588,14 +588,14 @@ EXCHANGE RATE CHANNEL
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   EXPANSIONARY POLICY                                                      │
-    │   (Interest rates cut)                                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   DOMESTIC ASSETS BECOME LESS ATTRACTIVE TO FOREIGN INVESTORS             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   CAPITAL OUTFLOWS (Investors move money abroad)                          │
+    │   EXPANSIONARY POLICY                                                       │
+    │   (Interest rates cut)                                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   DOMESTIC ASSETS BECOME LESS ATTRACTIVE TO FOREIGN INVESTORS               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   CAPITAL OUTFLOWS (Investors move money abroad)                           │
     │        │                                                                   │
     │        ▼                                                                   │
     │   CURRENCY DEPRECIATES                                                     │
@@ -603,9 +603,9 @@ EXCHANGE RATE CHANNEL
     │        ├─────────────────────────────────────────────────────┐            │
     │        ▼                                                     ▼            │
     │   EXPORTS CHEAPER FOR FOREIGNERS                     IMPORTS MORE         │
-    │   (Foreign demand increases)                          EXPENSIVE            │
-    │                                                       (Domestic demand      │
-    │                                                        shifts to local)    │
+    │   (Foreign demand increases)                         EXPENSIVE            │
+    │                                                      (Domestic demand      │
+    │                                                      shifts to local)    │
     │        │                                                     │            │
     │        └──────────────────────┬──────────────────────────────┘            │
     │                               │                                           │
