@@ -73,28 +73,28 @@ MONEY, CURRENCY, WEALTH DISTINCTION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TERM        │ DEFINITION                        │ EXAMPLES               │
-    │   ────────────│───────────────────────────────────│────────────────────────│
-    │   Money       │ Anything generally accepted as    │ Bank deposits,         │
-    │              │ payment for goods and debts       │ physical currency,      │
-    │              │                                    │ some cryptocurrencies  │
-    │   ────────────│───────────────────────────────────│────────────────────────│
-    │   Currency    │ Physical form of money (notes     │ US dollar bills,       │
-    │              │ and coins)                         │ euro coins, yen notes  │
-    │   ────────────│───────────────────────────────────│────────────────────────│
-    │   Wealth      │ Total value of all assets owned   │ Real estate, stocks,   │
-    │              │                                    │ bonds, businesses,     │
-    │              │                                    │ art, commodities,      │
-    │              │                                    │ money balances         │
-    │                                                                             │
+    │   TERM        │ DEFINITION                        │ EXAMPLES                │
+    │   ────────────│───────────────────────────────────│──────────────────────── │
+    │   Money       │ Anything generally accepted as    │ Bank deposits,          │
+    │               │ payment for goods and debts       │ physical currency,      │
+    │               │                                   │ some cryptocurrencies   │
+    │   ────────────│───────────────────────────────────│──────────────────────── │
+    │   Currency    │ Physical form of money (notes     │ US dollar bills,        │
+    │               │ and coins)                        │ euro coins, yen notes   │
+    │   ────────────│───────────────────────────────────│──────────────────────── │
+    │   Wealth      │ Total value of all assets owned   │ Real estate, stocks,    │
+    │               │                                   │ bonds, businesses,      │
+    │               │                                   │ art, commodities,       │
+    │               │                                   │ money balances          │
+    │─────────────────────────────────────────────────────────────────────────────│
     │                                                                             │
     │   RELATIONSHIP:                                                             │
     │                                                                             │
-    │   Currency is a subset of money (physical form)                            │
-    │   Money is a subset of wealth (one type of asset)                          │
+    │   Currency is a subset of money (physical form)                             │
+    │   Money is a subset of wealth (one type of asset)                           │
     │                                                                             │
-    │   Not all wealth is money: Your house is wealth but not money             │
-    │   (cannot buy groceries with your house directly).                         │
+    │   Not all wealth is money: Your house is wealth but not money               │
+    │   (cannot buy groceries with your house directly).                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
