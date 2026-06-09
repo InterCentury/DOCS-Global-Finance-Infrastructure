@@ -714,26 +714,26 @@ INDEPENDENCE DIMENSIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DIMENSION              │ MEANING                                         │
-    │   ───────────────────────│─────────────────────────────────────────────────│
-    │   Instrument             │ Central bank can choose policy tools freely    │
-    │   independence           │                                                 │
-    │   ───────────────────────│─────────────────────────────────────────────────│
-    │   Goal independence      │ Central bank sets policy objectives (less      │
-    │                          │ common)                                         │
-    │   ───────────────────────│─────────────────────────────────────────────────│
-    │   Personnel independence │ Central bank governors have fixed terms,       │
-    │                          │ cannot be fired for policy disagreements       │
-    │   ───────────────────────│─────────────────────────────────────────────────│
-    │   Financial independence │ Central bank controls its own budget           │
+    │   DIMENSION              │ MEANING                                          │
+    │   ───────────────────────│───────────────────────────────────────────────── │
+    │   Instrument             │ Central bank can choose policy tools freely      │
+    │   independence           │                                                  │
+    │   ───────────────────────│───────────────────────────────────────────────── │
+    │   Goal independence      │ Central bank sets policy objectives (less        │
+    │                          │ common)                                          │
+    │   ───────────────────────│───────────────────────────────────────────────── │
+    │   Personnel independence │ Central bank governors have fixed terms,         │
+    │                          │ cannot be fired for policy disagreements         │
+    │   ───────────────────────│───────────────────────────────────────────────── │
+    │   Financial independence │ Central bank controls its own budget             │
     │                                                                             │
     │                                                                             │
-    │   TIME INCONSISTENCY PROBLEM:                                             │
+    │   TIME INCONSISTENCY PROBLEM:                                               │
     │                                                                             │
-    │   Without independence, politicians face pressure to create unexpected    │
-    │   inflation to temporarily boost output before elections. Market          │
-    │   expectations anticipate this, resulting in higher inflation without     │
-    │   output gains. Independent central banks resist this pressure.           │
+    │   Without independence, politicians face pressure to create unexpected      │
+    │   inflation to temporarily boost output before elections. Market            │
+    │   expectations anticipate this, resulting in higher inflation without       │
+    │   output gains. Independent central banks resist this pressure.             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
