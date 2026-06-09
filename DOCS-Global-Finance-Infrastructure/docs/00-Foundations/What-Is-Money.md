@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the fundamental definition of money                           │
-    │   Learn the four core functions of money                                   │
-    │   Study the essential characteristics of sound money                       │
-    │   Examine different forms and types of money                               │
-    │   Analyze the difference between money, currency, and wealth               │
-    │   Understand the social and legal foundations of money                     │
-    │   Learn the concept of liquidity and moneyness                             │
-    │   Study the measurement of money supply aggregates                         │
+    │   Understand the fundamental definition of money                            │
+    │   Learn the four core functions of money                                    │
+    │   Study the essential characteristics of sound money                        │
+    │   Examine different forms and types of money                                │
+    │   Analyze the difference between money, currency, and wealth                │
+    │   Understand the social and legal foundations of money                      │
+    │   Learn the concept of liquidity and moneyness                              │
+    │   Study the measurement of money supply aggregates                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
