@@ -202,7 +202,6 @@ How it works: If you sell goods today, you may not want to spend the proceeds un
 STORE OF VALUE COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Asset Type        │ Store of Value Quality        │ Volatility            │
     │   ──────────────────│───────────────────────────────│────────────────────── │
     │   Stable fiat       │ Good (2% annual loss)         │ Low                   │
@@ -219,7 +218,6 @@ STORE OF VALUE COMPARISON
     │   ──────────────────│───────────────────────────────│────────────────────── │
     │   Cryptocurrency    │ Poor (very volatile)          │ Very high             │
     │   (Bitcoin)         │                               │                       │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
