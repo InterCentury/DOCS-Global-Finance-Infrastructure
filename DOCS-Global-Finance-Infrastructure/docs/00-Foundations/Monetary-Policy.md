@@ -595,25 +595,25 @@ EXCHANGE RATE CHANNEL
     │   DOMESTIC ASSETS BECOME LESS ATTRACTIVE TO FOREIGN INVESTORS               │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   CAPITAL OUTFLOWS (Investors move money abroad)                           │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   CURRENCY DEPRECIATES                                                     │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   EXPORTS CHEAPER FOR FOREIGNERS                     IMPORTS MORE         │
-    │   (Foreign demand increases)                         EXPENSIVE            │
-    │                                                      (Domestic demand      │
-    │                                                      shifts to local)    │
-    │        │                                                     │            │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    NET EXPORTS INCREASE                                    │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    AGGREGATE DEMAND INCREASES                              │
+    │   CAPITAL OUTFLOWS (Investors move money abroad)                            │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   CURRENCY DEPRECIATES                                                      │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   EXPORTS CHEAPER FOR FOREIGNERS                     IMPORTS MORE           │
+    │   (Foreign demand increases)                         EXPENSIVE              │
+    │                                                      (Domestic demand       │
+    │                                                      shifts to local)       │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    NET EXPORTS INCREASE                                     │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    AGGREGATE DEMAND INCREASES                               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
