@@ -196,26 +196,26 @@ GENERAL LEDGER STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   GENERAL LEDGER (Summary level)                                           │
+    │   GENERAL LEDGER (Summary level)                                            │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  ASSETS                                                             │   │
-    │   │  ├── Cash Control Account: $50,000,000                             │   │
-    │   │  ├── Loans Control Account: $500,000,000                           │   │
-    │   │  ├── Securities Control Account: $200,000,000                      │   │
-    │   │  └── Reserves at Central Bank: $30,000,000                         │   │
+    │   │  ├── Cash Control Account: $50,000,000                              │   │
+    │   │  ├── Loans Control Account: $500,000,000                            │   │
+    │   │  ├── Securities Control Account: $200,000,000                       │   │
+    │   │  └── Reserves at Central Bank: $30,000,000                          │   │
     │   │                                                                     │   │
     │   │  LIABILITIES                                                        │   │
-    │   │  ├── Customer Deposits Control: $600,000,000                       │   │
-    │   │  ├── Borrowings Control: $100,000,000                              │   │
-    │   │  └── Other Liabilities: $50,000,000                                │   │
+    │   │  ├── Customer Deposits Control: $600,000,000                        │   │
+    │   │  ├── Borrowings Control: $100,000,000                               │   │
+    │   │  └── Other Liabilities: $50,000,000                                 │   │
     │   │                                                                     │   │
     │   │  EQUITY                                                             │   │
-    │   │  ├── Share Capital: $20,000,000                                    │   │
-    │   │  └── Retained Earnings: $10,000,000                                │   │
+    │   │  ├── Share Capital: $20,000,000                                     │   │
+    │   │  └── Retained Earnings: $10,000,000                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Total Assets ($780M) = Total Liabilities + Equity ($780M)               │
+    │   Total Assets ($780M) = Total Liabilities + Equity ($780M)                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
