@@ -353,37 +353,37 @@ QUANTITATIVE EASING PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STAGE 1: CENTRAL BANK CREATES RESERVES                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STAGE 2: CENTRAL BANK BUYS LONG-TERM GOVERNMENT BONDS                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STAGE 3: BOND PRICES RISE, YIELDS FALL                                  │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   PORTFOLIO REBALANCING                                 LOWER BORROWING   │
-    │   (Investors sell bonds to                              COSTS FOR         │
-    │   CB, buy stocks, corporate                            GOVERNMENT AND     │
-    │   bonds, real estate)                                  CORPORATIONS        │
-    │        │                                                     │            │
-    │        ▼                                                     ▼            │
-    │   ASSET PRICES RISE                                    HIGHER BUSINESS    │
-    │   (Wealth effect increases                             INVESTMENT         │
-    │    spending)                                                                │
-    │        │                                                                   │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    AGGREGATE DEMAND INCREASES                              │
+    │   STAGE 1: CENTRAL BANK CREATES RESERVES                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STAGE 2: CENTRAL BANK BUYS LONG-TERM GOVERNMENT BONDS                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STAGE 3: BOND PRICES RISE, YIELDS FALL                                    │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   PORTFOLIO REBALANCING                                 LOWER BORROWING     │
+    │   (Investors sell bonds to                              COSTS FOR           │
+    │   CB, buy stocks, corporate                            GOVERNMENT AND       │
+    │   bonds, real estate)                                  CORPORATIONS         │
+    │        │                                                     │              │
+    │        ▼                                                     ▼              │
+    │   ASSET PRICES RISE                                    HIGHER BUSINESS      │
+    │   (Wealth effect increases                             INVESTMENT           │
+    │    spending)                                                 │              │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    AGGREGATE DEMAND INCREASES                               │
     │                                                                             │
     │                                                                             │
-    │   MAJOR QE PROGRAMS:                                                       │
-    │   ├── Japan (2001-2006, 2013-present)                                     │
-    │   ├── US (2008-2014, 2020-2022): Peak balance sheet $9 trillion          │
-    │   ├── Eurozone (2015-2018, 2020-2022): Peak €5 trillion                   │
-    │   └── UK (2009-2012, 2020-2021): Peak £900 billion                        │
+    │   MAJOR QE PROGRAMS:                                                        │
+    │   ├── Japan (2001-2006, 2013-present)                                       │
+    │   ├── US (2008-2014, 2020-2022): Peak balance sheet $9 trillion             │
+    │   ├── Eurozone (2015-2018, 2020-2022): Peak €5 trillion                     │
+    │   └── UK (2009-2012, 2020-2021): Peak £900 billion                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
