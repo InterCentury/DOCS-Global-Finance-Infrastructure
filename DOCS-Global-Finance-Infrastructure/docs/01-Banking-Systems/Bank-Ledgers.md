@@ -1,4 +1,4 @@
-# 01 - Bank Ledgers
+# Bank Ledgers
 
 ## Documentation Overview
 
