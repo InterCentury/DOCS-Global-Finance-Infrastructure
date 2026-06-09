@@ -275,33 +275,33 @@ MONEY FORMS COMPARISON MATRIX
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Characteristic  │ Gold    │ Fiat Paper │ Digital  │ Crypto  │ Rai Stone │
-    │                   │ Coins   │ Money      │ Bank     │         │           │
-    │                   │         │            │ Money    │         │           │
-    │   ────────────────│─────────│────────────│──────────│─────────│───────────│
-    │   Durability      │ High    │ Low        │ N/A      │ N/A     │ High      │
-    │                   │         │ (tears,    │ (digital)│ (digital│ (stone)   │
-    │                   │         │  burns)    │          │ )       │           │
-    │   ────────────────│─────────│────────────│──────────│─────────│───────────│
-    │   Portability     │ Low     │ High       │ Very high│ Very    │ Very low  │
-    │                   │ (heavy) │ (light)    │ (instant)│ high    │ (4-ton    │
-    │                   │         │            │          │         │ stones)   │
-    │   ────────────────│─────────│────────────│──────────│─────────│───────────│
-    │   Divisibility    │ Moderate│ High       │ Perfect  │ High    │ Poor      │
-    │                   │ (melting│ (any       │ (digital │ (0.00000│ (cannot   │
-    │                   │ required│ amount)    │ any)     │ 1 BTC)  │ cut stone)│
-    │   ────────────────│─────────│────────────│──────────│─────────│───────────│
-    │   Recognizability │ Moderate│ Moderate   │ N/A      │ Low     │ High      │
-    │                   │ (tests  │ (features) │ (digital │ (address│ (oral     │
-    │                   │ needed) │            │ record)  │ )       │ history)  │
-    │   ────────────────│─────────│────────────│──────────│─────────│───────────│
-    │   Scarcity        │ Natural │ Artificial │ Artificial│ Fixed  │ Natural   │
-    │                   │ (mining)│ (central   │ (central │ (21M    │ (limited  │
-    │                   │         │ bank)      │ bank)    │ BTC)    │ stones)   │
-    │   ────────────────│─────────│────────────│──────────│─────────│───────────│
-    │   Production cost │ High    │ Low        │ Very low │ High    │ High      │
-    │                   │         │ (printing) │ (digital │ (mining │ (quarry)  │
-    │                   │         │            │ entry)   │ energy) │           │
+    │   Characteristic  │ Gold    │ Fiat Paper │ Digital  │ Crypto  │ Rai Stone   │
+    │                   │ Coins   │ Money      │ Bank     │         │             │
+    │                   │         │            │ Money    │         │             │
+    │   ────────────────│─────────│────────────│──────────│─────────│───────────  │
+    │   Durability      │ High    │ Low        │ N/A      │ N/A     │ High        │
+    │                   │         │ (tears,    │ (digital)│ (digital│ (stone)     │
+    │                   │         │  burns)    │          │ )       │             │
+    │   ────────────────│─────────│────────────│──────────│─────────│───────────  │
+    │   Portability     │ Low     │ High       │ Very high│ Very    │ Very low    │
+    │                   │ (heavy) │ (light)    │ (instant)│ high    │ (4-ton      │
+    │                   │         │            │          │         │ stones)     │
+    │   ────────────────│─────────│────────────│──────────│─────────│───────────  │
+    │   Divisibility    │ Moderate│ High       │ Perfect  │ High    │ Poor        │
+    │                   │ (melting│ (any       │ (digital │ (0.00000│ (cannot     │
+    │                   │ required│ amount)    │ any)     │ 1 BTC)  │ cut stone)  │
+    │   ────────────────│─────────│────────────│──────────│─────────│───────────  │
+    │   Recognizability │ Moderate│ Moderate   │ N/A      │ Low     │ High        │
+    │                   │ (tests  │ (features) │ (digital │ (address│ (oral       │
+    │                   │ needed) │            │ record)  │ )       │ history)    │
+    │   ────────────────│─────────│────────────│──────────│─────────│───────────  │
+    │   Scarcity        │ Natural │ Artificial │ Artificial│ Fixed  │ Natural     │
+    │                   │ (mining)│ (central   │ (central │ (21M    │ (limited    │
+    │                   │         │ bank)      │ bank)    │ BTC)    │ stones)     │
+    │   ────────────────│─────────│────────────│──────────│─────────│───────────  │
+    │   Production cost │ High    │ Low        │ Very low │ High    │ High        │
+    │                   │         │ (printing) │ (digital │ (mining │ (quarry)    │
+    │                   │         │            │ entry)   │ energy) │             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
