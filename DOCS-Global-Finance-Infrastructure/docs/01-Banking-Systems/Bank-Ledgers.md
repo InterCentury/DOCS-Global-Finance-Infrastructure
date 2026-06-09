@@ -78,27 +78,27 @@ LEDGER FUNCTIONS
     │                                                                             │
     │   FUNCTION                │ DESCRIPTION                                     │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Record Keeping          │ Maintains permanent record of all              │
-    │                          │ transactions and balances                       │
+    │   Record Keeping          │ Maintains permanent record of all               │
+    │                           │ transactions and balances                       │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Ownership Tracking      │ Determines who owns what funds                 │
+    │   Ownership Tracking      │ Determines who owns what funds                  │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Transfer Execution      │ Enables movement of funds between accounts     │
+    │   Transfer Execution      │ Enables movement of funds between accounts      │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Balance Verification    │ Confirms available funds for spending          │
+    │   Balance Verification    │ Confirms available funds for spending           │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Regulatory Reporting    │ Provides data for central bank and             │
-    │                          │ regulatory oversight                            │
+    │   Regulatory Reporting    │ Provides data for central bank and              │
+    │                           │ regulatory oversight                            │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Fraud Detection         │ Enables identification of unauthorized         │
-    │                          │ transactions                                    │
+    │   Fraud Detection         │ Enables identification of unauthorized          │
+    │                           │ transactions                                    │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Audit Trail             │ Provides evidence for audits and               │
-    │                          │ investigations                                   │
+    │   Audit Trail             │ Provides evidence for audits and                │
+    │                           │ investigations                                  │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Interest Calculation    │ Computes interest earned or owed on accounts   │
+    │   Interest Calculation    │ Computes interest earned or owed on accounts    │
     │   ────────────────────────│─────────────────────────────────────────────────│
-    │   Financial Statement     │ Feeds into bank's income statement and         │
+    │   Financial Statement     │ Feeds into bank's income statement and          │
     │   Preparation             │ balance sheet                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
