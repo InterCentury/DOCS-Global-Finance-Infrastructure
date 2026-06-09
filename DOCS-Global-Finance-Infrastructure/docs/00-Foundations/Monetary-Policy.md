@@ -670,7 +670,7 @@ INFLATION TARGETING FRAMEWORK
     │                                                                             │
     │   STEP 5: Accountability (regular reports, parliamentary testimony)         │
     │                                                                             │
-    │                                                                             │
+    │   ────────────────────────────────────────────────────────────────────────  │
     │   ADVANTAGES:                                                               │
     │   ├── Anchors inflation expectations                                        │
     │   ├── Provides clear yardstick for accountability                           │
