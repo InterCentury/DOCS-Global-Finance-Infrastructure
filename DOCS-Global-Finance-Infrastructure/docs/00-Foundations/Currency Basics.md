@@ -274,7 +274,6 @@ CHARACTERISTICS OF GOOD MONEY
 MONEY FORMS COMPARISON MATRIX
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Characteristic  │ Gold    │ Fiat Paper │ Digital  │ Crypto  │ Rai Stone   │
     │                   │ Coins   │ Money      │ Bank     │         │             │
     │                   │         │            │ Money    │         │             │
@@ -302,7 +301,6 @@ MONEY FORMS COMPARISON MATRIX
     │   Production cost │ High    │ Low        │ Very low │ High    │ High        │
     │                   │         │ (printing) │ (digital │ (mining │ (quarry)    │
     │                   │         │            │ entry)   │ energy) │             │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
