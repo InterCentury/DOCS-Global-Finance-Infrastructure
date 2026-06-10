@@ -188,7 +188,7 @@ MONETARY BASE COMPOSITION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   MONETARY BASE (M0) = Currency in Circulation + Bank Reserves            │
+    │   MONETARY BASE (M0) = Currency in Circulation + Bank Reserves              │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
