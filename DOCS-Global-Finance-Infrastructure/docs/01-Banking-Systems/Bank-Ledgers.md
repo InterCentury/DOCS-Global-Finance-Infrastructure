@@ -384,36 +384,36 @@ INTERBANK TRANSFER PROCESSING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER AT BANK A TRANSFERS $1000 TO CUSTOMER AT BANK B                 │
+    │   CUSTOMER AT BANK A TRANSFERS $1000 TO CUSTOMER AT BANK B                  │
     │                                                                             │
-    │   STEP 1: Bank A processes the outgoing transfer                          │
+    │   STEP 1: Bank A processes the outgoing transfer                            │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Bank A Ledger:                                                     │   │
     │   │  ├── Customer A Deposit (Liability): -$1,000 (Debit)                │   │
     │   │  └── Due to Bank B (Liability): +$1,000 (Credit)                    │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Bank A sends payment message to Bank B (via SWIFT or RTGS)      │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Central bank settles between banks                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Bank A sends payment message to Bank B (via SWIFT or RTGS)        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Central bank settles between banks                                │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Central Bank Ledger (RTGS):                                         │   │
+    │   │  Central Bank Ledger (RTGS):                                        │   │
     │   │  ├── Bank A Reserve Account: -$1,000 (Debit)                        │   │
     │   │  └── Bank B Reserve Account: +$1,000 (Credit)                       │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: Bank B processes incoming transfer                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: Bank B processes incoming transfer                                │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Bank B Ledger:                                                     │   │
     │   │  ├── Due to Bank A (Liability): -$1,000 (Debit)                     │   │
     │   │  └── Customer B Deposit (Liability): +$1,000 (Credit)               │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Final Result: Money moved from Customer A to Customer B. Bank A's      │
-    │   reserves decreased by $1000. Bank B's reserves increased by $1000.      │
+    │   Final Result: Money moved from Customer A to Customer B. Bank A's         │
+    │   reserves decreased by $1000. Bank B's reserves increased by $1000.        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
