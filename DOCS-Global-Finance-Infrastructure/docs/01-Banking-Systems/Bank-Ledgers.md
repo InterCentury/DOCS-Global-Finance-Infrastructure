@@ -510,32 +510,32 @@ LEDGER-BASED MONEY CREATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BEFORE LOAN:                                                             │
+    │   BEFORE LOAN:                                                              │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
-    │   │  │ Reserves: $10,000           ││ │ Customer Deposits: $100,000  │   │   │
+    │   │  │ Reserves: $10,000           ││ │ Customer Deposits: $100,000 │   │   │
     │   │  │ Loans: $0                   ││ │                             │   │   │
     │   │  └─────────────────────────────┘│ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Money supply = $100,000 (Customer deposits)                             │
+    │   Money supply = $100,000 (Customer deposits)                               │
     │                                                                             │
     │                                                                             │
-    │   BANK MAKES $20,000 LOAN:                                                │
+    │   BANK MAKES $20,000 LOAN:                                                  │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
-    │   │  │ Reserves: $10,000           ││ │ Customer Deposits: $120,000  │   │   │
+    │   │  │ Reserves: $10,000           ││ │ Customer Deposits: $120,000 │   │   │
     │   │  │ Loans: $20,000 (new)        ││ │                             │   │   │
     │   │  └─────────────────────────────┘│ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Money supply = $120,000 (Customer deposits increased by $20,000)        │
+    │   Money supply = $120,000 (Customer deposits increased by $20,000)          │
     │                                                                             │
-    │   Key insight: New money was created. No existing deposit was used.      │
-    │   The bank created a deposit (liability) and a loan (asset)               │
-    │   simultaneously.                                                          │
+    │   Key insight: New money was created. No existing deposit was used.         │
+    │   The bank created a deposit (liability) and a loan (asset)                 │
+    │   simultaneously.                                                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
