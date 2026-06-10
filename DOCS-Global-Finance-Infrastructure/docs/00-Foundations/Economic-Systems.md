@@ -1,4 +1,4 @@
-# 03 - Economic Systems
+# Economic Systems
 
 ## Documentation Overview
 
