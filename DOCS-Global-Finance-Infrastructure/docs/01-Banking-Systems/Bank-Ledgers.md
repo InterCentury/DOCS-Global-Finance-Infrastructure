@@ -588,31 +588,31 @@ DAILY RECONCILIATION PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: SUBSIDIARY LEDGER TOTALS                                         │
-    │   ├── Sum all customer deposit balances                                    │
-    │   ├── Sum all loan balances                                                │
-    │   ├── Sum all other subsidiary records                                     │
-    │   └── Compare to control account balances in general ledger               │
+    │   STEP 1: SUBSIDIARY LEDGER TOTALS                                          │
+    │   ├── Sum all customer deposit balances                                     │
+    │   ├── Sum all loan balances                                                 │
+    │   ├── Sum all other subsidiary records                                      │
+    │   └── Compare to control account balances in general ledger                 │
     │                                                                             │
-    │   STEP 2: TRANSACTION LOG REVIEW                                           │
-    │   ├── Verify each transaction has equal debits and credits                │
-    │   ├── Check for unauthorized or suspicious entries                        │
-    │   └── Investigate any unbalanced entries                                   │
+    │   STEP 2: TRANSACTION LOG REVIEW                                            │
+    │   ├── Verify each transaction has equal debits and credits                  │
+    │   ├── Check for unauthorized or suspicious entries                          │
+    │   └── Investigate any unbalanced entries                                    │
     │                                                                             │
-    │   STEP 3: CASH RECONCILIATION                                              │
-    │   ├── Count physical vault cash                                            │
-    │   ├── Compare to vault cash ledger balance                                 │
-    │   └── Investigate discrepancies                                            │
+    │   STEP 3: CASH RECONCILIATION                                               │
+    │   ├── Count physical vault cash                                             │
+    │   ├── Compare to vault cash ledger balance                                  │
+    │   └── Investigate discrepancies                                             │
     │                                                                             │
-    │   STEP 4: CENTRAL BANK RESERVE RECONCILIATION                              │
-    │   ├── Compare bank's reserve ledger to central bank statement             │
-    │   ├── Adjust for uncleared checks and floats                              │
-    │   └── Report any discrepancies                                             │
+    │   STEP 4: CENTRAL BANK RESERVE RECONCILIATION                               │
+    │   ├── Compare bank's reserve ledger to central bank statement               │
+    │   ├── Adjust for uncleared checks and floats                                │
+    │   └── Report any discrepancies                                              │
     │                                                                             │
-    │   STEP 5: GENERAL LEDGER BALANCE                                          │
-    │   ├── Verify total assets = total liabilities + equity                    │
-    │   ├── Post adjusting entries if needed                                    │
-    │   └── Produce daily balance sheet                                          │
+    │   STEP 5: GENERAL LEDGER BALANCE                                            │
+    │   ├── Verify total assets = total liabilities + equity                      │
+    │   ├── Post adjusting entries if needed                                      │
+    │   └── Produce daily balance sheet                                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
