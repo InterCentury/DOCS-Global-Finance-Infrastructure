@@ -133,16 +133,16 @@ RESERVE SETTLEMENT MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BEFORE SETTLEMENT:                                                       │
+    │   BEFORE SETTLEMENT:                                                        │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CENTRAL BANK LEDGER                                                 │   │
+    │   │  CENTRAL BANK LEDGER                                                │   │
     │   │  ├── Bank A Reserve Account: $10,000,000                            │   │
     │   │  └── Bank B Reserve Account: $5,000,000                             │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   BANK A PAYS $1,000,000 TO BANK B                                         │
+    │   BANK A PAYS $1,000,000 TO BANK B                                          │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  CENTRAL BANK LEDGER                                                 │   │
