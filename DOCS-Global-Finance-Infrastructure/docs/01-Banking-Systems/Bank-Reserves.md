@@ -222,24 +222,24 @@ COMPARISON: MONETARY BASE VS MONEY SUPPLY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Aspect                  │ Monetary Base (M0)  │ Money Supply (M1/M2)     │
-    │   ────────────────────────│─────────────────────│──────────────────────────│
-    │   Components              │ Currency +          │ M0 + demand deposits +   │
-    │                          │ bank reserves       │ other checkable deposits │
-    │   ────────────────────────│─────────────────────│──────────────────────────│
-    │   Created by              │ Central bank only   │ Central bank +           │
-    │                          │                     │ commercial banks         │
-    │   ────────────────────────│─────────────────────│──────────────────────────│
-    │   Credit risk             │ None (central       │ Yes (bank could fail)    │
-    │                          │ bank liability)     │                          │
-    │   ────────────────────────│─────────────────────│──────────────────────────│
-    │   Size (US, 2024)        │ ~$6 trillion        │ M2: ~$20 trillion         │
-    │   ────────────────────────│─────────────────────│──────────────────────────│
-    │   Controllability by      │ Direct (open market │ Indirect (through        │
-    │   central bank            │ operations)         │ multiplier)              │
-    │   ────────────────────────│─────────────────────│──────────────────────────│
-    │   Role                    │ Foundation of       │ Medium of exchange for   │
-    │                          │ monetary system     │ everyday transactions    │
+    │   Aspect                  │ Monetary Base (M0)  │ Money Supply (M1/M2)      │
+    │   ────────────────────────│─────────────────────│────────────────────────── │
+    │   Components              │ Currency +          │ M0 + demand deposits +    │
+    │                           │ bank reserves       │ other checkable deposits  │
+    │   ────────────────────────│─────────────────────│────────────────────────── │
+    │   Created by              │ Central bank only   │ Central bank +            │
+    │                           │                     │ commercial banks          │
+    │   ────────────────────────│─────────────────────│────────────────────────── │
+    │   Credit risk             │ None (central       │ Yes (bank could fail)     │
+    │                           │ bank liability)     │                           │
+    │   ────────────────────────│─────────────────────│────────────────────────── │
+    │   Size (US, 2024)         │ ~$6 trillion        │ M2: ~$20 trillion         │
+    │   ────────────────────────│─────────────────────│────────────────────────── │
+    │   Controllability by      │ Direct (open market │ Indirect (through         │
+    │   central bank            │ operations)         │ multiplier)               │
+    │   ────────────────────────│─────────────────────│────────────────────────── │
+    │   Role                    │ Foundation of       │ Medium of exchange for    │
+    │                           │ monetary system     │ everyday transactions     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
