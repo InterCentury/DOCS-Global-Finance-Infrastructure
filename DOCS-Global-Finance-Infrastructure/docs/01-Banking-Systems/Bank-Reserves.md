@@ -221,7 +221,6 @@ MONETARY BASE COMPOSITION
 COMPARISON: MONETARY BASE VS MONEY SUPPLY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Aspect                  │ Monetary Base (M0)  │ Money Supply (M1/M2)      │
     │   ────────────────────────│─────────────────────│────────────────────────── │
     │   Components              │ Currency +          │ M0 + demand deposits +    │
@@ -240,7 +239,6 @@ COMPARISON: MONETARY BASE VS MONEY SUPPLY
     │   ────────────────────────│─────────────────────│────────────────────────── │
     │   Role                    │ Foundation of       │ Medium of exchange for    │
     │                           │ monetary system     │ everyday transactions     │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
