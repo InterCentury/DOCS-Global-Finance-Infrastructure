@@ -624,25 +624,26 @@ RECONCILIATION ISSUES AND RESOLUTIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Issue                    │ Cause                    │ Resolution        │
-    │   ─────────────────────────│──────────────────────────│───────────────────│
-    │   Out of balance           │ Data entry error,         │ Find and correct  │
-    │   (Assets ≠ Liabilities    │ missing transaction,      │ erroneous entry   │    │   + Equity)                │ system bug                │                   │
-    │   ─────────────────────────│──────────────────────────│───────────────────│
-    │   Customer balance         │ Unposted transaction,     │ Post missing      │
-    │   discrepancy              │ timing difference         │ transactions,     │
-    │                           │                           │ adjust for floats │
-    │   ─────────────────────────│──────────────────────────│───────────────────│
-    │   Vault cash mismatch      │ Counting error, theft,    │ Recount,          │
-    │                           │ unrecorded deposits/      │ investigate,      │
-    │                           │ withdrawals               │ adjust ledger     │
-    │   ─────────────────────────│──────────────────────────│───────────────────│
-    │   Reserve account          │ Uncleared checks,         │ Identify          │
-    │   difference               │ timing of settlements     │ outstanding       │
-    │                           │                           │ items             │
-    │   ─────────────────────────│──────────────────────────│───────────────────│
-    │   Duplicate transaction    │ System error,             │ Reverse one       │
-    │                           │ manual double-entry       │ entry             │
+    │   Issue                    │ Cause                    │ Resolution          │
+    │   ─────────────────────────│──────────────────────────│───────────────────  │
+    │   Out of balance           │ Data entry error,        │ Find and correct    │
+    │   (Assets ≠ Liabilities    │ missing transaction,     │ erroneous entry     │
+    │   + Equity)                │ system bug               │                     │
+    │   ─────────────────────────│──────────────────────────│───────────────────  │
+    │   Customer balance         │ Unposted transaction,    │ Post missing        │
+    │   discrepancy              │ timing difference        │ transactions,       │
+    │                            │                          │ adjust for floats   │
+    │   ─────────────────────────│──────────────────────────│───────────────────  │
+    │   Vault cash mismatch      │ Counting error, theft,   │ Recount,            │
+    │                            │ unrecorded deposits/     │ investigate,        │
+    │                            │ withdrawals              │ adjust ledger       │
+    │   ─────────────────────────│──────────────────────────│───────────────────  │
+    │   Reserve account          │ Uncleared checks,        │ Identify            │
+    │   difference               │ timing of settlements    │ outstanding         │
+    │                            │                          │ items               │
+    │   ─────────────────────────│──────────────────────────│───────────────────  │
+    │   Duplicate transaction    │ System error,            │ Reverse one         │
+    │                            │ manual double-entry      │ entry               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
