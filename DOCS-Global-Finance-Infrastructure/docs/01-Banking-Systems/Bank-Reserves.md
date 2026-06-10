@@ -200,17 +200,17 @@ MONETARY BASE COMPOSITION
     │   │   BANK RESERVES                                                     │   │
     │   │   ├── Vault cash (physical currency held by banks)                  │   │
     │   │   ├── Deposits at central bank (digital reserves)                   │   │
-    │   │   └── Approximately 5-10% of physical currency + digital balances  │   │
+    │   │   └── Approximately 5-10% of physical currency + digital balances   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   RELATIONSHIP TO MONEY SUPPLY:                                           │
+    │   RELATIONSHIP TO MONEY SUPPLY:                                             │
     │                                                                             │
-    │   M1 (Narrow Money) = Monetary Base × Money Multiplier                    │
+    │   M1 (Narrow Money) = Monetary Base × Money Multiplier                      │
     │                                                                             │
-    │   The money multiplier (typically 3-8) determines how much M1 is created │
-    │   from a given monetary base through fractional reserve banking.          │
+    │   The money multiplier (typically 3-8) determines how much M1 is created    │
+    │   from a given monetary base through fractional reserve banking.            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
