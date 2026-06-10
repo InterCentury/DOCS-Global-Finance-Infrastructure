@@ -36,22 +36,22 @@ RESERVE COMPOSITION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOTAL BANK RESERVES = Vault Cash + Deposits at Central Bank             │
+    │   TOTAL BANK RESERVES = Vault Cash + Deposits at Central Bank               │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   VAULT CASH                                                        │   │
-    │   │   ├── Physical currency (banknotes and coins) held in bank premises│   │
+    │   │   ├── Physical currency (banknotes and coins) held in bank premises │   │
     │   │   ├── ATM cash inventories                                          │   │
-    │   │   ├── Cash in transit (being moved between branches)               │   │
-    │   │   └── Typically 20-40% of total reserves                           │   │
+    │   │   ├── Cash in transit (being moved between branches)                │   │
+    │   │   └── Typically 20-40% of total reserves                            │   │
     │   │                                                                     │   │
     │   │   DEPOSITS AT CENTRAL BANK                                          │   │
     │   │   ├── Digital account balance at central bank                       │   │
     │   │   ├── Used for interbank settlement                                 │   │
     │   │   ├── Can be transferred instantly to other banks                   │   │
     │   │   ├── Earns interest (in most jurisdictions)                        │   │
-    │   │   └── Typically 60-80% of total reserves                           │   │
+    │   │   └── Typically 60-80% of total reserves                            │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
