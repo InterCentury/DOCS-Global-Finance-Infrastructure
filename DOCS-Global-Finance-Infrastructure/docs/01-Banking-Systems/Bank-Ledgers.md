@@ -429,24 +429,24 @@ TYPES OF MONEY IN LEDGERS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK MONEY (Base money, settlement money)                        │
+    │   CENTRAL BANK MONEY (Base money, settlement money)                         │
     │   ├── Recorded on central bank ledger                                       │
-    │   ├── Examples: Physical cash, bank reserves at central bank              │
-    │   ├── No credit risk (backed by central bank)                              │
-    │   └── Used for interbank settlement                                        │
+    │   ├── Examples: Physical cash, bank reserves at central bank                │
+    │   ├── No credit risk (backed by central bank)                               │
+    │   └── Used for interbank settlement                                         │
     │                                                                             │
-    │   COMMERCIAL BANK MONEY (Deposit money)                                    │
-    │   ├── Recorded on commercial bank ledger                                   │
-    │   ├── Examples: Checking accounts, savings accounts                        │
-    │   ├── Credit risk exists (bank could fail)                                 │
-    │   └── Used for everyday transactions                                       │
+    │   COMMERCIAL BANK MONEY (Deposit money)                                     │
+    │   ├── Recorded on commercial bank ledger                                    │
+    │   ├── Examples: Checking accounts, savings accounts                         │
+    │   ├── Credit risk exists (bank could fail)                                  │
+    │   └── Used for everyday transactions                                        │
     │                                                                             │
     │                                                                             │
-    │   RELATIONSHIP:                                                            │
+    │   RELATIONSHIP:                                                             │
     │                                                                             │
-    │   Commercial bank money is a claim on central bank money.                 │
-    │   A $100 deposit at Bank A is a promise to pay $100 in central bank       │
-    │   money on demand.                                                        │
+    │   Commercial bank money is a claim on central bank money.                   │
+    │   A $100 deposit at Bank A is a promise to pay $100 in central bank         │
+    │   money on demand.                                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
