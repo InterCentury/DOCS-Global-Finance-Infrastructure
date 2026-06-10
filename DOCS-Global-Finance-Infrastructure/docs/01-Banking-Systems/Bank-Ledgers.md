@@ -458,40 +458,40 @@ LEDGER HIERARCHY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   LEVEL 1: CENTRAL BANK LEDGER                                             │
-    │   (Single ledger for entire economy)                                       │
+    │   LEVEL 1: CENTRAL BANK LEDGER                                              │
+    │   (Single ledger for entire economy)                                        │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Account                    │ Balance                                │   │
-    │   │  ───────────────────────────│────────────────────────────────────────│   │
-    │   │  Bank A Reserve Account     │ $100,000,000                           │   │
-    │   │  Bank B Reserve Account     │ $75,000,000                            │   │
-    │   │  Bank C Reserve Account     │ $50,000,000                            │   │
-    │   │  Government Account         │ $25,000,000                            │   │
-    │   │  Currency in Circulation    │ $200,000,000 (liability)               │   │
+    │   │  Account                    │ Balance                               │   │
+    │   │  ───────────────────────────│───────────────────────────────────────│   │
+    │   │  Bank A Reserve Account     │ $100,000,000                          │   │
+    │   │  Bank B Reserve Account     │ $75,000,000                           │   │
+    │   │  Bank C Reserve Account     │ $50,000,000                           │   │
+    │   │  Government Account         │ $25,000,000                           │   │
+    │   │  Currency in Circulation    │ $200,000,000 (liability)              │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        │ Banks hold reserves at central bank                              │
-    │        ▼                                                                   │
-    │   LEVEL 2: COMMERCIAL BANK LEDGERS                                         │
-    │   (Many ledgers, one per bank)                                            │
+    │        │                                                                    │
+    │        │ Banks hold reserves at central bank                                │
+    │        ▼                                                                    │
+    │   LEVEL 2: COMMERCIAL BANK LEDGERS                                          │
+    │   (Many ledgers, one per bank)                                              │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank A Ledger                                                       │   │
-    │   │  ├── Customer 1 Deposit: $10,000                                     │   │
-    │   │  ├── Customer 2 Deposit: $25,000                                     │   │
-    │   │  ├── Loan to Business: $500,000                                      │   │
-    │   │  └── Reserve at Central Bank: $100,000,000 (asset)                   │   │
+    │   │  Bank A Ledger                                                      │   │
+    │   │  ├── Customer 1 Deposit: $10,000                                    │   │
+    │   │  ├── Customer 2 Deposit: $25,000                                    │   │
+    │   │  ├── Loan to Business: $500,000                                     │   │
+    │   │  └── Reserve at Central Bank: $100,000,000 (asset)                  │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        │ Customers hold deposits at commercial banks                     │
-    │        ▼                                                                   │
-    │   LEVEL 3: CUSTOMER RECORDS                                               │
-    │   (Individual tracking, not a ledger)                                     │
+    │        │                                                                    │
+    │        │ Customers hold deposits at commercial banks                        │
+    │        ▼                                                                    │
+    │   LEVEL 3: CUSTOMER RECORDS                                                 │
+    │   (Individual tracking, not a ledger)                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Customer 1: $10,000 claim on Bank A                                 │   │
-    │   │  Customer 2: $25,000 claim on Bank A                                 │   │
+    │   │  Customer 1: $10,000 claim on Bank A                                │   │
+    │   │  Customer 2: $25,000 claim on Bank A                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
