@@ -67,26 +67,26 @@ REQUIRED VS EXCESS RESERVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   REQUIRED RESERVES                                                        │
-    │   ├── Minimum amount of reserves bank must hold                           │
-    │   ├── Calculated as: Reserve Requirement Ratio × Qualifying Deposits      │
-    │   ├── Cannot be lent out                                                   │
-    │   ├── May earn interest (in many countries)                                │
-    │   └── Violation results in penalties                                      │
+    │   REQUIRED RESERVES                                                         │
+    │   ├── Minimum amount of reserves bank must hold                             │
+    │   ├── Calculated as: Reserve Requirement Ratio × Qualifying Deposits        │
+    │   ├── Cannot be lent out                                                    │
+    │   ├── May earn interest (in many countries)                                 │
+    │   └── Violation results in penalties                                        │
     │                                                                             │
-    │   EXCESS RESERVES                                                          │
-    │   ├── Any reserves above the required amount                              │
-    │   ├── Can be lent out to customers or other banks                         │
-    │   ├── Can be used to purchase securities                                   │
-    │   ├── Earns interest (often same rate as required reserves)               │
-    │   └── Represents potential lending capacity                                │
+    │   EXCESS RESERVES                                                           │
+    │   ├── Any reserves above the required amount                                │
+    │   ├── Can be lent out to customers or other banks                           │
+    │   ├── Can be used to purchase securities                                    │
+    │   ├── Earns interest (often same rate as required reserves)                 │
+    │   └── Represents potential lending capacity                                 │
     │                                                                             │
     │                                                                             │
-    │   RELATIONSHIP:                                                            │
+    │   RELATIONSHIP:                                                             │
     │                                                                             │
-    │   Total Reserves = Required Reserves + Excess Reserves                    │
+    │   Total Reserves = Required Reserves + Excess Reserves                      │
     │                                                                             │
-    │   Excess Reserves = Total Reserves - Required Reserves                    │
+    │   Excess Reserves = Total Reserves - Required Reserves                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
