@@ -1,4 +1,4 @@
-# 02 - Deflation
+# Deflation
 
 ## Documentation Overview
 
