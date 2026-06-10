@@ -679,27 +679,27 @@ DLT VS TRADITIONAL LEDGER
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Feature              │ Traditional Ledger    │ Distributed Ledger       │
-    │   ─────────────────────│───────────────────────│──────────────────────────│
-    │   Central authority    │ Yes (bank maintains)  │ No (shared among          │
-    │                       │                       │ participants)            │
-    │   ─────────────────────│───────────────────────│──────────────────────────│
-    │   Single point of      │ Yes                   │ No                        │
-    │   failure              │                       │                           │
-    │   ─────────────────────│───────────────────────│──────────────────────────│
-    │   Trust model          │ Trust in central      │ Cryptographic proof +    │
-    │                       │ party                 │ consensus                 │
-    │   ─────────────────────│───────────────────────│──────────────────────────│
-    │   Transaction speed    │ Very fast (internal)  │ Slower (consensus delay) │
-    │   ─────────────────────│───────────────────────│──────────────────────────│
-    │   Immutability         │ Can be changed        │ Extremely difficult      │
-    │                       │ (administrator)       │ to alter                  │
-    │   ─────────────────────│───────────────────────│──────────────────────────│
-    │   Transparency         │ Private (bank only)   │ Public or permissioned   │
-    │   ─────────────────────│───────────────────────│──────────────────────────│
-    │   Energy efficiency    │ High                   │ Low (proof of work) or   │
-    │                       │                        │ moderate (other          │
-    │                       │                        │ consensus)               │
+    │   Feature              │ Traditional Ledger    │ Distributed Ledger         │
+    │   ─────────────────────│───────────────────────│──────────────────────────  │
+    │   Central authority    │ Yes (bank maintains)  │ No (shared among           │
+    │                        │                       │ participants)              │
+    │   ─────────────────────│───────────────────────│──────────────────────────  │
+    │   Single point of      │ Yes                   │ No                         │
+    │   failure              │                       │                            │
+    │   ─────────────────────│───────────────────────│──────────────────────────  │
+    │   Trust model          │ Trust in central      │ Cryptographic proof +      │
+    │                        │ party                 │ consensus                  │
+    │   ─────────────────────│───────────────────────│──────────────────────────  │
+    │   Transaction speed    │ Very fast (internal)  │ Slower (consensus delay)   │
+    │   ─────────────────────│───────────────────────│──────────────────────────  │
+    │   Immutability         │ Can be changed        │ Extremely difficult        │
+    │                        │ (administrator)       │ to alter                   │
+    │   ─────────────────────│───────────────────────│──────────────────────────  │
+    │   Transparency         │ Private (bank only)   │ Public or permissioned     │
+    │   ─────────────────────│───────────────────────│──────────────────────────  │
+    │   Energy efficiency    │ High                  │ Low (proof of work) or     │
+    │                        │                       │ moderate (other            │
+    │                        │                       │ consensus)                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
