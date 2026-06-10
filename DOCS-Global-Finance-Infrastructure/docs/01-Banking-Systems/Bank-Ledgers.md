@@ -711,25 +711,25 @@ LEDGER FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Accounting Equation: Assets = Liabilities + Equity                       │
+    │   Accounting Equation: Assets = Liabilities + Equity                        │
     │                                                                             │
-    │   Debits = Credits (for every transaction)                                 │
+    │   Debits = Credits (for every transaction)                                  │
     │                                                                             │
-    │   Control Account Balance = Sum of Subsidiary Ledger Balances              │
+    │   Control Account Balance = Sum of Subsidiary Ledger Balances               │
     │                                                                             │
-    │   Customer Available Balance = Ledger Balance - Holds - Uncleared Items    │
+    │   Customer Available Balance = Ledger Balance - Holds - Uncleared Items     │
     │                                                                             │
-    │   Bank Reserve Balance = Deposits at Central Bank - Borrowings             │
+    │   Bank Reserve Balance = Deposits at Central Bank - Borrowings              │
     │                                                                             │
-    │   Money Supply (M1) = Currency + Demand Deposits                          │
+    │   Money Supply (M1) = Currency + Demand Deposits                            │
     │                                                                             │
-    │   Money Creation (per loan) = ΔDeposits = ΔLoans                           │
+    │   Money Creation (per loan) = ΔDeposits = ΔLoans                            │
     │                                                                             │
-    │   Money Destruction (per repayment) = ΔDeposits = -ΔLoans                  │
+    │   Money Destruction (per repayment) = ΔDeposits = -ΔLoans                   │
     │                                                                             │
-    │   Net Interest Income = Interest Received - Interest Paid                  │
+    │   Net Interest Income = Interest Received - Interest Paid                   │
     │                                                                             │
-    │   Bank Capital Ratio = Equity / Risk-Weighted Assets                       │
+    │   Bank Capital Ratio = Equity / Risk-Weighted Assets                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
