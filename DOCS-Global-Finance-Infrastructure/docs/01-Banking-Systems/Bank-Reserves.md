@@ -145,22 +145,22 @@ RESERVE SETTLEMENT MECHANISM
     │   BANK A PAYS $1,000,000 TO BANK B                                          │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CENTRAL BANK LEDGER                                                 │   │
+    │   │  CENTRAL BANK LEDGER                                                │   │
     │   │  ├── Bank A Reserve Account: $10,000,000 - $1,000,000 = $9,000,000  │   │
     │   │  └── Bank B Reserve Account: $5,000,000 + $1,000,000 = $6,000,000   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   AFTER SETTLEMENT:                                                        │
+    │   AFTER SETTLEMENT:                                                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CENTRAL BANK LEDGER                                                 │   │
+    │   │  CENTRAL BANK LEDGER                                                │   │
     │   │  ├── Bank A Reserve Account: $9,000,000                             │   │
     │   │  └── Bank B Reserve Account: $6,000,000                             │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Key insight: Only central bank reserves can settle interbank payments   │
-    │   with finality and no credit risk.                                       │
+    │   Key insight: Only central bank reserves can settle interbank payments     │
+    │   with finality and no credit risk.                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
