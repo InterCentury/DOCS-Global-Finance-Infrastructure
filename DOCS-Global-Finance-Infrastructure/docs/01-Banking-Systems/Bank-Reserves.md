@@ -1,4 +1,4 @@
-# 02 - Bank Reserves
+# Bank Reserves
 
 ## Documentation Overview
 
@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and composition of bank reserves              │
-    │   Learn the distinction between required and excess reserves              │
-    │   Study the role of reserves in payment settlement                         │
-    │   Analyze reserve requirements and their purpose                           │
-    │   Examine how reserves are created and destroyed                           │
-    │   Understand reserves as the monetary base                                 │
-    │   Learn reserve management by commercial banks                             │
-    │   Study the evolution from scarce to ample reserves                        │
+    │   Understand the definition and composition of bank reserves                │
+    │   Learn the distinction between required and excess reserves                │
+    │   Study the role of reserves in payment settlement                          │
+    │   Analyze reserve requirements and their purpose                            │
+    │   Examine how reserves are created and destroyed                            │
+    │   Understand reserves as the monetary base                                  │
+    │   Learn reserve management by commercial banks                              │
+    │   Study the evolution from scarce to ample reserves                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
