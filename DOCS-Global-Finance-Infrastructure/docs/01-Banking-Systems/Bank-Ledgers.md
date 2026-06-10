@@ -175,10 +175,10 @@ EXAMPLE 3: Customer transfers $200 to another customer
 
 EXAMPLE 4: Bank pays $1000 interest to depositors
 
-    Account                          │ Debit ($)    │ Credit ($)
-    ─────────────────────────────────│──────────────│────────────────────────────
-    Interest Expense (Equity reduction)│ 1,000      │
-    Customer Deposits (Liability)    │              │ 1,000
+    Account                            │ Debit ($)    │ Credit ($)
+    ───────────────────────────────────│──────────────│────────────────────────────
+    Interest Expense (Equity reduction)│ 1,000        │
+    Customer Deposits (Liability)      │              │ 1,000
 
     Explanation: Expense reduces equity; liability to customer increases.
 ```
