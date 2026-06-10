@@ -1,4 +1,4 @@
-# 05 - Fractional Reserve Banking
+# Fractional Reserve Banking
 
 ## Documentation Overview
 
