@@ -396,15 +396,15 @@ FEDERAL FUNDS MARKET MECHANISM
     │   (Surplus)                              (Deficit)                         │
     │                                                                             │
     │   ┌─────────────────────────┐            ┌─────────────────────────┐       │
-    │   │ Bank A                  │            │ Bank B                   │       │
-    │   │ Reserve Balance: $150M  │            │ Reserve Balance: $40M    │       │
-    │   │ Required Reserves: $100M│            │ Required Reserves: $50M  │       │
-    │   │ Excess Reserves: $50M   │            │ Reserve Shortfall: $10M  │       │
+    │   │ Bank A                  │            │ Bank B                  │       │
+    │   │ Reserve Balance: $150M  │            │ Reserve Balance: $40M   │       │
+    │   │ Required Reserves: $100M│            │ Required Reserves: $50M │       │
+    │   │ Excess Reserves: $50M   │            │ Reserve Shortfall: $10M │       │
     │   └───────────┬─────────────┘            └───────────┬─────────────┘       │
     │               │                                      │                      │
-    │               │         $10 million loan            │                      │
-    │               │         at 5.25% interest           │                      │
-    │               └─────────────────────────────────────┘                      │
+    │               │         $10 million loan             │                      │
+    │               │         at 5.25% interest            │                      │
+    │               └──────────────────────────────────────┘                      │
     │                                                                             │
     │                                                                             │
     │   AFTER LOAN:                                                              │
