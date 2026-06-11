@@ -134,27 +134,27 @@ MONETARY POLICY OBJECTIVES HIERARCHY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PRIMARY OBJECTIVE: Price Stability                                       │
-    │   │                                                                        │
-    │   ├── Most central banks target 2% inflation                              │
-    │   ├── Prevents deflation (falling prices)                                 │
-    │   ├── Prevents high inflation (eroding savings)                           │
-    │   └── Provides anchor for expectations                                    │
-    │   │                                                                        │
-    │   ▼                                                                        │
-    │   SECONDARY OBJECTIVES:                                                    │
-    │   │                                                                        │
-    │   ├── Maximum employment (Fed dual mandate)                               │
-    │   ├── Financial stability                                                 │
-    │   ├── Moderate long-term interest rates                                   │
-    │   └── Exchange rate stability (some central banks)                        │
-    │   │                                                                        │
-    │   ▼                                                                        │
-    │   ULTIMATE GOALS:                                                          │
-    │   │                                                                        │
-    │   ├── Sustainable economic growth                                         │
-    │   ├── High employment                                                     │
-    │   └── Stable purchasing power of currency                                 │
+    │   PRIMARY OBJECTIVE: Price Stability                                        │
+    │   │                                                                         │
+    │   ├── Most central banks target 2% inflation                                │
+    │   ├── Prevents deflation (falling prices)                                   │
+    │   ├── Prevents high inflation (eroding savings)                             │
+    │   └── Provides anchor for expectations                                      │
+    │   │                                                                         │
+    │   ▼                                                                         │
+    │   SECONDARY OBJECTIVES:                                                     │
+    │   │                                                                         │
+    │   ├── Maximum employment (Fed dual mandate)                                 │
+    │   ├── Financial stability                                                   │
+    │   ├── Moderate long-term interest rates                                     │
+    │   └── Exchange rate stability (some central banks)                          │
+    │   │                                                                         │
+    │   ▼                                                                         │
+    │   ULTIMATE GOALS:                                                           │
+    │   │                                                                         │
+    │   ├── Sustainable economic growth                                           │
+    │   ├── High employment                                                       │
+    │   └── Stable purchasing power of currency                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
