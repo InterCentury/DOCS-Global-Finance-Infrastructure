@@ -488,12 +488,12 @@ INTEREST ON RESERVES MECHANISM
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   RESULT:                                                                  │
-    │   ├── Federal funds rate cannot fall below IORB rate                      │
-    │   ├── IORB rate becomes the effective floor for short-term rates         │
-    │   ├── Central bank controls rates without needing to actively manage     │
-    │   │   reserve scarcity                                                   │
-    │   └── Enables ample reserves regime (post-2008)                           │
+    │   RESULT:                                                                   │
+    │   ├── Federal funds rate cannot fall below IORB rate                        │
+    │   ├── IORB rate becomes the effective floor for short-term rates            │
+    │   ├── Central bank controls rates without needing to actively manage        │
+    │   │   reserve scarcity                                                      │
+    │   └── Enables ample reserves regime (post-2008)                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
