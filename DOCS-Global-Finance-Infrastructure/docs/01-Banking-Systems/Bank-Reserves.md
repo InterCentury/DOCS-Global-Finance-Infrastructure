@@ -364,12 +364,12 @@ DAILY RESERVE MANAGEMENT PROCESS
     │        ├─────────────────────────────────────────────────────┐              │
     │        ▼                                                     ▼              │
     │   IF SHORTFALL                                          IF SURPLUS          │
-    │   ├── Borrow from fed funds market                   ├── Lend in fed       │
-    │   ├── Borrow from discount window                    │   funds market      │
-    │   ├── Sell securities (repos)                        ├── Buy securities    │
-    │   ├── Reduce lending                                 │   (reverse repo)    │
-    │   └── Attract new deposits                           └── Reduce           │
-    │                                                          borrowings        │
+    │   ├── Borrow from fed funds market                   ├── Lend in fed        │
+    │   ├── Borrow from discount window                    │   funds market       │
+    │   ├── Sell securities (repos)                        ├── Buy securities     │
+    │   ├── Reduce lending                                 │   (reverse repo)     │
+    │   └── Attract new deposits                           └── Reduce             │
+    │                                                          borrowings         │
     │        │                                                     │            │
     │        └──────────────────────┬──────────────────────────────┘            │
     │                               │                                           │
