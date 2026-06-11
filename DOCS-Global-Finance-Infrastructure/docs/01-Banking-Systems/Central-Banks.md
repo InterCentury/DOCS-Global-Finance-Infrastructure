@@ -96,27 +96,27 @@ CENTRAL BANK MANDATES BY COUNTRY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Central Bank           │ Mandate Type          │ Primary Target          │
-    │   ───────────────────────│───────────────────────│─────────────────────────│
-    │   Federal Reserve (US)   │ Dual Mandate          │ 2% inflation +          │
-    │                          │                       │ maximum employment      │
-    │   ───────────────────────│───────────────────────│─────────────────────────│
-    │   European Central Bank  │ Price Stability       │ Below but close to 2%   │
-    │   (Eurozone)             │ (Hierarchical)        │ inflation               │
-    │   ───────────────────────│───────────────────────│─────────────────────────│
-    │   Bank of England (UK)   │ Price Stability +     │ 2% inflation target     │
-    │                          │ Support growth        │ (symmetric)             │
-    │   ───────────────────────│───────────────────────│─────────────────────────│
-    │   Bank of Japan (JP)     │ Price Stability       │ 2% inflation target     │
-    │   ───────────────────────│───────────────────────│─────────────────────────│
-    │   People's Bank of China │ Multiple Objectives   │ Price + growth +        │
-    │   (CN)                   │                       │ exchange rate stability │
-    │   ───────────────────────│───────────────────────│─────────────────────────│
-    │   Swiss National Bank    │ Price Stability       │ Below 2% inflation      │
-    │   (CH)                   │                       │                         │
-    │   ───────────────────────│───────────────────────│─────────────────────────│
-    │   Reserve Bank of India  │ Price Stability +     │ 4% inflation (±2%)      │
-    │   (IN)                   │ Growth                │                         │
+    │   Central Bank           │ Mandate Type          │ Primary Target           │
+    │   ───────────────────────│───────────────────────│───────────────────────── │
+    │   Federal Reserve (US)   │ Dual Mandate          │ 2% inflation +           │
+    │                          │                       │ maximum employment       │
+    │   ───────────────────────│───────────────────────│───────────────────────── │
+    │   European Central Bank  │ Price Stability       │ Below but close to 2%    │
+    │   (Eurozone)             │ (Hierarchical)        │ inflation                │
+    │   ───────────────────────│───────────────────────│───────────────────────── │
+    │   Bank of England (UK)   │ Price Stability +     │ 2% inflation target      │
+    │                          │ Support growth        │ (symmetric)              │
+    │   ───────────────────────│───────────────────────│───────────────────────── │
+    │   Bank of Japan (JP)     │ Price Stability       │ 2% inflation target      │
+    │   ───────────────────────│───────────────────────│───────────────────────── │
+    │   People's Bank of China │ Multiple Objectives   │ Price + growth +         │
+    │   (CN)                   │                       │ exchange rate stability  │
+    │   ───────────────────────│───────────────────────│───────────────────────── │
+    │   Swiss National Bank    │ Price Stability       │ Below 2% inflation       │
+    │   (CH)                   │                       │                          │
+    │   ───────────────────────│───────────────────────│───────────────────────── │
+    │   Reserve Bank of India  │ Price Stability +     │ 4% inflation (±2%)       │
+    │   (IN)                   │ Growth                │                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
