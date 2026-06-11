@@ -370,13 +370,13 @@ DAILY RESERVE MANAGEMENT PROCESS
     │   ├── Reduce lending                                 │   (reverse repo)     │
     │   └── Attract new deposits                           └── Reduce             │
     │                                                          borrowings         │
-    │        │                                                     │            │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │   STEP 4: Execute Trades in Reserve Market                               │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │   STEP 4: Execute Trades in Reserve Market                                  │
     │                                                                             │
-    │   STEP 5: Monitor and Adjust Throughout Day                               │
+    │   STEP 5: Monitor and Adjust Throughout Day                                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
