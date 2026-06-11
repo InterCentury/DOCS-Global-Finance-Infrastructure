@@ -471,20 +471,20 @@ INTEREST ON RESERVES MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK SETS IORB RATE = 5.00%                                     │
+    │   CENTRAL BANK SETS IORB RATE = 5.00%                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank A has $100 million excess reserves                           │   │
+    │   │  Bank A has $100 million excess reserves                            │   │
     │   │                                                                     │   │
-    │   │  OPTION 1: Hold reserves at central bank                           │   │
-    │   │  └── Earns 5.00% interest (risk-free)                              │   │
+    │   │  OPTION 1: Hold reserves at central bank                            │   │
+    │   │  └── Earns 5.00% interest (risk-free)                               │   │
     │   │                                                                     │   │
-    │   │  OPTION 2: Lend to Bank B in fed funds market                      │   │
-    │   │  └── Bank B will pay at most 5.00% (otherwise Bank A prefers       │   │
+    │   │  OPTION 2: Lend to Bank B in fed funds market                       │   │
+    │   │  └── Bank B will pay at most 5.00% (otherwise Bank A prefers        │   │
     │   │      holding reserves)                                              │   │
     │   │                                                                     │   │
-    │   │  OPTION 3: Lend to a corporate customer                            │   │
-    │   │  └── Must earn above 5.00% to be worthwhile after risk premium    │   │
+    │   │  OPTION 3: Lend to a corporate customer                             │   │
+    │   │  └── Must earn above 5.00% to be worthwhile after risk premium      │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
