@@ -448,12 +448,12 @@ RESERVE MAINTENANCE PERIOD EXAMPLE
     │   13  │ 105                  │ +5                                           │
     │   14  │ 100                  │ 0                                            │
     │                                                                             │
-    │   Total Above: +45                                                        │
-    │   Total Below: -40                                                        │
-    │   Net Average: (14 × $100M + $5M) / 14 = $100.36M (Requirement met)       │
+    │   Total Above: +45                                                          │
+    │   Total Below: -40                                                          │
+    │   Net Average: (14 × $100M + $5M) / 14 = $100.36M (Requirement met)         │
     │                                                                             │
-    │   Key insight: Banks can have daily deficits as long as total             │
-    │   average meets requirement over the full period.                         │
+    │   Key insight: Banks can have daily deficits as long as total               │
+    │   average meets requirement over the full period.                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
