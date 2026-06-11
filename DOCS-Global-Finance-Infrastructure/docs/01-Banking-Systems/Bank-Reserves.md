@@ -564,20 +564,20 @@ TRADITIONAL MONEY MULTIPLIER
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   SIMPLE MODEL (No leakages):                                              │
+    │   SIMPLE MODEL (No leakages):                                               │
     │                                                                             │
-    │   Money Multiplier = 1 / Reserve Requirement Ratio                         │
+    │   Money Multiplier = 1 / Reserve Requirement Ratio                          │
     │                                                                             │
-    │   EXAMPLE (RR = 10%):                                                      │
-    │   Multiplier = 1 / 0.10 = 10                                              │
-    │   $1 billion reserve injection → $10 billion money supply increase        │
+    │   EXAMPLE (RR = 10%):                                                       │
+    │   Multiplier = 1 / 0.10 = 10                                                │
+    │   $1 billion reserve injection → $10 billion money supply increase          │
     │                                                                             │
     │                                                                             │
-    │   COMPLEX MODEL (With leakages):                                           │
+    │   COMPLEX MODEL (With leakages):                                            │
     │                                                                             │
-    │   Money Multiplier = (1 + c) / (rr + c + e)                                │
+    │   Money Multiplier = (1 + c) / (rr + c + e)                                 │
     │                                                                             │
-    │   Where:                                                                   │
+    │   Where:                                                                    │
     │   c = currency drain ratio (cash held by public / deposits)               │
     │   e = excess reserve ratio (excess reserves / deposits)                   │
     │   rr = required reserve ratio                                              │
