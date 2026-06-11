@@ -409,10 +409,10 @@ FEDERAL FUNDS MARKET MECHANISM
     │                                                                             │
     │   AFTER LOAN:                                                               │
     │                                                                             │
-    │   Bank A Reserves: $150M - $10M = $140M (Excess reduces to $40M)          │
-    │   Bank B Reserves: $40M + $10M = $50M (Shortfall eliminated)              │
+    │   Bank A Reserves: $150M - $10M = $140M (Excess reduces to $40M)            │
+    │   Bank B Reserves: $40M + $10M = $50M (Shortfall eliminated)                │
     │                                                                             │
-    │   Next day: Loan repaid with interest.                                    │
+    │   Next day: Loan repaid with interest.                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
