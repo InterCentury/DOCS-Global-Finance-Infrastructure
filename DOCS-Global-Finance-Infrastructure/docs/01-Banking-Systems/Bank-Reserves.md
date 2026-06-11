@@ -515,28 +515,28 @@ SCARCE VS AMPLE RESERVES COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Feature              │ Scarce Reserves         │ Ample Reserves          │
-    │                        │ (Pre-2008)              │ (Post-2008)             │
-    │   ─────────────────────│─────────────────────────│─────────────────────────│
-    │   Reserve level        │ Near minimum required   │ Vastly above required   │
-    │   ─────────────────────│─────────────────────────│─────────────────────────│
-    │   Typical total        │ ~$50 billion            │ ~$3 trillion+           │
-    │   reserves (US)        │                         │                         │
-    │   ─────────────────────│─────────────────────────│─────────────────────────│
+    │   Feature              │ Scarce Reserves         │ Ample Reserves           │
+    │                        │ (Pre-2008)              │ (Post-2008)              │
+    │   ─────────────────────│─────────────────────────│───────────────────────── │
+    │   Reserve level        │ Near minimum required   │ Vastly above required    │
+    │   ─────────────────────│─────────────────────────│───────────────────────── │
+    │   Typical total        │ ~$50 billion            │ ~$3 trillion+            │
+    │   reserves (US)        │                         │                          │
+    │   ─────────────────────│─────────────────────────│───────────────────────── │
     │   Reserve scarcity     │ High                    │ None                     │
-    │   ─────────────────────│─────────────────────────│─────────────────────────│
-    │   Fed funds rate       │ Sensitive to small      │ Stable, held at IORB    │
+    │   ─────────────────────│─────────────────────────│───────────────────────── │
+    │   Fed funds rate       │ Sensitive to small      │ Stable, held at IORB     │
     │   behavior             │ reserve changes         │ floor                    │
-    │   ─────────────────────│─────────────────────────│─────────────────────────│
-    │   Monetary policy      │ Open market operations  │ Interest on reserves    │
-    │   implementation       │ (scarce reserves        │ (ample reserves         │
-    │                        │ framework)              │ framework)              │
-    │   ─────────────────────│─────────────────────────│─────────────────────────│
-    │   Open market          │ Frequent (daily)        │ Rare (only to maintain  │
-    │   operations           │                         │ ample level)            │
-    │   ─────────────────────│─────────────────────────│─────────────────────────│
-    │   Period               │ Pre-2008, pre-COVID     │ 2008-present (with      │
-    │                        │                         │ QE episodes)            │
+    │   ─────────────────────│─────────────────────────│───────────────────────── │
+    │   Monetary policy      │ Open market operations  │ Interest on reserves     │
+    │   implementation       │ (scarce reserves        │ (ample reserves          │
+    │                        │ framework)              │ framework)               │
+    │   ─────────────────────│─────────────────────────│───────────────────────── │
+    │   Open market          │ Frequent (daily)        │ Rare (only to maintain   │
+    │   operations           │                         │ ample level)             │
+    │   ─────────────────────│─────────────────────────│───────────────────────── │
+    │   Period               │ Pre-2008, pre-COVID     │ 2008-present (with       │
+    │                        │                         │ QE episodes)             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
