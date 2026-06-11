@@ -578,12 +578,12 @@ TRADITIONAL MONEY MULTIPLIER
     │   Money Multiplier = (1 + c) / (rr + c + e)                                 │
     │                                                                             │
     │   Where:                                                                    │
-    │   c = currency drain ratio (cash held by public / deposits)               │
-    │   e = excess reserve ratio (excess reserves / deposits)                   │
-    │   rr = required reserve ratio                                              │
+    │   c = currency drain ratio (cash held by public / deposits)                 │
+    │   e = excess reserve ratio (excess reserves / deposits)                     │
+    │   rr = required reserve ratio                                               │
     │                                                                             │
-    │   EXAMPLE (c = 0.05, e = 0.01, rr = 0.10):                                │
-    │   Multiplier = (1 + 0.05) / (0.10 + 0.05 + 0.01) = 1.05 / 0.16 = 6.56    │
+    │   EXAMPLE (c = 0.05, e = 0.01, rr = 0.10):                                  │
+    │   Multiplier = (1 + 0.05) / (0.10 + 0.05 + 0.01) = 1.05 / 0.16 = 6.56       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
