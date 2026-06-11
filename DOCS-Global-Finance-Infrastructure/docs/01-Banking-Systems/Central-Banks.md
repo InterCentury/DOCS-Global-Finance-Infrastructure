@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the core functions and mandates of central banks             │
-    │   Learn monetary policy objectives and implementation tools               │
-    │   Study central bank balance sheet structure and operations               │
-    │   Analyze the lender of last resort function                              │
-    │   Examine payment system oversight and operation                          │
-    │   Understand central bank independence and accountability                 │
-    │   Learn the role of central banks in financial stability                  │
-    │   Study international central bank cooperation                            │
+    │   Understand the core functions and mandates of central banks               │
+    │   Learn monetary policy objectives and implementation tools                 │
+    │   Study central bank balance sheet structure and operations                 │
+    │   Analyze the lender of last resort function                                │
+    │   Examine payment system oversight and operation                            │
+    │   Understand central bank independence and accountability                   │
+    │   Learn the role of central banks in financial stability                    │
+    │   Study international central bank cooperation                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
