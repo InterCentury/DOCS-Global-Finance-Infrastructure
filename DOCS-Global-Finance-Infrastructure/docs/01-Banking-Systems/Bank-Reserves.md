@@ -617,10 +617,10 @@ RESERVE FORMULAS
     │                                                                             │
     │   Real Interest Rate on Reserves = IORB Rate - Inflation Rate               │
     │                                                                             │
-    │   Federal Funds Rate Target Range = [IORB - Spread, IORB + Spread]        │
-    │   (Typically IORB is the floor)                                            │
+    │   Federal Funds Rate Target Range = [IORB - Spread, IORB + Spread]          │
+    │   (Typically IORB is the floor)                                             │
     │                                                                             │
-    │   Reserve Maintenance Average = (Sum of Daily Reserves) / Days in Period   │
+    │   Reserve Maintenance Average = (Sum of Daily Reserves) / Days in Period    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
