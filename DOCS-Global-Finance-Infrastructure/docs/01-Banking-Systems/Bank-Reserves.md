@@ -347,27 +347,27 @@ DAILY RESERVE MANAGEMENT PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: Calculate Reserve Requirement                                    │
-    │   ├── Based on average deposits over prior period (lagged accounting)      │
-    │   └── Required = RR Ratio × Qualifying Deposits                           │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Forecast Reserve Position                                        │
-    │   ├── Project incoming payments (customer deposits, wire receipts)        │
-    │   ├── Project outgoing payments (withdrawals, wire payments)              │
-    │   ├── Forecast net change                                                 │
-    │   └── Calculate projected end-of-day balance                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Identify Shortfall or Surplus                                    │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   IF SHORTFALL                                          IF SURPLUS        │
+    │   STEP 1: Calculate Reserve Requirement                                     │
+    │   ├── Based on average deposits over prior period (lagged accounting)       │
+    │   └── Required = RR Ratio × Qualifying Deposits                             │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Forecast Reserve Position                                         │
+    │   ├── Project incoming payments (customer deposits, wire receipts)          │
+    │   ├── Project outgoing payments (withdrawals, wire payments)                │
+    │   ├── Forecast net change                                                   │
+    │   └── Calculate projected end-of-day balance                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Identify Shortfall or Surplus                                     │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   IF SHORTFALL                                          IF SURPLUS          │
     │   ├── Borrow from fed funds market                   ├── Lend in fed       │
     │   ├── Borrow from discount window                    │   funds market      │
     │   ├── Sell securities (repos)                        ├── Buy securities    │
-    │   ├── Reduce lending                                    (reverse repo)    │
+    │   ├── Reduce lending                                 │   (reverse repo)    │
     │   └── Attract new deposits                           └── Reduce           │
     │                                                          borrowings        │
     │        │                                                     │            │
