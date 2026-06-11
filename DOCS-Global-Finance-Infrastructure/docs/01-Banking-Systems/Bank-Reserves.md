@@ -601,21 +601,21 @@ RESERVE FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Total Reserves = Vault Cash + Deposits at Central Bank                   │
+    │   Total Reserves = Vault Cash + Deposits at Central Bank                    │
     │                                                                             │
-    │   Required Reserves = Reserve Requirement Ratio × Qualifying Deposits      │
+    │   Required Reserves = Reserve Requirement Ratio × Qualifying Deposits       │
     │                                                                             │
-    │   Excess Reserves = Total Reserves - Required Reserves                     │
+    │   Excess Reserves = Total Reserves - Required Reserves                      │
     │                                                                             │
-    │   Monetary Base (M0) = Currency in Circulation + Bank Reserves             │
+    │   Monetary Base (M0) = Currency in Circulation + Bank Reserves              │
     │                                                                             │
-    │   Reserve Ratio (actual) = Total Reserves / Total Deposits                 │
+    │   Reserve Ratio (actual) = Total Reserves / Total Deposits                  │
     │                                                                             │
-    │   Simple Money Multiplier = 1 / Reserve Requirement Ratio                  │
+    │   Simple Money Multiplier = 1 / Reserve Requirement Ratio                   │
     │                                                                             │
-    │   Complex Money Multiplier = (1 + c) / (rr + c + e)                        │
+    │   Complex Money Multiplier = (1 + c) / (rr + c + e)                         │
     │                                                                             │
-    │   Real Interest Rate on Reserves = IORB Rate - Inflation Rate              │
+    │   Real Interest Rate on Reserves = IORB Rate - Inflation Rate               │
     │                                                                             │
     │   Federal Funds Rate Target Range = [IORB - Spread, IORB + Spread]        │
     │   (Typically IORB is the floor)                                            │
