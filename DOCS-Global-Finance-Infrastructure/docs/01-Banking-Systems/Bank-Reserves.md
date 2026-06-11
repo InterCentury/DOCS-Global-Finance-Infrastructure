@@ -392,22 +392,22 @@ FEDERAL FUNDS MARKET MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BANK WITH EXCESS RESERVES              BANK WITH RESERVE SHORTFALL       │
-    │   (Surplus)                              (Deficit)                         │
+    │   BANK WITH EXCESS RESERVES              BANK WITH RESERVE SHORTFALL        │
+    │   (Surplus)                              (Deficit)                          │
     │                                                                             │
-    │   ┌─────────────────────────┐            ┌─────────────────────────┐       │
-    │   │ Bank A                  │            │ Bank B                  │       │
-    │   │ Reserve Balance: $150M  │            │ Reserve Balance: $40M   │       │
-    │   │ Required Reserves: $100M│            │ Required Reserves: $50M │       │
-    │   │ Excess Reserves: $50M   │            │ Reserve Shortfall: $10M │       │
-    │   └───────────┬─────────────┘            └───────────┬─────────────┘       │
+    │   ┌─────────────────────────┐            ┌─────────────────────────┐        │
+    │   │ Bank A                  │            │ Bank B                  │        │
+    │   │ Reserve Balance: $150M  │            │ Reserve Balance: $40M   │        │
+    │   │ Required Reserves: $100M│            │ Required Reserves: $50M │        │
+    │   │ Excess Reserves: $50M   │            │ Reserve Shortfall: $10M │        │
+    │   └───────────┬─────────────┘            └───────────┬─────────────┘        │
     │               │                                      │                      │
     │               │         $10 million loan             │                      │
     │               │         at 5.25% interest            │                      │
     │               └──────────────────────────────────────┘                      │
     │                                                                             │
     │                                                                             │
-    │   AFTER LOAN:                                                              │
+    │   AFTER LOAN:                                                               │
     │                                                                             │
     │   Bank A Reserves: $150M - $10M = $140M (Excess reduces to $40M)          │
     │   Bank B Reserves: $40M + $10M = $50M (Shortfall eliminated)              │
