@@ -61,28 +61,28 @@ CENTRAL BANK CORE FUNCTIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   FUNCTION DETAILS:                                                        │
+    │   FUNCTION DETAILS:                                                         │
     │                                                                             │
-    │   1. Monetary Policy: Sets interest rates and controls money supply       │
-    │      to achieve price stability and maximum employment.                   │
+    │   1. Monetary Policy: Sets interest rates and controls money supply         │
+    │      to achieve price stability and maximum employment.                     │
     │                                                                             │
-    │   2. Currency Issuance: Has sole right to issue banknotes and coins.      │
-    │      Maintains public confidence in currency.                             │
+    │   2. Currency Issuance: Has sole right to issue banknotes and coins.        │
+    │      Maintains public confidence in currency.                               │
     │                                                                             │
-    │   3. Banker to Banks: Holds reserve accounts for commercial banks.        │
-    │      Provides settlement services for interbank payments.                 │
+    │   3. Banker to Banks: Holds reserve accounts for commercial banks.          │
+    │      Provides settlement services for interbank payments.                   │
     │                                                                             │
-    │   4. Banker to Government: Manages government's bank account.             │
-    │      Processes tax receipts and government payments.                      │
+    │   4. Banker to Government: Manages government's bank account.               │
+    │      Processes tax receipts and government payments.                        │
     │                                                                             │
-    │   5. Lender of Last Resort: Provides emergency liquidity to solvent       │
-    │      but illiquid banks during crises.                                    │
+    │   5. Lender of Last Resort: Provides emergency liquidity to solvent         │
+    │      but illiquid banks during crises.                                      │
     │                                                                             │
-    │   6. Payment Systems Oversight: Operates or oversees RTGS systems.        │
-    │      Ensures smooth functioning of national payment infrastructure.       │
+    │   6. Payment Systems Oversight: Operates or oversees RTGS systems.          │
+    │      Ensures smooth functioning of national payment infrastructure.         │
     │                                                                             │
-    │   7. Financial Stability: Monitors systemic risk. Regulates and           │
-    │      supervises systemically important institutions.                      │
+    │   7. Financial Stability: Monitors systemic risk. Regulates and             │
+    │      supervises systemically important institutions.                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
