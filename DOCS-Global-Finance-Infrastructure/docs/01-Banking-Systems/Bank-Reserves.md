@@ -560,7 +560,7 @@ How it works: The central bank sets the IORB rate. Banks have no incentive to le
 The money multiplier describes how an initial reserve injection can lead to a larger increase in the money supply through fractional reserve lending.
 
 ```
-TRADITIONAL MONEY MULTIPLIER
+TRADITIONAL MONEY MULTIPLIER 
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
