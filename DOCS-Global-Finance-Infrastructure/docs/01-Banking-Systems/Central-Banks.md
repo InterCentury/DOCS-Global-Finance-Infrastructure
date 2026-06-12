@@ -393,9 +393,9 @@ RESERVE ACCOUNT STRUCTURE
     │   These accounts are:                                                       │
     │   ├── Digital only (no physical cash)                                       │
     │   ├── Interest-bearing (IORB rate)                                          │
-    │   ├── Used for real-time interbank settlement                            │
-    │   ├── No credit risk (central bank liability)                            │
-    │   └── Only accessible to commercial banks                                │
+    │   ├── Used for real-time interbank settlement                               │
+    │   ├── No credit risk (central bank liability)                               │
+    │   └── Only accessible to commercial banks                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
