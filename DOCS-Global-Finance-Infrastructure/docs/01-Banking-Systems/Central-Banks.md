@@ -418,20 +418,20 @@ RTGS SETTLEMENT MECHANISM
     │   │ $100M       │                                      │ $50M        │      │
     │   └──────┬──────┘                                      └──────┬──────┘      │
     │          │                                                    │             │
-    │          │  Bank A instructs RTGS to pay $10M to Bank B      │             │
+    │          │  Bank A instructs RTGS to pay $10M to Bank B       │             │
     │          │                                                    │             │
     │          ▼                                                    ▼             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                       CENTRAL BANK RTGS SYSTEM                       │   │
+    │   │                       CENTRAL BANK RTGS SYSTEM                      │   │
     │   │                                                                     │   │
-    │   │   1. Verify Bank A has sufficient reserves ($100M ≥ $10M)          │   │
-    │   │   2. Debit Bank A reserve account: $100M → $90M                    │   │
-    │   │   3. Credit Bank B reserve account: $50M → $60M                    │   │
-    │   │   4. Send confirmation to both banks                               │   │
+    │   │   1. Verify Bank A has sufficient reserves ($100M ≥ $10M)           │   │
+    │   │   2. Debit Bank A reserve account: $100M → $90M                     │   │
+    │   │   3. Credit Bank B reserve account: $50M → $60M                     │   │
+    │   │   4. Send confirmation to both banks                                │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Result: Payment is final and irrevocable. No credit risk.               │
+    │   Result: Payment is final and irrevocable. No credit risk.                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
