@@ -631,22 +631,22 @@ FOREIGN RESERVE COMPOSITION (Global)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Total Global Reserves: ~$12 trillion                                     │
+    │   Total Global Reserves: ~$12 trillion                                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Currency              │ Share (%)                                   │   │
-    │   │  ──────────────────────│─────────────────────────────────────────────│   │
-    │   │  US Dollar             │ 58%                                         │   │
-    │   │  Euro                  │ 20%                                         │   │
-    │   │  Japanese Yen          │ 5%                                          │   │
-    │   │  British Pound         │ 5%                                          │   │
-    │   │  Chinese Renminbi      │ 3%                                          │   │
-    │   │  Canadian Dollar       │ 2%                                          │   │
-    │   │  Australian Dollar     │ 2%                                          │   │
-    │   │  Other                 │ 5%                                          │   │
+    │   │  Currency              │ Share (%)                                  │   │
+    │   │  ──────────────────────│────────────────────────────────────────────│   │
+    │   │  US Dollar             │ 58%                                        │   │
+    │   │  Euro                  │ 20%                                        │   │
+    │   │  Japanese Yen          │ 5%                                         │   │
+    │   │  British Pound         │ 5%                                         │   │
+    │   │  Chinese Renminbi      │ 3%                                         │   │
+    │   │  Canadian Dollar       │ 2%                                         │   │
+    │   │  Australian Dollar     │ 2%                                         │   │
+    │   │  Other                 │ 5%                                         │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Gold also held as reserve (about 10% of total reserve value).           │
+    │   Gold also held as reserve (about 10% of total reserve value).             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
