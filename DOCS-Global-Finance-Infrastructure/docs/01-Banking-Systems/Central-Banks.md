@@ -374,7 +374,7 @@ RESERVE ACCOUNT STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK LEDGER                                                      │
+    │   CENTRAL BANK LEDGER                                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account Holder              │ Balance ($ millions)                 │   │
@@ -390,9 +390,9 @@ RESERVE ACCOUNT STRUCTURE
     │   │  Total Bank Reserves         │ 885,000                              │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   These accounts are:                                                      │
-    │   ├── Digital only (no physical cash)                                     │
-    │   ├── Interest-bearing (IORB rate)                                        │
+    │   These accounts are:                                                       │
+    │   ├── Digital only (no physical cash)                                       │
+    │   ├── Interest-bearing (IORB rate)                                          │
     │   ├── Used for real-time interbank settlement                            │
     │   ├── No credit risk (central bank liability)                            │
     │   └── Only accessible to commercial banks                                │
