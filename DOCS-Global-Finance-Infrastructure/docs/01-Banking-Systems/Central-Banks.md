@@ -594,22 +594,22 @@ INDEPENDENCE DIMENSIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DIMENSION              │ MEANING                       │ COMMON PRACTICE │
-    │   ───────────────────────│───────────────────────────────│─────────────────│
-    │   Instrument             │ Central bank can choose       │ Universal       │
-    │   Independence           │ policy tools freely           │                 │
-    │   ───────────────────────│───────────────────────────────│─────────────────│
-    │   Goal Independence      │ Central bank sets policy      │ Less common     │
-    │                          │ objectives                    │ (government     │
-    │                          │                               │ typically sets  │
-    │                          │                               │ mandate)        │
-    │   ───────────────────────│───────────────────────────────│─────────────────│
-    │   Personnel              │ Governors have fixed terms,   │ Common          │
-    │   Independence           │ cannot be fired for policy    │                 │
-    │                          │ disagreements                 │                 │
-    │   ───────────────────────│───────────────────────────────│─────────────────│
-    │   Financial              │ Central bank controls own     │ Common          │
-    │   Independence           │ budget                        │                 │
+    │   DIMENSION              │ MEANING                       │ COMMON PRACTICE  │
+    │   ───────────────────────│───────────────────────────────│───────────────── │
+    │   Instrument             │ Central bank can choose       │ Universal        │
+    │   Independence           │ policy tools freely           │                  │
+    │   ───────────────────────│───────────────────────────────│───────────────── │
+    │   Goal Independence      │ Central bank sets policy      │ Less common      │
+    │                          │ objectives                    │ (government      │
+    │                          │                               │ typically sets   │
+    │                          │                               │ mandate)         │
+    │   ───────────────────────│───────────────────────────────│───────────────── │
+    │   Personnel              │ Governors have fixed terms,   │ Common           │
+    │   Independence           │ cannot be fired for policy    │                  │
+    │                          │ disagreements                 │                  │
+    │   ───────────────────────│───────────────────────────────│───────────────── │
+    │   Financial              │ Central bank controls own     │ Common           │
+    │   Independence           │ budget                        │                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
