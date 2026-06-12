@@ -530,10 +530,10 @@ LENDER OF LAST RESORT FRAMEWORK
     │   ├── Rate = Policy Rate + 1.00%                                            │
     │   └── Greater restrictions                                                  │
     │                                                                             │
-    │   Seasonal Credit:                                                         │
-    │   ├── For small institutions with seasonal patterns                       │
-    │   ├── Rate = average of market rates                                      │
-    │   └── Up to 9 months                                                      │
+    │   Seasonal Credit:                                                          │
+    │   ├── For small institutions with seasonal patterns                         │
+    │   ├── Rate = average of market rates                                        │
+    │   └── Up to 9 months                                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
