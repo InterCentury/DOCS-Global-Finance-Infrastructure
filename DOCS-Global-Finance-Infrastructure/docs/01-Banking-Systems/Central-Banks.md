@@ -684,7 +684,6 @@ FEDERAL RESERVE STANDING SWAP LINES
 MAJOR CENTRAL BANKS COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Central Bank         │ Currency │ Policy Rate │ RTGS System │ CBDC Status │
     │   ─────────────────────│──────────│─────────────│─────────────│──────────── │
     │   Federal Reserve      │ USD      │ 5.25-5.50%  │ Fedwire     │ Research    │
@@ -704,7 +703,6 @@ MAJOR CENTRAL BANKS COMPARISON
     │   ─────────────────────│──────────│─────────────│─────────────│──────────── │
     │   Swiss National Bank  │ CHF      │ 1.75%       │ SIC5        │ Project     │
     │   (CH)                 │          │             │             │ Helvetia    │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
