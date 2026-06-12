@@ -556,7 +556,6 @@ How it works: Unlike microprudential regulation (supervising individual banks), 
 MACROPRUDENTIAL TOOLS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   TOOL                      │ PURPOSE                     │ TIMING          │
     │   ──────────────────────────│─────────────────────────────│───────────────  │
     │   Countercyclical Capital   │ Build capital buffers       │ Increase in     │
@@ -579,7 +578,6 @@ MACROPRUDENTIAL TOOLS
     │   ──────────────────────────│─────────────────────────────│───────────────  │
     │   Liquidity Coverage Ratio  │ Ensure sufficient high-     │ Continuous      │
     │   (LCR)                     │ quality liquid assets       │                 │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
