@@ -248,32 +248,32 @@ CENTRAL BANK BALANCE SHEET STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ASSETS                                    LIABILITIES                    │
-    │   ───────────────────────────               ───────────────────────────    │
-    │                                             │                              │
-    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐│
-    │   │ Government Securities       │           │ Currency in Circulation    ││
-    │   │ (Treasury bonds, bills)     │           │ (Banknotes and coins)       ││
-    │   └─────────────────────────────┘           └─────────────────────────────┘│
-    │                                             │                              │
-    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐│
-    │   │ Foreign Exchange Reserves   │           │ Bank Reserves               ││
-    │   │ (Foreign currencies, gold)  │           │ (Deposits of commercial     ││
-    │   └─────────────────────────────┘           │  banks at central bank)     ││
-    │                                             └─────────────────────────────┘│
-    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐│
-    │   │ Loans to Banks              │           │ Government Deposits        ││
-    │   │ (Discount window, repos)    │           │ (Treasury account)          ││
-    │   └─────────────────────────────┘           └─────────────────────────────┘│
-    │                                             │                              │
-    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐│
-    │   │ Other Assets                │           │ Other Liabilities          ││
-    │   │ (Emergency lending,         │           │ (Capital accounts, IMF)    ││
-    │   │  crisis facilities)         │           └─────────────────────────────┘│
-    │   └─────────────────────────────┘                                         │
+    │   ASSETS                                    LIABILITIES                     │
+    │   ───────────────────────────               ───────────────────────────     │
+    │                                             │                               │
+    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐ │
+    │   │ Government Securities       │           │ Currency in Circulation     │ │
+    │   │ (Treasury bonds, bills)     │           │ (Banknotes and coins)       │ │
+    │   └─────────────────────────────┘           └─────────────────────────────┘ │
+    │                                             │                               │
+    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐ │
+    │   │ Foreign Exchange Reserves   │           │ Bank Reserves               │ │
+    │   │ (Foreign currencies, gold)  │           │ (Deposits of commercial     │ │
+    │   └─────────────────────────────┘           │  banks at central bank)     │ │
+    │                                             └─────────────────────────────┘ │
+    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐ │
+    │   │ Loans to Banks              │           │ Government Deposits         │ │
+    │   │ (Discount window, repos)    │           │ (Treasury account)          │ │
+    │   └─────────────────────────────┘           └─────────────────────────────┘ │
+    │                                             │                               │
+    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐ │
+    │   │ Other Assets                │           │ Other Liabilities           │ │
+    │   │ (Emergency lending,         │           │ (Capital accounts, IMF)     │ │
+    │   │  crisis facilities)         │           └─────────────────────────────┘ │
+    │   └─────────────────────────────┘                                           │
     │                                                                             │
-    │   ───────────────────────────               ───────────────────────────    │
-    │   TOTAL ASSETS                 =            TOTAL LIABILITIES             │
+    │   ───────────────────────────               ───────────────────────────     │
+    │   TOTAL ASSETS                 =            TOTAL LIABILITIES               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
