@@ -462,20 +462,20 @@ GOVERNMENT ACCOUNT OPERATION
     │                                                                             │
     │   GOVERNMENT SPENDING:                                                      │
     │                                                                             │
-    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                 │
-    │   │ Central     │────►│Commercial   │────►│ Supplier    │                 │
-    │   │ Bank        │     │ Bank        │     │             │                 │
-    │   │ (Govt Acct) │     │             │     │             │                 │
-    │   └─────────────┘     └─────────────┘     └─────────────┘                 │
+    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                   │
+    │   │ Central     │────►│Commercial   │────►│ Supplier    │                   │
+    │   │ Bank        │     │ Bank        │     │             │                   │
+    │   │ (Govt Acct) │     │             │     │             │                   │
+    │   └─────────────┘     └─────────────┘     └─────────────┘                   │
     │                                                                             │
-    │   Effect: Private bank reserves increase. Government balance decreases.    │
+    │   Effect: Private bank reserves increase. Government balance decreases.     │
     │                                                                             │
     │                                                                             │
-    │   DEBT MANAGEMENT:                                                         │
+    │   DEBT MANAGEMENT:                                                          │
     │                                                                             │
-    │   The central bank may act as fiscal agent for government debt issuance.  │
-    │   It coordinates Treasury auctions, processes interest payments, and       │
-    │   manages maturing securities.                                             │
+    │   The central bank may act as fiscal agent for government debt issuance.    │
+    │   It coordinates Treasury auctions, processes interest payments, and        │
+    │   manages maturing securities.                                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
