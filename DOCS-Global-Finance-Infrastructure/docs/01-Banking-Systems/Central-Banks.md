@@ -518,17 +518,17 @@ LENDER OF LAST RESORT FRAMEWORK
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   TIERS OF DISCOUNT WINDOW (Federal Reserve):                              │
+    │   TIERS OF DISCOUNT WINDOW (Federal Reserve):                               │
     │                                                                             │
-    │   Primary Credit:                                                          │
-    │   ├── For financially sound institutions                                  │
-    │   ├── Rate = Policy Rate + 0.50%                                         │
-    │   └── No questions asked for first 90 days                               │
+    │   Primary Credit:                                                           │
+    │   ├── For financially sound institutions                                    │
+    │   ├── Rate = Policy Rate + 0.50%                                            │
+    │   └── No questions asked for first 90 days                                  │
     │                                                                             │
-    │   Secondary Credit:                                                        │
-    │   ├── For institutions not qualifying for primary                         │
-    │   ├── Rate = Policy Rate + 1.00%                                         │
-    │   └── Greater restrictions                                                │
+    │   Secondary Credit:                                                         │
+    │   ├── For institutions not qualifying for primary                           │
+    │   ├── Rate = Policy Rate + 1.00%                                            │
+    │   └── Greater restrictions                                                  │
     │                                                                             │
     │   Seasonal Credit:                                                         │
     │   ├── For small institutions with seasonal patterns                       │
