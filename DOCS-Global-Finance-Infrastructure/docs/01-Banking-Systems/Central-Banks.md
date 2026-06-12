@@ -662,18 +662,18 @@ FEDERAL RESERVE STANDING SWAP LINES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Federal Reserve (USD) ──Swap Line──► Bank of Canada (CAD)               │
-    │                     │                                                      │
-    │                     ├──Swap Line──► Bank of England (GBP)                  │
-    │                     │                                                      │
-    │                     ├──Swap Line──► European Central Bank (EUR)            │
-    │                     │                                                      │
-    │                     ├──Swap Line──► Bank of Japan (JPY)                    │
-    │                     │                                                      │
-    │                     └──Swap Line──► Swiss National Bank (CHF)              │
+    │   Federal Reserve (USD) ──Swap Line──► Bank of Canada (CAD)                 │
+    │                     │                                                       │
+    │                     ├──Swap Line──► Bank of England (GBP)                   │
+    │                     │                                                       │
+    │                     ├──Swap Line──► European Central Bank (EUR)             │
+    │                     │                                                       │
+    │                     ├──Swap Line──► Bank of Japan (JPY)                     │
+    │                     │                                                       │
+    │                     └──Swap Line──► Swiss National Bank (CHF)               │
     │                                                                             │
-    │   These are standing, unlimited swap lines established in 2013.           │
-    │   Used extensively during 2008 crisis and COVID-19 pandemic.              │
+    │   These are standing, unlimited swap lines established in 2013.             │
+    │   Used extensively during 2008 crisis and COVID-19 pandemic.                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
