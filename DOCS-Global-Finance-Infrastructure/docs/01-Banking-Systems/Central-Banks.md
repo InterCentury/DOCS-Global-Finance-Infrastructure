@@ -305,11 +305,11 @@ BALANCE SHEET EXPANSION (QE EXAMPLE)
     │                                                                             │
     │   AFTER QE:                                                                 │
     │   Assets: $6 trillion          Liabilities: $6 trillion                     │
-    │   ├── Securities: $5T (+$2T)   ├── Currency: $2T (unchanged)              │
-    │   └── Other: $1T               └── Reserves: $4T (+$2T)                   │
+    │   ├── Securities: $5T (+$2T)   ├── Currency: $2T (unchanged)                │
+    │   └── Other: $1T               └── Reserves: $4T (+$2T)                     │
     │                                                                             │
-    │   Key insight: QE expands both sides of the balance sheet equally.        │
-    │   Reserves increase by the amount of asset purchases.                     │
+    │   Key insight: QE expands both sides of the balance sheet equally.          │
+    │   Reserves increase by the amount of asset purchases.                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
