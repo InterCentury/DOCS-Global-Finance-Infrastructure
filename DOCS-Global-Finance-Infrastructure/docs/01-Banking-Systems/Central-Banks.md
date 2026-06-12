@@ -217,22 +217,22 @@ POLICY RATE TRANSMISSION CHAIN
     │    credit cards, auto loans)                           (Savings, CDs)       │
     │        │                                                     │              │
     │        ▼                                                     ▼              │
-    │   BORROWING COSTS                                      SAVING INCENTIVES   │
-    │   FOR HOUSEHOLDS &                                     CHANGE              │
-    │   BUSINESSES                                                               │
-    │        │                                                     │            │
-    │        └──────────────────────┬──────────────────────────────┘            │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    SPENDING AND INVESTMENT CHANGES                         │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    AGGREGATE DEMAND CHANGES                                │
-    │                               │                                           │
-    │                               ▼                                           │
-    │                    INFLATION AND OUTPUT ADJUST                            │
+    │   BORROWING COSTS                                      SAVING INCENTIVES    │
+    │   FOR HOUSEHOLDS &                                     CHANGE               │
+    │   BUSINESSES                                                                │
+    │        │                                                     │              │
+    │        └──────────────────────┬──────────────────────────────┘              │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    SPENDING AND INVESTMENT CHANGES                          │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    AGGREGATE DEMAND CHANGES                                 │
+    │                               │                                             │
+    │                               ▼                                             │
+    │                    INFLATION AND OUTPUT ADJUST                              │
     │                                                                             │
-    │   Lag: 12-24 months for full effect                                       │
+    │   Lag: 12-24 months for full effect                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
