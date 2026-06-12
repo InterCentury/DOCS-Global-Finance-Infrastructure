@@ -560,12 +560,12 @@ MACROPRUDENTIAL TOOLS
     │   TOOL                      │ PURPOSE                     │ TIMING        │
     │   ──────────────────────────│─────────────────────────────│───────────────│
     │   Countercyclical Capital   │ Build capital buffers       │ Increase in   │
-    │   Buffer (CCyB)            │ during booms for use in     │ booms,        │
-    │                            │ busts                       │ release in    │
-    │                            │                             │ busts         │
+    │   Buffer (CCyB)             │ during booms for use in     │ booms,        │
+    │                             │ busts                       │ release in    │
+    │                             │                             │ busts         │
     │   ──────────────────────────│─────────────────────────────│───────────────│
     │   Stress Tests              │ Identify vulnerabilities    │ Annual        │
-    │                            │ under adverse scenarios     │               │
+    │                             │ under adverse scenarios     │               │
     │   ──────────────────────────│─────────────────────────────│───────────────│
     │   Loan-to-Value (LTV)       │ Limit mortgage borrowing    │ As needed     │
     │   Limits                    │ to prevent housing bubble  │               │
@@ -575,10 +575,10 @@ MACROPRUDENTIAL TOOLS
     │   ──────────────────────────│─────────────────────────────│───────────────│
     │   Sectoral Capital          │ Target specific sectors     │ As needed     │
     │   Requirements              │ (commercial real estate,    │               │
-    │                            │  consumer lending)          │               │
+    │                             │  consumer lending)          │               │
     │   ──────────────────────────│─────────────────────────────│───────────────│
     │   Liquidity Coverage Ratio  │ Ensure sufficient high-     │ Continuous    │
-    │   (LCR)                    │ quality liquid assets       │               │
+    │   (LCR)                     │ quality liquid assets       │               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
