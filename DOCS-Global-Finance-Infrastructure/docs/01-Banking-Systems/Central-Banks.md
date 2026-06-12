@@ -597,7 +597,7 @@ INDEPENDENCE DIMENSIONS
     │   DIMENSION              │ MEANING                       │ COMMON PRACTICE │
     │   ───────────────────────│───────────────────────────────│─────────────────│
     │   Instrument             │ Central bank can choose       │ Universal       │
-    │   Independence           │ policy tools freely          │                 │
+    │   Independence           │ policy tools freely           │                 │
     │   ───────────────────────│───────────────────────────────│─────────────────│
     │   Goal Independence      │ Central bank sets policy      │ Less common     │
     │                          │ objectives                    │ (government     │
@@ -606,10 +606,10 @@ INDEPENDENCE DIMENSIONS
     │   ───────────────────────│───────────────────────────────│─────────────────│
     │   Personnel              │ Governors have fixed terms,   │ Common          │
     │   Independence           │ cannot be fired for policy    │                 │
-    │                          │ disagreements                │                 │
+    │                          │ disagreements                 │                 │
     │   ───────────────────────│───────────────────────────────│─────────────────│
     │   Financial              │ Central bank controls own     │ Common          │
-    │   Independence           │ budget                       │                 │
+    │   Independence           │ budget                        │                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
