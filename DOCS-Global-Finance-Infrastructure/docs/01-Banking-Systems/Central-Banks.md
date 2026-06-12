@@ -327,36 +327,36 @@ CURRENCY ISSUANCE PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: Central bank prints banknotes or mints coins                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Commercial bank requests currency                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Central bank debits bank's reserve account                      │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: Central bank ships physical currency to commercial bank         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: Commercial bank holds currency in vault or ATMs                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 6: Customer withdraws cash from bank account                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 7: Currency enters circulation                                     │
+    │   STEP 1: Central bank prints banknotes or mints coins                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Commercial bank requests currency                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Central bank debits bank's reserve account                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: Central bank ships physical currency to commercial bank           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: Commercial bank holds currency in vault or ATMs                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 6: Customer withdraws cash from bank account                         │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 7: Currency enters circulation                                       │
     │                                                                             │
     │                                                                             │
-    │   ACCOUNTING ENTRIES:                                                      │
+    │   ACCOUNTING ENTRIES:                                                       │
     │                                                                             │
-    │   Central Bank:                                                           │
-    │   ├── Debit: Bank Reserves (liability decreases)                         │
-    │   └── Credit: Currency in Circulation (liability increases)              │
+    │   Central Bank:                                                             │
+    │   ├── Debit: Bank Reserves (liability decreases)                            │
+    │   └── Credit: Currency in Circulation (liability increases)                 │
     │                                                                             │
-    │   Commercial Bank:                                                        │
-    │   ├── Debit: Vault Cash (asset increases)                                │
-    │   └── Credit: Reserve Account at Central Bank (asset decreases)          │
+    │   Commercial Bank:                                                          │
+    │   ├── Debit: Vault Cash (asset increases)                                   │
+    │   └── Credit: Reserve Account at Central Bank (asset decreases)             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
