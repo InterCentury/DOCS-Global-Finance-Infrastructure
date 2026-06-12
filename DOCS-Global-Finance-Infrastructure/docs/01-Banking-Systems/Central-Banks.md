@@ -557,28 +557,28 @@ MACROPRUDENTIAL TOOLS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOOL                      │ PURPOSE                     │ TIMING        │
-    │   ──────────────────────────│─────────────────────────────│───────────────│
-    │   Countercyclical Capital   │ Build capital buffers       │ Increase in   │
-    │   Buffer (CCyB)             │ during booms for use in     │ booms,        │
-    │                             │ busts                       │ release in    │
-    │                             │                             │ busts         │
-    │   ──────────────────────────│─────────────────────────────│───────────────│
-    │   Stress Tests              │ Identify vulnerabilities    │ Annual        │
-    │                             │ under adverse scenarios     │               │
-    │   ──────────────────────────│─────────────────────────────│───────────────│
-    │   Loan-to-Value (LTV)       │ Limit mortgage borrowing    │ As needed     │
-    │   Limits                    │ to prevent housing bubble  │               │
-    │   ──────────────────────────│─────────────────────────────│───────────────│
-    │   Debt-to-Income (DTI)      │ Limit household leverage    │ As needed     │
-    │   Limits                    │                             │               │
-    │   ──────────────────────────│─────────────────────────────│───────────────│
-    │   Sectoral Capital          │ Target specific sectors     │ As needed     │
-    │   Requirements              │ (commercial real estate,    │               │
-    │                             │  consumer lending)          │               │
-    │   ──────────────────────────│─────────────────────────────│───────────────│
-    │   Liquidity Coverage Ratio  │ Ensure sufficient high-     │ Continuous    │
-    │   (LCR)                     │ quality liquid assets       │               │
+    │   TOOL                      │ PURPOSE                     │ TIMING          │
+    │   ──────────────────────────│─────────────────────────────│───────────────  │
+    │   Countercyclical Capital   │ Build capital buffers       │ Increase in     │
+    │   Buffer (CCyB)             │ during booms for use in     │ booms,          │
+    │                             │ busts                       │ release in      │
+    │                             │                             │ busts           │
+    │   ──────────────────────────│─────────────────────────────│───────────────  │
+    │   Stress Tests              │ Identify vulnerabilities    │ Annual          │
+    │                             │ under adverse scenarios     │                 │
+    │   ──────────────────────────│─────────────────────────────│───────────────  │
+    │   Loan-to-Value (LTV)       │ Limit mortgage borrowing    │ As needed       │
+    │   Limits                    │ to prevent housing bubble   │                 │
+    │   ──────────────────────────│─────────────────────────────│───────────────  │
+    │   Debt-to-Income (DTI)      │ Limit household leverage    │ As needed       │
+    │   Limits                    │                             │                 │
+    │   ──────────────────────────│─────────────────────────────│───────────────  │
+    │   Sectoral Capital          │ Target specific sectors     │ As needed       │
+    │   Requirements              │ (commercial real estate,    │                 │
+    │                             │  consumer lending)          │                 │
+    │   ──────────────────────────│─────────────────────────────│───────────────  │
+    │   Liquidity Coverage Ratio  │ Ensure sufficient high-     │ Continuous      │
+    │   (LCR)                     │ quality liquid assets       │                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
