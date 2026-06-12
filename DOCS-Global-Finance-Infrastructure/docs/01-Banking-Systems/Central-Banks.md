@@ -493,27 +493,27 @@ LENDER OF LAST RESORT FRAMEWORK
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BAGEHOT'S PRINCIPLES (1873):                                             │
+    │   BAGEHOT'S PRINCIPLES (1873):                                              │
     │                                                                             │
-    │   1. Lend freely                                               │           │
-    │   2. At a penalty rate                                         │           │
-    │   3. Against good collateral                                   │           │
-    │   4. To solvent but illiquid institutions                      │           │
+    │   1. Lend freely                                                            │
+    │   2. At a penalty rate                                                      │
+    │   3. Against good collateral                                                │
+    │   4. To solvent but illiquid institutions                                   │
     │                                                                             │
     │                                                                             │
-    │   DISCOUNT WINDOW OPERATION:                                               │
+    │   DISCOUNT WINDOW OPERATION:                                                │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   DISTRESSED BANK ──► Central Bank ──► LIQUIDITY PROVIDED          │   │
+    │   │   DISTRESSED BANK ──► Central Bank ──► LIQUIDITY PROVIDED           │   │
     │   │        │                    │                    │                  │   │
     │   │        ▼                    ▼                    ▼                  │   │
-    │   │   Solvent but           Good              Penalty Rate             │   │
+    │   │   Solvent but           Good              Penalty Rate              │   │
     │   │   Illiquid?            Collateral?        (Policy + Spread)         │   │
     │   │        │                    │                    │                  │   │
     │   │        └────────────┬───────┘                    │                  │   │
     │   │                     ▼                            ▼                  │   │
-    │   │                YES + YES ──────────────────► APPROVED              │   │
+    │   │                YES + YES ──────────────────► APPROVED               │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
