@@ -201,22 +201,22 @@ POLICY RATE TRANSMISSION CHAIN
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CENTRAL BANK CHANGES POLICY RATE                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   INTERBANK LENDING RATE CHANGES                                           │
-    │   (Federal Funds Rate, EONIA, SONIA)                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   COMMERCIAL BANK FUNDING COSTS CHANGE                                     │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        ▼                                                     ▼            │
-    │   LENDING RATES CHANGE                                  DEPOSIT RATES      │
-    │   (Mortgages, business loans,                          CHANGE              │
-    │    credit cards, auto loans)                           (Savings, CDs)      │
-    │        │                                                     │            │
-    │        ▼                                                     ▼            │
+    │   CENTRAL BANK CHANGES POLICY RATE                                          │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   INTERBANK LENDING RATE CHANGES                                            │
+    │   (Federal Funds Rate, EONIA, SONIA)                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   COMMERCIAL BANK FUNDING COSTS CHANGE                                      │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        ▼                                                     ▼              │
+    │   LENDING RATES CHANGE                                  DEPOSIT RATES       │
+    │   (Mortgages, business loans,                          CHANGE               │
+    │    credit cards, auto loans)                           (Savings, CDs)       │
+    │        │                                                     │              │
+    │        ▼                                                     ▼              │
     │   BORROWING COSTS                                      SAVING INCENTIVES   │
     │   FOR HOUSEHOLDS &                                     CHANGE              │
     │   BUSINESSES                                                               │
