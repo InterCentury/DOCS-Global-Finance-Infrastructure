@@ -593,7 +593,6 @@ How it works: Politicians face pressure to create unexpected inflation before el
 INDEPENDENCE DIMENSIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   DIMENSION              │ MEANING                       │ COMMON PRACTICE  │
     │   ───────────────────────│───────────────────────────────│───────────────── │
     │   Instrument             │ Central bank can choose       │ Universal        │
@@ -610,7 +609,6 @@ INDEPENDENCE DIMENSIONS
     │   ───────────────────────│───────────────────────────────│───────────────── │
     │   Financial              │ Central bank controls own     │ Common           │
     │   Independence           │ budget                        │                  │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
