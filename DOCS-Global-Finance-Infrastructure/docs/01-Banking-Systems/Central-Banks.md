@@ -166,28 +166,28 @@ MONETARY POLICY TOOLKIT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOOL                      │ TYPE          │ MECHANISM                    │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Policy Rate               │ Conventional  │ Interest paid on reserves   │
-    │   (Interest on Reserves)    │               │ influences all rates        │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Open Market Operations    │ Conventional  │ Buy/sell bonds to adjust    │
-    │   (OMO)                     │               │ reserve levels              │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Reserve Requirements      │ Conventional  │ Minimum reserves as %       │
-    │                            │               │ of deposits                 │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Discount Window           │ Conventional  │ Lending to banks at         │
-    │                            │               │ penalty rate                │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Quantitative Easing (QE)  │ Unconventional│ Large-scale asset purchases │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Negative Interest Rates   │ Unconventional│ Charge banks for reserves   │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Forward Guidance          │ Unconventional│ Communication about future  │
-    │                            │               │ policy path                │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Yield Curve Control (YCC) │ Unconventional│ Cap specific bond yields   │
+    │   TOOL                      │ TYPE          │ MECHANISM                     │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Policy Rate               │ Conventional  │ Interest paid on reserves     │
+    │   (Interest on Reserves)    │               │ influences all rates          │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Open Market Operations    │ Conventional  │ Buy/sell bonds to adjust      │
+    │   (OMO)                     │               │ reserve levels                │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Reserve Requirements      │ Conventional  │ Minimum reserves as %         │
+    │                             │               │ of deposits                   │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Discount Window           │ Conventional  │ Lending to banks at           │
+    │                             │               │ penalty rate                  │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Quantitative Easing (QE)  │ Unconventional│ Large-scale asset purchases   │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Negative Interest Rates   │ Unconventional│ Charge banks for reserves     │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Forward Guidance          │ Unconventional│ Communication about future    │
+    │                             │               │ policy path                   │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Yield Curve Control (YCC) │ Unconventional│ Cap specific bond yields      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
