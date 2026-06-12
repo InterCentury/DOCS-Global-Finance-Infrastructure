@@ -287,24 +287,24 @@ BALANCE SHEET EXPANSION (QE EXAMPLE)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BEFORE QE:                                                               │
-    │   Assets: $4 trillion          Liabilities: $4 trillion                    │
-    │   ├── Securities: $3T          ├── Currency: $2T                           │
-    │   └── Other: $1T               └── Reserves: $2T                           │
+    │   BEFORE QE:                                                                │
+    │   Assets: $4 trillion          Liabilities: $4 trillion                     │
+    │   ├── Securities: $3T          ├── Currency: $2T                            │
+    │   └── Other: $1T               └── Reserves: $2T                            │
     │                                                                             │
     │                                                                             │
-    │   QE OPERATION: Central bank buys $2 trillion in bonds                     │
+    │   QE OPERATION: Central bank buys $2 trillion in bonds                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CENTRAL BANK ──────$2 trillion──────────────────► COMMERCIAL BANKS  │   │
-    │   │                     (payment for bonds)                              │   │
+    │   │  CENTRAL BANK ──────$2 trillion──────────────────► COMMERCIAL BANKS │   │
+    │   │                     (payment for bonds)                             │   │
     │   │                                                                     │   │
     │   │  CENTRAL BANK ◄─────$2 trillion bonds───────────── COMMERCIAL BANKS │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   AFTER QE:                                                                │
-    │   Assets: $6 trillion          Liabilities: $6 trillion                    │
+    │   AFTER QE:                                                                 │
+    │   Assets: $6 trillion          Liabilities: $6 trillion                     │
     │   ├── Securities: $5T (+$2T)   ├── Currency: $2T (unchanged)              │
     │   └── Other: $1T               └── Reserves: $4T (+$2T)                   │
     │                                                                             │
