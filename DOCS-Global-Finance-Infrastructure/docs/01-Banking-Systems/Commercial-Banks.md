@@ -640,13 +640,13 @@ INTEREST RATE RISK EXAMPLE
     │   Rate-Sensitive Liabilities (RSL) = $300M (floating deposits)              │
     │   Gap = RSA - RSL = +$200M                                                  │
     │                                                                             │
-    │   If rates rise 1%: Net interest income increases ~$200M × 1% = $2M      │
-    │   If rates fall 1%: Net interest income decreases ~$2M                    │
+    │   If rates rise 1%: Net interest income increases ~$200M × 1% = $2M         │
+    │   If rates fall 1%: Net interest income decreases ~$2M                      │
     │                                                                             │
-    │   DURATION GAP (Fixed-rate positions):                                     │
-    │   Fixed-rate assets ($800M + $200M = $1B) with duration 5 years           │
-    │   Fixed-rate liabilities ($600M) with duration 1 year                     │
-    │   Duration gap exposes bank to falling asset values if rates rise         │
+    │   DURATION GAP (Fixed-rate positions):                                      │
+    │   Fixed-rate assets ($800M + $200M = $1B) with duration 5 years             │
+    │   Fixed-rate liabilities ($600M) with duration 1 year                       │
+    │   Duration gap exposes bank to falling asset values if rates rise           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
