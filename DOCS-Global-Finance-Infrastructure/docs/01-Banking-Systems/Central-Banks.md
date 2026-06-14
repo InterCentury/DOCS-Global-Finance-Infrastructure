@@ -725,15 +725,15 @@ CENTRAL BANK FORMULAS
     │                                                                             │
     │   Taylor Rule: i = r* + π + 0.5(π - π*) + 0.5(y - y*)                       │
     │                                                                             │
-    │   Real Interest Rate = Nominal Rate - Inflation Rate                       │
+    │   Real Interest Rate = Nominal Rate - Inflation Rate                        │
     │                                                                             │
-    │   Central Bank Balance Sheet Identity: Assets = Liabilities                │
+    │   Central Bank Balance Sheet Identity: Assets = Liabilities                 │
     │                                                                             │
-    │   Seigniorage = Face Value of Currency - Production Cost                   │
+    │   Seigniorage = Face Value of Currency - Production Cost                    │
     │                                                                             │
-    │   Discount Window Penalty (Primary) = Policy Rate + 0.50%                  │
+    │   Discount Window Penalty (Primary) = Policy Rate + 0.50%                   │
     │                                                                             │
-    │   Discount Window Penalty (Secondary) = Policy Rate + 1.00%                │
+    │   Discount Window Penalty (Secondary) = Policy Rate + 1.00%                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
