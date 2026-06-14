@@ -472,24 +472,24 @@ BANK REVENUE SOURCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   REVENUE TYPE              │ SOURCE                     │ TYPICAL SHARE   │
-    │   ──────────────────────────│────────────────────────────│─────────────────│
-    │   Net Interest Income       │ Interest on loans minus    │ 60-70%          │
-    │   (NII)                    │ interest on deposits       │                 │
-    │   ──────────────────────────│────────────────────────────│─────────────────│
-    │   Non-Interest Income       │                            │ 30-40%          │
-    │   ├── Deposit fees          │ Overdraft, monthly         │                 │
-    │   │                        │ maintenance, ATM           │                 │
-    │   ├── Credit card fees      │ Annual fees, late fees,    │                 │
-    │   │                        │ interchange                │                 │
-    │   ├── Mortgage fees         │ Origination, processing,   │                 │
-    │   │                        │ servicing                  │                 │
-    │   ├── Wealth management     │ Advisory fees, asset       │                 │
-    │   │                        │ management fees            │                 │
-    │   ├── Investment banking    │ Underwriting, advisory     │ (large banks    │
-    │   │                        │                            │  only)          │
-    │   └── Trading revenue       │ Market making, proprietary │ (large banks    │
-    │                            │ trading                    │  only)          │
+    │   REVENUE TYPE              │ SOURCE                     │ TYPICAL SHARE    │
+    │   ──────────────────────────│────────────────────────────│───────────────── │
+    │   Net Interest Income       │ Interest on loans minus    │ 60-70%           │
+    │   (NII)                     │ interest on deposits       │                  │
+    │   ──────────────────────────│────────────────────────────│───────────────── │
+    │   Non-Interest Income       │                            │ 30-40%           │
+    │   ├── Deposit fees          │ Overdraft, monthly         │                  │
+    │   │                         │ maintenance, ATM           │                  │
+    │   ├── Credit card fees      │ Annual fees, late fees,    │                  │
+    │   │                         │ interchange                │                  │
+    │   ├── Mortgage fees         │ Origination, processing,   │                  │
+    │   │                         │ servicing                  │                  │
+    │   ├── Wealth management     │ Advisory fees, asset       │                  │
+    │   │                         │ management fees            │                  │
+    │   ├── Investment banking    │ Underwriting, advisory     │ (large banks     │
+    │   │                         │                            │  only)           │
+    │   └── Trading revenue       │ Market making, proprietary │ (large banks     │
+    │                             │ trading                    │  only)           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
