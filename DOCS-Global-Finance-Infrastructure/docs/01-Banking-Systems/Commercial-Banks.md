@@ -172,41 +172,41 @@ KEY ACCOUNTS EXPLANATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ACCOUNT                    │ TYPE      │ DESCRIPTION                     │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Vault Cash                 │ Asset     │ Physical currency held in       │
-    │                              │           │ bank premises and ATMs          │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Reserves at Central Bank   │ Asset     │ Digital account balance at      │
-    │                              │           │ central bank for settlement     │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Securities                 │ Asset     │ Government and agency bonds     │
-    │                              │           │ held for liquidity and yield    │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Loans (Gross)              │ Asset     │ Total value of all loans made   │
-    │                              │           │ (before reserves for losses)    │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Loan Loss Reserve          │ Contra-   │ Estimated losses on loans.      │
-    │   (Allowance)                │ asset     │ Reduces reported loan value.    │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Loans (Net)                │ Asset     │ Gross loans minus loan loss     │
-    │                              │           │ reserve. Carrying value.        │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Demand Deposits            │ Liability │ Checking accounts. Payable      │
-    │   (Checking)                 │           │ on demand. No interest (usually)│
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Savings Deposits           │ Liability │ Interest-bearing accounts.     │
-    │                              │           │ Limited transactions.           │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Time Deposits (CDs)        │ Liability │ Fixed-term deposits. Penalty   │
-    │                              │           │ for early withdrawal.           │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Borrowings                 │ Liability │ Funds borrowed from other      │
-    │                              │           │ banks or central bank.          │
-    │   ───────────────────────────│───────────│─────────────────────────────────│
-    │   Equity (Capital)           │ Equity    │ Shareholder investment +        │
-    │                              │           │ retained earnings. Loss-        │
-    │                              │           │ absorbing buffer.               │
+    │   ACCOUNT                    │ TYPE      │ DESCRIPTION                      │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Vault Cash                 │ Asset     │ Physical currency held in        │
+    │                              │           │ bank premises and ATMs           │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Reserves at Central Bank   │ Asset     │ Digital account balance at       │
+    │                              │           │ central bank for settlement      │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Securities                 │ Asset     │ Government and agency bonds      │
+    │                              │           │ held for liquidity and yield     │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Loans (Gross)              │ Asset     │ Total value of all loans made    │
+    │                              │           │ (before reserves for losses)     │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Loan Loss Reserve          │ Contra-   │ Estimated losses on loans.       │
+    │   (Allowance)                │ asset     │ Reduces reported loan value.     │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Loans (Net)                │ Asset     │ Gross loans minus loan loss      │
+    │                              │           │ reserve. Carrying value.         │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Demand Deposits            │ Liability │ Checking accounts. Payable       │
+    │   (Checking)                 │           │ on demand. No interest (usually) │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Savings Deposits           │ Liability │ Interest-bearing accounts.       │
+    │                              │           │ Limited transactions.            │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Time Deposits (CDs)        │ Liability │ Fixed-term deposits. Penalty     │
+    │                              │           │ for early withdrawal.            │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Borrowings                 │ Liability │ Funds borrowed from other        │
+    │                              │           │ banks or central bank.           │
+    │   ───────────────────────────│───────────│───────────────────────────────── │
+    │   Equity (Capital)           │ Equity    │ Shareholder investment +         │
+    │                              │           │ retained earnings. Loss-         │
+    │                              │           │ absorbing buffer.                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
