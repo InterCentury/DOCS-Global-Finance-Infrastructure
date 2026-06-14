@@ -171,7 +171,6 @@ COMMERCIAL BANK BALANCE SHEET
 KEY ACCOUNTS EXPLANATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   ACCOUNT                    │ TYPE      │ DESCRIPTION                      │
     │   ───────────────────────────│───────────│───────────────────────────────── │
     │   Vault Cash                 │ Asset     │ Physical currency held in        │
@@ -207,7 +206,6 @@ KEY ACCOUNTS EXPLANATION
     │   Equity (Capital)           │ Equity    │ Shareholder investment +         │
     │                              │           │ retained earnings. Loss-         │
     │                              │           │ absorbing buffer.                │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
