@@ -448,9 +448,9 @@ PAYMENT PROCESSING FLOW
     │   ├── Debit: Due from Issuing Bank (asset) +$100                            │
     │   └── Credit: Merchant Deposit (liability) +$100                            │
     │                                                                             │
-    │   Central Bank Settlement (end of day or real-time):                      │
-    │   ├── Debit: Issuing Bank Reserve Account -$100                          │
-    │   └── Credit: Acquiring Bank Reserve Account +$100                       │
+    │   Central Bank Settlement (end of day or real-time):                        │
+    │   ├── Debit: Issuing Bank Reserve Account -$100                             │
+    │   └── Credit: Acquiring Bank Reserve Account +$100                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
