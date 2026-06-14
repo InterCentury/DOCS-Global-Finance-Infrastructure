@@ -423,30 +423,30 @@ PAYMENT PROCESSING FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER PAYS MERCHANT $100 WITH DEBIT CARD                             │
+    │   CUSTOMER PAYS MERCHANT $100 WITH DEBIT CARD                               │
     │                                                                             │
-    │   STEP 1: Merchant submits transaction to acquiring bank                  │
+    │   STEP 1: Merchant submits transaction to acquiring bank                    │
     │                                                                             │
-    │   STEP 2: Acquiring bank routes to card network (Visa, Mastercard)        │
+    │   STEP 2: Acquiring bank routes to card network (Visa, Mastercard)          │
     │                                                                             │
-    │   STEP 3: Card network routes to issuing bank (customer's bank)           │
+    │   STEP 3: Card network routes to issuing bank (customer's bank)             │
     │                                                                             │
-    │   STEP 4: Issuing bank verifies funds and authorizes                      │
+    │   STEP 4: Issuing bank verifies funds and authorizes                        │
     │                                                                             │
-    │   STEP 5: Funds move from issuing bank to acquiring bank                  │
+    │   STEP 5: Funds move from issuing bank to acquiring bank                    │
     │                                                                             │
-    │   STEP 6: Acquiring bank credits merchant's account                       │
+    │   STEP 6: Acquiring bank credits merchant's account                         │
     │                                                                             │
     │                                                                             │
-    │   LEDGER ENTRIES:                                                          │
+    │   LEDGER ENTRIES:                                                           │
     │                                                                             │
-    │   Issuing Bank:                                                           │
-    │   ├── Debit: Customer Deposit (liability) -$100                          │
-    │   └── Credit: Due to Acquiring Bank (liability) +$100                    │
+    │   Issuing Bank:                                                             │
+    │   ├── Debit: Customer Deposit (liability) -$100                             │
+    │   └── Credit: Due to Acquiring Bank (liability) +$100                       │
     │                                                                             │
-    │   Acquiring Bank:                                                         │
-    │   ├── Debit: Due from Issuing Bank (asset) +$100                         │
-    │   └── Credit: Merchant Deposit (liability) +$100                         │
+    │   Acquiring Bank:                                                           │
+    │   ├── Debit: Due from Issuing Bank (asset) +$100                            │
+    │   └── Credit: Merchant Deposit (liability) +$100                            │
     │                                                                             │
     │   Central Bank Settlement (end of day or real-time):                      │
     │   ├── Debit: Issuing Bank Reserve Account -$100                          │
