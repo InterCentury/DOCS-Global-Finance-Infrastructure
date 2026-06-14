@@ -713,17 +713,17 @@ CENTRAL BANK FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Monetary Base (M0) = Currency in Circulation + Bank Reserves            │
+    │   Monetary Base (M0) = Currency in Circulation + Bank Reserves              │
     │                                                                             │
-    │   Required Reserves = Reserve Requirement Ratio × Deposits                 │
+    │   Required Reserves = Reserve Requirement Ratio × Deposits                  │
     │                                                                             │
-    │   Excess Reserves = Total Reserves - Required Reserves                    │
+    │   Excess Reserves = Total Reserves - Required Reserves                      │
     │                                                                             │
-    │   Money Multiplier (simple) = 1 / Reserve Requirement Ratio                │
+    │   Money Multiplier (simple) = 1 / Reserve Requirement Ratio                 │
     │                                                                             │
-    │   Policy Rate Corridor = Lending Rate - Deposit Rate                       │
+    │   Policy Rate Corridor = Lending Rate - Deposit Rate                        │
     │                                                                             │
-    │   Taylor Rule: i = r* + π + 0.5(π - π*) + 0.5(y - y*)                     │
+    │   Taylor Rule: i = r* + π + 0.5(π - π*) + 0.5(y - y*)                       │
     │                                                                             │
     │   Real Interest Rate = Nominal Rate - Inflation Rate                       │
     │                                                                             │
