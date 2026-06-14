@@ -220,30 +220,30 @@ DEPOSIT TYPES COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Deposit Type     │ Interest  │ Liquidity    │ Insurance  │ Primary Users │
-    │   ─────────────────│───────────│──────────────│────────────│───────────────│
-    │   Demand Deposit   │ None or   │ Immediate    │ Yes        │ Households,   │
-    │   (Checking)       │ very low  │ (unlimited   │            │ businesses    │
-    │                    │           │ withdrawals) │            │               │
-    │   ─────────────────│───────────│──────────────│────────────│───────────────│
-    │   NOW Account      │ Low       │ Immediate    │ Yes        │ Households    │
-    │   (Interest-       │           │ (checks)     │            │               │
-    │    checking)       │           │              │            │               │
-    │   ─────────────────│───────────│──────────────│────────────│───────────────│
-    │   Savings Account  │ Low to    │ Immediate    │ Yes        │ Households    │
-    │                    │ moderate  │ (limited     │            │               │
-    │                    │           │ transfers)   │            │               │
-    │   ─────────────────│───────────│──────────────│────────────│───────────────│
-    │   Money Market     │ Moderate  │ Limited      │ Yes        │ Households,   │
-    │   Deposit Account  │           │ checks       │            │ small business│
-    │   ─────────────────│───────────│──────────────│────────────│───────────────│
-    │   Certificate of   │ Higher    │ Low (penalty │ Yes        │ Savers,       │
-    │   Deposit (CD)     │ (fixed    │ for early    │            │ retirees      │
-    │                    │ term)     │ withdrawal)  │            │               │
-    │   ─────────────────│───────────│──────────────│────────────│───────────────│
-    │   Jumbo CD         │ Highest   │ Low (penalty │ Partial    │ Institutional,│
-    │   (>$100k)         │           │ for early    │ (over      │ corporations  │
-    │                    │           │ withdrawal)  │ limit)     │               │
+    │   Deposit Type     │ Interest  │ Liquidity    │ Insurance  │ Primary Users  │
+    │   ─────────────────│───────────│──────────────│────────────│─────────────── │
+    │   Demand Deposit   │ None or   │ Immediate    │ Yes        │ Households,    │
+    │   (Checking)       │ very low  │ (unlimited   │            │ businesses     │
+    │                    │           │ withdrawals) │            │                │
+    │   ─────────────────│───────────│──────────────│────────────│─────────────── │
+    │   NOW Account      │ Low       │ Immediate    │ Yes        │ Households     │
+    │   (Interest-       │           │ (checks)     │            │                │
+    │    checking)       │           │              │            │                │
+    │   ─────────────────│───────────│──────────────│────────────│─────────────── │
+    │   Savings Account  │ Low to    │ Immediate    │ Yes        │ Households     │
+    │                    │ moderate  │ (limited     │            │                │
+    │                    │           │ transfers)   │            │                │
+    │   ─────────────────│───────────│──────────────│────────────│─────────────── │
+    │   Money Market     │ Moderate  │ Limited      │ Yes        │ Households,    │
+    │   Deposit Account  │           │ checks       │            │ small business │
+    │   ─────────────────│───────────│──────────────│────────────│─────────────── │
+    │   Certificate of   │ Higher    │ Low (penalty │ Yes        │ Savers,        │
+    │   Deposit (CD)     │ (fixed    │ for early    │            │ retirees       │
+    │                    │ term)     │ withdrawal)  │            │                │
+    │   ─────────────────│───────────│──────────────│────────────│─────────────── │
+    │   Jumbo CD         │ Highest   │ Low (penalty │ Partial    │ Institutional, │
+    │   (>$100k)         │           │ for early    │ (over      │ corporations   │
+    │                    │           │ withdrawal)  │ limit)     │                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
