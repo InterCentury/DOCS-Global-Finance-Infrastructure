@@ -61,26 +61,26 @@ COMMERCIAL BANK CORE FUNCTIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   FUNCTION DETAILS:                                                        │
+    │   FUNCTION DETAILS:                                                         │
     │                                                                             │
-    │   1. Deposit Taking: Accepts funds from depositors in exchange for        │
-    │      interest and transactional services. Creates bank liabilities.       │
+    │   1. Deposit Taking: Accepts funds from depositors in exchange for          │
+    │      interest and transactional services. Creates bank liabilities.         │
     │                                                                             │
-    │   2. Lending: Provides loans to households (mortgages, auto, personal)    │
-    │      and businesses (working capital, expansion, equipment). Creates      │
-    │      bank assets and new deposits (money creation).                       │
+    │   2. Lending: Provides loans to households (mortgages, auto, personal)      │
+    │      and businesses (working capital, expansion, equipment). Creates        │
+    │      bank assets and new deposits (money creation).                         │
     │                                                                             │
-    │   3. Payment Processing: Facilitates transfers between accounts,          │
-    │      issues checks and debit cards, processes direct deposits.            │
+    │   3. Payment Processing: Facilitates transfers between accounts,            │
+    │      issues checks and debit cards, processes direct deposits.              │
     │                                                                             │
-    │   4. Maturity Transformation: Borrows short (deposits can be withdrawn    │
-    │      anytime) and lends long (mortgages for 30 years).                    │
+    │   4. Maturity Transformation: Borrows short (deposits can be withdrawn      │
+    │      anytime) and lends long (mortgages for 30 years).                      │
     │                                                                             │
-    │   5. Risk Transformation: Takes on credit risk from borrowers, provides   │
-    │      depositors with safe, insured claims.                                │
+    │   5. Risk Transformation: Takes on credit risk from borrowers, provides     │
+    │      depositors with safe, insured claims.                                  │
     │                                                                             │
-    │   6. Liquidity Transformation: Converts illiquid loans into liquid        │
-    │      deposits that can be withdrawn on demand.                            │
+    │   6. Liquidity Transformation: Converts illiquid loans into liquid          │
+    │      deposits that can be withdrawn on demand.                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -92,24 +92,24 @@ BANK VS NON-BANK COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Feature              │ Commercial Bank    │ Credit Union │ Shadow Bank   │
-    │   ─────────────────────│────────────────────│──────────────│───────────────│
-    │   Ownership            │ Shareholder-owned  │ Member-owned │ Investor-owned│
-    │   ─────────────────────│────────────────────│──────────────│───────────────│
-    │   Deposit insurance    │ Yes (FDIC, etc.)   │ Yes          │ No            │
-    │   ─────────────────────│────────────────────│──────────────│───────────────│
-    │   Access to central    │ Yes (discount      │ Limited      │ No            │
-    │   bank liquidity       │ window)            │              │               │
-    │   ─────────────────────│────────────────────│──────────────│───────────────│
-    │   Money creation       │ Yes (through       │ No (must     │ No            │
-    │   power                │ lending)           │ hold 100%    │               │
-    │                       │                    │ reserves?)   │               │
-    │   ─────────────────────│────────────────────│──────────────│───────────────│
-    │   Primary regulator    │ Central bank /     │ NCUA / state │ SEC /         │
-    │                       │ banking agency     │              │ CFTC          │
-    │   ─────────────────────│────────────────────│──────────────│───────────────│
-    │   Examples             │ JPMorgan, Chase,   │ Navy Federal,│ Blackstone,   │
-    │                       │ Bank of America    │ State Farm   │ Bridgewater   │
+    │   Feature              │ Commercial Bank    │ Credit Union │ Shadow Bank    │
+    │   ─────────────────────│────────────────────│──────────────│─────────────── │
+    │   Ownership            │ Shareholder-owned  │ Member-owned │ Investor-owned │
+    │   ─────────────────────│────────────────────│──────────────│─────────────── │
+    │   Deposit insurance    │ Yes (FDIC, etc.)   │ Yes          │ No             │
+    │   ─────────────────────│────────────────────│──────────────│─────────────── │
+    │   Access to central    │ Yes (discount      │ Limited      │ No             │
+    │   bank liquidity       │ window)            │              │                │
+    │   ─────────────────────│────────────────────│──────────────│─────────────── │
+    │   Money creation       │ Yes (through       │ No (must     │ No             │
+    │   power                │ lending)           │ hold 100%    │                │
+    │                        │                    │ reserves?)   │                │
+    │   ─────────────────────│────────────────────│──────────────│─────────────── │
+    │   Primary regulator    │ Central bank /     │ NCUA / state │ SEC /          │
+    │                        │ banking agency     │              │ CFTC           │
+    │   ─────────────────────│────────────────────│──────────────│─────────────── │
+    │   Examples             │ JPMorgan, Chase,   │ Navy Federal,│ Blackstone,    │
+    │                        │ Bank of America    │ State Farm   │ Bridgewater    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -129,7 +129,7 @@ COMMERCIAL BANK BALANCE SHEET
     │   ───────────────────────────               ───────────────────────────    │
     │                                             │                              │
     │   ┌─────────────────────────────┐           ┌─────────────────────────────┐│
-    │   │ Cash and Reserves           │           │ Deposits                     ││
+    │   │ Cash and Reserves           │           │ Deposits                    ││
     │   │ ├── Vault cash              │           │ ├── Demand deposits         ││
     │   │ └── Reserves at central bank│           │ │   (checking)              ││
     │   └─────────────────────────────┘           │ ├── Savings deposits        ││
