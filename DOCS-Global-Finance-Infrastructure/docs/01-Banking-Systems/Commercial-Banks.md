@@ -505,27 +505,27 @@ NET INTEREST MARGIN CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: NIM = (Interest Income - Interest Expense) / Earning Assets     │
+    │   FORMULA: NIM = (Interest Income - Interest Expense) / Earning Assets      │
     │                                                                             │
-    │   EXAMPLE:                                                                 │
+    │   EXAMPLE:                                                                  │
     │                                                                             │
-    │   Interest Income:                                                         │
-    │   ├── Loan interest: $500 million                                         │
-    │   └── Securities interest: $50 million                                    │
-    │   Total Interest Income: $550 million                                     │
+    │   Interest Income:                                                          │
+    │   ├── Loan interest: $500 million                                           │
+    │   └── Securities interest: $50 million                                      │
+    │   Total Interest Income: $550 million                                       │
     │                                                                             │
-    │   Interest Expense:                                                        │
-    │   ├── Deposit interest: $100 million                                      │
-    │   └── Borrowing interest: $50 million                                     │
-    │   Total Interest Expense: $150 million                                    │
+    │   Interest Expense:                                                         │
+    │   ├── Deposit interest: $100 million                                        │
+    │   └── Borrowing interest: $50 million                                       │
+    │   Total Interest Expense: $150 million                                      │
     │                                                                             │
-    │   Net Interest Income: $550M - $150M = $400 million                       │
+    │   Net Interest Income: $550M - $150M = $400 million                         │
     │                                                                             │
-    │   Earning Assets: $10 billion                                             │
+    │   Earning Assets: $10 billion                                               │
     │                                                                             │
-    │   NIM = $400M / $10,000M = 4.00%                                          │
+    │   NIM = $400M / $10,000M = 4.00%                                            │
     │                                                                             │
-    │   Industry average NIM: 3.0-4.5% (varies by bank size and business model)│
+    │   Industry average NIM: 3.0-4.5% (varies by bank size and business model)   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
