@@ -339,30 +339,30 @@ LOAN TYPES COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Loan Type        │ Purpose              │ Term       │ Collateral       │
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Residential      │ Home purchase        │ 15-30 years│ Property         │
-    │   Mortgage         │                      │            │                  │
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Commercial Real  │ Office buildings,    │ 5-20 years │ Property         │
-    │   Estate (CRE)     │ retail, industrial   │            │                  │
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Commercial and   │ Working capital,     │ 1-7 years  │ Business assets, │
-    │   Industrial (C&I) │ equipment, expansion │            │ personal guaranty│
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Auto Loan        │ Vehicle purchase     │ 3-7 years  │ Vehicle          │
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Credit Card      │ Revolving spending   │ Revolving  │ Unsecured        │
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Personal Loan    │ Debt consolidation,  │ 1-5 years  │ Unsecured        │
-    │                    │ medical, etc.        │            │                  │
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Small Business   │ Startup, expansion   │ 5-10 years │ Business assets, │
-    │   Administration   │ (SBA guaranteed)     │            │ SBA guarantee    │
-    │   (SBA)            │                      │            │                  │
-    │   ─────────────────│──────────────────────│────────────│──────────────────│
-    │   Overdraft        │ Temporary negative   │ Demand     │ Deposits         │
-    │   Protection       │ balance coverage     │            │                  │
+    │   Loan Type        │ Purpose              │ Term       │ Collateral         │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Residential      │ Home purchase        │ 15-30 years│ Property           │
+    │   Mortgage         │                      │            │                    │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Commercial Real  │ Office buildings,    │ 5-20 years │ Property           │
+    │   Estate (CRE)     │ retail, industrial   │            │                    │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Commercial and   │ Working capital,     │ 1-7 years  │ Business assets,   │
+    │   Industrial (C&I) │ equipment, expansion │            │ personal guaranty  │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Auto Loan        │ Vehicle purchase     │ 3-7 years  │ Vehicle            │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Credit Card      │ Revolving spending   │ Revolving  │ Unsecured          │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Personal Loan    │ Debt consolidation,  │ 1-5 years  │ Unsecured          │
+    │                    │ medical, etc.        │            │                    │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Small Business   │ Startup, expansion   │ 5-10 years │ Business assets,   │
+    │   Administration   │ (SBA guaranteed)     │            │ SBA guarantee      │
+    │   (SBA)            │                      │            │                    │
+    │   ─────────────────│──────────────────────│────────────│──────────────────  │
+    │   Overdraft        │ Temporary negative   │ Demand     │ Deposits           │
+    │   Protection       │ balance coverage     │            │                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
