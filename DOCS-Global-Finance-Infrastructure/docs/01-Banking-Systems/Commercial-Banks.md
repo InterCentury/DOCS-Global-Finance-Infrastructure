@@ -376,36 +376,36 @@ FIVE C'S OF CREDIT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1. CHARACTER                                                            │
-    │      ├── Borrower's credit history and payment record                     │
-    │      ├── Credit score (FICO, VantageScore)                                │
-    │      ├── Past bankruptcies or defaults                                    │
-    │      └── Stability of employment/residence                               │
+    │   1. CHARACTER                                                              │
+    │      ├── Borrower's credit history and payment record                       │
+    │      ├── Credit score (FICO, VantageScore)                                  │
+    │      ├── Past bankruptcies or defaults                                      │
+    │      └── Stability of employment/residence                                  │
     │                                                                             │
-    │   2. CAPACITY                                                             │
-    │      ├── Ability to repay from income                                     │
-    │      ├── Debt-to-income ratio (DTI)                                       │
-    │      ├── Cash flow analysis                                               │
-    │      └── Employment history and income stability                          │
+    │   2. CAPACITY                                                               │
+    │      ├── Ability to repay from income                                       │
+    │      ├── Debt-to-income ratio (DTI)                                         │
+    │      ├── Cash flow analysis                                                 │
+    │      └── Employment history and income stability                            │
     │                                                                             │
-    │   3. CAPITAL                                                              │
-    │      ├── Down payment or equity contribution                              │
-    │      ├── Borrower's net worth                                             │
-    │      ├── Liquid assets available                                          │
-    │      └── Skin in the game                                                │
+    │   3. CAPITAL                                                                │
+    │      ├── Down payment or equity contribution                                │
+    │      ├── Borrower's net worth                                               │
+    │      ├── Liquid assets available                                            │
+    │      └── Skin in the game                                                   │
     │                                                                             │
-    │   4. COLLATERAL                                                           │
-    │      ├── Assets pledged to secure loan                                    │
-    │      ├── Loan-to-value ratio (LTV)                                        │
-    │      ├── Quality and liquidity of collateral                              │
-    │      └── Appraised value                                                 │
+    │   4. COLLATERAL                                                             │
+    │      ├── Assets pledged to secure loan                                      │
+    │      ├── Loan-to-value ratio (LTV)                                          │
+    │      ├── Quality and liquidity of collateral                                │
+    │      └── Appraised value                                                    │
     │                                                                             │
-    │   5. CONDITIONS                                                           │
-    │      ├── Purpose of loan                                                  │
-    │      ├── Economic environment                                             │
-    │      ├── Industry conditions                                              │
-    │      ├── Interest rate environment                                        │
-    │      └── Loan terms and covenants                                         │
+    │   5. CONDITIONS                                                             │
+    │      ├── Purpose of loan                                                    │
+    │      ├── Economic environment                                               │
+    │      ├── Industry conditions                                                │
+    │      ├── Interest rate environment                                          │
+    │      └── Loan terms and covenants                                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
