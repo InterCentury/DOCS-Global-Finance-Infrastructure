@@ -661,27 +661,25 @@ How it works: A systems failure prevents customers from accessing accounts. A ro
 OPERATIONAL RISK CATEGORIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   CATEGORY              │ EXAMPLES                                         │
     │   ──────────────────────│──────────────────────────────────────────────────│
     │   Internal Fraud        │ Employee theft, embezzlement, unauthorized      │
-    │                        │ trading, insider trading                         │
+    │                         │ trading, insider trading                         │
     │   ──────────────────────│──────────────────────────────────────────────────│
     │   External Fraud        │ Cyberattacks, check fraud, identity theft,      │
-    │                        │ phishing, ransomware                             │
+    │                         │ phishing, ransomware                             │
     │   ──────────────────────│──────────────────────────────────────────────────│
     │   Employment Practices  │ Discrimination claims, wrongful termination,   │
-    │                        │ workplace safety violations                      │
+    │                         │ workplace safety violations                      │
     │   ──────────────────────│──────────────────────────────────────────────────│
     │   Business Disruption   │ Systems failure, power outage, natural         │
-    │                        │ disaster, pandemic                               │
+    │                         │ disaster, pandemic                               │
     │   ──────────────────────│──────────────────────────────────────────────────│
     │   Process Management    │ Data entry errors, document processing         │
-    │                        │ failures, model errors                           │
+    │                         │ failures, model errors                           │
     │   ──────────────────────│──────────────────────────────────────────────────│
     │   Technology Failure    │ Software bugs, hardware failure, network       │
-    │                        │ outage, data corruption                          │
-    │                                                                             │
+    │                         │ outage, data corruption                          │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
