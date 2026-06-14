@@ -585,25 +585,25 @@ LIQUIDITY RISK MANAGEMENT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   MITIGATION TOOLS:                                                        │
+    │   MITIGATION TOOLS:                                                         │
     │                                                                             │
-    │   1. Liquid Asset Buffer                                                   │
-    │      ├── Cash and central bank reserves                                   │
-    │      ├── Treasury securities (highly liquid)                              │
-    │      ├── Agency securities                                                 │
-    │      └── High-quality corporate bonds                                     │
+    │   1. Liquid Asset Buffer                                                    │
+    │      ├── Cash and central bank reserves                                     │
+    │      ├── Treasury securities (highly liquid)                                │
+    │      ├── Agency securities                                                  │
+    │      └── High-quality corporate bonds                                       │
     │                                                                             │
-    │   2. Liquidity Coverage Ratio (LCR) - Basel III                           │
-    │      ├── High-quality liquid assets (HQLA) / Net cash outflows (30 days)  │
-    │      ├── Minimum 100%                                                     │
-    │      └── Ensures bank can survive 30-day stress scenario                  │
+    │   2. Liquidity Coverage Ratio (LCR) - Basel III                             │
+    │      ├── High-quality liquid assets (HQLA) / Net cash outflows (30 days)    │
+    │      ├── Minimum 100%                                                       │
+    │      └── Ensures bank can survive 30-day stress scenario                    │
     │                                                                             │
-    │   3. Net Stable Funding Ratio (NSFR) - Basel III                          │
-    │      ├── Available stable funding / Required stable funding               │
-    │      ├── Minimum 100%                                                     │
-    │      └── Encourages long-term funding for long-term assets                │
+    │   3. Net Stable Funding Ratio (NSFR) - Basel III                            │
+    │      ├── Available stable funding / Required stable funding                 │
+    │      ├── Minimum 100%                                                       │
+    │      └── Encourages long-term funding for long-term assets                  │
     │                                                                             │
-    │   4. Contingency Funding Plan                                              │
+    │   4. Contingency Funding Plan                                               │
     │      ├── Identifies liquidity stress triggers                            │
     │      ├── Lists available funding sources                                  │
     │      └── Specifies actions during crisis                                  │
