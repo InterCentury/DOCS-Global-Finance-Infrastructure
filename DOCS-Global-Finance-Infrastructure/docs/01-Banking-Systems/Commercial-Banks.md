@@ -259,30 +259,30 @@ DEPOSIT PROCESSING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER DEPOSITS $1000 CASH                                             │
+    │   CUSTOMER DEPOSITS $1000 CASH                                              │
     │                                                                             │
-    │   BEFORE DEPOSIT:                                                          │
+    │   BEFORE DEPOSIT:                                                           │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
-    │   │  │ Vault Cash: $10,000         ││ │ Customer Deposits: $100,000  │   │   │
-    │   │  │ Loans: $500,000             ││ │ Equity: $50,000              │   │   │
+    │   │  │ Vault Cash: $10,000         ││ │ Customer Deposits: $100,000 │   │   │
+    │   │  │ Loans: $500,000             ││ │ Equity: $50,000             │   │   │
     │   │  └─────────────────────────────┘│ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   AFTER DEPOSIT:                                                           │
+    │   AFTER DEPOSIT:                                                            │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
-    │   │  │ Vault Cash: $11,000 (+$1k)  ││ │ Customer Deposits: $101,000  │   │   │
-    │   │  │ Loans: $500,000             ││ │   (+$1k)                     │   │   │
-    │   │  └─────────────────────────────┘│ │ Equity: $50,000              │   │   │
-    │   │                                │ └─────────────────────────────┘   │   │
+    │   │  │ Vault Cash: $11,000 (+$1k)  ││ │ Customer Deposits: $101,000 │   │   │
+    │   │  │ Loans: $500,000             ││ │   (+$1k)                    │   │   │
+    │   │  └─────────────────────────────┘│ │ Equity: $50,000             │   │   │
+    │   │                                 │ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Key insight: Both sides of balance sheet increased by $1000.            │
-    │   Bank now has more cash (asset) and more deposit liability.              │
+    │   Key insight: Both sides of balance sheet increased by $1000.              │
+    │   Bank now has more cash (asset) and more deposit liability.                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
