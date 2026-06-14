@@ -604,14 +604,14 @@ LIQUIDITY RISK MANAGEMENT
     │      └── Encourages long-term funding for long-term assets                  │
     │                                                                             │
     │   4. Contingency Funding Plan                                               │
-    │      ├── Identifies liquidity stress triggers                            │
-    │      ├── Lists available funding sources                                  │
-    │      └── Specifies actions during crisis                                  │
+    │      ├── Identifies liquidity stress triggers                               │
+    │      ├── Lists available funding sources                                    │
+    │      └── Specifies actions during crisis                                    │
     │                                                                             │
-    │   5. Access to Central Bank                                                │
-    │      ├── Discount window borrowing                                        │
-    │      ├── Standing lending facilities                                      │
-    │      └── Emergency liquidity assistance                                   │
+    │   5. Access to Central Bank                                                 │
+    │      ├── Discount window borrowing                                          │
+    │      ├── Standing lending facilities                                        │
+    │      └── Emergency liquidity assistance                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
