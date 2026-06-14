@@ -627,18 +627,18 @@ INTEREST RATE RISK EXAMPLE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BANK BALANCE SHEET (Simplified)                                          │
+    │   BANK BALANCE SHEET (Simplified)                                           │
     │                                                                             │
-    │   Assets (Rate-sensitive)              Liabilities (Rate-sensitive)        │
-    │   ├── Floating-rate loans: $500M       ├── Floating-rate deposits: $300M   │
-    │   ├── Fixed-rate loans: $800M          ├── Fixed-rate deposits: $600M      │
-    │   └── Securities: $200M                └── Equity: $200M                   │
+    │   Assets (Rate-sensitive)              Liabilities (Rate-sensitive)         │
+    │   ├── Floating-rate loans: $500M       ├── Floating-rate deposits: $300M    │
+    │   ├── Fixed-rate loans: $800M          ├── Fixed-rate deposits: $600M       │
+    │   └── Securities: $200M                └── Equity: $200M                    │
     │                                                                             │
-    │   GAP ANALYSIS:                                                            │
+    │   GAP ANALYSIS:                                                             │
     │                                                                             │
-    │   Rate-Sensitive Assets (RSA) = $500M (floating loans)                    │
-    │   Rate-Sensitive Liabilities (RSL) = $300M (floating deposits)            │
-    │   Gap = RSA - RSL = +$200M                                                │
+    │   Rate-Sensitive Assets (RSA) = $500M (floating loans)                      │
+    │   Rate-Sensitive Liabilities (RSL) = $300M (floating deposits)              │
+    │   Gap = RSA - RSL = +$200M                                                  │
     │                                                                             │
     │   If rates rise 1%: Net interest income increases ~$200M × 1% = $2M      │
     │   If rates fall 1%: Net interest income decreases ~$2M                    │
