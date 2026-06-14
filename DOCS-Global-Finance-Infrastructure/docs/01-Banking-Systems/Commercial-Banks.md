@@ -543,33 +543,33 @@ CREDIT RISK MANAGEMENT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   MITIGATION TOOLS:                                                        │
+    │   MITIGATION TOOLS:                                                         │
     │                                                                             │
-    │   1. Underwriting Standards                                                │
-    │      ├── Credit scoring and analysis                                       │
-    │      ├── Debt-to-income limits                                            │
-    │      └── Loan-to-value limits                                             │
+    │   1. Underwriting Standards                                                 │
+    │      ├── Credit scoring and analysis                                        │
+    │      ├── Debt-to-income limits                                              │
+    │      └── Loan-to-value limits                                               │
     │                                                                             │
-    │   2. Collateral                                                            │
-    │      ├── Secured by assets (property, equipment, deposits)                │
-    │      ├── Lien on collateral                                               │
-    │      └── Foreclosure or repossession rights                               │
+    │   2. Collateral                                                             │
+    │      ├── Secured by assets (property, equipment, deposits)                  │
+    │      ├── Lien on collateral                                                 │
+    │      └── Foreclosure or repossession rights                                 │
     │                                                                             │
-    │   3. Diversification                                                       │
-    │      ├── Across borrowers (not concentrated in one customer)              │
-    │      ├── Across industries (not concentrated in oil, real estate, etc.)   │
-    │      └── Across geographies                                                │
+    │   3. Diversification                                                        │
+    │      ├── Across borrowers (not concentrated in one customer)                │
+    │      ├── Across industries (not concentrated in oil, real estate, etc.)     │
+    │      └── Across geographies                                                 │
     │                                                                             │
-    │   4. Loan Loss Reserves (Allowance)                                        │
-    │      ├── Provision for expected losses                                    │
-    │      ├── Based on historical default rates                                │
-    │      ├── Adjusted for economic conditions                                 │
-    │      └── CECL (Current Expected Credit Losses) standard                   │
+    │   4. Loan Loss Reserves (Allowance)                                         │
+    │      ├── Provision for expected losses                                      │
+    │      ├── Based on historical default rates                                  │
+    │      ├── Adjusted for economic conditions                                   │
+    │      └── CECL (Current Expected Credit Losses) standard                     │
     │                                                                             │
-    │   5. Capital                                                               │
-    │      ├── Equity absorbs unexpected losses                                 │
-    │      ├── Higher capital = greater loss absorption                         │
-    │      └── Regulatory minimums (4.5% CET1)                                  │
+    │   5. Capital                                                                │
+    │      ├── Equity absorbs unexpected losses                                   │
+    │      ├── Higher capital = greater loss absorption                           │
+    │      └── Regulatory minimums (4.5% CET1)                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
