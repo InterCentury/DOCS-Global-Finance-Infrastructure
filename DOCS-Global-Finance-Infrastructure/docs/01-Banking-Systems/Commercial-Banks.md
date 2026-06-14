@@ -125,42 +125,42 @@ COMMERCIAL BANK BALANCE SHEET
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ASSETS                                    LIABILITIES                    │
-    │   ───────────────────────────               ───────────────────────────    │
-    │                                             │                              │
-    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐│
-    │   │ Cash and Reserves           │           │ Deposits                    ││
-    │   │ ├── Vault cash              │           │ ├── Demand deposits         ││
-    │   │ └── Reserves at central bank│           │ │   (checking)              ││
-    │   └─────────────────────────────┘           │ ├── Savings deposits        ││
-    │                                             │ └── Time deposits (CDs)     ││
-    │   ┌─────────────────────────────┐           └─────────────────────────────┘│
-    │   │ Securities                  │           ┌─────────────────────────────┐│
-    │   │ ├── Treasury bonds          │           │ Borrowings                  ││
-    │   │ ├── Agency securities       │           │ ├── Federal funds purchased││
-    │   │ └── Municipal bonds         │           │ ├── Discount window loans  ││
-    │   └─────────────────────────────┘           │ └── Other borrowings        ││
-    │                                             └─────────────────────────────┘│
-    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐│
-    │   │ Loans (Gross)               │           │ Other Liabilities           ││
-    │   │ ├── Commercial loans        │           │ └── Accrued expenses, etc. ││
-    │   │ ├── Real estate loans       │           └─────────────────────────────┘│
-    │   │ ├── Consumer loans          │                                          │
-    │   │ └── Other loans             │           ┌─────────────────────────────┐│
-    │   └─────────────────────────────┘           │ EQUITY                      ││
-    │                                             │ ├── Share capital           ││
-    │   ┌─────────────────────────────┐           │ ├── Retained earnings       ││
-    │   │ Loan Loss Reserve           │           │ └── Other equity accounts   ││
-    │   │ (Contra-asset, negative)    │           └─────────────────────────────┘│
-    │   └─────────────────────────────┘                                          │
-    │   ┌─────────────────────────────┐                                          │
-    │   │ Other Assets                │                                          │
-    │   │ ├── Bank premises           │                                          │
-    │   │ └── Other real estate owned │                                          │
-    │   └─────────────────────────────┘                                          │
+    │   ASSETS                                    LIABILITIES                     │
+    │   ───────────────────────────               ───────────────────────────     │
+    │                                             │                               │
+    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐ │
+    │   │ Cash and Reserves           │           │ Deposits                    │ │
+    │   │ ├── Vault cash              │           │ ├── Demand deposits         │ │
+    │   │ └── Reserves at central bank│           │ │   (checking)              │ │
+    │   └─────────────────────────────┘           │ ├── Savings deposits        │ │
+    │                                             │ └── Time deposits (CDs)     │ │
+    │   ┌─────────────────────────────┐           └─────────────────────────────┘ │
+    │   │ Securities                  │           ┌─────────────────────────────┐ │
+    │   │ ├── Treasury bonds          │           │ Borrowings                  │ │
+    │   │ ├── Agency securities       │           │ ├── Federal funds purchased │ │
+    │   │ └── Municipal bonds         │           │ ├── Discount window loans   │ │
+    │   └─────────────────────────────┘           │ └── Other borrowings        │ │
+    │                                             └─────────────────────────────┘ │
+    │   ┌─────────────────────────────┐           ┌─────────────────────────────┐ │
+    │   │ Loans (Gross)               │           │ Other Liabilities           │ │
+    │   │ ├── Commercial loans        │           │ └── Accrued expenses, etc.  │ │
+    │   │ ├── Real estate loans       │           └─────────────────────────────┘ │
+    │   │ ├── Consumer loans          │                                           │
+    │   │ └── Other loans             │           ┌─────────────────────────────┐ │
+    │   └─────────────────────────────┘           │ EQUITY                      │ │
+    │                                             │ ├── Share capital           │ │
+    │   ┌─────────────────────────────┐           │ ├── Retained earnings       │ │
+    │   │ Loan Loss Reserve           │           │ └── Other equity accounts   │ │
+    │   │ (Contra-asset, negative)    │           └─────────────────────────────┘ │
+    │   └─────────────────────────────┘                                           │
+    │   ┌─────────────────────────────┐                                           │
+    │   │ Other Assets                │                                           │
+    │   │ ├── Bank premises           │                                           │
+    │   │ └── Other real estate owned │                                           │
+    │   └─────────────────────────────┘                                           │
     │                                                                             │
-    │   ───────────────────────────               ───────────────────────────    │
-    │   TOTAL ASSETS                 =            TOTAL LIABILITIES + EQUITY    │
+    │   ───────────────────────────               ───────────────────────────     │
+    │   TOTAL ASSETS                 =            TOTAL LIABILITIES + EQUITY      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
