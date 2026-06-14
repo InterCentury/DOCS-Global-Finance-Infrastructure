@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the core functions of commercial banks                        │
-    │   Learn the balance sheet structure and key accounts                       │
-    │   Study deposit taking and lending operations                              │
-    │   Analyze money creation through lending                                   │
-    │   Examine the role of banks in payment processing                          │
-    │   Understand bank risks (credit, liquidity, market, operational)          │
-    │   Learn capital requirements and prudential regulation                     │
-    │   Study bank business models and revenue sources                           │
+    │   Understand the core functions of commercial banks                         │
+    │   Learn the balance sheet structure and key accounts                        │
+    │   Study deposit taking and lending operations                               │
+    │   Analyze money creation through lending                                    │
+    │   Examine the role of banks in payment processing                           │
+    │   Understand bank risks (credit, liquidity, market, operational)            │
+    │   Learn capital requirements and prudential regulation                      │
+    │   Study bank business models and revenue sources                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
