@@ -374,29 +374,29 @@ LOAN LIFECYCLE IN CORE BANKING
     │   ├── Set up amortization schedule                                          │
     │   ├── Disburse funds (credit to customer deposit account)                   │
     │   └── Loan appears on customer's statement                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PHASE 3: SERVICING                                                      │
-    │   ├── Automatic payment posting (ACH, check, card)                       │
-    │   ├── Interest accrual calculation (daily or monthly)                    │
-    │   ├── Late fee assessment (if payment missed)                            │
-    │   ├── Principal and interest allocation                                  │
-    │   └── Amortization schedule tracking                                     │
-    │        │                                                                   │
-    │        ├─────────────────────────────────────────────────────┐            │
-    │        │                                                     │            │
-    │        ▼                                                     ▼            │
-    │   IF CURRENT                                         IF PAST DUE          │
-    │   ├── Continue normal servicing                     ├── Send notices      │
-    │   ├── Report to credit bureaus                      ├── Assess late fees  │
-    │   └── Release collateral (when paid off)            ├── Call customer     │
-    │                                                      └── Report delinquency│
-    │                                                             │            │
-    │                                                             ▼            │
-    │                                                      IF DEFAULT           │
-    │                                                      ├── Accelerate loan  │
-    │                                                      ├── Charge-off       │
-    │                                                      └── Collections      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PHASE 3: SERVICING                                                        │
+    │   ├── Automatic payment posting (ACH, check, card)                          │
+    │   ├── Interest accrual calculation (daily or monthly)                       │
+    │   ├── Late fee assessment (if payment missed)                               │
+    │   ├── Principal and interest allocation                                     │
+    │   └── Amortization schedule tracking                                        │
+    │        │                                                                    │
+    │        ├─────────────────────────────────────────────────────┐              │
+    │        │                                                     │              │
+    │        ▼                                                     ▼              │
+    │   IF CURRENT                                         IF PAST DUE            │
+    │   ├── Continue normal servicing                     ├── Send notices        │
+    │   ├── Report to credit bureaus                      ├── Assess late fees    │
+    │   └── Release collateral (when paid off)            ├── Call customer       │
+    │                                                      └── Report delinquency │
+    │                                                             │               │
+    │                                                             ▼               │
+    │                                                      IF DEFAULT             │
+    │                                                      ├── Accelerate loan    │
+    │                                                      ├── Charge-off         │
+    │                                                      └── Collections        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
