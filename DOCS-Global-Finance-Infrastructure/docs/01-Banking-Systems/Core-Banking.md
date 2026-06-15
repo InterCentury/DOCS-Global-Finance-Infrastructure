@@ -82,27 +82,27 @@ CORE BANKING PURPOSES
     │   PURPOSE                    │ DESCRIPTION                                 │
     │   ───────────────────────────│─────────────────────────────────────────────│
     │   Centralized Records        │ All customer accounts stored in one         │
-    │                             │ central database accessible from any        │
-    │                             │ branch or channel                           │
+    │                              │ central database accessible from any        │
+    │                              │ branch or channel                           │
     │   ───────────────────────────│─────────────────────────────────────────────│
     │   Real-Time Processing       │ Transactions post instantly, balances      │
-    │                             │ update immediately across all channels     │
+    │                              │ update immediately across all channels     │
     │   ───────────────────────────│─────────────────────────────────────────────│
     │   Single Customer View       │ All relationships with a customer          │
-    │                             │ (checking, savings, loans, credit cards)    │
-    │                             │ visible together                            │
+    │                              │ (checking, savings, loans, credit cards)    │
+    │                              │ visible together                            │
     │   ───────────────────────────│─────────────────────────────────────────────│
     │   Transaction Integrity      │ Ensures every transaction is properly      │
-    │                             │ recorded and accounted for                 │
+    │                              │ recorded and accounted for                 │
     │   ───────────────────────────│─────────────────────────────────────────────│
     │   Regulatory Compliance      │ Provides audit trail and reporting for     │
-    │                             │ regulators (AML, KYC, Basel)                │
+    │                              │ regulators (AML, KYC, Basel)                │
     │   ───────────────────────────│─────────────────────────────────────────────│
     │   Operational Efficiency     │ Automates manual processes, reduces        │
-    │                             │ errors, lowers costs                        │
+    │                              │ errors, lowers costs                        │
     │   ───────────────────────────│─────────────────────────────────────────────│
     │   ​Channel Integration        │ All channels (branch, ATM, online, mobile) │
-    │                             │ connect to same system                      │
+    │                              │ connect to same system                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
