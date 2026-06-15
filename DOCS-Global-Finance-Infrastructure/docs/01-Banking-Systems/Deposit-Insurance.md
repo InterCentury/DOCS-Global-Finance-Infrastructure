@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the purpose and function of deposit insurance                 │
-    │   Learn how deposit insurance prevents bank runs                           │
-    │   Study the FDIC structure and coverage limits                             │
-    │   Analyze how deposit insurance is funded (premiums, DIF)                  │
-    │   Examine the bank resolution process (payoff vs purchase and assumption)  │
-    │   Understand the moral hazard problem and mitigants                        │
-    │   Learn deposit insurance systems in other countries                       │
-    │   Study historical bank failures and FDIC response                         │
+    │   Understand the purpose and function of deposit insurance                  │
+    │   Learn how deposit insurance prevents bank runs                            │
+    │   Study the FDIC structure and coverage limits                              │
+    │   Analyze how deposit insurance is funded (premiums, DIF)                   │
+    │   Examine the bank resolution process (payoff vs purchase and assumption)   │
+    │   Understand the moral hazard problem and mitigants                         │
+    │   Learn deposit insurance systems in other countries                        │
+    │   Study historical bank failures and FDIC response                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -36,7 +36,7 @@ DEPOSIT INSURANCE MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   NORMAL OPERATIONS                                                        │
+    │   NORMAL OPERATIONS                                                         │
     │                                                                             │
     │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                 │
     │   │ Depositor   │────►│    Bank     │────►│  Deposit    │                 │
