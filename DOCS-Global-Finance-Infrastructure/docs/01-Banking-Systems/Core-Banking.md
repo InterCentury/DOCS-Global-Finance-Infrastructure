@@ -410,32 +410,32 @@ INTEREST CALCULATION TYPES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DEPOSIT INTEREST (Bank pays customer)                                    │
+    │   DEPOSIT INTEREST (Bank pays customer)                                     │
     │                                                                             │
-    │   Simple Interest: I = P × r × t                                           │
-    │   └── Used for short-term deposits (under 1 year)                         │
+    │   Simple Interest: I = P × r × t                                            │
+    │   └── Used for short-term deposits (under 1 year)                           │
     │                                                                             │
-    │   Compound Interest: A = P × (1 + r/n)^(n×t)                              │
-    │   └── Used for savings accounts, CDs                                      │
+    │   Compound Interest: A = P × (1 + r/n)^(n×t)                                │
+    │   └── Used for savings accounts, CDs                                        │
     │                                                                             │
-    │   Daily Balance Method: Interest = Σ (Daily Balance × Daily Rate)         │
-    │   └── Most common for checking and savings                                │
+    │   Daily Balance Method: Interest = Σ (Daily Balance × Daily Rate)           │
+    │   └── Most common for checking and savings                                  │
     │                                                                             │
-    │   Average Daily Balance: Interest = (Sum of daily balances / Days) × Rate │
-    │   └── Used by some credit unions                                          │
+    │   Average Daily Balance: Interest = (Sum of daily balances / Days) × Rate   │
+    │   └── Used by some credit unions                                            │
     │                                                                             │
     │                                                                             │
-    │   LOAN INTEREST (Customer pays bank)                                       │
+    │   LOAN INTEREST (Customer pays bank)                                        │
     │                                                                             │
-    │   Simple Interest (Consumer loans): I = P × r × t                         │
+    │   Simple Interest (Consumer loans): I = P × r × t                           │
     │                                                                             │
-    │   Amortizing (Mortgage): Equal payments, changing interest/principal split│
+    │   Amortizing (Mortgage): Equal payments, changing interest/principal split  │
     │                                                                             │
-    │   Rule of 78 (Precomputed): Interest front-loaded, prohibited in many     │
-    │   jurisdictions                                                           │
+    │   Rule of 78 (Precomputed): Interest front-loaded, prohibited in many       │
+    │   jurisdictions                                                             │
     │                                                                             │
-    │   Daily Accrual: Interest accrues daily, posted monthly                   │
-    │   └── Standard for most loans                                             │
+    │   Daily Accrual: Interest accrues daily, posted monthly                     │
+    │   └── Standard for most loans                                               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
