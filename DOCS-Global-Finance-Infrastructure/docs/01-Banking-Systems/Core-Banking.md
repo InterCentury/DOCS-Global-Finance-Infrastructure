@@ -208,7 +208,7 @@ CUSTOMER INFORMATION FILE STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER MASTER RECORD (CIF #12345678)                                   │
+    │   CUSTOMER MASTER RECORD (CIF #12345678)                                  │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  DEMOGRAPHIC DATA                                                   │   │
@@ -222,7 +222,7 @@ CUSTOMER INFORMATION FILE STRUCTURE
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  KYC / AML DATA                                                     │   │
-    │   │  ├── ID Verification: Passport #ABC123, verified 2020-01-15        │   │
+    │   │  ├── ID Verification: Passport #ABC123, verified 2020-01-15       │   │
     │   │  ├── PEP Status: No                                                 │   │
     │   │  ├── Risk Rating: Medium                                            │   │
     │   │  ├── Source of Funds: Employment                                    │   │
@@ -230,7 +230,7 @@ CUSTOMER INFORMATION FILE STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  ACCOUNTS LINKED                                                     │   │
+    │   │  ACCOUNTS LINKED                                                    │   │
     │   │  ├── Account #1001: Checking (Primary)                              │   │
     │   │  ├── Account #1002: Savings                                         │   │
     │   │  ├── Account #1003: Money Market                                    │   │
@@ -239,7 +239,7 @@ CUSTOMER INFORMATION FILE STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  RELATIONSHIP DATA                                                   │   │
+    │   │  RELATIONSHIP DATA                                                  │   │
     │   │  ├── Primary Banker: Jane Doe (Branch Manager)                      │   │
     │   │  ├── Customer Since: 2010-03-22                                     │   │
     │   │  ├── Total Relationship Value: $250,000                             │   │
