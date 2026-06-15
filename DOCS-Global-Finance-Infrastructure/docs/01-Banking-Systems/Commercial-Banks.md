@@ -1,4 +1,4 @@
-# 04 - Commercial Banks
+# Commercial Banks
 
 ## Documentation Overview
 
