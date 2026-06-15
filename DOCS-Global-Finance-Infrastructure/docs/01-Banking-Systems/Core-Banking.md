@@ -640,7 +640,6 @@ CORE BANKING GENERATIONS
 LEGACY VS MODERN COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   FEATURE              │ LEGACY CORE          │ MODERN CORE                 │
     │   ─────────────────────│──────────────────────│──────────────────────────── │
     │   Architecture         │ Monolithic           │ Microservices               │
@@ -667,7 +666,6 @@ LEGACY VS MODERN COMPARISON
     │   ─────────────────────│──────────────────────│──────────────────────────── │
     │   Cost structure       │ High fixed (licenses,│ Variable (pay-as-you-go)    │
     │                        │ hardware)            │                             │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
