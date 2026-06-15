@@ -451,22 +451,22 @@ END OF DAY (EOD) PROCESSING FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DAYTIME (6:00 AM - 10:00 PM)                                             │
-    │   ├── Real-time OLTP transactions                                          │
-    │   ├── Online balances update instantly                                     │
-    │   └── Transaction log accumulates                                          │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   CUTOVER (10:00 PM)                                                       │
-    │   ├── Stop accepting new transactions                                      │
-    │   ├── Flush remaining transactions from queues                            │
-    │   └── System enters maintenance mode                                      │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 1: ACCRUE INTEREST                                                  │
-    │   ├── Calculate daily interest on all deposit accounts                    │
-    │   ├── Calculate daily interest accrual on all loans                       │
-    │   └── Post accrual entries to ledgers                                     │
+    │   DAYTIME (6:00 AM - 10:00 PM)                                              │
+    │   ├── Real-time OLTP transactions                                           │
+    │   ├── Online balances update instantly                                      │
+    │   └── Transaction log accumulates                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   CUTOVER (10:00 PM)                                                        │
+    │   ├── Stop accepting new transactions                                       │
+    │   ├── Flush remaining transactions from queues                              │
+    │   └── System enters maintenance mode                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 1: ACCRUE INTEREST                                                   │
+    │   ├── Calculate daily interest on all deposit accounts                      │
+    │   ├── Calculate daily interest accrual on all loans                         │
+    │   └── Post accrual entries to ledgers                                       │
     │        │                                                                   │
     │        ▼                                                                   │
     │   STEP 2: APPLY FEES                                                       │
