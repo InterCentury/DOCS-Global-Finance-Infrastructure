@@ -306,35 +306,35 @@ TRANSACTION PROCESSING FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TRANSACTION REQUEST (Withdrawal $200 from Account #1001)                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 1: VALIDATION                                                       │
-    │   ├── Account exists? Yes (#1001, John Smith Checking)                   │
-    │   ├── Account active? Yes                                                │
-    │   ├── Transaction within limits? $200 < $500 (ATM limit)                 │
-    │   └── Authentication verified? PIN correct                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: AVAILABLE FUNDS CHECK                                           │
-    │   ├── Current available balance: $5,234.67                               │
-    │   ├── Request amount: $200.00                                            │
-    │   └── Result: SUFFICIENT FUNDS                                           │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: RESERVE FUNDS (Lock account)                                    │
-    │   ├── Place hold on $200.00                                             │
-    │   ├── Available balance becomes $5,034.67 (temporarily)                 │
-    │   └── Account locked for concurrent transactions                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: POST TRANSACTION                                                │
-    │   ├── Debit account: $5,234.67 → $5,034.67                              │
-    │   ├── Create transaction record: Withdrawal, $200, 2024-06-15 10:30:45  │
-    │   ├── Update running balance                                             │
-    │   └── Release account lock                                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
+    │   TRANSACTION REQUEST (Withdrawal $200 from Account #1001)                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 1: VALIDATION                                                        │
+    │   ├── Account exists? Yes (#1001, John Smith Checking)                      │
+    │   ├── Account active? Yes                                                   │
+    │   ├── Transaction within limits? $200 < $500 (ATM limit)                    │
+    │   └── Authentication verified? PIN correct                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: AVAILABLE FUNDS CHECK                                             │
+    │   ├── Current available balance: $5,234.67                                  │
+    │   ├── Request amount: $200.00                                               │
+    │   └── Result: SUFFICIENT FUNDS                                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: RESERVE FUNDS (Lock account)                                      │
+    │   ├── Place hold on $200.00                                                 │
+    │   ├── Available balance becomes $5,034.67 (temporarily)                     │
+    │   └── Account locked for concurrent transactions                            │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: POST TRANSACTION                                                  │
+    │   ├── Debit account: $5,234.67 → $5,034.67                                  │
+    │   ├── Create transaction record: Withdrawal, $200, 2024-06-15 10:30:45      │
+    │   ├── Update running balance                                                │
+    │   └── Release account lock                                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   STEP 5: UPDATE GENERAL LEDGER                                           │
     │   ├── Debit: Customer Deposits (Liability) -$200                         │
     │   └── Credit: Vault Cash (Asset) -$200 (if cash) or                      │
