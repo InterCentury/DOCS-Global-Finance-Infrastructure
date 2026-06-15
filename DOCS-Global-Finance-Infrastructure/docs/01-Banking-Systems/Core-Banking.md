@@ -178,7 +178,6 @@ How it works: A withdrawal request arrives. The system begins a database transac
 ACID TRANSACTION PROPERTIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   PROPERTY     │ MEANING                        │ EXAMPLE                   │
     │   ─────────────│────────────────────────────────│───────────────────────────│
     │   Atomic       │ Transaction completes fully    │ Withdrawal either fully   │
@@ -195,7 +194,6 @@ ACID TRANSACTION PROPERTIES
     │   Durable      │ Once committed, transaction    │ After confirmation,       │
     │                │ persists even after power      │ power loss does not       │
     │                │ failure.                       │ erase the withdrawal      │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
