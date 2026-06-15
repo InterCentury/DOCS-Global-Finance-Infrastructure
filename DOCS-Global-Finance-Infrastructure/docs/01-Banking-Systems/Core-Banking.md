@@ -492,25 +492,25 @@ END OF DAY (EOD) PROCESSING FLOW
     │        ▼                                                                    │
     │   STEP 5: RECONCILE WITH GENERAL LEDGER                                     │
     │   ├── Sum all deposit account balances                                      │
-    │   ├── Compare to GL control account                                      │
-    │   ├── Investigate discrepancies                                          │
-    │   └── Post adjusting entries if needed                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 6: GENERATE REPORTS                                                │
-    │   ├── Customer statements                                                │
-    │   ├── Regulatory reports (Fed, FDIC)                                     │
-    │   ├── Internal management reports                                        │
-    │   └── Exception reports                                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 7: DATABASE BACKUP                                                 │
-    │   ├── Full backup of all databases                                       │
-    │   ├── Archive transaction logs                                           │
-    │   └── Replicate to disaster recovery site                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   SYSTEM RESUMES (6:00 AM)                                               │
+    │   ├── Compare to GL control account                                         │
+    │   ├── Investigate discrepancies                                             │
+    │   └── Post adjusting entries if needed                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 6: GENERATE REPORTS                                                  │
+    │   ├── Customer statements                                                   │
+    │   ├── Regulatory reports (Fed, FDIC)                                        │
+    │   ├── Internal management reports                                           │
+    │   └── Exception reports                                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 7: DATABASE BACKUP                                                   │
+    │   ├── Full backup of all databases                                          │
+    │   ├── Archive transaction logs                                              │
+    │   └── Replicate to disaster recovery site                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   SYSTEM RESUMES (6:00 AM)                                                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
