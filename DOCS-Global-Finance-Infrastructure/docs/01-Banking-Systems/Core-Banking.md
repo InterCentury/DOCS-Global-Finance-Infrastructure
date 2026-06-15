@@ -181,20 +181,20 @@ ACID TRANSACTION PROPERTIES
     │                                                                             │
     │   PROPERTY     │ MEANING                        │ EXAMPLE                   │
     │   ─────────────│────────────────────────────────│───────────────────────────│
-    │   Atomic       │ Transaction completes fully    │ Withdrawal either fully    │
-    │               │ or not at all. No partial      │ completes or account      │
-    │               │ updates.                       │ unchanged                 │
+    │   Atomic       │ Transaction completes fully    │ Withdrawal either fully   │
+    │                │ or not at all. No partial      │ completes or account      │
+    │                │ updates.                       │ unchanged                 │
     │   ─────────────│────────────────────────────────│───────────────────────────│
     │   Consistent   │ Transaction leaves database    │ Balance never negative    │
-    │               │ in valid state.                │ after withdrawal          │
+    │                │ in valid state.                │ after withdrawal          │
     │   ─────────────│────────────────────────────────│───────────────────────────│
     │   Isolated     │ Concurrent transactions do     │ Two withdrawals from      │
-    │               │ not interfere.                 │ same account do not       │
-    │               │                                │ double-spend             │
+    │                │ not interfere.                 │ same account do not       │
+    │                │                                │ double-spend              │
     │   ─────────────│────────────────────────────────│───────────────────────────│
     │   Durable      │ Once committed, transaction    │ After confirmation,       │
-    │               │ persists even after power      │ power loss does not       │
-    │               │ failure.                       │ erase the withdrawal     │
+    │                │ persists even after power      │ power loss does not       │
+    │                │ failure.                       │ erase the withdrawal      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
