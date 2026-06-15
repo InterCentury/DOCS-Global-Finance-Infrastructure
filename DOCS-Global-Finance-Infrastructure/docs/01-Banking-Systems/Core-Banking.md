@@ -675,7 +675,6 @@ LEGACY VS MODERN COMPARISON
 VENDOR LANDSCAPE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   VENDOR                │ PRODUCT(S)           │ TYPICAL CUSTOMERS          │
     │   ──────────────────────│──────────────────────│─────────────────────────── │
     │   Temenos               │ T24 (Transact)       │ Global, large banks        │
@@ -700,7 +699,6 @@ VENDOR LANDSCAPE
     │   Mambu                 │ Mambu Cloud Core     │ Digital banks, fintechs    │
     │   ──────────────────────│──────────────────────│─────────────────────────── │
     │   10x Banking           │ SuperCore            │ UK, Australian banks       │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
