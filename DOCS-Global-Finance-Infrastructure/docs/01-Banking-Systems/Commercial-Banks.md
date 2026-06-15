@@ -694,13 +694,13 @@ BASEL CAPITAL REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CAPITAL TIERS:                                                           │
+    │   CAPITAL TIERS:                                                            │
     │                                                                             │
-    │   Common Equity Tier 1 (CET1) - Highest quality                           │
-    │   ├── Common shares (stock)                                               │
-    │   ├── Retained earnings                                                   │
-    │   ├── Other comprehensive income                                          │
-    │   └── Minimum requirement: 4.5% of risk-weighted assets (RWA)            │
+    │   Common Equity Tier 1 (CET1) - Highest quality                             │
+    │   ├── Common shares (stock)                                                 │
+    │   ├── Retained earnings                                                     │
+    │   ├── Other comprehensive income                                            │
+    │   └── Minimum requirement: 4.5% of risk-weighted assets (RWA)               │
     │                                                                             │
     │   Additional Tier 1 (AT1)                                                 │
     │   ├── Preferred stock (non-cumulative)                                    │
