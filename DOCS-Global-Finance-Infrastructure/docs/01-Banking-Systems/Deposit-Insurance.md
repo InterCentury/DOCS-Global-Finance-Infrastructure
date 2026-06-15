@@ -1,4 +1,4 @@
-# 06 - Deposit Insurance
+# Deposit Insurance
 
 ## Documentation Overview
 
