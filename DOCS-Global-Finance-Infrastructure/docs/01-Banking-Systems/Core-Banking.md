@@ -361,19 +361,19 @@ LOAN LIFECYCLE IN CORE BANKING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PHASE 1: ORIGINATION                                                     │
-    │   ├── Application received and entered                                    │
-    │   ├── Credit check (internal and external bureaus)                       │
-    │   ├── Underwriting (Five C's analysis)                                   │
-    │   ├── Approval (auto-decision or manual)                                  │
-    │   └── Loan terms set (amount, rate, term, payment schedule)              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PHASE 2: DISBURSEMENT                                                   │
-    │   ├── Create loan account in core system                                 │
-    │   ├── Set up amortization schedule                                       │
-    │   ├── Disburse funds (credit to customer deposit account)                │
-    │   └── Loan appears on customer's statement                               │
+    │   PHASE 1: ORIGINATION                                                      │
+    │   ├── Application received and entered                                      │
+    │   ├── Credit check (internal and external bureaus)                          │
+    │   ├── Underwriting (Five C's analysis)                                      │
+    │   ├── Approval (auto-decision or manual)                                    │
+    │   └── Loan terms set (amount, rate, term, payment schedule)                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PHASE 2: DISBURSEMENT                                                     │
+    │   ├── Create loan account in core system                                    │
+    │   ├── Set up amortization schedule                                          │
+    │   ├── Disburse funds (credit to customer deposit account)                   │
+    │   └── Loan appears on customer's statement                                  │
     │        │                                                                   │
     │        ▼                                                                   │
     │   PHASE 3: SERVICING                                                      │
