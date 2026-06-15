@@ -335,19 +335,19 @@ TRANSACTION PROCESSING FLOW
     │   └── Release account lock                                                  │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   STEP 5: UPDATE GENERAL LEDGER                                           │
-    │   ├── Debit: Customer Deposits (Liability) -$200                         │
-    │   └── Credit: Vault Cash (Asset) -$200 (if cash) or                      │
-    │            Settlement Account (if electronic)                            │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 6: CONFIRMATION                                                     │
-    │   ├── Generate receipt                                                   │
-    │   ├── Send notification (optional)                                       │
-    │   └── Return success to channel                                          │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   TRANSACTION COMPLETE                                                    │
+    │   STEP 5: UPDATE GENERAL LEDGER                                             │
+    │   ├── Debit: Customer Deposits (Liability) -$200                            │
+    │   └── Credit: Vault Cash (Asset) -$200 (if cash) or                         │
+    │            Settlement Account (if electronic)                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 6: CONFIRMATION                                                      │
+    │   ├── Generate receipt                                                      │
+    │   ├── Send notification (optional)                                          │
+    │   └── Return success to channel                                             │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   TRANSACTION COMPLETE                                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
