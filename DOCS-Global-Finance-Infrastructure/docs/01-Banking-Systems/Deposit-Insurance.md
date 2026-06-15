@@ -846,4 +846,3 @@ DEPOSIT INSURANCE FORMULAS
 20. IADI Core Principles: international standards for deposit insurance systems.
 
 *This documentation belongs to https://github.com/InterCentury*
-```
