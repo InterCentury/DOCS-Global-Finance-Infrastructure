@@ -812,7 +812,7 @@ DEPOSIT INSURANCE COVERAGE (US FDIC)
     │   unincorporated association       │                                        │
     │   ─────────────────────────────────│────────────────────────────────────────│
     │   Government accounts              │ $250,000                               │
-    │                                                                             │
+    │   ────────────────────────────────────────────────────────────────────      │
     │   Example: Individual with $250k in checking and $250k in savings           │
     │   at same bank in same ownership category: Only $250k insured.              │
     │   To get full coverage, spread across banks or ownership categories.        │
