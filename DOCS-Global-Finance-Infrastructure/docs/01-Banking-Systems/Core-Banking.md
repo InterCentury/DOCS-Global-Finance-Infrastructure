@@ -676,30 +676,30 @@ VENDOR LANDSCAPE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   VENDOR                │ PRODUCT(S)           │ TYPICAL CUSTOMERS         │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   Temenos               │ T24 (Transact)        │ Global, large banks       │
-    │                         │ Infinity             │                           │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   FIS                   │ Profile, IBS,        │ Regional banks, US        │
-    │                         │ Horizon              │                           │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   Fiserv                │ Signature, Premier,  │ Community banks, credit   │
-    │                         │ DNA                  │ unions                    │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   Jack Henry            │ SilverLake, CIF 20/20│ US community banks        │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   Oracle                │ Flexcube             │ Large, international      │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   Finastra              │ Fusion Essence,       │ Mid-size banks            │
-    │                         │ Equation             │                           │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   Thought Machine       │ Vault                │ Challenger banks, cloud-  │
-    │                         │                      │ native adopters          │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   Mambu                 │ Mambu Cloud Core     │ Digital banks, fintechs   │
-    │   ──────────────────────│──────────────────────│───────────────────────────│
-    │   10x Banking           │ SuperCore            │ UK, Australian banks      │
+    │   VENDOR                │ PRODUCT(S)           │ TYPICAL CUSTOMERS          │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   Temenos               │ T24 (Transact)       │ Global, large banks        │
+    │                         │ Infinity             │                            │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   FIS                   │ Profile, IBS,        │ Regional banks, US         │
+    │                         │ Horizon              │                            │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   Fiserv                │ Signature, Premier,  │ Community banks, credit    │
+    │                         │ DNA                  │ unions                     │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   Jack Henry            │ SilverLake, CIF 20/20│ US community banks         │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   Oracle                │ Flexcube             │ Large, international       │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   Finastra              │ Fusion Essence,      │ Mid-size banks             │
+    │                         │ Equation             │                            │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   Thought Machine       │ Vault                │ Challenger banks, cloud-   │
+    │                         │                      │ native adopters            │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   Mambu                 │ Mambu Cloud Core     │ Digital banks, fintechs    │
+    │   ──────────────────────│──────────────────────│─────────────────────────── │
+    │   10x Banking           │ SuperCore            │ UK, Australian banks       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
