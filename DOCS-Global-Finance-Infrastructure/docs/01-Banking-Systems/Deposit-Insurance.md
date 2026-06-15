@@ -53,23 +53,23 @@ DEPOSIT INSURANCE MECHANISM
     │                                                                             │
     │   BANK FAILURE                                                              │
     │                                                                             │
-    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                 │
-    │   │ Depositor   │     │   Failed    │     │  Deposit    │                 │
-    │   │             │────►│    Bank     │────►│  Insurance  │                 │
-    │   │             │     │             │     │    Fund     │                 │
-    │   │             │     │ (Insolvent) │     │             │                 │
-    │   └─────────────┘     └─────────────┘     └──────┬──────┘                 │
-    │         │                                         │                        │
-    │         │                                         │ Pays depositors        │
-    │         │                                         │ up to coverage limit   │
-    │         │                                         ▼                        │
-    │         └─────────────────────────────────► ┌─────────────┐               │
-    │                                             │ Depositor   │               │
-    │                                             │  Receives   │               │
-    │                                             │   Payment   │               │
-    │                                             └─────────────┘               │
+    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                   │
+    │   │ Depositor   │     │   Failed    │     │  Deposit    │                   │
+    │   │             │────►│    Bank     │────►│  Insurance  │                   │
+    │   │             │     │             │     │    Fund     │                   │
+    │   │             │     │ (Insolvent) │     │             │                   │
+    │   └─────────────┘     └─────────────┘     └──────┬──────┘                   │
+    │         │                                        │                          │
+    │         │                                        │ Pays depositors          │
+    │         │                                        │ up to coverage limit     │
+    │         │                                        ▼                          │
+    │         └─────────────────────────────────► ┌─────────────┐                 │
+    │                                             │ Depositor   │                 │
+    │                                             │  Receives   │                 │
+    │                                             │   Payment   │                 │
+    │                                             └─────────────┘                 │
     │                                                                             │
-    │   OR (Alternative): Purchase and Assumption transaction                    │
+    │   OR (Alternative): Purchase and Assumption transaction                     │
     │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                 │
     │   │ Depositor   │────►│   Failed    │     │  Healthy    │                 │
     │   │             │     │    Bank     │────►│    Bank     │                 │
