@@ -38,20 +38,20 @@ DEPOSIT INSURANCE MECHANISM
     │                                                                             │
     │   NORMAL OPERATIONS                                                         │
     │                                                                             │
-    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                 │
-    │   │ Depositor   │────►│    Bank     │────►│  Deposit    │                 │
-    │   │             │     │             │     │  Insurance  │                 │
-    │   │             │◄────│             │     │    Fund     │                 │
-    │   └─────────────┘     └─────────────┘     └─────────────┘                 │
-    │         │                    │                  │                         │
-    │         │                    │                  │                         │
-    │         │              Pays premiums      Collects premiums                │
-    │         │              to insurance fund   from banks                     │
-    │         │                    │                  │                         │
-    │         └────────────────────┴──────────────────┘                         │
+    │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                   │
+    │   │ Depositor   │────►│    Bank     │────►│  Deposit    │                   │
+    │   │             │     │             │     │  Insurance  │                   │
+    │   │             │◄────│             │     │    Fund     │                   │
+    │   └─────────────┘     └─────────────┘     └─────────────┘                   │
+    │         │                    │                  │                           │
+    │         │                    │                  │                           │
+    │         │              Pays premiums      Collects premiums                 │
+    │         │              to insurance fund   from banks                       │
+    │         │                    │                  │                           │
+    │         └────────────────────┴──────────────────┘                           │
     │                                                                             │
     │                                                                             │
-    │   BANK FAILURE                                                             │
+    │   BANK FAILURE                                                              │
     │                                                                             │
     │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                 │
     │   │ Depositor   │     │   Failed    │     │  Deposit    │                 │
