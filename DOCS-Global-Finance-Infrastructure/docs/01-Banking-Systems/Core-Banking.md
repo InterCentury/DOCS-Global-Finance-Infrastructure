@@ -571,21 +571,21 @@ SUSPENSE ACCOUNT USAGE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   EXAMPLE: ATM Deposit with envelope (amount unknown)                      │
+    │   EXAMPLE: ATM Deposit with envelope (amount unknown)                       │
     │                                                                             │
-    │   STEP 1: Customer deposits envelope at ATM, claims $200                  │
-    │   ├── Debit: ATM Cash (Asset) -$200 (envelope removed)                    │
-    │   └── Credit: ATM Suspense (Liability) +$200                              │
+    │   STEP 1: Customer deposits envelope at ATM, claims $200                    │
+    │   ├── Debit: ATM Cash (Asset) -$200 (envelope removed)                      │
+    │   └── Credit: ATM Suspense (Liability) +$200                                │
     │                                                                             │
-    │   STEP 2: Bank processes envelope next day, finds $150                    │
-    │   ├── Debit: ATM Suspense (Liability) -$200 (reverse)                     │
-    │   └── Credit: ATM Suspense (Liability) +$150 (correct)                    │
+    │   STEP 2: Bank processes envelope next day, finds $150                      │
+    │   ├── Debit: ATM Suspense (Liability) -$200 (reverse)                       │
+    │   └── Credit: ATM Suspense (Liability) +$150 (correct)                      │
     │                                                                             │
-    │   STEP 3: Adjust customer account                                          │
-    │   ├── Debit: Customer Deposits (Liability) -$50 (reduce by $50)           │
-    │   └── Credit: ATM Suspense (Liability) -$150 (close suspense)             │
+    │   STEP 3: Adjust customer account                                           │
+    │   ├── Debit: Customer Deposits (Liability) -$50 (reduce by $50)             │
+    │   └── Credit: ATM Suspense (Liability) -$150 (close suspense)               │
     │                                                                             │
-    │   Suspense accounts are zeroed out after investigation.                   │
+    │   Suspense accounts are zeroed out after investigation.                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
