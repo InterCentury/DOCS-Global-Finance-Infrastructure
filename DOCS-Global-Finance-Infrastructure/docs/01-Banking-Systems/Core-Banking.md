@@ -868,4 +868,3 @@ CORE BANKING FORMULAS
 20. Core banking is the single source of truth for all customer accounts and transactions.
 
 *This documentation belongs to https://github.com/InterCentury*
-```
