@@ -902,4 +902,3 @@ COMMERCIAL BANK FORMULAS
 20. Key metrics: NIM, ROA, ROE, efficiency ratio, capital ratios, LCR, NSFR.
 
 *This documentation belongs to https://github.com/InterCentury*
-```
