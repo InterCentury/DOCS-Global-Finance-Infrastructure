@@ -78,7 +78,6 @@ Core banking serves as the single source of truth for all customer account infor
 CORE BANKING PURPOSES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   PURPOSE                    │ DESCRIPTION                                  │
     │   ───────────────────────────│───────────────────────────────────────────── │
     │   Centralized Records        │ All customer accounts stored in one          │
@@ -103,7 +102,6 @@ CORE BANKING PURPOSES
     │   ───────────────────────────│───────────────────────────────────────────── │
     │   ​Channel Integration        │ All channels (branch, ATM, online, mobile)   │
     │                              │ connect to same system                       │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
