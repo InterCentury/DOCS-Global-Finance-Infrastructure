@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and purpose of core banking                    │
-    │   Learn the architecture and components of core banking systems           │
-    │   Study the major functional modules (CASA, loans, payments)              │
-    │   Analyze transaction processing flow (OLTP vs batch)                     │
-    │   Examine the role of the general ledger                                  │
-    │   Understand the evolution from siloed to integrated systems              │
-    │   Learn about core banking vendors and platforms                          │
-    │   Study modern trends (cloud, APIs, real-time)                            │
+    │   Understand the definition and purpose of core banking                     │
+    │   Learn the architecture and components of core banking systems             │
+    │   Study the major functional modules (CASA, loans, payments)                │
+    │   Analyze transaction processing flow (OLTP vs batch)                       │
+    │   Examine the role of the general ledger                                    │
+    │   Understand the evolution from siloed to integrated systems                │
+    │   Learn about core banking vendors and platforms                            │
+    │   Study modern trends (cloud, APIs, real-time)                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
