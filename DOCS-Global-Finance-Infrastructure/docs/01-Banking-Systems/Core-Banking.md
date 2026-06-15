@@ -542,14 +542,14 @@ GL INTEGRATION EXAMPLE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   CUSTOMER TRANSFERS $500 BETWEEN ACCOUNTS                                 │
+    │   CUSTOMER TRANSFERS $500 BETWEEN ACCOUNTS                                  │
     │                                                                             │
-    │   CORE BANKING CUSTOMER LEDGER:                                            │
-    │   ├── Customer A Checking: -$500 (Debit)                                  │
-    │   └── Customer A Savings: +$500 (Credit)                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   GENERAL LEDGER POSTING:                                                 │
+    │   CORE BANKING CUSTOMER LEDGER:                                             │
+    │   ├── Customer A Checking: -$500 (Debit)                                    │
+    │   └── Customer A Savings: +$500 (Credit)                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   GENERAL LEDGER POSTING:                                                   │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                      │ Debit ($)    │ Credit ($)           │   │
     │   │  ─────────────────────────────│──────────────│──────────────────────│   │
@@ -557,7 +557,7 @@ GL INTEGRATION EXAMPLE
     │   │  Savings Deposits (Liability) │              │ 500                  │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Note: Total liabilities unchanged.                                      │
+    │   Note: Total liabilities unchanged.                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
