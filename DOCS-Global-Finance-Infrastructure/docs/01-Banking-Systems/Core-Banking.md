@@ -713,34 +713,34 @@ ACCESS CONTROL LAYERS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ROLE LAYER 1: TELLER                                                     │
-    │   ├── Can view: Customer basic info, account balances                      │
-    │   ├── Can do: Cash deposits, withdrawals, transfers                        │
-    │   ├── Cannot do: Open accounts, modify limits, approve loans              │
-    │   └── Requires supervisor override for transactions > $10,000             │
+    │   ROLE LAYER 1: TELLER                                                      │
+    │   ├── Can view: Customer basic info, account balances                       │
+    │   ├── Can do: Cash deposits, withdrawals, transfers                         │
+    │   ├── Cannot do: Open accounts, modify limits, approve loans                │
+    │   └── Requires supervisor override for transactions > $10,000               │
     │                                                                             │
-    │   ROLE LAYER 2: CUSTOMER SERVICE REPRESENTATIVE (CSR)                      │
-    │   ├── Can do: All teller functions                                        │
-    │   ├── Plus: Open accounts, order checks, change addresses                 │
-    │   ├── Cannot do: Approve loans, override limits                           │
-    │   └── Requires manager override for certain operations                    │
+    │   ROLE LAYER 2: CUSTOMER SERVICE REPRESENTATIVE (CSR)                       │
+    │   ├── Can do: All teller functions                                          │
+    │   ├── Plus: Open accounts, order checks, change addresses                   │
+    │   ├── Cannot do: Approve loans, override limits                             │
+    │   └── Requires manager override for certain operations                      │
     │                                                                             │
-    │   ROLE LAYER 3: BRANCH MANAGER                                             │
-    │   ├── Can do: All CSR functions                                           │
-    │   ├── Plus: Approve overrides, approve loans up to $50,000                │
-    │   ├── Cannot do: Access other branches without authorization             │
-    │   └── Can override most teller and CSR limits                             │
+    │   ROLE LAYER 3: BRANCH MANAGER                                              │
+    │   ├── Can do: All CSR functions                                             │
+    │   ├── Plus: Approve overrides, approve loans up to $50,000                  │
+    │   ├── Cannot do: Access other branches without authorization                │
+    │   └── Can override most teller and CSR limits                               │
     │                                                                             │
-    │   ROLE LAYER 4: OPERATIONS / BACK OFFICE                                   │
-    │   ├── Can view: All accounts (no geographical restrictions)               │
-    │   ├── Can do: Adjust entries, reverse transactions                        │
-    │   ├── Cannot do: Access customer passwords, PCI data                      │
-    │   └── All actions logged and audited                                      │
+    │   ROLE LAYER 4: OPERATIONS / BACK OFFICE                                    │
+    │   ├── Can view: All accounts (no geographical restrictions)                 │
+    │   ├── Can do: Adjust entries, reverse transactions                          │
+    │   ├── Cannot do: Access customer passwords, PCI data                        │
+    │   └── All actions logged and audited                                        │
     │                                                                             │
-    │   ROLE LAYER 5: SYSTEM ADMINISTRATOR                                       │
-    │   ├── Can do: Create users, assign roles, system configuration           │
-    │   ├── Cannot do: View customer data (segregation of duties)              │
-    │   └── Requires second admin for critical changes                          │
+    │   ROLE LAYER 5: SYSTEM ADMINISTRATOR                                        │
+    │   ├── Can do: Create users, assign roles, system configuration              │
+    │   ├── Cannot do: View customer data (segregation of duties)                 │
+    │   └── Requires second admin for critical changes                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
