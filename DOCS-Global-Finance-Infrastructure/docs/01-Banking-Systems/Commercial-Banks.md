@@ -799,20 +799,20 @@ DEPOSIT INSURANCE COVERAGE (US FDIC)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Ownership Category              │ Coverage Limit                         │
+    │   Ownership Category               │ Coverage Limit                         │
     │   ─────────────────────────────────│────────────────────────────────────────│
-    │   Single accounts (individual)    │ $250,000                               │
+    │   Single accounts (individual)     │ $250,000                               │
     │   ─────────────────────────────────│────────────────────────────────────────│
-    │   Joint accounts                  │ $250,000 per co-owner                 │
+    │   Joint accounts                   │ $250,000 per co-owner                 │
     │   ─────────────────────────────────│────────────────────────────────────────│
-    │   Revocable trust accounts        │ $250,000 per beneficiary              │
+    │   Revocable trust accounts         │ $250,000 per beneficiary              │
     │   ─────────────────────────────────│────────────────────────────────────────│
-    │   IRA and other retirement        │ $250,000                               │
+    │   IRA and other retirement         │ $250,000                               │
     │   ─────────────────────────────────│────────────────────────────────────────│
-    │   Corporation, partnership,       │ $250,000                               │
-    │   unincorporated association      │                                        │
+    │   Corporation, partnership,        │ $250,000                               │
+    │   unincorporated association       │                                        │
     │   ─────────────────────────────────│────────────────────────────────────────│
-    │   Government accounts             │ $250,000                               │
+    │   Government accounts              │ $250,000                               │
     │                                                                             │
     │   Example: Individual with $250k in checking and $250k in savings         │
     │   at same bank in same ownership category: Only $250k insured.            │
