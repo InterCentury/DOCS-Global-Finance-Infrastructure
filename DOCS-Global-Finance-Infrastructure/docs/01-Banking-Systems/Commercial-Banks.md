@@ -798,7 +798,6 @@ How it works: FDIC insures deposits up to $250,000 per depositor, per bank, per 
 DEPOSIT INSURANCE COVERAGE (US FDIC)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Ownership Category               │ Coverage Limit                         │
     │   ─────────────────────────────────│────────────────────────────────────────│
     │   Single accounts (individual)     │ $250,000                               │
@@ -817,7 +816,6 @@ DEPOSIT INSURANCE COVERAGE (US FDIC)
     │   Example: Individual with $250k in checking and $250k in savings           │
     │   at same bank in same ownership category: Only $250k insured.              │
     │   To get full coverage, spread across banks or ownership categories.        │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
