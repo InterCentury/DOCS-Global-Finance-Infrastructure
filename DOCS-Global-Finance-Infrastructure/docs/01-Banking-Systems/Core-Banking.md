@@ -599,37 +599,37 @@ CORE BANKING GENERATIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   GENERATION 1: BRANCH AUTOMATION (1970s-1980s)                            │
-    │   ├── Standalone systems per branch                                        │
-    │   ├── No real-time connection between branches                            │
-    │   ├── Batch processing overnight                                          │
-    │   ├── No customer access outside branch                                   │
-    │   └── Example: IBM mainframe with branch terminals                        │
+    │   GENERATION 1: BRANCH AUTOMATION (1970s-1980s)                             │
+    │   ├── Standalone systems per branch                                         │
+    │   ├── No real-time connection between branches                              │
+    │   ├── Batch processing overnight                                            │
+    │   ├── No customer access outside branch                                     │
+    │   └── Example: IBM mainframe with branch terminals                          │
     │                                                                             │
     │                                                                             │
-    │   GENERATION 2: ONLINE REAL-TIME (1990s-2000s)                            │
-    │   ├── Centralized database connecting all branches                        │
-    │   ├── Real-time transaction processing (OLTP)                             │
-    │   ├── ATM networks integrated                                             │
-    │   ├── Early online banking (dial-up)                                      │
-    │   └── Example: FIS Profile, Fiserv Signature                             │
+    │   GENERATION 2: ONLINE REAL-TIME (1990s-2000s)                              │
+    │   ├── Centralized database connecting all branches                          │
+    │   ├── Real-time transaction processing (OLTP)                               │
+    │   ├── ATM networks integrated                                               │
+    │   ├── Early online banking (dial-up)                                        │
+    │   └── Example: FIS Profile, Fiserv Signature                                │
     │                                                                             │
     │                                                                             │
-    │   GENERATION 3: MULTI-CHANNEL (2000s-2010s)                               │
-    │   ├── Single core serving all channels                                    │
-    │   ├── Internet banking, mobile apps, call centers                         │
-    │   ├── API layers for channel integration                                  │
-    │   ├── Customer relationship management (CRM) integrated                   │
-    │   └── Example: Temenos T24, Oracle Flexcube                              │
+    │   GENERATION 3: MULTI-CHANNEL (2000s-2010s)                                 │
+    │   ├── Single core serving all channels                                      │
+    │   ├── Internet banking, mobile apps, call centers                           │
+    │   ├── API layers for channel integration                                    │
+    │   ├── Customer relationship management (CRM) integrated                     │
+    │   └── Example: Temenos T24, Oracle Flexcube                                 │
     │                                                                             │
     │                                                                             │
-    │   GENERATION 4: MODULAR / CLOUD (2010s-present)                          │
-    │   ├── Microservices architecture (independent modules)                   │
-    │   ├── Cloud-native (AWS, Azure, GCP)                                      │
-    │   ├── Real-time payments (FedNow, UPI, Pix)                               │
-    │   ├── Open banking APIs (PSD2, consumer data rights)                      │
-    │   ├── AI / Machine learning integration                                   │
-    │   └── Examples: Thought Machine Vault, Mambu, 10x Banking                │
+    │   GENERATION 4: MODULAR / CLOUD (2010s-present)                             │
+    │   ├── Microservices architecture (independent modules)                      │
+    │   ├── Cloud-native (AWS, Azure, GCP)                                        │
+    │   ├── Real-time payments (FedNow, UPI, Pix)                                 │
+    │   ├── Open banking APIs (PSD2, consumer data rights)                        │
+    │   ├── AI / Machine learning integration                                     │
+    │   └── Examples: Thought Machine Vault, Mambu, 10x Banking                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
