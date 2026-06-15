@@ -1,4 +1,4 @@
-# 05 - Core Banking
+# Core Banking
 
 ## Documentation Overview
 
