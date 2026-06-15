@@ -258,28 +258,28 @@ ACCOUNT LEDGER STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ACCOUNT MASTER RECORD (#1001 - John Smith Checking)                      │
+    │   ACCOUNT MASTER RECORD (#1001 - John Smith Checking)                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  ACCOUNT ATTRIBUTES                                                  │   │
+    │   │  ACCOUNT ATTRIBUTES                                                 │   │
     │   │  ├── Account Type: Demand Deposit (Checking)                        │   │
     │   │  ├── Currency: USD                                                  │   │
     │   │  ├── Open Date: 2010-03-22                                          │   │
     │   │  ├── Status: Active                                                 │   │
-    │   │  ├── Interest Rate: 0.00% (non-interest bearing)                   │   │
+    │   │  ├── Interest Rate: 0.00% (non-interest bearing)                    │   │
     │   │  └── Overdraft Protection: Yes (linked to Savings #1002)            │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CURRENT BALANCES                                                    │   │
+    │   │  CURRENT BALANCES                                                   │   │
     │   │  ├── Ledger Balance: $5,234.67                                      │   │
     │   │  ├── Available Balance: $5,234.67 (no holds)                        │   │
     │   │  ├── Collected Balance: $5,234.67                                   │   │
-    │   │  └── Average Balance (30 days): $4,987.23                          │   │
+    │   │  └── Average Balance (30 days): $4,987.23                           │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  LIMITS & CONTROLS                                                   │   │
+    │   │  LIMITS & CONTROLS                                                  │   │
     │   │  ├── Daily ATM Withdrawal Limit: $500                               │   │
     │   │  ├── Daily Debit Card Limit: $2,500                                 │   │
     │   │  ├── Per Transaction Limit: $5,000 (in-branch)                      │   │
@@ -287,7 +287,7 @@ ACCOUNT LEDGER STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  FEE STRUCTURE                                                       │   │
+    │   │  FEE STRUCTURE                                                      │   │
     │   │  ├── Monthly Maintenance Fee: $10 (waived if balance > $1,500)      │   │
     │   │  ├── Overdraft Fee: $35                                             │   │
     │   │  ├── ATM Foreign Fee: $2.50                                         │   │
