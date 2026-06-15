@@ -551,10 +551,10 @@ GL INTEGRATION EXAMPLE
     │        ▼                                                                   │
     │   GENERAL LEDGER POSTING:                                                 │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Account                    │ Debit ($)    │ Credit ($)              │   │
-    │   │  ───────────────────────────│──────────────│─────────────────────────│   │
-    │   │  Checking Deposits (Liability)│ 500         │                         │   │
-    │   │  Savings Deposits (Liability) │            │ 500                     │   │
+    │   │  Account                      │ Debit ($)    │ Credit ($)           │   │
+    │   │  ─────────────────────────────│──────────────│──────────────────────│   │
+    │   │  Checking Deposits (Liability)│ 500          │                      │   │
+    │   │  Savings Deposits (Liability) │              │ 500                  │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   Note: Total liabilities unchanged.                                      │
