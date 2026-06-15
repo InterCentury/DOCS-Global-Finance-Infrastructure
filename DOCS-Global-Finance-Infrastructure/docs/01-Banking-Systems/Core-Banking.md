@@ -789,30 +789,30 @@ CORE BANKING FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Available Balance = Ledger Balance - Holds - Uncleared Items            │
+    │   Available Balance = Ledger Balance - Holds - Uncleared Items              │
     │                                                                             │
-    │   Daily Interest (Simple) = Principal × (Annual Rate / 365)               │
+    │   Daily Interest (Simple) = Principal × (Annual Rate / 365)                 │
     │                                                                             │
-    │   Daily Interest (Compound) = Principal × (1 + r/365)^(n) - Principal     │
+    │   Daily Interest (Compound) = Principal × (1 + r/365)^(n) - Principal       │
     │                                                                             │
-    │   Loan Payment (Amortizing) = P × [r(1+r)^n] / [(1+r)^n - 1]              │
-    │   (P = principal, r = monthly rate, n = number of payments)              │
+    │   Loan Payment (Amortizing) = P × [r(1+r)^n] / [(1+r)^n - 1]                │
+    │   (P = principal, r = monthly rate, n = number of payments)                 │
     │                                                                             │
-    │   Average Daily Balance = Σ(Daily Balance) / Days in Period               │
+    │   Average Daily Balance = Σ(Daily Balance) / Days in Period                 │
     │                                                                             │
-    │   Interest Accrued = Average Daily Balance × Rate × Days / 365            │
+    │   Interest Accrued = Average Daily Balance × Rate × Days / 365              │
     │                                                                             │
-    │   Late Fee = Minimum (Max Fee, Interest Rate × Past Due Amount)          │
+    │   Late Fee = Minimum (Max Fee, Interest Rate × Past Due Amount)             │
     │                                                                             │
-    │   Overdraft Fee Applied If: Available Balance < Withdrawal Amount         │
+    │   Overdraft Fee Applied If: Available Balance < Withdrawal Amount           │
     │                                                                             │
-    │   GL Control Account Balance = Σ(Subsidiary Ledger Balances)              │
+    │   GL Control Account Balance = Σ(Subsidiary Ledger Balances)                │
     │                                                                             │
-    │   Transaction Throughput = Transactions per Second (TPS)                  │
-    │   Typical core banking: 500-5000 TPS                                     │
+    │   Transaction Throughput = Transactions per Second (TPS)                    │
+    │   Typical core banking: 500-5000 TPS                                        │
     │                                                                             │
-    │   Batch Processing Window = End of Day cutoff to system resume            │
-    │   Typical: 4-6 hours                                                     │
+    │   Batch Processing Window = End of Day cutoff to system resume              │
+    │   Typical: 4-6 hours                                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
