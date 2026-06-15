@@ -838,23 +838,23 @@ COMMERCIAL BANK FORMULAS
     │                                                                             │
     │   Efficiency Ratio = Non-Interest Expense / Revenue                         │
     │                                                                             │
-    │   Loan Loss Provision = Change in Allowance + Net Charge-Offs              │
+    │   Loan Loss Provision = Change in Allowance + Net Charge-Offs               │
     │                                                                             │
-    │   Net Charge-Off Rate = (Gross Charge-Offs - Recoveries) / Average Loans   │
+    │   Net Charge-Off Rate = (Gross Charge-Offs - Recoveries) / Average Loans    │
     │                                                                             │
-    │   Capital Ratio (CET1) = CET1 Capital / Risk-Weighted Assets               │
+    │   Capital Ratio (CET1) = CET1 Capital / Risk-Weighted Assets                │
     │                                                                             │
-    │   Risk-Weighted Assets = Σ (Asset Value × Risk Weight)                     │
+    │   Risk-Weighted Assets = Σ (Asset Value × Risk Weight)                      │
     │                                                                             │
-    │   Liquidity Coverage Ratio = HQLA / Net Cash Outflows (30 days) ≥ 100%     │
+    │   Liquidity Coverage Ratio = HQLA / Net Cash Outflows (30 days) ≥ 100%      │
     │                                                                             │
-    │   Net Stable Funding Ratio = ASF / RSF ≥ 100%                              │
+    │   Net Stable Funding Ratio = ASF / RSF ≥ 100%                               │
     │                                                                             │
-    │   Tier 1 Leverage Ratio = Tier 1 Capital / Average Total Assets ≥ 4%       │
+    │   Tier 1 Leverage Ratio = Tier 1 Capital / Average Total Assets ≥ 4%        │
     │                                                                             │
-    │   Gap (Rate Sensitivity) = RSA - RSL                                       │
+    │   Gap (Rate Sensitivity) = RSA - RSL                                        │
     │                                                                             │
-    │   Change in NII = Gap × ΔInterest Rate                                     │
+    │   Change in NII = Gap × ΔInterest Rate                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
