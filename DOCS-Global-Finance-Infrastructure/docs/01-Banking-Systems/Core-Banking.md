@@ -526,14 +526,14 @@ GL INTEGRATION EXAMPLE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER DEPOSITS $1000 CASH (Branch transaction)                       │
+    │   CUSTOMER DEPOSITS $1000 CASH (Branch transaction)                         │
     │                                                                             │
-    │   CORE BANKING CUSTOMER LEDGER:                                            │
-    │   ├── Customer A deposit account: +$1,000 (Credit)                        │
-    │   └── Vault Cash: +$1,000 (Debit)                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   GENERAL LEDGER POSTING:                                                 │
+    │   CORE BANKING CUSTOMER LEDGER:                                             │
+    │   ├── Customer A deposit account: +$1,000 (Credit)                          │
+    │   └── Vault Cash: +$1,000 (Debit)                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   GENERAL LEDGER POSTING:                                                   │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                       │ Debit ($)    │ Credit ($)          │   │
     │   │  ──────────────────────────────│──────────────│─────────────────────│   │
