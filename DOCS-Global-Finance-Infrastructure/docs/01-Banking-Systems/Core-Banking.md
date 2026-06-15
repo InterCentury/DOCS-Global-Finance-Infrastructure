@@ -467,31 +467,31 @@ END OF DAY (EOD) PROCESSING FLOW
     │   ├── Calculate daily interest on all deposit accounts                      │
     │   ├── Calculate daily interest accrual on all loans                         │
     │   └── Post accrual entries to ledgers                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: APPLY FEES                                                       │
-    │   ├── Monthly maintenance fees (on appropriate day)                       │
-    │   ├── Overdraft fees (from daytime events)                                │
-    │   ├── Late payment fees (on loans)                                        │
-    │   └── Inactivity fees                                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: PROCESS AUTOMATIC PAYMENTS                                      │
-    │   ├── ACH credits (payroll direct deposits)                               │
-    │   ├── ACH debits (loan payments, bill pay)                                │
-    │   ├── Internal transfers (sweep accounts)                                 │
-    │   └── Maturity rollovers (CDs)                                            │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: UPDATE ACCOUNT STATUS                                           │
-    │   ├── Flag overdrawn accounts                                             │
-    │   ├── Update past due status on loans                                     │
-    │   ├── Close matured CDs                                                  │
-    │   └── Activate new accounts                                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: RECONCILE WITH GENERAL LEDGER                                   │
-    │   ├── Sum all deposit account balances                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: APPLY FEES                                                        │
+    │   ├── Monthly maintenance fees (on appropriate day)                         │
+    │   ├── Overdraft fees (from daytime events)                                  │
+    │   ├── Late payment fees (on loans)                                          │
+    │   └── Inactivity fees                                                       │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: PROCESS AUTOMATIC PAYMENTS                                        │
+    │   ├── ACH credits (payroll direct deposits)                                 │
+    │   ├── ACH debits (loan payments, bill pay)                                  │
+    │   ├── Internal transfers (sweep accounts)                                   │
+    │   └── Maturity rollovers (CDs)                                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: UPDATE ACCOUNT STATUS                                             │
+    │   ├── Flag overdrawn accounts                                               │
+    │   ├── Update past due status on loans                                       │
+    │   ├── Close matured CDs                                                     │
+    │   └── Activate new accounts                                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: RECONCILE WITH GENERAL LEDGER                                     │
+    │   ├── Sum all deposit account balances                                      │
     │   ├── Compare to GL control account                                      │
     │   ├── Investigate discrepancies                                          │
     │   └── Post adjusting entries if needed                                   │
