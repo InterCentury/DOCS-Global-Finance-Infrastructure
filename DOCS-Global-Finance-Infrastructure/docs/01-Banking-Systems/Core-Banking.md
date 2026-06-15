@@ -754,11 +754,11 @@ AUDIT LOG ENTRY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   AUDIT RECORD #: 20240615103045-0001                                      │
+    │   AUDIT RECORD #: 20240615103045-0001                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Timestamp: 2024-06-15 10:30:45.123 UTC                             │   │
-    │   │  Event Type: WITHDRAWAL                                              │   │
+    │   │  Event Type: WITHDRAWAL                                             │   │
     │   │  User ID: TELLER_JSMITH (Jane Smith, Teller, Branch #101)           │   │
     │   │  Terminal ID: B101-T03 (Branch 101, Teller Station 3)               │   │
     │   │  Session ID: SESS-8F3A2B1C                                          │   │
@@ -773,11 +773,11 @@ AUDIT LOG ENTRY
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Digital Signature: 0x7F3A2B1C9D4E8F5A6B2C3D4E5F6A7B8C9D0E1F2A3B4C   │   │
+    │   │  Digital Signature: 0x7F3A2B1C9D4E8F5A6B2C3D4E5F6A7B8C9D0E1F2A3B4C  │   │
     │   │  Hash (SHA-256): 3F4A2B1C8D9E0F1A2B3C4D5E6F7A8B9C0D1E2F3A4B5C6D7E   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Audit logs are immutable and stored for 7+ years.                       │
+    │   Audit logs are immutable and stored for 7+ years.                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
