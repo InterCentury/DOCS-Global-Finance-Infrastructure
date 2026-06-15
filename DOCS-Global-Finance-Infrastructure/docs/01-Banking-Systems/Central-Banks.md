@@ -1,4 +1,4 @@
-# 03 - Central Banks
+# Central Banks
 
 ## Documentation Overview
 
