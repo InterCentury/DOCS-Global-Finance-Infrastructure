@@ -702,10 +702,10 @@ BASEL CAPITAL REQUIREMENTS
     │   ├── Other comprehensive income                                            │
     │   └── Minimum requirement: 4.5% of risk-weighted assets (RWA)               │
     │                                                                             │
-    │   Additional Tier 1 (AT1)                                                 │
-    │   ├── Preferred stock (non-cumulative)                                    │
-    │   ├── Contingent convertible bonds (CoCos)                               │
-    │   └── Minimum requirement: 1.5% of RWA                                   │
+    │   Additional Tier 1 (AT1)                                                   │
+    │   ├── Preferred stock (non-cumulative)                                      │
+    │   ├── Contingent convertible bonds (CoCos)                                  │
+    │   └── Minimum requirement: 1.5% of RWA                                      │
     │                                                                             │
     │   Tier 2 Capital                                                          │
     │   ├── Subordinated debt                                                   │
