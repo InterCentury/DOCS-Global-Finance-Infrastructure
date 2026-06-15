@@ -826,17 +826,17 @@ COMMERCIAL BANK FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Accounting Equation: Assets = Liabilities + Equity                       │
+    │   Accounting Equation: Assets = Liabilities + Equity                        │
     │                                                                             │
-    │   Net Interest Income = Interest Income - Interest Expense                 │
+    │   Net Interest Income = Interest Income - Interest Expense                  │
     │                                                                             │
-    │   Net Interest Margin = NII / Average Earning Assets                       │
+    │   Net Interest Margin = NII / Average Earning Assets                        │
     │                                                                             │
-    │   Return on Assets (ROA) = Net Income / Average Total Assets               │
+    │   Return on Assets (ROA) = Net Income / Average Total Assets                │
     │                                                                             │
-    │   Return on Equity (ROE) = Net Income / Average Equity                     │
+    │   Return on Equity (ROE) = Net Income / Average Equity                      │
     │                                                                             │
-    │   Efficiency Ratio = Non-Interest Expense / Revenue                        │
+    │   Efficiency Ratio = Non-Interest Expense / Revenue                         │
     │                                                                             │
     │   Loan Loss Provision = Change in Allowance + Net Charge-Offs              │
     │                                                                             │
