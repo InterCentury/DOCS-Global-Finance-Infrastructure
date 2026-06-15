@@ -641,32 +641,32 @@ LEGACY VS MODERN COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FEATURE              │ LEGACY CORE          │ MODERN CORE                │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Architecture         │ Monolithic           │ Microservices             │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Deployment           │ On-premise           │ Cloud-native              │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Technology           │ COBOL, Assembler     │ Java, Go, Python, .NET    │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Database             │ Hierarchical (IMS),  │ Relational (PostgreSQL,    │
-    │                        │ VSAM                 │ Oracle), NoSQL            │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Processing           │ Batch (overnight)    │ Real-time (24/7)          │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Downtime for         │ Hours (EOD batch)    │ Seconds (rolling updates) │
-    │   maintenance          │                      │                           │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   New product          │ Months               │ Days to weeks             │
-    │   time to market       │                      │                           │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Scalability          │ Vertical (bigger     │ Horizontal (add servers)  │
-    │                        │ mainframe)           │                           │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   API capabilities     │ Limited, custom      │ Native REST APIs          │
-    │   ─────────────────────│──────────────────────│────────────────────────────│
-    │   Cost structure       │ High fixed (licenses,│ Variable (pay-as-you-go)  │
-    │                        │ hardware)            │                           │
+    │   FEATURE              │ LEGACY CORE          │ MODERN CORE                 │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Architecture         │ Monolithic           │ Microservices               │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Deployment           │ On-premise           │ Cloud-native                │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Technology           │ COBOL, Assembler     │ Java, Go, Python, .NET      │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Database             │ Hierarchical (IMS),  │ Relational (PostgreSQL,     │
+    │                        │ VSAM                 │ Oracle), NoSQL              │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Processing           │ Batch (overnight)    │ Real-time (24/7)            │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Downtime for         │ Hours (EOD batch)    │ Seconds (rolling updates)   │
+    │   maintenance          │                      │                             │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   New product          │ Months               │ Days to weeks               │
+    │   time to market       │                      │                             │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Scalability          │ Vertical (bigger     │ Horizontal (add servers)    │
+    │                        │ mainframe)           │                             │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   API capabilities     │ Limited, custom      │ Native REST APIs            │
+    │   ─────────────────────│──────────────────────│──────────────────────────── │
+    │   Cost structure       │ High fixed (licenses,│ Variable (pay-as-you-go)    │
+    │                        │ hardware)            │                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
