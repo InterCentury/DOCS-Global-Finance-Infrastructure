@@ -707,20 +707,20 @@ BASEL CAPITAL REQUIREMENTS
     │   ├── Contingent convertible bonds (CoCos)                                  │
     │   └── Minimum requirement: 1.5% of RWA                                      │
     │                                                                             │
-    │   Tier 2 Capital                                                          │
-    │   ├── Subordinated debt                                                   │
-    │   ├── Loan loss reserves (limited)                                        │
-    │   └── Minimum requirement: 2.0% of RWA                                    │
+    │   Tier 2 Capital                                                            │
+    │   ├── Subordinated debt                                                     │
+    │   ├── Loan loss reserves (limited)                                          │
+    │   └── Minimum requirement: 2.0% of RWA                                      │
     │                                                                             │
     │                                                                             │
-    │   TOTAL CAPITAL REQUIREMENTS:                                             │
+    │   TOTAL CAPITAL REQUIREMENTS:                                               │
     │                                                                             │
-    │   CET1: 4.5% + CCyB (0-2.5%) + G-SIB surcharge (1-3.5%) = typically 7-10%│
-    │   Tier 1: 6.0% + buffers                                                   │
-    │   Total Capital: 8.0% + buffers                                           │
+    │   CET1: 4.5% + CCyB (0-2.5%) + G-SIB surcharge (1-3.5%) = typically 7-10%   │
+    │   Tier 1: 6.0% + buffers                                                    │
+    │   Total Capital: 8.0% + buffers                                             │
     │                                                                             │
-    │   Plus Capital Conservation Buffer: 2.5% (CET1)                          │
-    │   Plus Countercyclical Buffer: 0-2.5% (national discretion)              │
+    │   Plus Capital Conservation Buffer: 2.5% (CET1)                             │
+    │   Plus Countercyclical Buffer: 0-2.5% (national discretion)                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
