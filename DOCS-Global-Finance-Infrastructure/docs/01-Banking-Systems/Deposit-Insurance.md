@@ -659,33 +659,33 @@ MAJOR BANK FAILURES AND FDIC RESOLUTION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CONTINENTAL ILLINOIS (1984)                                              │
-    │   ├── Largest bank failure in US history at the time                       │
-    │   ├── Assets: $40 billion                                                  │
-    │   ├── Resolution: FDIC took over, protected all depositors (not just       │
-    │   │   $100,000 limit) - "too big to fail" precedent                        │
-    │   └── Cost to FDIC: $1.8 billion                                          │
+    │   CONTINENTAL ILLINOIS (1984)                                               │
+    │   ├── Largest bank failure in US history at the time                        │
+    │   ├── Assets: $40 billion                                                   │
+    │   ├── Resolution: FDIC took over, protected all depositors (not just        │
+    │   │   $100,000 limit) - "too big to fail" precedent                         │
+    │   └── Cost to FDIC: $1.8 billion                                            │
     │                                                                             │
     │                                                                             │
-    │   SAVINGS AND LOAN CRISIS (1980s-1990s)                                    │
-    │   ├── Over 1,000 thrifts failed                                            │
-    │   ├── Resolution: FSLIC (thrift insurer) exhausted, replaced by RTC       │
-    │   ├── Estimated cost: $160 billion (taxpayer funded)                      │
-    │   └── Led to FIRREA Act (1989) restructuring thrift regulation            │
+    │   SAVINGS AND LOAN CRISIS (1980s-1990s)                                     │
+    │   ├── Over 1,000 thrifts failed                                             │
+    │   ├── Resolution: FSLIC (thrift insurer) exhausted, replaced by RTC         │
+    │   ├── Estimated cost: $160 billion (taxpayer funded)                        │
+    │   └── Led to FIRREA Act (1989) restructuring thrift regulation              │
     │                                                                             │
     │                                                                             │
-    │   WASHINGTON MUTUAL (2008)                                                 │
-    │   ├── Largest bank failure in US history                                   │
-    │   ├── Assets: $307 billion                                                 │
-    │   ├── Deposits: $188 billion                                               │
-    │   ├── Resolution: Purchase and Assumption to JPMorgan Chase               │
-    │   ├── No depositor losses                                                  │
-    │   └── Shareholders and bondholders wiped out                              │
+    │   WASHINGTON MUTUAL (2008)                                                  │
+    │   ├── Largest bank failure in US history                                    │
+    │   ├── Assets: $307 billion                                                  │
+    │   ├── Deposits: $188 billion                                                │
+    │   ├── Resolution: Purchase and Assumption to JPMorgan Chase                 │
+    │   ├── No depositor losses                                                   │
+    │   └── Shareholders and bondholders wiped out                                │
     │                                                                             │
     │                                                                             │
-    │   SILICON VALLEY BANK (2023)                                               │
-    │   ├── Assets: $209 billion                                                 │
-    │   ├── Deposits: $175 billion                                               │
+    │   SILICON VALLEY BANK (2023)                                                │
+    │   ├── Assets: $209 billion                                                  │
+    │   ├── Deposits: $175 billion                                                │
     │   ├── Failure cause: Bank run triggered by uninsured deposits             │
     │   ├── Resolution: Systemic risk exception invoked                         │
     │   ├── All depositors protected (including uninsured)                      │
