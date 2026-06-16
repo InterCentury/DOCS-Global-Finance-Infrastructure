@@ -253,29 +253,29 @@ FDIC COVERAGE LIMITS BY OWNERSHIP CATEGORY
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   OWNERSHIP CATEGORY                 │ COVERAGE LIMIT                       │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Single Accounts (individual)       │ $250,000 per owner                  │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Single Accounts (individual)       │ $250,000 per owner                   │
     │   (owned by one person)              │                                      │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Joint Accounts                     │ $250,000 per co-owner               │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Joint Accounts                     │ $250,000 per co-owner                │
     │   (two or more owners)               │                                      │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Revocable Trust Accounts           │ $250,000 per beneficiary            │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Revocable Trust Accounts           │ $250,000 per beneficiary             │
     │   (payable on death, living trusts)  │                                      │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Irrevocable Trust Accounts         │ $250,000 per beneficiary            │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Certain Retirement Accounts        │ $250,000 per owner                  │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Irrevocable Trust Accounts         │ $250,000 per beneficiary             │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Certain Retirement Accounts        │ $250,000 per owner                   │
     │   (IRA, Keogh, 401(k) if self-       │                                      │
     │   directed, profit sharing)          │                                      │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Employee Benefit Plan Accounts     │ $250,000 per participant            │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Employee Benefit Plan Accounts     │ $250,000 per participant             │
     │   (401(k), pension plans)            │                                      │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Corporation, Partnership,          │ $250,000 per entity                 │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Corporation, Partnership,          │ $250,000 per entity                  │
     │   Unincorporated Association         │                                      │
-    │   ───────────────────────────────────│─────────────────────────────────────│
-    │   Government Accounts                │ $250,000 per official custodian     │
+    │   ───────────────────────────────────│───────────────────────────────────── │
+    │   Government Accounts                │ $250,000 per official custodian      │
     │   (state, county, municipal)         │                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
