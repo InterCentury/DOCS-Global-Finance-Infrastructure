@@ -468,14 +468,14 @@ RESOLUTION METHODS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   METHOD 1: PURCHASE AND ASSUMPTION (P&A)                                  │
+    │   METHOD 1: PURCHASE AND ASSUMPTION (P&A)                                   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   Failed Bank ──────────────────────────────────────────┐           │   │
-    │   │        │                                               │           │   │
-    │   │        │ FDIC arranges sale                            │           │   │
-    │   │        ▼                                               ▼           │   │
+    │   │        │                                                │           │   │
+    │   │        │ FDIC arranges sale                             │           │   │
+    │   │        ▼                                               ▼            │   │
     │   │   ┌─────────────┐                                 ┌─────────────┐   │   │
     │   │   │  Healthy    │◄────────Deposits transferred────│  Depositors │   │   │
     │   │   │   Bank      │                                 │             │   │   │
@@ -483,8 +483,8 @@ RESOLUTION METHODS
     │   │   └─────────────┘                                 └─────────────┘   │   │
     │   │                                                                     │   │
     │   │   FDIC provides financial assistance to acquirer                    │   │
-    │   │   Depositors get full access immediately (no disruption)           │   │
-    │   │   Failed bank's assets sold to acquirer or liquidated              │   │
+    │   │   Depositors get full access immediately (no disruption)            │   │
+    │   │   Failed bank's assets sold to acquirer or liquidated               │   │
     │   │                                                                     │   │
     │   │   90%+ of failures resolved via P&A                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
