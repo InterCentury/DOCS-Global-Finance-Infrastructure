@@ -322,20 +322,20 @@ COVERAGE EXAMPLES
     │   │                                                                     │   │
     │   │  Total joint: $500,000                                              │   │
     │   │  Each co-owner: $250,000 insured                                    │   │
-    │   │  Total insured: $500,000 (fully insured)                           │   │
+    │   │  Total insured: $500,000 (fully insured)                            │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   EXAMPLE 4: Multiple ownership categories at same bank                    │
+    │   EXAMPLE 4: Multiple ownership categories at same bank                     │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank A                                                              │   │
+    │   │  Bank A                                                             │   │
     │   │  ├── Individual Account: $250,000                                   │   │
     │   │  ├── Joint Account (with spouse): $250,000 (each co-owner)          │   │
     │   │  ├── IRA Account: $250,000                                          │   │
     │   │  └── Trust Account (1 beneficiary): $250,000                        │   │
     │   │                                                                     │   │
-    │   │  Total: $1,000,000 (fully insured across 4 ownership categories)   │   │
+    │   │  Total: $1,000,000 (fully insured across 4 ownership categories)    │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
