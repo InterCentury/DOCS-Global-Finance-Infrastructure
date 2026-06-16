@@ -526,13 +526,13 @@ FDIC RESOLUTION WEEKEND
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FRIDAY (Before close)                                                    │
-    │   ├── Regulators determine bank is insolvent                              │
-    │   ├── State or federal chartering authority closes bank                   │
-    │   ├── FDIC appointed as receiver                                          │
-    │   └── FDIC teams arrive at bank headquarters                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
+    │   FRIDAY (Before close)                                                     │
+    │   ├── Regulators determine bank is insolvent                                │
+    │   ├── State or federal chartering authority closes bank                     │
+    │   ├── FDIC appointed as receiver                                            │
+    │   └── FDIC teams arrive at bank headquarters                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   FRIDAY NIGHT (6 PM - Midnight)                                          │
     │   ├── FDIC analyzes bank's books (data extraction)                       │
     │   ├── FDIC solicits bids from healthy banks                               │
