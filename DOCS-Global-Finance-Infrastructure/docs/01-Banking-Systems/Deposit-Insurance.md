@@ -749,20 +749,18 @@ The International Association of Deposit Insurers (IADI) sets core principles fo
 IADI CORE PRINCIPLES (Abbreviated)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   PRINCIPLE 1: Mandate and objectives clearly defined                      │
+    │   PRINCIPLE 1: Mandate and objectives clearly defined                       │
     │   PRINCIPLE 2: Legal protection for deposit insurers                        │
-    │   PRINCIPLE 3: Independence (operational and financial)                    │
+    │   PRINCIPLE 3: Independence (operational and financial)                     │
     │   PRINCIPLE 4: Governance structure clear                                   │
-    │   PRINCIPLE 5: Member banks required by law to participate                 │
-    │   PRINCIPLE 6: Adequate coverage (credible, limited)                       │
-    │   PRINCIPLE 7: Reimbursement of depositors within 7 days                   │
-    │   PRINCIPLE 8: Public awareness (depositors know coverage)                 │
-    │   PRINCIPLE 9: Risk-based premiums (mitigate moral hazard)                 │
-    │   PRINCIPLE 10: Access to funding (adequate DIF)                          │
-    │   PRINCIPLE 11: Failure resolution authority                               │
-    │   PRINCIPLE 12: Coordination with other safety net participants           │
-    │                                                                             │
+    │   PRINCIPLE 5: Member banks required by law to participate                  │
+    │   PRINCIPLE 6: Adequate coverage (credible, limited)                        │
+    │   PRINCIPLE 7: Reimbursement of depositors within 7 days                    │
+    │   PRINCIPLE 8: Public awareness (depositors know coverage)                  │
+    │   PRINCIPLE 9: Risk-based premiums (mitigate moral hazard)                  │
+    │   PRINCIPLE 10: Access to funding (adequate DIF)                            │
+    │   PRINCIPLE 11: Failure resolution authority                                │
+    │   PRINCIPLE 12: Coordination with other safety net participants             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
