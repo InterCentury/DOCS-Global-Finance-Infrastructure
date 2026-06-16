@@ -533,29 +533,29 @@ FDIC RESOLUTION WEEKEND
     │   └── FDIC teams arrive at bank headquarters                                │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   FRIDAY NIGHT (6 PM - Midnight)                                          │
-    │   ├── FDIC analyzes bank's books (data extraction)                       │
-    │   ├── FDIC solicits bids from healthy banks                               │
-    │   ├── Determine least-cost resolution                                    │
-    │   └── Negotiate purchase and assumption agreement (if any)               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   SATURDAY (Midnight - 12 PM)                                             │
-    │   ├── If P&A: Finalize agreement with acquirer                           │
-    │   ├── Determine asset valuation and loss sharing                         │
-    │   ├── Prepare legal documents                                            │
-    │   └── If no buyer: Prepare for payoff                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   SATURDAY (12 PM - 6 PM)                                                 │
-    │   ├── Calculate insured deposits for each depositor                      │
-    │   ├── Prepare depositor notices                                          │
-    │   ├── Arrange for checks (if payoff)                                     │
-    │   └── Coordinate with acquiring bank systems (if P&A)                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   SUNDAY (All day)                                                        │
-    │   ├── System integration testing (if P&A)                                │
+    │   FRIDAY NIGHT (6 PM - Midnight)                                            │
+    │   ├── FDIC analyzes bank's books (data extraction)                          │
+    │   ├── FDIC solicits bids from healthy banks                                 │
+    │   ├── Determine least-cost resolution                                       │
+    │   └── Negotiate purchase and assumption agreement (if any)                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   SATURDAY (Midnight - 12 PM)                                               │
+    │   ├── If P&A: Finalize agreement with acquirer                              │
+    │   ├── Determine asset valuation and loss sharing                            │
+    │   ├── Prepare legal documents                                               │
+    │   └── If no buyer: Prepare for payoff                                       │
+    │        │                                                                     │
+    │        ▼                                                                     │
+    │   SATURDAY (12 PM - 6 PM)                                                   │
+    │   ├── Calculate insured deposits for each depositor                        │
+    │   ├── Prepare depositor notices                                            │
+    │   ├── Arrange for checks (if payoff)                                       │
+    │   └── Coordinate with acquiring bank systems (if P&A)                      │
+    │        │                                                                     │
+    │        ▼                                                                     │
+    │   SUNDAY (All day)                                                          │
+    │   ├── System integration testing (if P&A)                                  │
     │   ├── Train acquiring bank tellers (if P&A)                              │
     │   ├── Mail notices to depositors                                         │
     │   ├── Update FDIC website with instructions                              │
