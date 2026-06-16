@@ -143,34 +143,34 @@ BANK RUN DYNAMICS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   WITHOUT DEPOSIT INSURANCE                                                │
+    │   WITHOUT DEPOSIT INSURANCE                                                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   Rumor of bank trouble                                             │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Depositor A withdraws (first mover advantage)                    │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Depositor B sees line, also withdraws                            │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   More depositors withdraw                                         │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank runs out of reserves                                        │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank fails (even if solvent)                                     │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Other banks face runs (contagion)                                │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Depositor A withdraws (first mover advantage)                     │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Depositor B sees line, also withdraws                             │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   More depositors withdraw                                          │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank runs out of reserves                                         │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank fails (even if solvent)                                      │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Other banks face runs (contagion)                                 │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   WITH DEPOSIT INSURANCE                                                   │
+    │   WITH DEPOSIT INSURANCE                                                    │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
