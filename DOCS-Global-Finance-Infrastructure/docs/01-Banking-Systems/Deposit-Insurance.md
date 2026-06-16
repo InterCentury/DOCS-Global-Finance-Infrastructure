@@ -384,34 +384,34 @@ DIF FUNDING MECHANISM
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ALL INSURED BANKS                                                         │
-    │        │                                                                   │
-    │        │ Pay quarterly assessments                                         │
-    │        │ (Based on domestic deposits × assessment rate)                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
+    │        │                                                                    │
+    │        │ Pay quarterly assessments                                          │
+    │        │ (Based on domestic deposits × assessment rate)                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                    DEPOSIT INSURANCE FUND (DIF)                      │   │
+    │   │                    DEPOSIT INSURANCE FUND (DIF)                     │   │
     │   │                                                                     │   │
-    │   │  Fund balance target: 1.35% - 2.00% of insured deposits            │   │
+    │   │  Fund balance target: 1.35% - 2.00% of insured deposits             │   │
     │   │  (Designated Reserve Ratio - DRR)                                   │   │
     │   │                                                                     │   │
-    │   │  ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │  │  Uses of DIF:                                                │   │   │
-    │   │  │  ├── Pay depositors of failed banks                         │   │   │
-    │   │  │  ├── Fund purchase and assumption transactions               │   │   │
-    │   │  │  ├── Administrative costs of resolutions                     │   │   │
-    │   │  │  └── Borrowing repayment (if FDIC borrows from Treasury)    │   │   │
-    │   │  └─────────────────────────────────────────────────────────────┘   │   │
+    │   │  ┌─────────────────────────────────────────────────────────────┐    │   │
+    │   │  │  Uses of DIF:                                               │    │   │
+    │   │  │  ├── Pay depositors of failed banks                         │    │   │
+    │   │  │  ├── Fund purchase and assumption transactions              │    │   │
+    │   │  │  ├── Administrative costs of resolutions                    │    │   │
+    │   │  │  └── Borrowing repayment (if FDIC borrows from Treasury)    │    │   │
+    │   │  └─────────────────────────────────────────────────────────────┘    │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        │ If DIF falls below target, FDIC raises assessment rates          │
-    │        │ If DIF exceeds target, FDIC may lower rates or pay dividends     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FDIC ALSO HAS ACCESS TO:                                                │
-    │   ├── Treasury line of credit (up to $100 billion)                       │
-    │   └── Borrowing from Federal Financing Bank (up to $100 billion)         │
+    │        │                                                                    │
+    │        │ If DIF falls below target, FDIC raises assessment rates            │
+    │        │ If DIF exceeds target, FDIC may lower rates or pay dividends       │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FDIC ALSO HAS ACCESS TO:                                                  │
+    │   ├── Treasury line of credit (up to $100 billion)                          │
+    │   └── Borrowing from Federal Financing Bank (up to $100 billion)            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
