@@ -712,7 +712,6 @@ Most countries have deposit insurance systems modeled on the FDIC, with variatio
 GLOBAL DEPOSIT INSURANCE COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Country / Region   │ System Name      │ Coverage Limit │ Year Est.        │
     │   ───────────────────│──────────────────│────────────────│───────────────── │
     │   United States      │ FDIC             │ $250,000       │ 1933             │
@@ -739,7 +738,6 @@ GLOBAL DEPOSIT INSURANCE COMPARISON
     │   Brazil             │ FGC              │ BRL 250,000    │ 1995             │
     │   ───────────────────│──────────────────│────────────────│───────────────── │
     │   Russia             │ DIA              │ RUB 1.4 million│ 2004             │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
