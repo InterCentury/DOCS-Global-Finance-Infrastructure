@@ -206,39 +206,39 @@ FDIC HISTORICAL TIMELINE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1933 ──► Banking Act of 1933 (Glass-Steagall) creates FDIC               │
+    │   1933 ──► Banking Act of 1933 (Glass-Steagall) creates FDIC                │
     │            │                                                                │
     │            ▼                                                                │
-    │   1934 ──► FDIC begins operations (January 1)                              │
+    │   1934 ──► FDIC begins operations (January 1)                               │
     │            │ Initial coverage limit: $2,500 (later raised to $5,000 in 1934)│
     │            │                                                                │
     │            ▼                                                                │
-    │   1935 ──► Banking Act of 1935 makes FDIC permanent                        │
+    │   1935 ──► Banking Act of 1935 makes FDIC permanent                         │
     │            │                                                                │
     │            ▼                                                                │
-    │   1950 ──► Coverage limit raised to $10,000                                │
+    │   1950 ──► Coverage limit raised to $10,000                                 │
     │            │                                                                │
     │            ▼                                                                │
-    │   1966 ──► Coverage limit raised to $15,000                                │
+    │   1966 ──► Coverage limit raised to $15,000                                 │
     │            │                                                                │
     │            ▼                                                                │
-    │   1969 ──► Coverage limit raised to $20,000                                │
+    │   1969 ──► Coverage limit raised to $20,000                                 │
     │            │                                                                │
     │            ▼                                                                │
-    │   1974 ──► Coverage limit raised to $40,000                                │
+    │   1974 ──► Coverage limit raised to $40,000                                 │
     │            │                                                                │
     │            ▼                                                                │
-    │   1980 ──► Coverage limit raised to $100,000                               │
+    │   1980 ──► Coverage limit raised to $100,000                                │
     │            │                                                                │
     │            ▼                                                                │
-    │   2008 ──► Temporary increase to $250,000 (Emergency Economic              │
-    │            │ Stabilization Act, during financial crisis)                   │
+    │   2008 ──► Temporary increase to $250,000 (Emergency Economic               │
+    │            │ Stabilization Act, during financial crisis)                    │
     │            │                                                                │
     │            ▼                                                                │
-    │   2010 ──► Coverage limit made permanent at $250,000 (Dodd-Frank Act)      │
+    │   2010 ──► Coverage limit made permanent at $250,000 (Dodd-Frank Act)       │
     │            │                                                                │
     │            ▼                                                                │
-    │   2024 ──► Coverage remains $250,000 (no inflation adjustment since 2010)  │
+    │   2024 ──► Coverage remains $250,000 (no inflation adjustment since 2010)   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
