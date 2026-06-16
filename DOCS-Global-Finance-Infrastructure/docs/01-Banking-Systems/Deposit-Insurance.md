@@ -349,7 +349,6 @@ FDIC deposit insurance does not cover all financial products.
 NOT COVERED BY FDIC
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   NOT COVERED                     │ REASON                                  │
     │   ────────────────────────────────│─────────────────────────────────────────│
     │   Stocks, bonds, mutual funds     │ These are investments, not deposits.    │
@@ -368,7 +367,6 @@ NOT COVERED BY FDIC
     │                                   │ not FDIC.                               │
     │   ────────────────────────────────│─────────────────────────────────────────│
     │   Crypto assets                   │ Not considered deposits.                │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
