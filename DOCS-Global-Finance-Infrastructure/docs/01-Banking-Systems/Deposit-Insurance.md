@@ -251,7 +251,6 @@ The standard coverage limit is $250,000 per depositor, per insured bank, per own
 FDIC COVERAGE LIMITS BY OWNERSHIP CATEGORY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   OWNERSHIP CATEGORY                 │ COVERAGE LIMIT                       │
     │   ───────────────────────────────────│───────────────────────────────────── │
     │   Single Accounts (individual)       │ $250,000 per owner                   │
@@ -277,7 +276,6 @@ FDIC COVERAGE LIMITS BY OWNERSHIP CATEGORY
     │   ───────────────────────────────────│───────────────────────────────────── │
     │   Government Accounts                │ $250,000 per official custodian      │
     │   (state, county, municipal)         │                                      │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
