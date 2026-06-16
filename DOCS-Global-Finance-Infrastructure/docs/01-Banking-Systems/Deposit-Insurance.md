@@ -175,18 +175,18 @@ BANK RUN DYNAMICS
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   Rumor of bank trouble                                             │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Depositor knows: "My money is insured up to $250,000"            │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   No incentive to withdraw                                         │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank survives (if fundamentally solvent)                         │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   No contagion to other banks                                      │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Depositor knows: "My money is insured up to $250,000"             │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   No incentive to withdraw                                          │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank survives (if fundamentally solvent)                          │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   No contagion to other banks                                       │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
