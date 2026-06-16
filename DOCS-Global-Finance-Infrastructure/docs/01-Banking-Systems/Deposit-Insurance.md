@@ -585,29 +585,29 @@ MORAL HAZARD CYCLE
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   DEPOSIT INSURANCE PROTECTS DEPOSITORS                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   DEPOSITORS STOP MONITORING BANK RISK                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   BANKS TAKE EXCESSIVE RISKS                                               │
-    │   ├── Risky loans (higher yield)                                          │
-    │   ├── Excessive leverage                                                   │
-    │   ├── Concentration in volatile sectors                                   │
-    │   └── Weak underwriting standards                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   BANKS FAIL MORE FREQUENTLY                                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FDIC PAYS HIGHER INSURANCE CLAIMS                                        │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   FDIC RAISES ASSESSMENT RATES                                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   ALL BANKS PAY HIGHER PREMIUMS                                            │
-    │   (Safer banks subsidize riskier banks)                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   DEPOSITORS STOP MONITORING BANK RISK                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   BANKS TAKE EXCESSIVE RISKS                                                │
+    │   ├── Risky loans (higher yield)                                            │
+    │   ├── Excessive leverage                                                    │
+    │   ├── Concentration in volatile sectors                                     │
+    │   └── Weak underwriting standards                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   BANKS FAIL MORE FREQUENTLY                                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FDIC PAYS HIGHER INSURANCE CLAIMS                                         │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   FDIC RAISES ASSESSMENT RATES                                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   ALL BANKS PAY HIGHER PREMIUMS                                             │
+    │   (Safer banks subsidize riskier banks)                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
