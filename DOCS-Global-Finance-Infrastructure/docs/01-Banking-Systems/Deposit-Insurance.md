@@ -686,18 +686,18 @@ MAJOR BANK FAILURES AND FDIC RESOLUTION
     │   SILICON VALLEY BANK (2023)                                                │
     │   ├── Assets: $209 billion                                                  │
     │   ├── Deposits: $175 billion                                                │
-    │   ├── Failure cause: Bank run triggered by uninsured deposits             │
-    │   ├── Resolution: Systemic risk exception invoked                         │
-    │   ├── All depositors protected (including uninsured)                      │
-    │   └── Cost to DIF: ~$20 billion (recovered via special assessment)        │
+    │   ├── Failure cause: Bank run triggered by uninsured deposits               │
+    │   ├── Resolution: Systemic risk exception invoked                           │
+    │   ├── All depositors protected (including uninsured)                        │
+    │   └── Cost to DIF: ~$20 billion (recovered via special assessment)          │
     │                                                                             │
     │                                                                             │
-    │   SIGNATURE BANK (2023)                                                   │
-    │   ├── Assets: $110 billion                                                 │
-    │   ├── Failure cause: Contagion from SVB                                   │
-    │   ├── Resolution: Systemic risk exception invoked                         │
-    │   ├── All depositors protected                                             │
-    │   └── Sold to Flagstar Bank (New York Community Bank)                     │
+    │   SIGNATURE BANK (2023)                                                     │
+    │   ├── Assets: $110 billion                                                  │
+    │   ├── Failure cause: Contagion from SVB                                     │
+    │   ├── Resolution: Systemic risk exception invoked                           │
+    │   ├── All depositors protected                                              │
+    │   └── Sold to Flagstar Bank (New York Community Bank)                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
