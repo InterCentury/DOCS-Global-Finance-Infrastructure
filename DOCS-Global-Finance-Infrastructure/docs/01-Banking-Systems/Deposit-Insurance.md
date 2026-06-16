@@ -113,23 +113,23 @@ PURPOSES OF DEPOSIT INSURANCE
     │   insurance protects their life savings from bank failures.                 │
     │                                                                             │
     │                                                                             │
-    │   PURPOSE 3: FINANCIAL STABILITY                                           │
+    │   PURPOSE 3: FINANCIAL STABILITY                                            │
     │                                                                             │
-    │   By preventing runs, deposit insurance prevents contagion. One bank's     │
-    │   failure does not cause depositors at other banks to panic. This keeps    │
-    │   the entire banking system stable.                                        │
-    │                                                                             │
-    │                                                                             │
-    │   PURPOSE 4: REDUCE SYSTEMIC RISK                                          │
-    │                                                                             │
-    │   Large bank failures can trigger financial crises (Lehman Brothers 2008). │
-    │   Deposit insurance provides a backstop, reducing systemic risk.           │
+    │   By preventing runs, deposit insurance prevents contagion. One bank's      │
+    │   failure does not cause depositors at other banks to panic. This keeps     │
+    │   the entire banking system stable.                                         │
     │                                                                             │
     │                                                                             │
-    │   PURPOSE 5: MAINTAIN PUBLIC CONFIDENCE                                    │
+    │   PURPOSE 4: REDUCE SYSTEMIC RISK                                           │
     │                                                                             │
-    │   Public trust in the banking system is essential for economic stability.  │
-    │   Deposit insurance assures the public that their money is safe.           │
+    │   Large bank failures can trigger financial crises (Lehman Brothers 2008).  │
+    │   Deposit insurance provides a backstop, reducing systemic risk.            │
+    │                                                                             │
+    │                                                                             │
+    │   PURPOSE 5: MAINTAIN PUBLIC CONFIDENCE                                     │
+    │                                                                             │
+    │   Public trust in the banking system is essential for economic stability.   │
+    │   Deposit insurance assures the public that their money is safe.            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
