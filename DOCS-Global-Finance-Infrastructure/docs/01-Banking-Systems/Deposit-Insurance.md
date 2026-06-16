@@ -545,28 +545,28 @@ FDIC RESOLUTION WEEKEND
     │   ├── Determine asset valuation and loss sharing                            │
     │   ├── Prepare legal documents                                               │
     │   └── If no buyer: Prepare for payoff                                       │
-    │        │                                                                     │
-    │        ▼                                                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   SATURDAY (12 PM - 6 PM)                                                   │
-    │   ├── Calculate insured deposits for each depositor                        │
-    │   ├── Prepare depositor notices                                            │
-    │   ├── Arrange for checks (if payoff)                                       │
-    │   └── Coordinate with acquiring bank systems (if P&A)                      │
-    │        │                                                                     │
-    │        ▼                                                                     │
+    │   ├── Calculate insured deposits for each depositor                         │
+    │   ├── Prepare depositor notices                                             │
+    │   ├── Arrange for checks (if payoff)                                        │
+    │   └── Coordinate with acquiring bank systems (if P&A)                       │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   SUNDAY (All day)                                                          │
-    │   ├── System integration testing (if P&A)                                  │
-    │   ├── Train acquiring bank tellers (if P&A)                              │
-    │   ├── Mail notices to depositors                                         │
-    │   ├── Update FDIC website with instructions                              │
-    │   └── Prepare press release                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   MONDAY (Opening)                                                        │
-    │   ├── If P&A: Failed bank reopens as acquiring bank branch               │
-    │   ├── If P&A: Depositors have immediate access                          │
-    │   ├── If Payoff: FDIC checks available or mailed                        │
-    │   └── No depositor has lost money (up to coverage limit)                │
+    │   ├── System integration testing (if P&A)                                   │
+    │   ├── Train acquiring bank tellers (if P&A)                                 │
+    │   ├── Mail notices to depositors                                            │
+    │   ├── Update FDIC website with instructions                                 │
+    │   └── Prepare press release                                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   MONDAY (Opening)                                                          │
+    │   ├── If P&A: Failed bank reopens as acquiring bank branch                  │
+    │   ├── If P&A: Depositors have immediate access                              │
+    │   ├── If Payoff: FDIC checks available or mailed                            │
+    │   └── No depositor has lost money (up to coverage limit)                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
