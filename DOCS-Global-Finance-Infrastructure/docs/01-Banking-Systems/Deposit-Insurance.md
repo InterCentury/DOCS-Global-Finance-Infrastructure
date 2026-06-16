@@ -352,22 +352,22 @@ NOT COVERED BY FDIC
     │                                                                             │
     │   NOT COVERED                     │ REASON                                  │
     │   ────────────────────────────────│─────────────────────────────────────────│
-    │   Stocks, bonds, mutual funds     │ These are investments, not deposits.   │
-    │                                   │ Value fluctuates with markets.         │
+    │   Stocks, bonds, mutual funds     │ These are investments, not deposits.    │
+    │                                   │ Value fluctuates with markets.          │
     │   ────────────────────────────────│─────────────────────────────────────────│
-    │   Annuities                       │ Insurance products, not bank deposits. │
+    │   Annuities                       │ Insurance products, not bank deposits.  │
     │   ────────────────────────────────│─────────────────────────────────────────│
-    │   Life insurance policies         │ Regulated by state insurance depts.    │
+    │   Life insurance policies         │ Regulated by state insurance depts.     │
     │   ────────────────────────────────│─────────────────────────────────────────│
-    │   Municipal securities            │ Investments, not deposits.             │
+    │   Municipal securities            │ Investments, not deposits.              │
     │   ────────────────────────────────│─────────────────────────────────────────│
-    │   Safe deposit box contents       │ FDIC insures deposits, not box         │
-    │                                   │ contents. Separate insurance needed.   │
+    │   Safe deposit box contents       │ FDIC insures deposits, not box          │
+    │                                   │ contents. Separate insurance needed.    │
     │   ────────────────────────────────│─────────────────────────────────────────│
-    │   US Treasury bills, bonds, notes │ Backed by US government separately,    │
+    │   US Treasury bills, bonds, notes │ Backed by US government separately,     │
     │                                   │ not FDIC.                               │
     │   ────────────────────────────────│─────────────────────────────────────────│
-    │   Crypto assets                   │ Not considered deposits.               │
+    │   Crypto assets                   │ Not considered deposits.                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
