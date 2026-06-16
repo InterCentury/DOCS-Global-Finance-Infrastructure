@@ -429,30 +429,30 @@ RISK-BASED ASSESSMENT SYSTEM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ASSESSMENT RATE DETERMINATION                                            │
+    │   ASSESSMENT RATE DETERMINATION                                             │
     │                                                                             │
-    │   Step 1: Assign CAMELS rating (regulatory exam)                          │
-    │   ├── C: Capital adequacy                                                 │
-    │   ├── A: Asset quality                                                    │
-    │   ├── M: Management quality                                               │
-    │   ├── E: Earnings                                                         │
-    │   ├── L: Liquidity                                                        │
-    │   └── S: Sensitivity to market risk                                       │
+    │   Step 1: Assign CAMELS rating (regulatory exam)                            │
+    │   ├── C: Capital adequacy                                                   │
+    │   ├── A: Asset quality                                                      │
+    │   ├── M: Management quality                                                 │
+    │   ├── E: Earnings                                                           │
+    │   ├── L: Liquidity                                                          │
+    │   └── S: Sensitivity to market risk                                         │
     │                                                                             │
-    │   Step 2: Assign risk category                                            │
-    │   ├── Category I: Large, highly complex banks (separate scorecard)        │
-    │   ├── Category II: Higher-risk banks                                      │
-    │   ├── Category III: Moderate-risk banks                                   │
-    │   └── Category IV: Low-risk banks                                         │
+    │   Step 2: Assign risk category                                              │
+    │   ├── Category I: Large, highly complex banks (separate scorecard)          │
+    │   ├── Category II: Higher-risk banks                                        │
+    │   ├── Category III: Moderate-risk banks                                     │
+    │   └── Category IV: Low-risk banks                                           │
     │                                                                             │
-    │   Step 3: Apply assessment rate                                           │
+    │   Step 3: Apply assessment rate                                             │
     │                                                                             │
-    │   Category I (Scorecard method): 1.5 - 30 basis points                    │
-    │   (1 basis point = 0.01%)                                                 │
+    │   Category I (Scorecard method): 1.5 - 30 basis points                      │
+    │   (1 basis point = 0.01%)                                                   │
     │                                                                             │
-    │   Example: Bank with $10 billion in domestic deposits                     │
-    │   Assessment rate: 5 basis points (0.05%)                                 │
-    │   Quarterly assessment: $10B × 0.0005 = $5,000,000                         │
+    │   Example: Bank with $10 billion in domestic deposits                       │
+    │   Assessment rate: 5 basis points (0.05%)                                   │
+    │   Quarterly assessment: $10B × 0.0005 = $5,000,000                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
