@@ -97,20 +97,20 @@ PURPOSES OF DEPOSIT INSURANCE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PURPOSE 1: PREVENT BANK RUNS                                             │
+    │   PURPOSE 1: PREVENT BANK RUNS                                              │
     │                                                                             │
-    │   Without deposit insurance, depositors have incentive to withdraw their   │
-    │   money at the first sign of trouble (first mover advantage). This can     │
-    │   cause a solvent but illiquid bank to fail. With insurance, depositors    │
-    │   know their money is safe even if the bank fails, removing the incentive  │
-    │   to run.                                                                  │
+    │   Without deposit insurance, depositors have incentive to withdraw their    │
+    │   money at the first sign of trouble (first mover advantage). This can      │
+    │   cause a solvent but illiquid bank to fail. With insurance, depositors     │
+    │   know their money is safe even if the bank fails, removing the incentive   │
+    │   to run.                                                                   │
     │                                                                             │
     │                                                                             │
-    │   PURPOSE 2: PROTECT SMALL DEPOSITORS                                      │
+    │   PURPOSE 2: PROTECT SMALL DEPOSITORS                                       │
     │                                                                             │
-    │   Small depositors (individuals, retirees, small businesses) lack the      │
-    │   resources to evaluate bank safety or diversify across banks. Deposit     │
-    │   insurance protects their life savings from bank failures.                │
+    │   Small depositors (individuals, retirees, small businesses) lack the       │
+    │   resources to evaluate bank safety or diversify across banks. Deposit      │
+    │   insurance protects their life savings from bank failures.                 │
     │                                                                             │
     │                                                                             │
     │   PURPOSE 3: FINANCIAL STABILITY                                           │
