@@ -490,27 +490,27 @@ RESOLUTION METHODS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   METHOD 2: PAYOFF (Deposit Insurance Payout)                              │
+    │   METHOD 2: PAYOFF (Deposit Insurance Payout)                               │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   No healthy bank wants to buy the failed bank                      │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   FDIC takes possession of failed bank's records                   │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   FDIC determines insured deposits for each depositor              │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   FDIC issues checks (up to $250,000 per depositor)                │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Depositors receive money within days                             │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Uninsured depositors receive partial payment (pro rata)          │   │
-    │   │   based on asset recovery                                          │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   FDIC takes possession of failed bank's records                    │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   FDIC determines insured deposits for each depositor               │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   FDIC issues checks (up to $250,000 per depositor)                 │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Depositors receive money within days                              │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Uninsured depositors receive partial payment (pro rata)           │   │
+    │   │   based on asset recovery                                           │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
