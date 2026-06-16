@@ -771,30 +771,30 @@ DEPOSIT INSURANCE FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Deposit Insurance Coverage = Min(Deposit Balance, Coverage Limit)        │
-    │   Coverage Limit = $250,000 (per depositor, per bank, per ownership        │
-    │   category)                                                                │
+    │   Deposit Insurance Coverage = Min(Deposit Balance, Coverage Limit)         │
+    │   Coverage Limit = $250,000 (per depositor, per bank, per ownership         │
+    │   category)                                                                 │
     │                                                                             │
-    │   Total Insured at Bank = Σ(Coverage per ownership category)               │
+    │   Total Insured at Bank = Σ(Coverage per ownership category)                │
     │                                                                             │
-    │   Uninsured Deposits = Total Deposits - Insured Deposits                   │
+    │   Uninsured Deposits = Total Deposits - Insured Deposits                    │
     │                                                                             │
-    │   Assessment Payment = Domestic Deposits × Assessment Rate                │
+    │   Assessment Payment = Domestic Deposits × Assessment Rate                  │
     │                                                                             │
-    │   Designated Reserve Ratio (DRR) = DIF Balance / Estimated Insured        │
-    │   Deposits                                                                 │
-    │   Target range: 1.35% - 2.00%                                             │
+    │   Designated Reserve Ratio (DRR) = DIF Balance / Estimated Insured          │
+    │   Deposits                                                                  │
+    │   Target range: 1.35% - 2.00%                                               │
     │                                                                             │
-    │   Loss Given Failure (LGF) = (Deposits + Other Liabilities) - Asset       │
-    │   Recovery                                                                 │
+    │   Loss Given Failure (LGF) = (Deposits + Other Liabilities) - Asset         │
+    │   Recovery                                                                  │
     │                                                                             │
-    │   Pro Rata Payment to Uninsured Depositors = (Asset Recovery / Total       │
-    │   Uninsured Claims) × Individual Uninsured Claim                          │
+    │   Pro Rata Payment to Uninsured Depositors = (Asset Recovery / Total        │
+    │   Uninsured Claims) × Individual Uninsured Claim                            │
     │                                                                             │
-    │   Deposit Insurance Fund Coverage Ratio = DIF Balance / Insured Deposits   │
+    │   Deposit Insurance Fund Coverage Ratio = DIF Balance / Insured Deposits    │
     │                                                                             │
-    │   Assessment Rate Adjustment = Target Fund Ratio - Actual Fund Ratio       │
-    │   (Positive = increase rates, Negative = decrease rates)                  │
+    │   Assessment Rate Adjustment = Target Fund Ratio - Actual Fund Ratio        │
+    │   (Positive = increase rates, Negative = decrease rates)                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
