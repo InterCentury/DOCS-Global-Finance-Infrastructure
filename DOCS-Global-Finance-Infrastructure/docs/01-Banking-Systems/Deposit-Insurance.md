@@ -621,31 +621,31 @@ MORAL HAZARD MITIGANTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   MITIGANT 1: RISK-BASED PREMIUMS                                          │
-    │   ├── Riskier banks pay higher assessment rates                           │
-    │   ├── Safer banks pay lower rates                                          │
-    │   └── Internalizes cost of risk                                            │
+    │   MITIGANT 1: RISK-BASED PREMIUMS                                           │
+    │   ├── Riskier banks pay higher assessment rates                             │
+    │   ├── Safer banks pay lower rates                                           │
+    │   └── Internalizes cost of risk                                             │
     │                                                                             │
-    │   MITIGANT 2: COVERAGE LIMIT ($250,000)                                   │
-    │   ├── Large depositors still have incentive to monitor                    │
-    │   ├── Uninsured depositors ($250k+) can lose money                       │
-    │   └── These depositors may withdraw from risky banks                      │
+    │   MITIGANT 2: COVERAGE LIMIT ($250,000)                                     │
+    │   ├── Large depositors still have incentive to monitor                      │
+    │   ├── Uninsured depositors ($250k+) can lose money                          │
+    │   └── These depositors may withdraw from risky banks                        │
     │                                                                             │
-    │   MITIGANT 3: REGULATORY SUPERVISION                                       │
-    │   ├── Bank examinations (CAMELS ratings)                                  │
-    │   ├── Prompt corrective action (PCA)                                      │
-    │   ├── Capital requirements (Basel III)                                    │
-    │   └── Enforcement actions for unsafe practices                            │
+    │   MITIGANT 3: REGULATORY SUPERVISION                                        │
+    │   ├── Bank examinations (CAMELS ratings)                                    │
+    │   ├── Prompt corrective action (PCA)                                        │
+    │   ├── Capital requirements (Basel III)                                      │
+    │   └── Enforcement actions for unsafe practices                              │
     │                                                                             │
-    │   MITIGANT 4: LEAST-COST RESOLUTION                                        │
-    │   ├── FDIC must choose resolution method that costs least                 │
-    │   ├── Protects uninsured depositors only if less costly than payout      │
-    │   └── Shareholders and unsecured creditors lose value                     │
+    │   MITIGANT 4: LEAST-COST RESOLUTION                                         │
+    │   ├── FDIC must choose resolution method that costs least                   │
+    │   ├── Protects uninsured depositors only if less costly than payout         │
+    │   └── Shareholders and unsecured creditors lose value                       │
     │                                                                             │
-    │   MITIGANT 5: SYSTEMIC RISK EXCEPTION (Dodd-Frank)                        │
-    │   ├── Only allowed with Treasury and Fed approval                         │
-    │   ├── Used only to prevent systemic collapse                              │
-    │   └── Costs recovered through special assessments on banks                │
+    │   MITIGANT 5: SYSTEMIC RISK EXCEPTION (Dodd-Frank)                          │
+    │   ├── Only allowed with Treasury and Fed approval                           │
+    │   ├── Used only to prevent systemic collapse                                │
+    │   └── Costs recovered through special assessments on banks                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
