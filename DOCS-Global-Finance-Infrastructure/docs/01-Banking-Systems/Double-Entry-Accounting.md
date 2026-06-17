@@ -38,12 +38,12 @@ THE ACCOUNTING EQUATION
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   ASSETS                                                           │   │
+    │   │   ASSETS                                                            │   │
     │   │   (What the entity owns)                                            │   │
     │   │                                                                     │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
     │   │   │ Cash, Accounts Receivable, Inventory, Equipment, Real       │   │   │
-    │   │   │ Estate, Investments, Loans Receivable, Goodwill              │   │   │
+    │   │   │ Estate, Investments, Loans Receivable, Goodwill             │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
