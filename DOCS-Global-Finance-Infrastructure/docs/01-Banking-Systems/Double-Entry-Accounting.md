@@ -239,7 +239,7 @@ GOLDEN RULE
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   TRANSACTION: Depositing $1000 cash into the bank                 │   │
+    │   │   TRANSACTION: Depositing $1000 cash into the bank                  │   │
     │   │                                                                     │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
     │   │   │  Account                     │ Debit ($)  │ Credit ($)      │   │   │
@@ -255,7 +255,7 @@ GOLDEN RULE
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   TRANSACTION: Borrowing $5000 from the bank                       │   │
+    │   │   TRANSACTION: Borrowing $5000 from the bank                        │   │
     │   │                                                                     │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
     │   │   │  Account                     │ Debit ($)  │ Credit ($)      │   │   │
