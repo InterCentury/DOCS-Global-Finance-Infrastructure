@@ -188,20 +188,20 @@ T-ACCOUNT STRUCTURE
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │                      ┌─────────────────────────┐                           │
-    │                      │     ACCOUNT NAME         │                           │
+    │                      │     ACCOUNT NAME        │                           │
     │                      ├──────────────┬──────────┤                           │
-    │                      │   DEBIT      │  CREDIT   │                           │
-    │                      │   (Left)     │  (Right)  │                           │
+    │                      │   DEBIT      │  CREDIT  │                           │
+    │                      │   (Left)     │  (Right) │                           │
     │                      ├──────────────┼──────────┤                           │
-    │                      │              │           │                           │
-    │                      │    Increases │ Decreases │  (Asset / Expense)       │
-    │                      │              │           │                           │
-    │                      │    Decreases │ Increases │  (Liability / Equity /   │
-    │                      │              │           │   Revenue)               │
-    │                      │              │           │                           │
+    │                      │              │          │                           │
+    │                      │    Increases │ Decreases│  (Asset / Expense)       │
+    │                      │              │          │                           │
+    │                      │    Decreases │ Increases│  (Liability / Equity /   │
+    │                      │              │          │   Revenue)               │
+    │                      │              │          │                           │
     │                      ├──────────────┼──────────┤                           │
-    │                      │    Total     │ Total     │                           │
-    │                      │    Debits    │ Credits   │                           │
+    │                      │    Total     │ Total    │                           │
+    │                      │    Debits    │ Credits  │                           │
     │                      └──────────────┴──────────┘                           │
     │                                                                             │
     │                                                                             │
