@@ -471,11 +471,11 @@ COMMON BANKING JOURNAL ENTRIES
     │   │  Savings Deposits (Liability)│            │ 200                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Effect: One liability decreases, another liability increases            │
-    │   Total liabilities unchanged                                              │
+    │   Effect: One liability decreases, another liability increases              │
+    │   Total liabilities unchanged                                               │
     │                                                                             │
     │                                                                             │
-    │   TRANSACTION 4: Customer withdraws $200 cash from ATM                    │
+    │   TRANSACTION 4: Customer withdraws $200 cash from ATM                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -484,10 +484,10 @@ COMMON BANKING JOURNAL ENTRIES
     │   │  Cash in Vault (Asset)       │            │ 200                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Effect: Assets decrease, Liabilities decrease                           │
+    │   Effect: Assets decrease, Liabilities decrease                             │
     │                                                                             │
     │                                                                             │
-    │   TRANSACTION 5: Bank pays $100 interest on deposit                       │
+    │   TRANSACTION 5: Bank pays $100 interest on deposit                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
