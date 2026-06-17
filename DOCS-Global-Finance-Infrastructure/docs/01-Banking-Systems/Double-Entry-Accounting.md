@@ -396,10 +396,10 @@ BANK-SPECIFIC ACCOUNT TYPES
     │                             │               │ banks                         │
     │   ──────────────────────────│───────────────│────────────────────────────── │
     │   Trading Securities        │ Asset         │ Securities held for short-    │
-    │                             │               │ term trading                 │
-    │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Available-for-Sale        │ Asset         │ Securities held for          │
-    │   Securities                │               │ liquidity/investment         │
+    │                             │               │ term trading                  │
+    │   ──────────────────────────│───────────────│────────────────────────────── │
+    │   Available-for-Sale        │ Asset         │ Securities held for           │
+    │   Securities                │               │ liquidity/investment          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
