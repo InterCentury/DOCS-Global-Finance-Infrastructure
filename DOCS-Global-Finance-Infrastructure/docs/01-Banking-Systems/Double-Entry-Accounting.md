@@ -1,4 +1,4 @@
-# 07 - Double-Entry Accounting
+# Double-Entry Accounting
 
 ## Documentation Overview
 
