@@ -415,8 +415,8 @@ JOURNAL ENTRY FORMAT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Date: 2024-06-15                                                         │
-    │   Description: Customer deposit of $1000 cash into checking account        │
+    │   Date: 2024-06-15                                                          │
+    │   Description: Customer deposit of $1000 cash into checking account         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -425,8 +425,8 @@ JOURNAL ENTRY FORMAT
     │   │  Demand Deposits (Liability) │            │ 1,000                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Reference: JE-2024-0615-001                                              │
-    │   Posted By: TELLER_JSMITH                                                │
+    │   Reference: JE-2024-0615-001                                               │
+    │   Posted By: TELLER_JSMITH                                                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
