@@ -12,13 +12,13 @@ DOCUMENTATION OBJECTIVES
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   Understand the fundamental accounting equation                            │
-    │   Learn the rules of debit and credit for each account type               │
-    │   Study the chart of accounts and account classification                   │
-    │   Analyze the journal entry process and posting to ledgers                │
-    │   Examine the trial balance and financial statement preparation           │
+    │   Learn the rules of debit and credit for each account type                 │
+    │   Study the chart of accounts and account classification                    │
+    │   Analyze the journal entry process and posting to ledgers                  │
+    │   Examine the trial balance and financial statement preparation             │
     │   Understand the accounting cycle                                           │
-    │   Learn banking-specific accounting applications                           │
-    │   Study accrual accounting vs cash accounting                             │
+    │   Learn banking-specific accounting applications                            │
+    │   Study accrual accounting vs cash accounting                               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
