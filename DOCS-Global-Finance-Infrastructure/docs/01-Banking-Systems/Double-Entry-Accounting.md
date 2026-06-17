@@ -305,19 +305,19 @@ CHART OF ACCOUNTS STRUCTURE
     │   │  1500 Other Assets                                                  │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   2000 - 2999                    LIABILITIES                               │
+    │   2000 - 2999                    LIABILITIES                                │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  2100 Deposits                                                       │   │
+    │   │  2100 Deposits                                                      │   │
     │   │  2110 Demand Deposits (Checking)                                    │   │
-    │   │  2120 Savings Deposits                                               │   │
+    │   │  2120 Savings Deposits                                              │   │
     │   │  2130 Time Deposits (CDs)                                           │   │
-    │   │  2140 NOW Accounts                                                   │   │
+    │   │  2140 NOW Accounts                                                  │   │
     │   │  2200 Borrowings                                                    │   │
     │   │  2210 Federal Funds Purchased                                       │   │
     │   │  2220 Discount Window Loans                                         │   │
-    │   │  2300 Accrued Expenses                                               │   │
-    │   │  2400 Other Liabilities                                              │   │
+    │   │  2300 Accrued Expenses                                              │   │
+    │   │  2400 Other Liabilities                                             │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   3000 - 3999                    EQUITY                                    │
