@@ -691,7 +691,7 @@ ADJUSTING ENTRIES
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DEFERRAL ENTRY: Prepaid insurance used during period                    │
+    │   DEFERRAL ENTRY: Prepaid insurance used during period                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -701,7 +701,7 @@ ADJUSTING ENTRIES
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   ESTIMATE ENTRY: Loan loss provision                                      │
+    │   ESTIMATE ENTRY: Loan loss provision                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
