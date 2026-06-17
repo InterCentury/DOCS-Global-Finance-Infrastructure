@@ -133,11 +133,11 @@ RESOURCE FLOW PRINCIPLE
     │   │   │   │ Expense increases (cost incurred)                       │   │   │
     │   │   │   │ Revenue decreases (refunds/returns)                     │   │   │
     │   │   │   └─────────────────────────────────────────────────────────┘   │   │
-    │   │   │                                                                   │   │
+    │   │   │                                                                 │   │
     │   │   └─────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   The total value of all sources must equal the total value of all        │
-    │   destinations.                                                           │
+    │   The total value of all sources must equal the total value of all          │
+    │   destinations.                                                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
