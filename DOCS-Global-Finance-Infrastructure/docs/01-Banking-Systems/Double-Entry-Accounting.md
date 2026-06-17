@@ -438,7 +438,7 @@ COMMON BANKING JOURNAL ENTRIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TRANSACTION 1: Customer deposits $1000 cash into checking               │
+    │   TRANSACTION 1: Customer deposits $1000 cash into checking                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -447,10 +447,10 @@ COMMON BANKING JOURNAL ENTRIES
     │   │  Demand Deposits (Liability) │            │ 1,000                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Effect: Assets increase, Liabilities increase                           │
+    │   Effect: Assets increase, Liabilities increase                             │
     │                                                                             │
     │                                                                             │
-    │   TRANSACTION 2: Bank makes $5000 loan to customer                        │
+    │   TRANSACTION 2: Bank makes $5000 loan to customer                          │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -459,10 +459,10 @@ COMMON BANKING JOURNAL ENTRIES
     │   │  Demand Deposits (Liability) │            │ 5,000                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Effect: Assets increase, Liabilities increase (new money creation)      │
+    │   Effect: Assets increase, Liabilities increase (new money creation)        │
     │                                                                             │
     │                                                                             │
-    │   TRANSACTION 3: Customer transfers $200 from checking to savings         │
+    │   TRANSACTION 3: Customer transfers $200 from checking to savings           │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
