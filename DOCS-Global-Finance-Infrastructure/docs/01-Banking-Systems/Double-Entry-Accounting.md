@@ -726,19 +726,19 @@ INCOME STATEMENT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ABC BANK                                                                 │
+    │   ABC BANK                                                                  │
     │   Income Statement                                                          │
-    │   For the Month Ended June 30, 2024                                        │
+    │   For the Month Ended June 30, 2024                                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │  REVENUES                                                           │   │
-    │   │  ├── Interest Income                         $8,500                │   │
-    │   │  ├── Fee Income                              $2,500                │   │
-    │   │  ├── Trading Income                          $1,000                │   │
-    │   │  ├── Other Income                            $500                  │   │
-    │   │  │                                                                 │   │
-    │   │  │  Total Revenues                           $12,500              │   │
+    │   │  ├── Interest Income                         $8,500                 │   │
+    │   │  ├── Fee Income                              $2,500                 │   │
+    │   │  ├── Trading Income                          $1,000                 │   │
+    │   │  ├── Other Income                            $500                   │   │
+    │   │  │                                                                  │   │
+    │   │  │  Total Revenues                           $12,500                │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
     │   │  EXPENSES                                                           │   │
@@ -748,11 +748,11 @@ INCOME STATEMENT
     │   │  ├── Loan Loss Provision                      $1,000                │   │
     │   │  ├── Depreciation                             $500                  │   │
     │   │  ├── Other Expenses                           $350                  │   │
-    │   │  │                                                                 │   │
-    │   │  │  Total Expenses                            $16,500              │   │
+    │   │  │                                                                  │   │
+    │   │  │  Total Expenses                            $16,500               │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
-    │   │  NET INCOME (LOSS)                            ($4,000)             │   │
+    │   │  NET INCOME (LOSS)                            ($4,000)              │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
