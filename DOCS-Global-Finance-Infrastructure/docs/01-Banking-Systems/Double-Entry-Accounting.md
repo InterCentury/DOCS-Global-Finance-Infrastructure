@@ -496,10 +496,10 @@ COMMON BANKING JOURNAL ENTRIES
     │   │  Demand Deposits (Liability) │            │ 100                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Effect: Expenses increase (reduces equity), Liabilities increase         │
+    │   Effect: Expenses increase (reduces equity), Liabilities increase          │
     │                                                                             │
     │                                                                             │
-    │   TRANSACTION 6: Bank collects $300 interest on a loan                    │
+    │   TRANSACTION 6: Bank collects $300 interest on a loan                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -508,7 +508,7 @@ COMMON BANKING JOURNAL ENTRIES
     │   │  Interest Income (Revenue)   │            │ 300                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Effect: Assets increase, Revenue increases (increases equity)           │
+    │   Effect: Assets increase, Revenue increases (increases equity)             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
