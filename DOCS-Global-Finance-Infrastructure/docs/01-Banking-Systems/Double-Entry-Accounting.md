@@ -669,7 +669,7 @@ ADJUSTING ENTRIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ACCRUAL ENTRY: Interest earned but not received                          │
+    │   ACCRUAL ENTRY: Interest earned but not received                           │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -680,7 +680,7 @@ ADJUSTING ENTRIES
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   ACCRUAL ENTRY: Interest owed but not paid                               │
+    │   ACCRUAL ENTRY: Interest owed but not paid                                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
