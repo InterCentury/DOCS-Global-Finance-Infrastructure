@@ -153,27 +153,27 @@ DEBIT AND CREDIT RULES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ACCOUNT TYPE        │ DEBIT (dr)         │ CREDIT (cr)        │ NORMAL   │
-    │                        │                    │                    │ BALANCE  │
-    │   ────────────────────│────────────────────│────────────────────│──────────│
-    │   Assets              │ Increase (+)       │ Decrease (-)       │ Debit    │
-    │   ────────────────────│────────────────────│────────────────────│──────────│
-    │   Liabilities         │ Decrease (-)       │ Increase (+)       │ Credit   │
-    │   ────────────────────│────────────────────│────────────────────│──────────│
-    │   Equity (Capital)    │ Decrease (-)       │ Increase (+)       │ Credit   │
-    │   ────────────────────│────────────────────│────────────────────│──────────│
-    │   Revenue (Income)    │ Decrease (-)       │ Increase (+)       │ Credit   │
-    │   ────────────────────│────────────────────│────────────────────│──────────│
-    │   Expenses (Costs)    │ Increase (+)       │ Decrease (-)       │ Debit    │
-    │   ────────────────────│────────────────────│────────────────────│──────────│
-    │   Dividends /         │ Increase (+)       │ Decrease (-)       │ Debit    │
-    │   Withdrawals         │                    │                    │          │
+    │   ACCOUNT TYPE        │ DEBIT (dr)         │ CREDIT (cr)        │ NORMAL    │
+    │                       │                    │                    │ BALANCE   │
+    │   ────────────────────│────────────────────│────────────────────│────────── │
+    │   Assets              │ Increase (+)       │ Decrease (-)       │ Debit     │
+    │   ────────────────────│────────────────────│────────────────────│────────── │
+    │   Liabilities         │ Decrease (-)       │ Increase (+)       │ Credit    │
+    │   ────────────────────│────────────────────│────────────────────│────────── │
+    │   Equity (Capital)    │ Decrease (-)       │ Increase (+)       │ Credit    │
+    │   ────────────────────│────────────────────│────────────────────│────────── │
+    │   Revenue (Income)    │ Decrease (-)       │ Increase (+)       │ Credit    │
+    │   ────────────────────│────────────────────│────────────────────│────────── │
+    │   Expenses (Costs)    │ Increase (+)       │ Decrease (-)       │ Debit     │
+    │   ────────────────────│────────────────────│────────────────────│────────── │
+    │   Dividends /         │ Increase (+)       │ Decrease (-)       │ Debit     │
+    │   Withdrawals         │                    │                    │           │
     │                                                                             │
     │                                                                             │
-    │   MNEMONIC: DEAD CLIC                                                      │
+    │   MNEMONIC: DEAD CLIC                                                       │
     │                                                                             │
-    │   DEBITS INCREASE:  Expense, Asset, Dividend/Withdrawal                    │
-    │   CREDITS INCREASE:  Liability, Capital/Equity, Income/Revenue             │
+    │   DEBITS INCREASE:  Expense, Asset, Dividend/Withdrawal                     │
+    │   CREDITS INCREASE:  Liability, Capital/Equity, Income/Revenue              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
