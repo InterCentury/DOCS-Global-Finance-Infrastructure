@@ -76,25 +76,25 @@ EXPANDED ACCOUNTING EQUATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ASSETS = LIABILITIES + OWNER'S EQUITY + (REVENUES - EXPENSES)           │
+    │   ASSETS = LIABILITIES + OWNER'S EQUITY + (REVENUES - EXPENSES)             │
     │                                                                             │
-    │   ┌─────────────────────────────────────────────────────────────────────┐   │
+    │   ┌─────────────────────────────────────────────────────────────────────┐   │   
     │   │                                                                     │   │
-    │   │   NET INCOME = REVENUES - EXPENSES                                 │   │
+    │   │   NET INCOME = REVENUES - EXPENSES                                  │   │
     │   │                                                                     │   │
-    │   │   If Revenues > Expenses → Net Income → Increases Equity           │   │
-    │   │   If Revenues < Expenses → Net Loss → Decreases Equity            │   │
+    │   │   If Revenues > Expenses → Net Income → Increases Equity            │   │
+    │   │   If Revenues < Expenses → Net Loss → Decreases Equity              │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   COMPLETE EQUATION:                                                       │
+    │   COMPLETE EQUATION:                                                        │
     │                                                                             │
-    │   ASSETS = LIABILITIES + EQUITY + REVENUES - EXPENSES                     │
+    │   ASSETS = LIABILITIES + EQUITY + REVENUES - EXPENSES                       │
     │                                                                             │
-    │   Or rearranged:                                                           │
+    │   Or rearranged:                                                            │
     │                                                                             │
-    │   ASSETS + EXPENSES = LIABILITIES + EQUITY + REVENUES                     │
+    │   ASSETS + EXPENSES = LIABILITIES + EQUITY + REVENUES                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -108,7 +108,7 @@ RESOURCE FLOW PRINCIPLE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   EVERY TRANSACTION HAS:                                                   │
+    │   EVERY TRANSACTION HAS:                                                    │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
@@ -122,11 +122,11 @@ RESOURCE FLOW PRINCIPLE
     │   │   │   │ Revenue increases (income earned)                       │   │   │
     │   │   │   │ Expense decreases (cost reduction)                      │   │   │
     │   │   │   └─────────────────────────────────────────────────────────┘   │   │
-    │   │   │                                                                   │   │
-    │   │   │   VS.                                                             │   │
-    │   │   │                                                                   │   │
-    │   │   │   DESTINATION (Where resources go)                               │   │
-    │   │   │                                                                   │   │
+    │   │   │                                                                 │   │
+    │   │   │   VS.                                                           │   │
+    │   │   │                                                                 │   │
+    │   │   │   DESTINATION (Where resources go)                              │   │
+    │   │   │                                                                 │   │
     │   │   │   ┌─────────────────────────────────────────────────────────┐   │   │
     │   │   │   │ Asset increases (acquired)                              │   │   │
     │   │   │   │ Asset decreases (sold/used)                             │   │   │
