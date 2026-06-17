@@ -522,7 +522,7 @@ COMPOUND JOURNAL ENTRIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TRANSACTION: Customer deposits $1000 cash and $300 check                 │
+    │   TRANSACTION: Customer deposits $1000 cash and $300 check                  │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -533,10 +533,10 @@ COMPOUND JOURNAL ENTRIES
     │   │  Demand Deposits (Liability) │            │ 1,300                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Total Debits = $1,300, Total Credits = $1,300                           │
+    │   Total Debits = $1,300, Total Credits = $1,300                             │
     │                                                                             │
     │                                                                             │
-    │   TRANSACTION: Bank makes $10,000 loan with $100 origination fee          │
+    │   TRANSACTION: Bank makes $10,000 loan with $100 origination fee            │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -547,7 +547,7 @@ COMPOUND JOURNAL ENTRIES
     │   │  Fee Income (Revenue)        │            │ 100                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Total Debits = $10,100, Total Credits = $10,100                         │
+    │   Total Debits = $10,100, Total Credits = $10,100                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
