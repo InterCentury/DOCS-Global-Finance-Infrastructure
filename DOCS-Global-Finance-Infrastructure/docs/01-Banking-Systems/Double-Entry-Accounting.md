@@ -187,22 +187,22 @@ T-ACCOUNT STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │                      ┌─────────────────────────┐                           │
-    │                      │     ACCOUNT NAME        │                           │
-    │                      ├──────────────┬──────────┤                           │
-    │                      │   DEBIT      │  CREDIT  │                           │
-    │                      │   (Left)     │  (Right) │                           │
-    │                      ├──────────────┼──────────┤                           │
-    │                      │              │          │                           │
-    │                      │    Increases │ Decreases│  (Asset / Expense)       │
-    │                      │              │          │                           │
-    │                      │    Decreases │ Increases│  (Liability / Equity /   │
-    │                      │              │          │   Revenue)               │
-    │                      │              │          │                           │
-    │                      ├──────────────┼──────────┤                           │
-    │                      │    Total     │ Total    │                           │
-    │                      │    Debits    │ Credits  │                           │
-    │                      └──────────────┴──────────┘                           │
+    │                      ┌─────────────────────────┐                            │
+    │                      │     ACCOUNT NAME        │                            │
+    │                      ├──────────────┬──────────┤                            │
+    │                      │   DEBIT      │  CREDIT  │                            │
+    │                      │   (Left)     │  (Right) │                            │
+    │                      ├──────────────┼──────────┤                            │
+    │                      │              │          │                            │
+    │                      │    Increases │ Decreases│  (Asset / Expense)         │
+    │                      │              │          │                            │
+    │                      │    Decreases │ Increases│  (Liability / Equity /     │
+    │                      │              │          │   Revenue)                 │
+    │                      │              │          │                            │
+    │                      ├──────────────┼──────────┤                            │
+    │                      │    Total     │ Total    │                            │
+    │                      │    Debits    │ Credits  │                            │
+    │                      └──────────────┴──────────┘                            │
     │                                                                             │
     │                                                                             │
     │   EXAMPLE: CASH (Asset) T-Account                                          │
