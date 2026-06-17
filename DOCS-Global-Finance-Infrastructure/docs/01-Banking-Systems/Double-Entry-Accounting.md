@@ -374,7 +374,7 @@ BANK-SPECIFIC ACCOUNT TYPES
     │   ACCOUNT                   │ TYPE          │ DESCRIPTION                  │
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Reserves at Central Bank  │ Asset         │ Digital account at central   │
-    │                            │               │ bank for settlement          │
+    │                             │               │ bank for settlement          │
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Loans Receivable          │ Asset         │ Amounts owed by borrowers    │
     │   ──────────────────────────│───────────────│──────────────────────────────│
@@ -383,20 +383,20 @@ BANK-SPECIFIC ACCOUNT TYPES
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Deposits                  │ Liability     │ Amounts owed to depositors   │
     │   ──────────────────────────│───────────────│──────────────────────────────│
-    │   Interest Accrued Receivable│ Asset        │ Interest earned but not      │
-    │                            │               │ yet received                 │
+    │   Interest Accrued          │ Asset         │ Interest earned but not      │
+    │   Receivable                │               │ yet received                 │
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Interest Accrued Payable  │ Liability     │ Interest owed but not yet    │
-    │                            │               │ paid                         │
+    │                             │               │ paid                         │
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Fed Funds Purchased       │ Liability     │ Overnight borrowings from    │
-    │                            │               │ other banks                  │
+    │                             │               │ other banks                  │
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Fed Funds Sold            │ Asset         │ Overnight loans to other     │
-    │                            │               │ banks                        │
+    │                             │               │ banks                        │
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Trading Securities        │ Asset         │ Securities held for short-  │
-    │                            │               │ term trading                 │
+    │                             │               │ term trading                 │
     │   ──────────────────────────│───────────────│──────────────────────────────│
     │   Available-for-Sale        │ Asset         │ Securities held for          │
     │   Securities                │               │ liquidity/investment         │
