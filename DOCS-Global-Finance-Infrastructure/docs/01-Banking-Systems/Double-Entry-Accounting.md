@@ -282,27 +282,27 @@ CHART OF ACCOUNTS STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ACCOUNT NUMBER RANGE           │ ACCOUNT TYPE                            │
-    │   ───────────────────────────────│─────────────────────────────────────────│
-    │   1000 - 1999                    │ ASSETS                                  │
-    │                                   │                                         │
+    │   ACCOUNT NUMBER RANGE           │ ACCOUNT TYPE                             │
+    │   ───────────────────────────────│───────────────────────────────────────── │
+    │   1000 - 1999                    │ ASSETS                                   │
+    │                                  │                                          │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  1100 Cash in Vault                                                  │   │
-    │   │  1110 Reserves at Central Bank                                       │   │
-    │   │  1120 Cash in ATM                                                    │   │
-    │   │  1200 Loans Receivable                                               │   │
-    │   │  1210 Commercial Loans                                               │   │
-    │   │  1220 Real Estate Loans                                              │   │
-    │   │  1230 Consumer Loans                                                 │   │
-    │   │  1240 Loan Loss Reserve (Contra-Asset)                               │   │
+    │   │  1100 Cash in Vault                                                 │   │
+    │   │  1110 Reserves at Central Bank                                      │   │
+    │   │  1120 Cash in ATM                                                   │   │
+    │   │  1200 Loans Receivable                                              │   │
+    │   │  1210 Commercial Loans                                              │   │
+    │   │  1220 Real Estate Loans                                             │   │
+    │   │  1230 Consumer Loans                                                │   │
+    │   │  1240 Loan Loss Reserve (Contra-Asset)                              │   │
     │   │  1300 Securities                                                    │   │
-    │   │  1310 Treasury Securities                                            │   │
-    │   │  1320 Municipal Securities                                           │   │
-    │   │  1400 Fixed Assets                                                   │   │
-    │   │  1410 Bank Premises                                                  │   │
-    │   │  1420 Equipment                                                      │   │
+    │   │  1310 Treasury Securities                                           │   │
+    │   │  1320 Municipal Securities                                          │   │
+    │   │  1400 Fixed Assets                                                  │   │
+    │   │  1410 Bank Premises                                                 │   │
+    │   │  1420 Equipment                                                     │   │
     │   │  1430 Accumulated Depreciation (Contra-Asset)                       │   │
-    │   │  1500 Other Assets                                                   │   │
+    │   │  1500 Other Assets                                                  │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   2000 - 2999                    LIABILITIES                               │
