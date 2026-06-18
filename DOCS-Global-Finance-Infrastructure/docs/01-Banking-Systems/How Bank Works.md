@@ -212,7 +212,6 @@ DEPOSIT PROCESS FLOW
 DEPOSIT TYPES AND CHARACTERISTICS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   DEPOSIT TYPE       │ INTEREST   │ LIQUIDITY    │ COST TO BANK             │
     │   ───────────────────│────────────│──────────────│───────────────────────── │
     │   Checking (Demand)  │ 0-0.1%     │ Immediate    │ Lowest cost              │
@@ -233,7 +232,6 @@ DEPOSIT TYPES AND CHARACTERISTICS
     │   Jumbo CDs (>$100k) │ 3-6%       │ Penalty for  │ Highest cost             │
     │                      │            │ early        │                          │
     │                      │            │ withdrawal   │                          │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
