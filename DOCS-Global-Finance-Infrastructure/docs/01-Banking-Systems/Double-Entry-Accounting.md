@@ -902,11 +902,11 @@ ACCRUAL VS CASH EXAMPLE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TRANSACTION: Bank earns $1000 interest on loan in December,              │
-    │   customer pays in January                                                 │
+    │   TRANSACTION: Bank earns $1000 interest on loan in December,               │
+    │   customer pays in January                                                  │
     │                                                                             │
     │                                                                             │
-    │   ACCRUAL ACCOUNTING (December):                                           │
+    │   ACCRUAL ACCOUNTING (December):                                            │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
     │   │  ────────────────────────────│────────────│─────────────────────────│   │
@@ -915,11 +915,11 @@ ACCRUAL VS CASH EXAMPLE
     │   │  Interest Income (Revenue)   │            │ 1,000                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Result: Revenue recognized in December (when earned)                    │
+    │   Result: Revenue recognized in December (when earned)                      │
     │   Asset recorded for amount due                                             │
     │                                                                             │
     │                                                                             │
-    │   ACCRUAL ACCOUNTING (January - when cash received):                       │
+    │   ACCRUAL ACCOUNTING (January - when cash received):                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
     │   │  ────────────────────────────│────────────│─────────────────────────│   │
@@ -928,10 +928,10 @@ ACCRUAL VS CASH EXAMPLE
     │   │  (Asset)                     │            │                         │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Result: Cash increases, asset decreases. No revenue recorded.            │
+    │   Result: Cash increases, asset decreases. No revenue recorded.             │
     │                                                                             │
     │                                                                             │
-    │   CASH ACCOUNTING:                                                         │
+    │   CASH ACCOUNTING:                                                          │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
     │   │  ────────────────────────────│────────────│─────────────────────────│   │
@@ -939,8 +939,8 @@ ACCRUAL VS CASH EXAMPLE
     │   │  Interest Income (Revenue)   │            │ 1,000                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Result: Revenue recognized in January (when cash received)              │
-    │   No asset for unpaid amounts recorded                                     │
+    │   Result: Revenue recognized in January (when cash received)                │
+    │   No asset for unpaid amounts recorded                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
