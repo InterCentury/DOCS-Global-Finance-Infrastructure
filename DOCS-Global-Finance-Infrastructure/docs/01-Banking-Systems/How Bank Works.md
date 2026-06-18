@@ -174,26 +174,26 @@ DEPOSIT PROCESS FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER DEPOSITS $1000 CASH                                             │
+    │   CUSTOMER DEPOSITS $1000 CASH                                              │
     │                                                                             │
-    │   STEP 1: Customer brings cash to bank                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Teller counts and verifies cash                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Bank credits customer's account                                  │
+    │   STEP 1: Customer brings cash to bank                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Teller counts and verifies cash                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Bank credits customer's account                                   │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Customer Account Ledger                                             │   │
+    │   │  Customer Account Ledger                                            │   │
     │   │  ├── Customer: John Smith                                           │   │
     │   │  ├── Account #: 12345678                                            │   │
     │   │  ├── Transaction: Deposit                                           │   │
     │   │  ├── Amount: +$1,000                                                │   │
     │   │  └── New Balance: $5,234.67                                         │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: Bank updates balance sheet                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: Bank updates balance sheet                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Bank Ledger                                                         │   │
     │   │  ├── Vault Cash (Asset): +$1,000                                    │   │
