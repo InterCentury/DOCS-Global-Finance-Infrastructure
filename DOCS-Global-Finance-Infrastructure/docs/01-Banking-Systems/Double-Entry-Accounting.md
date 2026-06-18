@@ -1091,28 +1091,28 @@ DOUBLE-ENTRY ACCOUNTING FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Basic Equation: Assets = Liabilities + Equity                            │
+    │   Basic Equation: Assets = Liabilities + Equity                             │
     │                                                                             │
-    │   Expanded Equation: Assets = Liabilities + Equity + Revenues - Expenses   │
+    │   Expanded Equation: Assets = Liabilities + Equity + Revenues - Expenses    │
     │                                                                             │
-    │   Net Income = Revenues - Expenses                                         │
+    │   Net Income = Revenues - Expenses                                          │
     │                                                                             │
-    │   Equity, Ending = Equity, Beginning + Net Income - Dividends              │
+    │   Equity, Ending = Equity, Beginning + Net Income - Dividends               │
     │                                                                             │
-    │   Total Debits = Total Credits (Every transaction)                         │
+    │   Total Debits = Total Credits (Every transaction)                          │
     │                                                                             │
-    │   Trial Balance: Σ(Debits) = Σ(Credits)                                    │
+    │   Trial Balance: Σ(Debits) = Σ(Credits)                                     │
     │                                                                             │
-    │   Loan Net Value = Gross Loans - Loan Loss Reserve                         │
+    │   Loan Net Value = Gross Loans - Loan Loss Reserve                          │
     │                                                                             │
-    │   Book Value = Asset Cost - Accumulated Depreciation                       │
+    │   Book Value = Asset Cost - Accumulated Depreciation                        │
     │                                                                             │
-    │   Working Capital = Current Assets - Current Liabilities                   │
+    │   Working Capital = Current Assets - Current Liabilities                    │
     │                                                                             │
-    │   Retained Earnings, Ending = Retained Earnings, Beginning +               │
-    │   Net Income - Dividends                                                   │
+    │   Retained Earnings, Ending = Retained Earnings, Beginning +                │
+    │   Net Income - Dividends                                                    │
     │                                                                             │
-    │   Return on Equity (ROE) = Net Income / Average Equity                     │
+    │   Return on Equity (ROE) = Net Income / Average Equity                      │
     │                                                                             │
     │   Return on Assets (ROA) = Net Income / Average Assets                     │
     │                                                                             │
