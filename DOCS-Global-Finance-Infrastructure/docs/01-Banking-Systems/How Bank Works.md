@@ -272,8 +272,8 @@ MONEY CREATION THROUGH LENDING
     │                                                                             │
     │   Money supply (deposits) = $120,000 (+$20,000 new money)                   │
     │                                                                             │
-    │   KEY INSIGHT: Banks create money through lending. No deposit             │
-    │   is used. The loan creates a new deposit.                                │
+    │   KEY INSIGHT: Banks create money through lending. No deposit               │
+    │   is used. The loan creates a new deposit.                                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
