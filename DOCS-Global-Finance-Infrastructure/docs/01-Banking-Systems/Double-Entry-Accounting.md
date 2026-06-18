@@ -1005,18 +1005,18 @@ ACCOUNTING CYCLE FLOW
     │        ▼                                                                    │
     │   STEP 8: Record Closing Entries                                            │
     │   ├── Close revenue accounts to Income Summary                              │
-    │   ├── Close expense accounts to Income Summary                            │
-    │   ├── Close Income Summary to Retained Earnings                           │
-    │   └── Close Dividends to Retained Earnings                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 9: Prepare Post-Closing Trial Balance                             │
-    │   ├── Only permanent accounts (assets, liabilities, equity)              │
-    │   ├── Temporary accounts (revenue, expense, dividends) zeroed out       │
-    │   └── Verify debits = credits                                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   NEXT PERIOD: Repeat Cycle                                               │
+    │   ├── Close expense accounts to Income Summary                              │
+    │   ├── Close Income Summary to Retained Earnings                             │
+    │   └── Close Dividends to Retained Earnings                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 9: Prepare Post-Closing Trial Balance                                │
+    │   ├── Only permanent accounts (assets, liabilities, equity)                 │
+    │   ├── Temporary accounts (revenue, expense, dividends) zeroed out           │
+    │   └── Verify debits = credits                                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   NEXT PERIOD: Repeat Cycle                                                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
