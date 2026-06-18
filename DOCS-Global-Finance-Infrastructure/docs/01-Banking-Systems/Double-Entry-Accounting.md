@@ -823,9 +823,9 @@ STATEMENT OF CASH FLOWS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ABC BANK                                                                 │
+    │   ABC BANK                                                                  │
     │   Statement of Cash Flows                                                   │
-    │   For the Month Ended June 30, 2024                                        │
+    │   For the Month Ended June 30, 2024                                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
@@ -833,32 +833,32 @@ STATEMENT OF CASH FLOWS
     │   │  ├── Net Income (Loss)                         ($4,000)             │   │
     │   │  ├── Adjustments for non-cash items:                                │   │
     │   │  │   ├── Loan Loss Provision                   $1,000               │   │
-    │   │  │   ├── Depreciation                         $500                 │   │
+    │   │  │   ├── Depreciation                         $500                  │   │
     │   │  ├── Changes in operating assets/liabilities:                       │   │
     │   │  │   ├── Increase in Loans                     ($10,000)            │   │
     │   │  │   ├── Increase in Deposits                  $15,000              │   │
     │   │  │   ├── Increase in Accrued Expenses          $500                 │   │
-    │   │  │                                                                 │   │
+    │   │  │                                                                  │   │
     │   │  │  Net Cash from Operating Activities         $3,000               │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
     │   │  INVESTING ACTIVITIES                                               │   │
     │   │  ├── Purchase of Securities                    ($5,000)             │   │
     │   │  ├── Purchase of Premises                      ($2,000)             │   │
-    │   │  │                                                                 │   │
+    │   │  │                                                                  │   │
     │   │  │  Net Cash from Investing Activities         ($7,000)             │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
     │   │  FINANCING ACTIVITIES                                               │   │
     │   │  ├── Proceeds from Borrowings                  $5,000               │   │
     │   │  ├── Dividends Paid                            ($500)               │   │
-    │   │  │                                                                 │   │
+    │   │  │                                                                  │   │
     │   │  │  Net Cash from Financing Activities         $4,500               │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
     │   │  NET INCREASE IN CASH                            $500               │   │
-    │   │  ├── Beginning Cash Balance                     $37,350              │   │
-    │   │  ├── Ending Cash Balance                        $37,850              │   │
+    │   │  ├── Beginning Cash Balance                     $37,350             │   │
+    │   │  ├── Ending Cash Balance                        $37,850             │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
