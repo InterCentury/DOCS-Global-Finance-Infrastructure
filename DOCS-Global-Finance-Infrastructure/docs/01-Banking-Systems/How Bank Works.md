@@ -195,13 +195,13 @@ DEPOSIT PROCESS FLOW
     │        ▼                                                                    │
     │   STEP 4: Bank updates balance sheet                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Ledger                                                         │   │
+    │   │  Bank Ledger                                                        │   │
     │   │  ├── Vault Cash (Asset): +$1,000                                    │   │
     │   │  └── Customer Deposits (Liability): +$1,000                         │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: Customer receives receipt and sees updated balance              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: Customer receives receipt and sees updated balance                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
