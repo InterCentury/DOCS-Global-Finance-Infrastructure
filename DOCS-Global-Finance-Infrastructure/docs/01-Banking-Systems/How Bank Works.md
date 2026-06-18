@@ -54,10 +54,10 @@ BANK AS FINANCIAL INTERMEDIARY
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Savers → Bank: Deposits (money flows in)                           │   │
-    │   │  Bank → Savers: Interest payments (money flows out)                  │   │
-    │   │  Bank → Borrowers: Loans (money flows out)                           │   │
-    │   │  Borrowers → Bank: Loan repayments (money flows in)                  │   │
-    │   │  Bank → Bank: Profit from interest spread                            │   │
+    │   │  Bank → Savers: Interest payments (money flows out)                 │   │
+    │   │  Bank → Borrowers: Loans (money flows out)                          │   │
+    │   │  Borrowers → Bank: Loan repayments (money flows in)                 │   │
+    │   │  Bank → Bank: Profit from interest spread                           │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
