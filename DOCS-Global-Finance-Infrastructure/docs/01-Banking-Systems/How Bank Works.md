@@ -10,7 +10,6 @@ A bank is a financial institution that accepts deposits from the public, creates
 DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Understand the complete banking business model                            │
     │   Learn how banks accept deposits and make loans                            │
     │   Study the money creation mechanism                                        │
@@ -21,7 +20,6 @@ DOCUMENTATION OBJECTIVES
     │   Learn the role of central banks in banking                                │
     │   Understand bank regulation and supervision                                │
     │   Examine the future of banking                                             │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
