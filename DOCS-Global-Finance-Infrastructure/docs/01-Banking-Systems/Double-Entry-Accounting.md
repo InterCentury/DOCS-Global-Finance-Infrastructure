@@ -1030,7 +1030,7 @@ CLOSING ENTRIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: Close Revenue accounts to Income Summary                         │
+    │   STEP 1: Close Revenue accounts to Income Summary                          │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -1043,7 +1043,7 @@ CLOSING ENTRIES
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   STEP 2: Close Expense accounts to Income Summary                         │
+    │   STEP 2: Close Expense accounts to Income Summary                          │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -1058,7 +1058,7 @@ CLOSING ENTRIES
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   STEP 3: Close Income Summary to Retained Earnings                        │
+    │   STEP 3: Close Income Summary to Retained Earnings                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
@@ -1068,11 +1068,11 @@ CLOSING ENTRIES
     │   │  Retained Earnings           │ 4,000      │                         │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Note: Since Net Loss = $4,000, Retained Earnings is debited.            │
-    │   If Net Income, Retained Earnings would be credited.                     │
+    │   Note: Since Net Loss = $4,000, Retained Earnings is debited.              │
+    │   If Net Income, Retained Earnings would be credited.                       │
     │                                                                             │
     │                                                                             │
-    │   STEP 4: Close Dividends to Retained Earnings                            │
+    │   STEP 4: Close Dividends to Retained Earnings                              │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Account                     │ Debit ($)  │ Credit ($)              │   │
