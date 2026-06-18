@@ -1114,9 +1114,9 @@ DOUBLE-ENTRY ACCOUNTING FORMULAS
     │                                                                             │
     │   Return on Equity (ROE) = Net Income / Average Equity                      │
     │                                                                             │
-    │   Return on Assets (ROA) = Net Income / Average Assets                     │
+    │   Return on Assets (ROA) = Net Income / Average Assets                      │
     │                                                                             │
-    │   Debt-to-Equity Ratio = Total Liabilities / Total Equity                  │
+    │   Debt-to-Equity Ratio = Total Liabilities / Total Equity                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
