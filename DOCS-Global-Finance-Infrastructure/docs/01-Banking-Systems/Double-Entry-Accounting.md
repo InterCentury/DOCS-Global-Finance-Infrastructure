@@ -874,25 +874,25 @@ ACCRUAL VS CASH ACCOUNTING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FEATURE              │ ACCRUAL ACCOUNTING    │ CASH ACCOUNTING           │
-    │   ─────────────────────│───────────────────────│───────────────────────────│
-    │   Revenue Recognition  │ When earned           │ When cash received        │
-    │   ─────────────────────│───────────────────────│───────────────────────────│
-    │   Expense Recognition  │ When incurred         │ When cash paid            │
-    │   ─────────────────────│───────────────────────│───────────────────────────│
-    │   Matching Principle   │ Matches revenues to   │ No matching required      │
-    │                        │ expenses in same      │                           │
-    │                        │ period                │                           │
-    │   ─────────────────────│───────────────────────│───────────────────────────│
-    │   Timing Differences   │ Accruals and          │ No accruals               │
-    │                        │ deferrals             │                           │
-    │   ─────────────────────│───────────────────────│───────────────────────────│
-    │   Complexity           │ Complex               │ Simple                    │
-    │   ─────────────────────│───────────────────────│───────────────────────────│
-    │   Required by GAAP     │ Yes (for large       │ No (only small entities)   │
-    │                        │ entities)            │                           │
-    │   ─────────────────────│───────────────────────│───────────────────────────│
-    │   Used by Banks        │ Yes                   │ No                        │
+    │   FEATURE              │ ACCRUAL ACCOUNTING    │ CASH ACCOUNTING            │
+    │   ─────────────────────│───────────────────────│─────────────────────────── │
+    │   Revenue Recognition  │ When earned           │ When cash received         │
+    │   ─────────────────────│───────────────────────│─────────────────────────── │
+    │   Expense Recognition  │ When incurred         │ When cash paid             │
+    │   ─────────────────────│───────────────────────│─────────────────────────── │
+    │   Matching Principle   │ Matches revenues to   │ No matching required       │
+    │                        │ expenses in same      │                            │
+    │                        │ period                │                            │
+    │   ─────────────────────│───────────────────────│─────────────────────────── │
+    │   Timing Differences   │ Accruals and          │ No accruals                │
+    │                        │ deferrals             │                            │
+    │   ─────────────────────│───────────────────────│─────────────────────────── │
+    │   Complexity           │ Complex               │ Simple                     │
+    │   ─────────────────────│───────────────────────│─────────────────────────── │
+    │   Required by GAAP     │ Yes (for large        │ No (only small entities)   │
+    │                        │ entities)             │                            │
+    │   ─────────────────────│───────────────────────│─────────────────────────── │
+    │   Used by Banks        │ Yes                   │ No                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
