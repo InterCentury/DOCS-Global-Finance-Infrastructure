@@ -92,20 +92,20 @@ THREE TRANSFORMATIONS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   TRANSFORMATION 2: LIQUIDITY TRANSFORMATION                              │
+    │   TRANSFORMATION 2: LIQUIDITY TRANSFORMATION                                │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Loans are illiquid: Cannot be easily sold for cash               │   │
+    │   │   Loans are illiquid: Cannot be easily sold for cash                │   │
     │   │   Deposits are liquid: Can be withdrawn on demand                   │   │
     │   │                                                                     │   │
     │   │   Bank transforms illiquid loans into liquid deposits.              │   │
-    │   │   Depositors get liquidity. Borrowers get long-term funds.         │   │
+    │   │   Depositors get liquidity. Borrowers get long-term funds.          │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   TRANSFORMATION 3: RISK TRANSFORMATION                                   │
+    │   TRANSFORMATION 3: RISK TRANSFORMATION                                     │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
