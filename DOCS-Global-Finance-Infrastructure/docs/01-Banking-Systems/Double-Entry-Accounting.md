@@ -957,57 +957,57 @@ ACCOUNTING CYCLE FLOW
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   START: Transactions Occur                                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 1: Analyze Transactions                                             │
-    │   ├── Identify affected accounts                                           │
-    │   ├── Determine debit and credit effects                                   │
-    │   └── Verify accounting equation remains balanced                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Record Journal Entries (Journalizing)                           │
-    │   ├── Chronological record of transactions                                │
-    │   ├── Date, accounts, amounts, description                                 │
-    │   └── Documented with supporting evidence                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Post to General Ledger (Posting)                                │
-    │   ├── Transfer journal entries to ledger accounts                         │
-    │   ├── Update account balances                                              │
-    │   └── Creates T-accounts for each account                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: Prepare Unadjusted Trial Balance                                │
-    │   ├── List all accounts with balances                                     │
-    │   ├── Verify total debits = total credits                                 │
-    │   └── Identify any errors                                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: Record Adjusting Entries                                        │
-    │   ├── Accruals (revenue/expense not yet recorded)                         │
-    │   ├── Deferrals (prepaid/uneared items)                                   │
-    │   ├── Estimates (depreciation, loan losses)                               │
-    │   └── Required for accrual accounting                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 6: Prepare Adjusted Trial Balance                                  │
-    │   ├── After adjusting entries                                              │
-    │   ├── Verify debits = credits                                              │
-    │   └── Used to prepare financial statements                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 7: Prepare Financial Statements                                    │
-    │   ├── Income Statement (Revenue - Expenses = Net Income)                 │
-    │   ├── Statement of Retained Earnings                                      │
-    │   ├── Balance Sheet (Assets = Liabilities + Equity)                      │
-    │   └── Statement of Cash Flows                                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 8: Record Closing Entries                                          │
-    │   ├── Close revenue accounts to Income Summary                            │
-    │   ├── Close expense accounts to Income Summary                           │
-    │   ├── Close Income Summary to Retained Earnings                          │
-    │   └── Close Dividends to Retained Earnings                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 1: Analyze Transactions                                              │
+    │   ├── Identify affected accounts                                            │
+    │   ├── Determine debit and credit effects                                    │
+    │   └── Verify accounting equation remains balanced                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Record Journal Entries (Journalizing)                             │
+    │   ├── Chronological record of transactions                                  │
+    │   ├── Date, accounts, amounts, description                                  │
+    │   └── Documented with supporting evidence                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Post to General Ledger (Posting)                                  │
+    │   ├── Transfer journal entries to ledger accounts                           │
+    │   ├── Update account balances                                               │
+    │   └── Creates T-accounts for each account                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: Prepare Unadjusted Trial Balance                                  │
+    │   ├── List all accounts with balances                                       │
+    │   ├── Verify total debits = total credits                                   │
+    │   └── Identify any errors                                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: Record Adjusting Entries                                          │
+    │   ├── Accruals (revenue/expense not yet recorded)                           │
+    │   ├── Deferrals (prepaid/uneared items)                                     │
+    │   ├── Estimates (depreciation, loan losses)                                 │
+    │   └── Required for accrual accounting                                       │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 6: Prepare Adjusted Trial Balance                                    │
+    │   ├── After adjusting entries                                               │
+    │   ├── Verify debits = credits                                               │
+    │   └── Used to prepare financial statements                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 7: Prepare Financial Statements                                      │
+    │   ├── Income Statement (Revenue - Expenses = Net Income)                    │
+    │   ├── Statement of Retained Earnings                                        │
+    │   ├── Balance Sheet (Assets = Liabilities + Equity)                         │
+    │   └── Statement of Cash Flows                                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 8: Record Closing Entries                                            │
+    │   ├── Close revenue accounts to Income Summary                              │
+    │   ├── Close expense accounts to Income Summary                            │
+    │   ├── Close Income Summary to Retained Earnings                           │
+    │   └── Close Dividends to Retained Earnings                                 │
     │        │                                                                   │
     │        ▼                                                                   │
     │   STEP 9: Prepare Post-Closing Trial Balance                             │
