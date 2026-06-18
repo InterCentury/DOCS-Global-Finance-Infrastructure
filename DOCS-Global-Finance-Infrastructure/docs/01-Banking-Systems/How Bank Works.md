@@ -248,29 +248,29 @@ MONEY CREATION THROUGH LENDING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BEFORE LOAN:                                                             │
+    │   BEFORE LOAN:                                                              │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
     │   │  │ Reserves: $10,000           ││ │ Deposits: $100,000          │   │   │
     │   │  │ Loans: $0                   ││ │ Equity: $10,000             │   │   │
     │   │  └─────────────────────────────┘│ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Money supply (deposits) = $100,000                                       │
+    │   Money supply (deposits) = $100,000                                        │
     │                                                                             │
     │                                                                             │
-    │   BANK APPROVES $20,000 LOAN:                                              │
+    │   BANK APPROVES $20,000 LOAN:                                               │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
     │   │  │ Reserves: $10,000           ││ │ Deposits: $120,000          │   │   │
     │   │  │ Loans: $20,000 (new)        ││ │   (+$20,000 created)        │   │   │
     │   │  └─────────────────────────────┘│ │ Equity: $10,000             │   │   │
-    │   │                                │ └─────────────────────────────┘   │   │
+    │   │                                 │ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Money supply (deposits) = $120,000 (+$20,000 new money)                  │
+    │   Money supply (deposits) = $120,000 (+$20,000 new money)                   │
     │                                                                             │
     │   KEY INSIGHT: Banks create money through lending. No deposit             │
     │   is used. The loan creates a new deposit.                                │
