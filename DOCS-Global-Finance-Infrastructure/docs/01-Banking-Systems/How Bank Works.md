@@ -72,19 +72,19 @@ THREE TRANSFORMATIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TRANSFORMATION 1: MATURITY TRANSFORMATION                               │
+    │   TRANSFORMATION 1: MATURITY TRANSFORMATION                                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Depositors want short-term access:                                 │   │
+    │   │   Depositors want short-term access:                                │   │
     │   │   ├── Checking accounts (immediate withdrawal)                      │   │
     │   │   ├── Savings accounts (instant access)                             │   │
-    │   │   └── Short-term CDs (days to months)                              │   │
+    │   │   └── Short-term CDs (days to months)                               │   │
     │   │                                                                     │   │
     │   │   Borrowers want long-term funds:                                   │   │
     │   │   ├── Mortgages (15-30 years)                                       │   │
     │   │   ├── Business loans (5-10 years)                                   │   │
-    │   │   └── Equipment financing (3-7 years)                              │   │
+    │   │   └── Equipment financing (3-7 years)                               │   │
     │   │                                                                     │   │
     │   │   Bank transforms short-term deposits into long-term loans.         │   │
     │   │   This is the core function of banking.                             │   │
