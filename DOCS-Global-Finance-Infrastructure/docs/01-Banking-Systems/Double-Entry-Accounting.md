@@ -873,7 +873,6 @@ STATEMENT OF CASH FLOWS
 ACCRUAL VS CASH ACCOUNTING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   FEATURE              │ ACCRUAL ACCOUNTING    │ CASH ACCOUNTING            │
     │   ─────────────────────│───────────────────────│─────────────────────────── │
     │   Revenue Recognition  │ When earned           │ When cash received         │
@@ -893,7 +892,6 @@ ACCRUAL VS CASH ACCOUNTING
     │                        │ entities)             │                            │
     │   ─────────────────────│───────────────────────│─────────────────────────── │
     │   Used by Banks        │ Yes                   │ No                         │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
