@@ -36,21 +36,21 @@ BANK AS FINANCIAL INTERMEDIARY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │                    ┌─────────────────────────────────────┐                  │
-    │                    │                                     │                  │
-    │   ┌─────────────┐  │   ┌─────────────────────────────┐  │  ┌─────────────┐  │
-    │   │   SAVERS    │  │   │           BANK              │  │  │  BORROWERS  │  │
-    │   │(Depositors) │  │   │                             │  │  │             │  │
-    │   │             │──┼──►│  Deposits (Liabilities)     │──┼──►│ Loans       │  │
-    │   │  Households │  │   │  Loans (Assets)             │  │  │ (Principal  │  │
-    │   │  Businesses │  │   │  Net Interest Margin        │  │  │ + Interest) │  │
-    │   │  Government │  │   │  Fees and Services          │  │  │  Households │  │
-    │   └─────────────┘  │   └─────────────────────────────┘  │  │  Businesses │  │
-    │                    │                                     │  │  Government │  │
-    │                    └─────────────────────────────────────┘  └─────────────┘  │
+    │                  ┌─────────────────────────────────────┐                    │
+    │                  │                                     │                    │
+    │ ┌─────────────┐  │   ┌─────────────────────────────┐   │   ┌─────────────┐  │
+    │ │   SAVERS    │  │   │           BANK              │   │   │  BORROWERS  │  │
+    │ │(Depositors) │  │   │                             │   │   │             │  │
+    │ │             │──┼──►│  Deposits (Liabilities)     │───┼──►│ Loans       │  │
+    │ │  Households │  │   │  Loans (Assets)             │   │   │ (Principal  │  │
+    │ │  Businesses │  │   │  Net Interest Margin        │   │   │ + Interest) │  │
+    │ │  Government │  │   │  Fees and Services          │   │   │  Households │  │
+    │ └─────────────┘  │   └─────────────────────────────┘   │   │  Businesses │  │
+    │                  │                                     │   │  Government │  │
+    │                  └─────────────────────────────────────┘   └─────────────┘  │
     │                                                                             │
     │                                                                             │
-    │   KEY FLOWS:                                                               │
+    │   KEY FLOWS:                                                                │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Savers → Bank: Deposits (money flows in)                           │   │
