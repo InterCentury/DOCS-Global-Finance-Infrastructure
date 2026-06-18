@@ -285,37 +285,37 @@ LOAN APPROVAL PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: Application                                                      │
-    │   ├── Customer completes loan application                                 │
-    │   ├── Provides financial information                                      │
-    │   └── Specifies loan purpose                                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Credit Check                                                     │
-    │   ├── Pull credit report (FICO, VantageScore)                             │
-    │   ├── Check bankruptcy history                                             │
-    │   ├── Verify employment and income                                         │
-    │   └── Calculate debt-to-income ratio                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Underwriting (Five C's)                                          │
-    │   ├── Character: Credit history                                            │
-    │   ├── Capacity: Ability to repay                                           │
-    │   ├── Capital: Down payment/equity                                         │
-    │   ├── Collateral: Security for loan                                        │
-    │   └── Conditions: Purpose, economic environment                            │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: Decision                                                         │
-    │   ├── Approve (with conditions)                                            │
-    │   ├── Counter-offer (different terms)                                      │
-    │   └── Decline                                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: Closing                                                          │
-    │   ├── Sign loan documents                                                 │
-    │   ├── Funds disbursed to borrower's account                                │
-    │   └── New money created                                                    │
+    │   STEP 1: Application                                                       │
+    │   ├── Customer completes loan application                                   │
+    │   ├── Provides financial information                                        │
+    │   └── Specifies loan purpose                                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Credit Check                                                      │
+    │   ├── Pull credit report (FICO, VantageScore)                               │
+    │   ├── Check bankruptcy history                                              │
+    │   ├── Verify employment and income                                          │
+    │   └── Calculate debt-to-income ratio                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Underwriting (Five C's)                                           │
+    │   ├── Character: Credit history                                             │
+    │   ├── Capacity: Ability to repay                                            │
+    │   ├── Capital: Down payment/equity                                          │
+    │   ├── Collateral: Security for loan                                         │
+    │   └── Conditions: Purpose, economic environment                             │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: Decision                                                          │
+    │   ├── Approve (with conditions)                                             │
+    │   ├── Counter-offer (different terms)                                       │
+    │   └── Decline                                                               │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: Closing                                                           │
+    │   ├── Sign loan documents                                                   │
+    │   ├── Funds disbursed to borrower's account                                 │
+    │   └── New money created                                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
