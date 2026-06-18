@@ -109,7 +109,7 @@ THREE TRANSFORMATIONS
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Borrowers have credit risk: They might default                   │   │
+    │   │   Borrowers have credit risk: They might default                    │   │
     │   │   Depositors want safety: They want guaranteed returns              │   │
     │   │                                                                     │   │
     │   │   Bank transforms risky loans into safe deposits.                   │   │
