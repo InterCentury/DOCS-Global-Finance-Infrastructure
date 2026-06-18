@@ -768,7 +768,7 @@ BALANCE SHEET
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ABC BANK                                                                 │
+    │   ABC BANK                                                                  │
     │   Balance Sheet                                                             │
     │   As of June 30, 2024                                                       │
     │                                                                             │
@@ -786,28 +786,28 @@ BALANCE SHEET
     │   │  │   ├── Bank Premises                        $50,000               │   │
     │   │  │   └── Less: Acc. Depreciation             ($10,000)              │   │
     │   │  ├── Other Assets                             $5,000                │   │
-    │   │  │                                                                 │   │
+    │   │  │                                                                  │   │
     │   │  │  TOTAL ASSETS                              $306,350              │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
-    │   │  LIABILITIES                                                         │   │
+    │   │  LIABILITIES                                                        │   │
     │   │  ├── Deposits                                 $200,000              │   │
     │   │  ├── Borrowings                                $50,000              │   │
     │   │  ├── Accrued Expenses                          $2,000               │   │
     │   │  ├── Other Liabilities                         $1,350               │   │
-    │   │  │                                                                 │   │
+    │   │  │                                                                  │   │
     │   │  │  TOTAL LIABILITIES                          $253,350             │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
-    │   │  EQUITY                                                              │   │
+    │   │  EQUITY                                                             │   │
     │   │  ├── Share Capital                             $40,000              │   │
     │   │  ├── Retained Earnings (Beginning)             $15,000              │   │
     │   │  └── Net Loss (Current Period)                 ($4,000)             │   │
-    │   │  │                                                                 │   │
+    │   │  │                                                                  │   │
     │   │  │  TOTAL EQUITY                               $51,000              │   │
     │   │  ────────────────────────────────────────────────────────────────── │   │
     │   │                                                                     │   │
-    │   │  TOTAL LIABILITIES AND EQUITY                  $304,350              │   │
+    │   │  TOTAL LIABILITIES AND EQUITY                  $304,350             │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
