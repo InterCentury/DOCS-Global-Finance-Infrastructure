@@ -213,26 +213,26 @@ DEPOSIT TYPES AND CHARACTERISTICS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DEPOSIT TYPE       │ INTEREST   │ LIQUIDITY    │ COST TO BANK            │
-    │   ───────────────────│────────────│──────────────│─────────────────────────│
-    │   Checking (Demand)  │ 0-0.1%     │ Immediate    │ Lowest cost             │
-    │   (Non-interest)     │            │              │ (check processing fees) │
-    │   ───────────────────│────────────│──────────────│─────────────────────────│
-    │   Interest Checking  │ 0.1-0.5%   │ Immediate    │ Low cost                │
-    │   (NOW Accounts)     │            │              │                         │
-    │   ───────────────────│────────────│──────────────│─────────────────────────│
-    │   Savings Accounts   │ 0.5-2%     │ Immediate    │ Moderate cost           │
-    │   ───────────────────│────────────│──────────────│─────────────────────────│
-    │   Money Market       │ 1-3%       │ Limited      │ Moderate cost           │
-    │   Deposit Accounts   │            │ checks       │                         │
-    │   ───────────────────│────────────│──────────────│─────────────────────────│
-    │   Certificates of    │ 2-5%       │ Penalty for  │ Higher cost             │
-    │   Deposit (CDs)      │            │ early        │                         │
-    │                      │            │ withdrawal   │                         │
-    │   ───────────────────│────────────│──────────────│─────────────────────────│
-    │   Jumbo CDs (>$100k) │ 3-6%       │ Penalty for  │ Highest cost            │
-    │                      │            │ early        │                         │
-    │                      │            │ withdrawal   │                         │
+    │   DEPOSIT TYPE       │ INTEREST   │ LIQUIDITY    │ COST TO BANK             │
+    │   ───────────────────│────────────│──────────────│───────────────────────── │
+    │   Checking (Demand)  │ 0-0.1%     │ Immediate    │ Lowest cost              │
+    │   (Non-interest)     │            │              │ (check processing fees)  │
+    │   ───────────────────│────────────│──────────────│───────────────────────── │
+    │   Interest Checking  │ 0.1-0.5%   │ Immediate    │ Low cost                 │
+    │   (NOW Accounts)     │            │              │                          │
+    │   ───────────────────│────────────│──────────────│───────────────────────── │
+    │   Savings Accounts   │ 0.5-2%     │ Immediate    │ Moderate cost            │
+    │   ───────────────────│────────────│──────────────│───────────────────────── │
+    │   Money Market       │ 1-3%       │ Limited      │ Moderate cost            │
+    │   Deposit Accounts   │            │ checks       │                          │
+    │   ───────────────────│────────────│──────────────│───────────────────────── │
+    │   Certificates of    │ 2-5%       │ Penalty for  │ Higher cost              │
+    │   Deposit (CDs)      │            │ early        │                          │
+    │                      │            │ withdrawal   │                          │
+    │   ───────────────────│────────────│──────────────│───────────────────────── │
+    │   Jumbo CDs (>$100k) │ 3-6%       │ Penalty for  │ Highest cost             │
+    │                      │            │ early        │                          │
+    │                      │            │ withdrawal   │                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
