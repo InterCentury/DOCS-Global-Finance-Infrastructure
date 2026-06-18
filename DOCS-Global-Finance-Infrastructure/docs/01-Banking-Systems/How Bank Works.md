@@ -11,16 +11,16 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the complete banking business model                           │
-    │   Learn how banks accept deposits and make loans                           │
-    │   Study the money creation mechanism                                       │
-    │   Analyze interbank communication and settlement                           │
-    │   Examine payment processing and clearing systems                          │
-    │   Understand bank profitability and revenue sources                        │
-    │   Study bank risk management                                               │
-    │   Learn the role of central banks in banking                               │
-    │   Understand bank regulation and supervision                               │
-    │   Examine the future of banking                                            │
+    │   Understand the complete banking business model                            │
+    │   Learn how banks accept deposits and make loans                            │
+    │   Study the money creation mechanism                                        │
+    │   Analyze interbank communication and settlement                            │
+    │   Examine payment processing and clearing systems                           │
+    │   Understand bank profitability and revenue sources                         │
+    │   Study bank risk management                                                │
+    │   Learn the role of central banks in banking                                │
+    │   Understand bank regulation and supervision                                │
+    │   Examine the future of banking                                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
