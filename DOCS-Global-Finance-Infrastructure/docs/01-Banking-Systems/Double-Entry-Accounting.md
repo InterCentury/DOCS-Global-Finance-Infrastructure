@@ -1164,4 +1164,3 @@ DOUBLE-ENTRY ACCOUNTING FORMULAS
 20. Permanent accounts (assets, liabilities, equity) carry balances forward.
 
 *This documentation belongs to https://github.com/InterCentury*
-```
