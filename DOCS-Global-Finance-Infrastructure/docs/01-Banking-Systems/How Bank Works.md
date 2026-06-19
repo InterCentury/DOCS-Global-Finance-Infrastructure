@@ -598,22 +598,22 @@ BANK REVENUE SOURCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   REVENUE SOURCE 1: NET INTEREST INCOME (60-70% of revenue)               │
+    │   REVENUE SOURCE 1: NET INTEREST INCOME (60-70% of revenue)                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   Interest Earned (on assets)                                       │   │
-    │   │   ├── Loan interest: 6-12% depending on loan type                  │   │
-    │   │   ├── Securities interest: 3-5%                                    │   │
-    │   │   ├── Fed funds sold: 5-6%                                         │   │
-    │   │   └── Other earning assets: 4-8%                                   │   │
+    │   │   ├── Loan interest: 6-12% depending on loan type                   │   │
+    │   │   ├── Securities interest: 3-5%                                     │   │
+    │   │   ├── Fed funds sold: 5-6%                                          │   │
+    │   │   └── Other earning assets: 4-8%                                    │   │
     │   │                                                                     │   │
     │   │   Interest Paid (on liabilities)                                    │   │
-    │   │   ├── Deposit interest: 0-5% depending on product                  │   │
-    │   │   ├── Borrowing interest: 5-6%                                     │   │
-    │   │   └── Other interest: 4-8%                                         │   │
+    │   │   ├── Deposit interest: 0-5% depending on product                   │   │
+    │   │   ├── Borrowing interest: 5-6%                                      │   │
+    │   │   └── Other interest: 4-8%                                          │   │
     │   │                                                                     │   │
-    │   │   Net Interest Income = Interest Earned - Interest Paid            │   │
+    │   │   Net Interest Income = Interest Earned - Interest Paid             │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
