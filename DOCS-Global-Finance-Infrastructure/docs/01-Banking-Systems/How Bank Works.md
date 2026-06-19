@@ -470,29 +470,29 @@ CORRESPONDENT BANKING RELATIONSHIP
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   Community Bank (Small)                                            │   │
-    │   │   ├── No direct access to SWIFT                                    │   │
-    │   │   ├── No foreign currency accounts                                 │   │
-    │   │   └── No direct access to foreign payment systems                  │   │
+    │   │   ├── No direct access to SWIFT                                     │   │
+    │   │   ├── No foreign currency accounts                                  │   │
+    │   │   └── No direct access to foreign payment systems                   │   │
     │   │                                                                     │   │
-    │   │                    │                                               │   │
-    │   │                    │ Correspondent relationship                    │   │
-    │   │                    │ (Nostro account)                              │   │
-    │   │                    ▼                                               │   │
+    │   │                    │                                                │   │
+    │   │                    │ Correspondent relationship                     │   │
+    │   │                    │ (Nostro account)                               │   │
+    │   │                    ▼                                                │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │   │                                                              │   │   │
-    │   │   │   Correspondent Bank (Large)                                 │   │   │
-    │   │   │   ├── SWIFT member                                           │   │   │
-    │   │   │   ├── Holds USD, EUR, GBP accounts                           │   │   │
+    │   │   │                                                             │   │   │
+    │   │   │   Correspondent Bank (Large)                                │   │   │
+    │   │   │   ├── SWIFT member                                          │   │   │
+    │   │   │   ├── Holds USD, EUR, GBP accounts                          │   │   │
     │   │   │   ├── Direct access to Fedwire, TARGET2, CHAPS              │   │   │
-    │   │   │   └── Serves 1,000+ community banks                          │   │   │
-    │   │   │                                                              │   │   │
+    │   │   │   └── Serves 1,000+ community banks                         │   │   │
+    │   │   │                                                             │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   NOSTRO ACCOUNT: Account held by local bank at correspondent bank        │
-    │   VOSTRO ACCOUNT: Account held by correspondent bank at local bank        │
+    │   NOSTRO ACCOUNT: Account held by local bank at correspondent bank          │
+    │   VOSTRO ACCOUNT: Account held by correspondent bank at local bank          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
