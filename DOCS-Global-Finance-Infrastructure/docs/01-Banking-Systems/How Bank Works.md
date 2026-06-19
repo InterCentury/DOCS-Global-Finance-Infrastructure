@@ -681,13 +681,13 @@ NET INTEREST MARGIN CALCULATION
     │   │  Total Interest-Bearing Liabilities      │ $700M   │                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Interest Expense = ($600M × 2%) + ($100M × 5%) = $17M                    │
-    │   Cost of Funds = $17M / $700M = 2.43%                                     │
+    │   Interest Expense = ($600M × 2%) + ($100M × 5%) = $17M                     │
+    │   Cost of Funds = $17M / $700M = 2.43%                                      │
     │                                                                             │
-    │   Net Interest Income = $48M - $17M = $31M                                 │
-    │   Net Interest Margin = $31M / $800M = 3.88%                               │
+    │   Net Interest Income = $48M - $17M = $31M                                  │
+    │   Net Interest Margin = $31M / $800M = 3.88%                                │
     │                                                                             │
-    │   Industry average NIM: 3.0-4.5% (varies by bank size, business model)    │
+    │   Industry average NIM: 3.0-4.5% (varies by bank size, business model)      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
