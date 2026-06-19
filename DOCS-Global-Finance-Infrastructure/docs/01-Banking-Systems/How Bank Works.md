@@ -1125,4 +1125,3 @@ BANK OPERATIONS FORMULAS
 20. Banks are the engine of the modern economy. They create money, process payments, and allocate capital.
 
 *This documentation belongs to https://github.com/InterCentury*
-```
