@@ -508,28 +508,28 @@ PAYMENT PROCESSING: DEBIT CARD TRANSACTION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER BUYS $100 OF GROCERIES WITH DEBIT CARD                         │
+    │   CUSTOMER BUYS $100 OF GROCERIES WITH DEBIT CARD                           │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   STEP 1: Authorization                                            │   │
-    │   │   ├── Customer swipes card at POS                                  │   │
-    │   │   ├── Merchant terminal sends to acquirer                          │   │
+    │   │   STEP 1: Authorization                                             │   │
+    │   │   ├── Customer swipes card at POS                                   │   │
+    │   │   ├── Merchant terminal sends to acquirer                           │   │
     │   │   ├── Acquirer sends to card network (Visa/Mastercard)              │   │
-    │   │   ├── Card network sends to issuing bank                           │   │
-    │   │   ├── Issuing bank verifies funds and sends approval               │   │
-    │   │   └── Authorization flows back to terminal                         │   │
+    │   │   ├── Card network sends to issuing bank                            │   │
+    │   │   ├── Issuing bank verifies funds and sends approval                │   │
+    │   │   └── Authorization flows back to terminal                          │   │
     │   │                                                                     │   │
     │   │   STEP 2: Clearing                                                  │   │
     │   │   ├── Merchant submits batch of transactions                        │   │
-    │   │   ├── Acquirer sends clearing file to card network                 │   │
-    │   │   ├── Card network distributes to issuing banks                    │   │
+    │   │   ├── Acquirer sends clearing file to card network                  │   │
+    │   │   ├── Card network distributes to issuing banks                     │   │
     │   │   └── Issuing banks verify and accept                               │   │
     │   │                                                                     │   │
     │   │   STEP 3: Settlement                                                │   │
-    │   │   ├── Card network calculates net positions                        │   │
-    │   │   ├── Issues settlement instructions to banks                      │   │
-    │   │   ├── Issuing banks transfer funds to acquirers                   │   │
+    │   │   ├── Card network calculates net positions                         │   │
+    │   │   ├── Issues settlement instructions to banks                       │   │
+    │   │   ├── Issuing banks transfer funds to acquirers                     │   │
     │   │   └── Acquirers credit merchant accounts                            │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
