@@ -618,7 +618,7 @@ BANK REVENUE SOURCES
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   REVENUE SOURCE 2: NON-INTEREST INCOME (30-40% of revenue)               │
+    │   REVENUE SOURCE 2: NON-INTEREST INCOME (30-40% of revenue)                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
