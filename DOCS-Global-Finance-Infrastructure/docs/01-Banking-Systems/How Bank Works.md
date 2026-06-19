@@ -331,18 +331,18 @@ INTERBANK COMMUNICATION CHANNELS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CHANNEL 1: SWIFT (Society for Worldwide Interbank Financial              │
+    │   CHANNEL 1: SWIFT (Society for Worldwide Interbank Financial               │
     │   Telecommunication)                                                        │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   ┌─────────────┐     ┌─────────────────┐     ┌─────────────┐      │   │
-    │   │   │   Bank A    │────►│  SWIFT Network  │────►│   Bank B    │      │   │
-    │   │   │   (Sender)  │     │   (Secure      │     │ (Receiver)  │      │   │
-    │   │   │             │◄────│    Messaging)   │◄────│             │      │   │
-    │   │   └─────────────┘     └─────────────────┘     └─────────────┘      │   │
+    │   │   ┌─────────────┐     ┌─────────────────┐     ┌─────────────┐       │   │
+    │   │   │   Bank A    │────►│  SWIFT Network  │────►│   Bank B    │       │   │
+    │   │   │   (Sender)  │     │   (Secure       │     │ (Receiver)  │       │   │
+    │   │   │             │◄────│    Messaging)   │◄────│             │       │   │
+    │   │   └─────────────┘     └─────────────────┘     └─────────────┘       │   │
     │   │                                                                     │   │
-    │   │   Uses: Payment instructions, trade confirmations, messages        │   │
+    │   │   Uses: Payment instructions, trade confirmations, messages         │   │
     │   │   Format: ISO 20022 (modern), MT messages (legacy)                  │   │
     │   │   Security: PKI encryption, authentication                          │   │
     │   │                                                                     │   │
