@@ -657,21 +657,21 @@ NET INTEREST MARGIN CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: NIM = (Interest Income - Interest Expense) / Earning Assets     │
+    │   FORMULA: NIM = (Interest Income - Interest Expense) / Earning Assets      │
     │                                                                             │
-    │   EXAMPLE BANK:                                                            │
+    │   EXAMPLE BANK:                                                             │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Assets (Earning)                         Amount   Yield            │   │
+    │   │  Assets (Earning)                        │Amount   │Yield           │   │
     │   │  ────────────────────────────────────────│─────────│────────────────│   │
-    │   │  Loans                                     $500M    7.0%            │   │
-    │   │  Securities                                 $200M    4.0%            │   │
-    │   │  Other earning assets                       $100M    5.0%            │   │
-    │   │  Total Earning Assets                      $800M                     │   │
+    │   │  Loans                                   │ $500M   │7.0%            │   │
+    │   │  Securities                              │ $200M   │4.0%            │   │
+    │   │  Other earning assets                    │ $100M   │5.0%            │   │
+    │   │  Total Earning Assets                    │ $800M   │                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Interest Income = ($500M × 7%) + ($200M × 4%) + ($100M × 5%) = $48M      │
-    │   Yield on Earning Assets = $48M / $800M = 6.0%                            │
+    │   Interest Income = ($500M × 7%) + ($200M × 4%) + ($100M × 5%) = $48M       │
+    │   Yield on Earning Assets = $48M / $800M = 6.0%                             │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Liabilities (Interest-bearing)          Amount   Rate              │   │
