@@ -799,25 +799,25 @@ CAPITAL REQUIREMENTS (Basel III)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CAPITAL TIERS:                                                           │
+    │   CAPITAL TIERS:                                                            │
     │                                                                             │
-    │   Common Equity Tier 1 (CET1)                                              │
+    │   Common Equity Tier 1 (CET1)                                               │
     │   ├── Highest quality capital                                               │
-    │   ├── Common shares + retained earnings                                    │
-    │   └── Minimum: 4.5% of Risk-Weighted Assets (RWA)                         │
+    │   ├── Common shares + retained earnings                                     │
+    │   └── Minimum: 4.5% of Risk-Weighted Assets (RWA)                           │
     │                                                                             │
-    │   Additional Tier 1 (AT1)                                                  │
-    │   ├── Preferred stock, contingent convertible bonds (CoCos)               │
-    │   └── Minimum: 1.5% of RWA                                                 │
+    │   Additional Tier 1 (AT1)                                                   │
+    │   ├── Preferred stock, contingent convertible bonds (CoCos)                 │
+    │   └── Minimum: 1.5% of RWA                                                  │
     │                                                                             │
-    │   Tier 2 Capital                                                           │
-    │   ├── Subordinated debt, loan loss reserves (limited)                      │
-    │   └── Minimum: 2.0% of RWA                                                 │
+    │   Tier 2 Capital                                                            │
+    │   ├── Subordinated debt, loan loss reserves (limited)                       │
+    │   └── Minimum: 2.0% of RWA                                                  │
     │                                                                             │
-    │   Total Capital Requirement = 8.0% of RWA (minimum)                       │
-    │   Plus buffers: Capital Conservation (2.5%), Countercyclical (0-2.5%)      │
+    │   Total Capital Requirement = 8.0% of RWA (minimum)                         │
+    │   Plus buffers: Capital Conservation (2.5%), Countercyclical (0-2.5%)       │
     │                                                                             │
-    │   Typical Total Capital for well-capitalized bank: 10-15% of RWA          │
+    │   Typical Total Capital for well-capitalized bank: 10-15% of RWA            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
