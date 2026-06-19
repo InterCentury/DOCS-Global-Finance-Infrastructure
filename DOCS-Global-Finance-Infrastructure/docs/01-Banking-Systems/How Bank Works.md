@@ -442,18 +442,18 @@ CROSS-BORDER PAYMENT PROCESS (USD Transfer)
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DIAGRAM:                                                                 │
+    │   DIAGRAM:                                                                  │
     │                                                                             │
-    │   ┌─────────────┐  SWIFT     ┌─────────────────┐  Fedwire   ┌─────────────┐│
-    │   │  UK Bank    │───────────►│ US Correspondent │───────────►│   US Bank   ││
-    │   │             │  MT103     │      Bank        │  Reserve   │             ││
-    │   │  (Sender)   │◄───────────│                  │◄───────────│  (Receiver) ││
-    │   └─────────────┘            └─────────────────┘            └─────────────┘│
-    │        │                           │                           │           │
-    │        │ Debit                     │ Nostro/Vostro             │ Credit    │
-    │        ▼                           ▼                           ▼           │
-    │   Customer A                                                  Customer B   │
-    │   (Payer)                                                    (Payee)      │
+    │   ┌─────────────┐  SWIFT     ┌─────────────────┐  Fedwire   ┌─────────────┐ │
+    │   │  UK Bank    │───────────►│ US Correspondent│───────────►│   US Bank   │ │
+    │   │             │  MT103     │      Bank       │  Reserve   │             │ │
+    │   │  (Sender)   │◄───────────│                 │◄───────────│  (Receiver) │ │
+    │   └─────────────┘            └─────────────────┘            └─────────────┘ │
+    │        │                           │                           │            │
+    │        │ Debit                     │ Nostro/Vostro             │ Credit     │
+    │        ▼                           ▼                           ▼            │
+    │   Customer A                                                  Customer B    │
+    │   (Payer)                                                    (Payee)        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
