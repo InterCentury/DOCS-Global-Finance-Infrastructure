@@ -562,15 +562,15 @@ SETTLEMENT FINALITY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   SETTLEMENT FINALITY: The point at which a payment becomes               │
-    │   irrevocable and cannot be reversed.                                      │
+    │   SETTLEMENT FINALITY: The point at which a payment becomes                 │
+    │   irrevocable and cannot be reversed.                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   RTGS Settlement (Fedwire, TARGET2)                                │   │
     │   │   ├── Finality: Immediate                                           │   │
     │   │   ├── Risk: None (central bank reserves)                            │   │
-    │   │   └── Legal: Irrevocable upon settlement                           │   │
+    │   │   └── Legal: Irrevocable upon settlement                            │   │
     │   │                                                                     │   │
     │   │   ACH Settlement (Batch)                                            │   │
     │   │   ├── Finality: End of day                                          │   │
@@ -580,7 +580,7 @@ SETTLEMENT FINALITY
     │   │   Card Settlement (Visa/Mastercard)                                 │   │
     │   │   ├── Finality: 1-3 days                                            │   │
     │   │   ├── Risk: Chargebacks possible                                    │   │
-    │   │   └── Legal: Reversible for 60-120 days                            │   │
+    │   │   └── Legal: Reversible for 60-120 days                             │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
