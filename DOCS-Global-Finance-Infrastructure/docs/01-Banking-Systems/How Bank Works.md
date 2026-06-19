@@ -389,7 +389,7 @@ INTERBANK COMMUNICATION CHANNELS
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │   │   Country        │ System Name    │ Operator                │   │   │
+    │   │   │   Country       │ System Name    │ Operator                 │   │   │
     │   │   │   ──────────────│────────────────│──────────────────────────│   │   │
     │   │   │   United States │ Fedwire        │ Federal Reserve          │   │   │
     │   │   │   Eurozone      │ TARGET2        │ Eurosystem               │   │   │
