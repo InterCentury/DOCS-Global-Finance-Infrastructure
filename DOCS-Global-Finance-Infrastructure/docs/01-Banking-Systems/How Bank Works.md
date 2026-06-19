@@ -762,29 +762,29 @@ BANK RISK TYPES AND MITIGATION
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   RISK 3: MARKET RISK (Changes in interest rates, FX, asset prices)       │
+    │   RISK 3: MARKET RISK (Changes in interest rates, FX, asset prices)         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Mitigation:                                                         │   │
-    │   │  ├── Interest rate hedging (swaps, futures)                          │   │
-    │   │  ├── Asset-liability management (ALM)                                │   │
-    │   │  ├── Gap analysis (rate-sensitive assets vs liabilities)             │   │
-    │   │  ├── Duration matching                                               │   │
+    │   │  Mitigation:                                                        │   │
+    │   │  ├── Interest rate hedging (swaps, futures)                         │   │
+    │   │  ├── Asset-liability management (ALM)                               │   │
+    │   │  ├── Gap analysis (rate-sensitive assets vs liabilities)            │   │
+    │   │  ├── Duration matching                                              │   │
     │   │  ├── Value at Risk (VaR) limits                                     │   │
-    │   │  └── Stress testing                                                  │   │
+    │   │  └── Stress testing                                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   RISK 4: OPERATIONAL RISK (Internal failures, fraud, systems)            │
+    │   RISK 4: OPERATIONAL RISK (Internal failures, fraud, systems)              │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Mitigation:                                                         │   │
+    │   │  Mitigation:                                                        │   │
     │   │  ├── Internal controls and segregation of duties                    │   │
     │   │  ├── Cybersecurity measures                                         │   │
-    │   │  ├── Business continuity planning                                    │   │
+    │   │  ├── Business continuity planning                                   │   │
     │   │  ├── Employee training                                              │   │
-    │   │  ├── Insurance coverage                                              │   │
-    │   │  └── Regular audits                                                  │   │
+    │   │  ├── Insurance coverage                                             │   │
+    │   │  └── Regular audits                                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
