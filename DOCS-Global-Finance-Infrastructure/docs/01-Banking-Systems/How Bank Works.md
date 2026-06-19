@@ -410,32 +410,32 @@ CROSS-BORDER PAYMENT PROCESS (USD Transfer)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER IN UK SENDS $10,000 TO CUSTOMER IN US                          │
+    │   CUSTOMER IN UK SENDS $10,000 TO CUSTOMER IN US                            │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   STEP 1: UK Customer initiates transfer at UK Bank                │   │
-    │   │   ├── Provides US bank details (ABA routing #, account #)          │   │
+    │   │   STEP 1: UK Customer initiates transfer at UK Bank                 │   │
+    │   │   ├── Provides US bank details (ABA routing #, account #)           │   │
     │   │   ├── Approves $10,000 + $50 fee                                    │   │
     │   │   └── UK Bank debits customer account                               │   │
     │   │                                                                     │   │
     │   │   STEP 2: UK Bank sends SWIFT MT103 message                         │   │
-    │   │   ├── To: US Correspondent Bank (or direct to US Bank)             │   │
+    │   │   ├── To: US Correspondent Bank (or direct to US Bank)              │   │
     │   │   ├── Via: SWIFT network                                            │   │
     │   │   └── Contains: Amount, Beneficiary, Originator                     │   │
     │   │                                                                     │   │
     │   │   STEP 3: Correspondent Banking                                     │   │
-    │   │   ├── UK Bank debits its nostro account at US Correspondent        │   │
-    │   │   ├── US Correspondent credits US Bank's account                   │   │
-    │   │   └── US Correspondent sends MT103 to US Bank                      │   │
+    │   │   ├── UK Bank debits its nostro account at US Correspondent         │   │
+    │   │   ├── US Correspondent credits US Bank's account                    │   │
+    │   │   └── US Correspondent sends MT103 to US Bank                       │   │
     │   │                                                                     │   │
     │   │   STEP 4: US Bank processes incoming payment                        │   │
-    │   │   ├── Verify MT103 message                                           │   │
+    │   │   ├── Verify MT103 message                                          │   │
     │   │   ├── Credit customer's account                                     │   │
     │   │   └── Send confirmation                                             │   │
     │   │                                                                     │   │
     │   │   STEP 5: Settlement                                                │   │
-    │   │   ├── Via Fedwire: UK Bank's correspondent sends USD               │   │
+    │   │   ├── Via Fedwire: UK Bank's correspondent sends USD                │   │
     │   │   │   to US Bank's correspondent                                    │   │
     │   │   └── Final settlement in central bank reserves                     │   │
     │   │                                                                     │   │
