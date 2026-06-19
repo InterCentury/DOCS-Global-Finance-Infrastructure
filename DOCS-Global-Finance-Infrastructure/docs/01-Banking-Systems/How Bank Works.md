@@ -384,18 +384,18 @@ INTERBANK COMMUNICATION CHANNELS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   CHANNEL 4: Fedwire / CHAPS / TARGET2 (RTGS Systems)                     │
+    │   CHANNEL 4: Fedwire / CHAPS / TARGET2 (RTGS Systems)                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │   │   Country        │ System Name    │ Operator                 │   │   │
+    │   │   │   Country        │ System Name    │ Operator                │   │   │
     │   │   │   ──────────────│────────────────│──────────────────────────│   │   │
-    │   │   │   United States │ Fedwire        │ Federal Reserve           │   │   │
-    │   │   │   Eurozone      │ TARGET2        │ Eurosystem                │   │   │
-    │   │   │   United Kingdom│ CHAPS          │ Bank of England           │   │   │
-    │   │   │   Japan         │ BOJ-NET        │ Bank of Japan             │   │   │
-    │   │   │   China         │ CNAPS          │ People's Bank of China    │   │   │
+    │   │   │   United States │ Fedwire        │ Federal Reserve          │   │   │
+    │   │   │   Eurozone      │ TARGET2        │ Eurosystem               │   │   │
+    │   │   │   United Kingdom│ CHAPS          │ Bank of England          │   │   │
+    │   │   │   Japan         │ BOJ-NET        │ Bank of Japan            │   │   │
+    │   │   │   China         │ CNAPS          │ People's Bank of China   │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
