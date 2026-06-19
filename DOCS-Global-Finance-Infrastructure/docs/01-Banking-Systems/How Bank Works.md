@@ -674,11 +674,11 @@ NET INTEREST MARGIN CALCULATION
     │   Yield on Earning Assets = $48M / $800M = 6.0%                             │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Liabilities (Interest-bearing)          Amount   Rate              │   │
+    │   │  Liabilities (Interest-bearing)          │Amount   │Rate            │   │
     │   │  ────────────────────────────────────────│─────────│────────────────│   │
-    │   │  Deposits                                  $600M    2.0%            │   │
-    │   │  Borrowings                                 $100M    5.0%            │   │
-    │   │  Total Interest-Bearing Liabilities        $700M                     │   │
+    │   │  Deposits                                │ $600M   │2.0%            │   │
+    │   │  Borrowings                              │ $100M   │5.0%            │   │
+    │   │  Total Interest-Bearing Liabilities      │ $700M   │                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   Interest Expense = ($600M × 2%) + ($100M × 5%) = $17M                    │
