@@ -701,26 +701,26 @@ EFFICIENCY RATIO
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: Efficiency Ratio = Non-Interest Expense / Revenue               │
+    │   FORMULA: Efficiency Ratio = Non-Interest Expense / Revenue                │
     │                                                                             │
-    │   Non-Interest Expense includes:                                           │
-    │   ├── Personnel costs (salaries, benefits, bonuses)                        │
-    │   ├── Occupancy costs (rent, utilities, maintenance)                       │
-    │   ├── Technology costs (hardware, software, IT staff)                      │
-    │   ├── Marketing and advertising                                            │
-    │   ├── Legal and compliance                                                 │
-    │   └── Other operating expenses                                             │
+    │   Non-Interest Expense includes:                                            │
+    │   ├── Personnel costs (salaries, benefits, bonuses)                         │
+    │   ├── Occupancy costs (rent, utilities, maintenance)                        │
+    │   ├── Technology costs (hardware, software, IT staff)                       │
+    │   ├── Marketing and advertising                                             │
+    │   ├── Legal and compliance                                                  │
+    │   └── Other operating expenses                                              │
     │                                                                             │
-    │   EXAMPLE:                                                                 │
+    │   EXAMPLE:                                                                  │
     │                                                                             │
-    │   Non-Interest Expense = $20 million                                       │
-    │   Revenue (Net Interest Income + Non-Interest Income) = $40 million        │
-    │   Efficiency Ratio = $20M / $40M = 50%                                    │
+    │   Non-Interest Expense = $20 million                                        │
+    │   Revenue (Net Interest Income + Non-Interest Income) = $40 million         │
+    │   Efficiency Ratio = $20M / $40M = 50%                                      │
     │                                                                             │
-    │   Lower is better:                                                         │
-    │   ├── 50-60%: Good, well-managed bank                                     │
-    │   ├── 60-70%: Average                                                     │
-    │   └── >70%: Inefficient, cost pressures                                   │
+    │   Lower is better:                                                          │
+    │   ├── 50-60%: Good, well-managed bank                                       │
+    │   ├── 60-70%: Average                                                       │
+    │   └── >70%: Inefficient, cost pressures                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
