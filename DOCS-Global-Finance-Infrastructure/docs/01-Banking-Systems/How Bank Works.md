@@ -1,4 +1,4 @@
-# 08 - How Banks Work
+# How Banks Work
 
 ## Documentation Overview
 
