@@ -1046,32 +1046,32 @@ BANK OPERATIONS FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Net Interest Income = Interest Income - Interest Expense                 │
+    │   Net Interest Income = Interest Income - Interest Expense                  │
     │                                                                             │
-    │   Net Interest Margin = NII / Average Earning Assets                       │
+    │   Net Interest Margin = NII / Average Earning Assets                        │
     │                                                                             │
-    │   Efficiency Ratio = Non-Interest Expense / Revenue                        │
+    │   Efficiency Ratio = Non-Interest Expense / Revenue                         │
     │                                                                             │
-    │   Return on Assets = Net Income / Average Total Assets                     │
+    │   Return on Assets = Net Income / Average Total Assets                      │
     │                                                                             │
-    │   Return on Equity = Net Income / Average Equity                           │
+    │   Return on Equity = Net Income / Average Equity                            │
     │                                                                             │
-    │   Loan Loss Reserve = Estimated Expected Losses on Loans                   │
+    │   Loan Loss Reserve = Estimated Expected Losses on Loans                    │
     │                                                                             │
-    │   Capital Ratio (CET1) = CET1 Capital / Risk-Weighted Assets               │
+    │   Capital Ratio (CET1) = CET1 Capital / Risk-Weighted Assets                │
     │                                                                             │
-    │   Liquidity Coverage Ratio = HQLA / Net Cash Outflows (30 days)            │
+    │   Liquidity Coverage Ratio = HQLA / Net Cash Outflows (30 days)             │
     │                                                                             │
-    │   Net Stable Funding Ratio = Available Stable Funding / Required Stable    │
-    │   Funding                                                                  │
+    │   Net Stable Funding Ratio = Available Stable Funding / Required Stable     │
+    │   Funding                                                                   │
     │                                                                             │
-    │   Loan-to-Deposit Ratio = Total Loans / Total Deposits                     │
+    │   Loan-to-Deposit Ratio = Total Loans / Total Deposits                      │
     │                                                                             │
-    │   Tier 1 Leverage Ratio = Tier 1 Capital / Average Total Assets            │
+    │   Tier 1 Leverage Ratio = Tier 1 Capital / Average Total Assets             │
     │                                                                             │
-    │   Gap (Rate Sensitivity) = RSA - RSL                                       │
+    │   Gap (Rate Sensitivity) = RSA - RSL                                        │
     │                                                                             │
-    │   Change in NII = Gap × ΔInterest Rate                                     │
+    │   Change in NII = Gap × ΔInterest Rate                                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
