@@ -1008,20 +1008,20 @@ COMPLETE BANK OPERATIONS CYCLE
     │   │        │                                                            │   │
     │   │        ▼                                                            │   │
     │   │   Bank manages risks                                                │   │
-    │   │   ├── Credit: Underwriting, monitoring, reserves                  │   │
-    │   │   ├── Liquidity: Asset buffer, funding sources                    │   │
-    │   │   ├── Market: Hedging, ALM                                        │   │
-    │   │   └── Operational: Controls, cybersecurity                        │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank complies with regulation                                    │   │
-    │   │   ├── Capital requirements (Basel III)                           │   │
-    │   │   ├── Examinations (CAMELS)                                      │   │
-    │   │   ├── Consumer protection (CFPB)                                 │   │
-    │   │   └── Anti-money laundering (AML)                               │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank reports to stakeholders                                     │   │
+    │   │   ├── Credit: Underwriting, monitoring, reserves                    │   │
+    │   │   ├── Liquidity: Asset buffer, funding sources                      │   │
+    │   │   ├── Market: Hedging, ALM                                          │   │
+    │   │   └── Operational: Controls, cybersecurity                          │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank complies with regulation                                     │   │
+    │   │   ├── Capital requirements (Basel III)                              │   │
+    │   │   ├── Examinations (CAMELS)                                         │   │
+    │   │   ├── Consumer protection (CFPB)                                    │   │
+    │   │   └── Anti-money laundering (AML)                                   │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank reports to stakeholders                                      │   │
     │   │   ├── Financial statements (GAAP)                                 │   │
     │   │   ├── Regulatory reports                                           │   │
     │   │   └── Shareholder reports                                          │   │
