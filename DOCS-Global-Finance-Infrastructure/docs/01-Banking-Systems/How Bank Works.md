@@ -1022,17 +1022,17 @@ COMPLETE BANK OPERATIONS CYCLE
     │   │        │                                                            │   │
     │   │        ▼                                                            │   │
     │   │   Bank reports to stakeholders                                      │   │
-    │   │   ├── Financial statements (GAAP)                                 │   │
-    │   │   ├── Regulatory reports                                           │   │
-    │   │   └── Shareholder reports                                          │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank distributes profits                                         │   │
-    │   │   ├── Retained earnings (build capital)                           │   │
-    │   │   └── Dividends (return to shareholders)                           │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Cycle continues                                                  │   │
+    │   │   ├── Financial statements (GAAP)                                   │   │
+    │   │   ├── Regulatory reports                                            │   │
+    │   │   └── Shareholder reports                                           │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank distributes profits                                          │   │
+    │   │   ├── Retained earnings (build capital)                             │   │
+    │   │   └── Dividends (return to shareholders)                            │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Cycle continues                                                   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
