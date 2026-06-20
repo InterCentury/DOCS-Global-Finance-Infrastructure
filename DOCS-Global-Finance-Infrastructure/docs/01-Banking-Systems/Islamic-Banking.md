@@ -154,20 +154,20 @@ RISK-SHARING VS RISK-TRANSFER
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   ISLAMIC BANKING (Risk-Sharing)                                           │
+    │   ISLAMIC BANKING (Risk-Sharing)                                            │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Bank invests in venture (equity partnership)                     │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   If venture succeeds: Share profits proportionally               │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   If venture fails: Share losses proportionally                   │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Both bank and customer share risk and reward                    │   │
+    │   │   Bank invests in venture (equity partnership)                      │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   If venture succeeds: Share profits proportionally                 │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   If venture fails: Share losses proportionally                     │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Both bank and customer share risk and reward                      │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
