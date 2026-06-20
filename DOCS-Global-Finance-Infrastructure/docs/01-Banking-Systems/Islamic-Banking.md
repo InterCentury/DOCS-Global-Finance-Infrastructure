@@ -99,15 +99,15 @@ CORE PROHIBITIONS IN ISLAMIC FINANCE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   PROHIBITION 3: MAYSIR (Gambling / Speculation)                          │
+    │   PROHIBITION 3: MAYSIR (Gambling / Speculation)                            │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Transactions where profit depends on chance rather than         │   │
-    │   │   productive effort.                                               │   │
+    │   │   Transactions where profit depends on chance rather than           │   │
+    │   │   productive effort.                                                │   │
     │   │                                                                     │   │
-    │   │   Examples: Gambling, betting, lottery, pure speculation on       │   │
-    │   │   derivatives (where no underlying asset is transferred).          │   │
+    │   │   Examples: Gambling, betting, lottery, pure speculation on         │   │
+    │   │   derivatives (where no underlying asset is transferred).           │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
