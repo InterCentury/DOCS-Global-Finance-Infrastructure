@@ -868,11 +868,11 @@ BANK-CENTRAL BANK INTERACTION
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                     COMMERCIAL BANK                                  │   │
+    │   │                     COMMERCIAL BANK                                 │   │
     │   │                                                                     │   │
-    │   │   Holds reserves at central bank                                   │   │
+    │   │   Holds reserves at central bank                                    │   │
     │   │   Borrows from central bank (discount window)                       │   │
-    │   │   Sends payments through central bank RTGS                         │   │
+    │   │   Sends payments through central bank RTGS                          │   │
     │   │   Complies with central bank regulations                            │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
