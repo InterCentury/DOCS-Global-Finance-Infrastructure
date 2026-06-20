@@ -980,18 +980,18 @@ COMPLETE BANK OPERATIONS CYCLE
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   START: Depositors bring money to bank                            │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
+    │   │   START: Depositors bring money to bank                             │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
     │   │   Bank accepts deposits (creates liabilities)                       │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank holds reserves (vault cash + central bank deposits)         │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank makes loans (creates new deposits, new money)               │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank holds reserves (vault cash + central bank deposits)          │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank makes loans (creates new deposits, new money)                │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
     │   │   Borrowers spend money                                             │   │
     │   │        │                                                           │   │
     │   │        ▼                                                           │   │
