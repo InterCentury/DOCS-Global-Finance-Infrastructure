@@ -914,22 +914,22 @@ BANK REGULATORY BODIES (US Example)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   REGULATOR                    │ PRIMARY RESPONSIBILITY                    │
+    │   REGULATOR                    │ PRIMARY RESPONSIBILITY                     │
     │   ─────────────────────────────│────────────────────────────────────────────│
-    │   Federal Reserve (Fed)        │ Bank holding companies, state member      │
-    │                               │ banks, monetary policy, lender of last     │
-    │                               │ resort                                     │
+    │   Federal Reserve (Fed)        │ Bank holding companies, state member       │
+    │                                │ banks, monetary policy, lender of last     │
+    │                                │ resort                                     │
     │   ─────────────────────────────│────────────────────────────────────────────│
-    │   Office of the Comptroller    │ National banks and federal savings        │
-    │   of the Currency (OCC)        │ associations                              │
+    │   Office of the Comptroller    │ National banks and federal savings         │
+    │   of the Currency (OCC)        │ associations                               │
     │   ─────────────────────────────│────────────────────────────────────────────│
-    │   Federal Deposit Insurance    │ State non-member banks, deposit           │
-    │   Corporation (FDIC)           │ insurance (up to $250,000)                │
+    │   Federal Deposit Insurance    │ State non-member banks, deposit            │
+    │   Corporation (FDIC)           │ insurance (up to $250,000)                 │
     │   ─────────────────────────────│────────────────────────────────────────────│
-    │   Consumer Financial           │ Consumer protection, fair lending         │
-    │   Protection Bureau (CFPB)     │                                           │
+    │   Consumer Financial           │ Consumer protection, fair lending          │
+    │   Protection Bureau (CFPB)     │                                            │
     │   ─────────────────────────────│────────────────────────────────────────────│
-    │   State Banking Departments    │ State-chartered banks                     │
+    │   State Banking Departments    │ State-chartered banks                      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
