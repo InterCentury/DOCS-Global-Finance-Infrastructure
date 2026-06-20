@@ -993,21 +993,21 @@ COMPLETE BANK OPERATIONS CYCLE
     │   │        │                                                            │   │
     │   │        ▼                                                            │   │
     │   │   Borrowers spend money                                             │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Money circulates through economy                                 │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Payments processed through banking system                        │   │
-    │   │   ├── Internal: Bank ledger updates                                │   │
-    │   │   ├── Interbank: SWIFT, RTGS, ACH                                 │   │
-    │   │   └── Central bank: Final settlement                               │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank earns revenue (interest + fees)                            │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Bank manages risks                                               │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Money circulates through economy                                  │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Payments processed through banking system                         │   │
+    │   │   ├── Internal: Bank ledger updates                                 │   │
+    │   │   ├── Interbank: SWIFT, RTGS, ACH                                   │   │
+    │   │   └── Central bank: Final settlement                                │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank earns revenue (interest + fees)                              │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Bank manages risks                                                │   │
     │   │   ├── Credit: Underwriting, monitoring, reserves                  │   │
     │   │   ├── Liquidity: Asset buffer, funding sources                    │   │
     │   │   ├── Market: Hedging, ALM                                        │   │
