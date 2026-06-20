@@ -70,17 +70,17 @@ CORE PROHIBITIONS IN ISLAMIC FINANCE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PROHIBITION 1: RIBA (Interest / Usury)                                   │
+    │   PROHIBITION 1: RIBA (Interest / Usury)                                    │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Any predetermined excess over the principal in a loan or         │   │
-    │   │   debt transaction. Money cannot generate more money without       │   │
-    │   │   being used in productive activity.                               │   │
+    │   │   Any predetermined excess over the principal in a loan or          │   │
+    │   │   debt transaction. Money cannot generate more money without        │   │
+    │   │   being used in productive activity.                                │   │
     │   │                                                                     │   │
-    │   │   Rationale: Interest creates unfair wealth transfer from          │   │
-    │   │   borrowers to lenders without requiring risk-taking. It           │   │
-    │   │   discourages productive investment and encourages speculation.    │   │
+    │   │   Rationale: Interest creates unfair wealth transfer from           │   │
+    │   │   borrowers to lenders without requiring risk-taking. It            │   │
+    │   │   discourages productive investment and encourages speculation.     │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
