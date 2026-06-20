@@ -1,4 +1,4 @@
-# 09 - Islamic Banking
+# Islamic Banking
 
 ## Documentation Overview
 
