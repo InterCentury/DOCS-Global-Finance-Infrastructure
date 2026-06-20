@@ -913,7 +913,6 @@ Banks are heavily regulated to ensure safety, soundness, and consumer protection
 BANK REGULATORY BODIES (US Example)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   REGULATOR                    │ PRIMARY RESPONSIBILITY                     │
     │   ─────────────────────────────│────────────────────────────────────────────│
     │   Federal Reserve (Fed)        │ Bank holding companies, state member       │
@@ -930,7 +929,6 @@ BANK REGULATORY BODIES (US Example)
     │   Protection Bureau (CFPB)     │                                            │
     │   ─────────────────────────────│────────────────────────────────────────────│
     │   State Banking Departments    │ State-chartered banks                      │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
