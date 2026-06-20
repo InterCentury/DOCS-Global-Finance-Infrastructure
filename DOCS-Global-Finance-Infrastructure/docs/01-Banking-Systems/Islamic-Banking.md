@@ -34,27 +34,27 @@ ISLAMIC BANKING FOUNDATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │                    SOURCES OF ISLAMIC BANKING LAW                          │
+    │                    SOURCES OF ISLAMIC BANKING LAW                           │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
     │   │   PRIMARY SOURCES                                                   │   │
-    │   │   ├── Al-Quran (Holy Book) - Direct divine revelation              │   │
-    │   │   │   └── Prohibits riba (interest) in several verses              │   │
-    │   │   │       "Allah has permitted trade and forbidden usury"          │   │
+    │   │   ├── Al-Quran (Holy Book) - Direct divine revelation               │   │
+    │   │   │   └── Prohibits riba (interest) in several verses               │   │
+    │   │   │       "Allah has permitted trade and forbidden usury"           │   │
     │   │   │       (Surah Al-Baqarah, 2:275)                                 │   │
     │   │   │                                                                 │   │
     │   │   ├── Al-Sunnah (Prophetic traditions)                              │   │
-    │   │   │   └── Sayings and practices of Prophet Muhammad (PBUH)         │   │
-    │   │   │       "Gold for gold, silver for silver, wheat for wheat...    │   │
-    │   │   │       hand to hand, equal for equal"                           │   │
+    │   │   │   └── Sayings and practices of Prophet Muhammad (PBUH)          │   │
+    │   │   │       "Gold for gold, silver for silver, wheat for wheat...     │   │
+    │   │   │       hand to hand, equal for equal"                            │   │
     │   │   │                                                                 │   │
     │   │   └── Ijma (Consensus of scholars)                                  │   │
     │   │       └── Agreement among qualified Islamic scholars                │   │
     │   │                                                                     │   │
     │   │   SECONDARY SOURCES                                                 │   │
-    │   │   ├── Qiyas (Analogical reasoning)                                 │   │
-    │   │   └── Ijtihad (Independent reasoning)                              │   │
+    │   │   ├── Qiyas (Analogical reasoning)                                  │   │
+    │   │   └── Ijtihad (Independent reasoning)                               │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
