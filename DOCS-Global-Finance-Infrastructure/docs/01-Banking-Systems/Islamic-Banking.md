@@ -954,4 +954,3 @@ ISLAMIC BANKING FORMULAS
 20. Islamic banking is open to all (Muslims and non-Muslims) and is increasingly offered by conventional banks as an alternative window.
 
 *This documentation belongs to https://github.com/InterCentury*
-```
