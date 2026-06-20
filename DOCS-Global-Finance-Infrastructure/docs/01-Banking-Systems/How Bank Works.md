@@ -941,30 +941,30 @@ CAMELS RATING SYSTEM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CAMELS COMPONENT               │ WHAT IS EVALUATED                       │
-    │   ───────────────────────────────│─────────────────────────────────────────│
-    │   C: Capital Adequacy            │ Capital levels, capital ratios,         │
-    │                                  │ ability to absorb losses                │
-    │   ───────────────────────────────│─────────────────────────────────────────│
-    │   A: Asset Quality               │ Loan quality, non-performing loans,    │
-    │                                  │ loan loss reserves                      │
-    │   ───────────────────────────────│─────────────────────────────────────────│
-    │   M: Management                  │ Management quality, risk culture,       │
-    │                                  │ governance, strategic planning          │
-    │   ───────────────────────────────│─────────────────────────────────────────│
-    │   E: Earnings                    │ Profitability, net interest margin,    │
-    │                                  │ earnings trends                         │
-    │   ───────────────────────────────│─────────────────────────────────────────│
-    │   L: Liquidity                   │ Liquid assets, LCR, funding sources,   │
-    │                                  │ access to markets                       │
-    │   ───────────────────────────────│─────────────────────────────────────────│
-    │   S: Sensitivity to Market Risk  │ Interest rate risk, FX risk,           │
-    │                                  │ hedging practices                       │
+    │   CAMELS COMPONENT               │ WHAT IS EVALUATED                        │
+    │   ───────────────────────────────│───────────────────────────────────────── │
+    │   C: Capital Adequacy            │ Capital levels, capital ratios,          │
+    │                                  │ ability to absorb losses                 │
+    │   ───────────────────────────────│───────────────────────────────────────── │
+    │   A: Asset Quality               │ Loan quality, non-performing loans,      │
+    │                                  │ loan loss reserves                       │
+    │   ───────────────────────────────│───────────────────────────────────────── │
+    │   M: Management                  │ Management quality, risk culture,        │
+    │                                  │ governance, strategic planning           │
+    │   ───────────────────────────────│───────────────────────────────────────── │
+    │   E: Earnings                    │ Profitability, net interest margin,      │
+    │                                  │ earnings trends                          │
+    │   ───────────────────────────────│───────────────────────────────────────── │
+    │   L: Liquidity                   │ Liquid assets, LCR, funding sources,     │
+    │                                  │ access to markets                        │
+    │   ───────────────────────────────│───────────────────────────────────────── │
+    │   S: Sensitivity to Market Risk  │ Interest rate risk, FX risk,             │
+    │                                  │ hedging practices                        │
     │                                                                             │
-    │   Ratings: 1 (Strong) to 5 (Critically Deficient)                         │
+    │   Ratings: 1 (Strong) to 5 (Critically Deficient)                           │
     │   Rating 1-2: Sound banks                                                   │
-    │   Rating 3: Weak, requires attention                                       │
-    │   Rating 4-5: Serious problems, regulatory action                          │
+    │   Rating 3: Weak, requires attention                                        │
+    │   Rating 4-5: Serious problems, regulatory action                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
