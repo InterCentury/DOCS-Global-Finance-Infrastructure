@@ -138,18 +138,18 @@ RISK-SHARING VS RISK-TRANSFER
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CONVENTIONAL BANKING (Risk-Transfer)                                     │
+    │   CONVENTIONAL BANKING (Risk-Transfer)                                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Bank lends money at fixed interest rate                         │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Borrower takes all business risk                                │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   Regardless of outcome: Bank gets fixed return                   │   │
-    │   │   └── Bank has no risk, borrower bears all risk                   │   │
+    │   │   Bank lends money at fixed interest rate                           │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Borrower takes all business risk                                  │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   Regardless of outcome: Bank gets fixed return                     │   │
+    │   │   └── Bank has no risk, borrower bears all risk                     │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
