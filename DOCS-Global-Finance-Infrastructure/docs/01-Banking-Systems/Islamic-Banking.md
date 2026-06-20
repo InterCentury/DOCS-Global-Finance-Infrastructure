@@ -10,7 +10,6 @@ Islamic banking is a banking system that operates in accordance with the princip
 DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Understand the foundational principles of Islamic banking                 │
     │   Learn the prohibition of riba (interest) and its rationale                │
     │   Study the major contract types (Mudarabah, Musharakah, Murabaha, etc.)    │
@@ -19,7 +18,6 @@ DOCUMENTATION OBJECTIVES
     │   Understand the differences from conventional banking                      │
     │   Learn about Islamic financial instruments                                 │
     │   Study the global Islamic banking industry                                 │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
