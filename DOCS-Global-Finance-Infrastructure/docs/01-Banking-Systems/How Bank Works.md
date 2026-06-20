@@ -833,29 +833,29 @@ CENTRAL BANK FUNCTIONS IN BANKING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FUNCTION 1: MONETARY POLICY                                              │
-    │   ├── Set policy rate (interest on reserves)                              │
-    │   ├── Control money supply through open market operations                 │
-    │   ├── Influence lending rates throughout economy                          │
-    │   └── Target inflation (usually 2%)                                       │
+    │   FUNCTION 1: MONETARY POLICY                                               │
+    │   ├── Set policy rate (interest on reserves)                                │
+    │   ├── Control money supply through open market operations                   │
+    │   ├── Influence lending rates throughout economy                            │
+    │   └── Target inflation (usually 2%)                                         │
     │                                                                             │
-    │   FUNCTION 2: BANKER TO BANKS                                              │
-    │   ├── Maintain reserve accounts for commercial banks                      │
-    │   ├── Provide settlement services (RTGS)                                   │
-    │   ├── Clear interbank payments                                             │
-    │   └── Hold bank reserves (vault cash + central bank deposits)             │
+    │   FUNCTION 2: BANKER TO BANKS                                               │
+    │   ├── Maintain reserve accounts for commercial banks                        │
+    │   ├── Provide settlement services (RTGS)                                    │
+    │   ├── Clear interbank payments                                              │
+    │   └── Hold bank reserves (vault cash + central bank deposits)               │
     │                                                                             │
-    │   FUNCTION 3: LENDER OF LAST RESORT                                        │
-    │   ├── Provide emergency liquidity (discount window)                       │
-    │   ├── Prevent bank runs                                                    │
-    │   ├── Maintain financial stability                                         │
-    │   └── Bagehot's principle: lend freely at penalty rate                    │
+    │   FUNCTION 3: LENDER OF LAST RESORT                                         │
+    │   ├── Provide emergency liquidity (discount window)                         │
+    │   ├── Prevent bank runs                                                     │
+    │   ├── Maintain financial stability                                          │
+    │   └── Bagehot's principle: lend freely at penalty rate                      │
     │                                                                             │
-    │   FUNCTION 4: REGULATION AND SUPERVISION                                   │
-    │   ├── Examine banks for safety and soundness                              │
-    │   ├── Enforce capital requirements (Basel III)                            │
-    │   ├── Conduct stress tests                                                │
-    │   └── Close insolvent banks                                               │
+    │   FUNCTION 4: REGULATION AND SUPERVISION                                    │
+    │   ├── Examine banks for safety and soundness                                │
+    │   ├── Enforce capital requirements (Basel III)                              │
+    │   ├── Conduct stress tests                                                  │
+    │   └── Close insolvent banks                                                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
