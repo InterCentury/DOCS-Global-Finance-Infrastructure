@@ -85,16 +85,16 @@ CORE PROHIBITIONS IN ISLAMIC FINANCE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   PROHIBITION 2: GHARAR (Excessive Uncertainty / Speculation)             │
+    │   PROHIBITION 2: GHARAR (Excessive Uncertainty / Speculation)               │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Transactions with excessive ambiguity or uncertainty about       │   │
-    │   │   the subject matter, price, or delivery.                          │   │
+    │   │   Transactions with excessive ambiguity or uncertainty about        │   │
+    │   │   the subject matter, price, or delivery.                           │   │
     │   │                                                                     │   │
-    │   │   Examples: Selling fish in the sea (unknown quantity),            │   │
-    │   │   selling unborn animals, selling goods without specifying         │   │
-    │   │   delivery date.                                                   │   │
+    │   │   Examples: Selling fish in the sea (unknown quantity),             │   │
+    │   │   selling unborn animals, selling goods without specifying          │   │
+    │   │   delivery date.                                                    │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
