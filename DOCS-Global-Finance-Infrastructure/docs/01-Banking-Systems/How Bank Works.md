@@ -891,14 +891,14 @@ BANK-CENTRAL BANK INTERACTION
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   INTERACTION TYPES:                                                       │
+    │   INTERACTION TYPES:                                                        │
     │                                                                             │
-    │   Daily: Bank settles payments through central bank RTGS                  │
-    │   Weekly: Bank monitors reserve balances against requirements             │
-    │   Monthly: Bank reports to central bank (balance sheet, loans, deposits)  │
-    │   Quarterly: Bank submits regulatory filings                              │
-    │   Annually: Bank undergoes examination by central bank                    │
-    │   Crisis: Bank borrows from central bank discount window                  │
+    │   Daily: Bank settles payments through central bank RTGS                    │
+    │   Weekly: Bank monitors reserve balances against requirements               │
+    │   Monthly: Bank reports to central bank (balance sheet, loans, deposits)    │
+    │   Quarterly: Bank submits regulatory filings                                │
+    │   Annually: Bank undergoes examination by central bank                      │
+    │   Crisis: Bank borrows from central bank discount window                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
