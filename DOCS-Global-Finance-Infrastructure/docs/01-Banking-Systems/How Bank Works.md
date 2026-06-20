@@ -876,11 +876,11 @@ BANK-CENTRAL BANK INTERACTION
     │   │   Complies with central bank regulations                            │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                     │                                      │
+    │                                     │                                       │
     │                                     │ Interaction                           │
-    │                                     ▼                                      │
+    │                                     ▼                                       │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                     CENTRAL BANK                                     │   │
+    │   │                     CENTRAL BANK                                    │   │
     │   │                                                                     │   │
     │   │   Sets policy rate                                                  │   │
     │   │   Holds bank reserves                                               │   │
