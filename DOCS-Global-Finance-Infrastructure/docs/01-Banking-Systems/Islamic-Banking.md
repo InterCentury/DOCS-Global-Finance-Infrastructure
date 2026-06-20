@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the foundational principles of Islamic banking              │
-    │   Learn the prohibition of riba (interest) and its rationale              │
-    │   Study the major contract types (Mudarabah, Musharakah, Murabaha, etc.) │
-    │   Analyze how Islamic banks generate profit without interest              │
-    │   Examine the role of Shariah boards and compliance                        │
-    │   Understand the differences from conventional banking                     │
-    │   Learn about Islamic financial instruments                                │
-    │   Study the global Islamic banking industry                                │
+    │   Understand the foundational principles of Islamic banking                 │
+    │   Learn the prohibition of riba (interest) and its rationale                │
+    │   Study the major contract types (Mudarabah, Musharakah, Murabaha, etc.)    │
+    │   Analyze how Islamic banks generate profit without interest                │
+    │   Examine the role of Shariah boards and compliance                         │
+    │   Understand the differences from conventional banking                      │
+    │   Learn about Islamic financial instruments                                 │
+    │   Study the global Islamic banking industry                                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
