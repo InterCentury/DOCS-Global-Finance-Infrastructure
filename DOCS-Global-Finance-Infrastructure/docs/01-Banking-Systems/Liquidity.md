@@ -401,7 +401,6 @@ How it works: RTGS systems settle payments in real time. Banks must have suffici
 INTRADAY LIQUIDITY FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   TIME           │ ACTIVITY                              │ BALANCE          │
     │   ───────────────│───────────────────────────────────────│───────────────── │
     │   6:00 AM        │ Opening Balance                       │ $500M            │
