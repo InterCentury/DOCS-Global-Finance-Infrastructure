@@ -11,15 +11,15 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the fundamental concept of liquidity                          │
-    │   Learn the distinction between funding, market, asset, and cash liquidity │
-    │   Study liquidity management frameworks and tools                          │
-    │   Analyze regulatory standards (LCR, NSFR, Basel III)                      │
-    │   Examine the role of central banks in providing liquidity                │
-    │   Understand liquidity risk and stress testing                             │
-    │   Learn liquidity metrics and KPIs                                         │
-    │   Study liquidity during financial crises                                  │
-    │   Understand interbank and payment system liquidity                        │
+    │   Understand the fundamental concept of liquidity                           │
+    │   Learn the distinction between funding, market, asset, and cash liquidity  │
+    │   Study liquidity management frameworks and tools                           │
+    │   Analyze regulatory standards (LCR, NSFR, Basel III)                       │
+    │   Examine the role of central banks in providing liquidity                  │
+    │   Understand liquidity risk and stress testing                              │
+    │   Learn liquidity metrics and KPIs                                          │
+    │   Study liquidity during financial crises                                   │
+    │   Understand interbank and payment system liquidity                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
