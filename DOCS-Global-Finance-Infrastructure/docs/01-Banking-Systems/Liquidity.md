@@ -627,18 +627,18 @@ SOURCES OF LIQUIDITY
     │                                                                             │
     │   SOURCE 6: REPURCHASE AGREEMENTS (REPO)                                    │
     │   ├── Collateralized borrowing                                              │
-    │   ├── Usually overnight                                                  │
-    │   └── More stable than unsecured                                         │
+    │   ├── Usually overnight                                                     │
+    │   └── More stable than unsecured                                            │
     │                                                                             │
-    │   SOURCE 7: CENTRAL BANK FACILITIES                                       │
-    │   ├── Discount window                                                    │
-    │   ├── Emergency liquidity assistance                                     │
-    │   └── Only for solvent banks                                             │
+    │   SOURCE 7: CENTRAL BANK FACILITIES                                         │
+    │   ├── Discount window                                                       │
+    │   ├── Emergency liquidity assistance                                        │
+    │   └── Only for solvent banks                                                │
     │                                                                             │
-    │   SOURCE 8: CAPITAL MARKETS                                               │
-    │   ├── Bond issuance                                                      │
-    │   ├── Equity issuance                                                    │
-    │   └── Long-term funding                                                  │
+    │   SOURCE 8: CAPITAL MARKETS                                                 │
+    │   ├── Bond issuance                                                         │
+    │   ├── Equity issuance                                                       │
+    │   └── Long-term funding                                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
