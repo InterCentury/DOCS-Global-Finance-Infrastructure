@@ -193,7 +193,6 @@ How it works: A bank funds itself through multiple sources: customer deposits (t
 FUNDING LIQUIDITY SOURCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   FUNDING SOURCE              │ STABILITY    │ COST       │ AVAILABILITY    │
     │   ────────────────────────────│──────────────│────────────│──────────────── │
     │   Retail Deposits             │ Very High    │ Low        │ Always          │
@@ -220,7 +219,6 @@ FUNDING LIQUIDITY SOURCES
     │   ────────────────────────────│──────────────│────────────│──────────────── │
     │   Central Bank Lending        │ High (crisis)│ Penalty    │ Emergency only  │
     │   (Discount window)           │              │            │                 │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
