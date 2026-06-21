@@ -539,7 +539,10 @@ LIQUIDITY VS SOLVENCY COMPARISON
 
 Commercial banks manage liquidity to ensure they can meet deposit withdrawals, fund loans, and process payments. This is a core risk management function.
 
-How it works: Banks receive deposits (inflow) and make loans (outflow). The timing of inflows and outflows rarely matches. Banks must maintain a buffer of liquid assets to cover unexpected withdrawals. They also have access to funding markets (interbank, repo) and the central bank discount window. Liquidity management is a daily treasury function.
+How it works: Banks receive deposits (inflow) and make loans (outflow). The timing of
+inflows and outflows rarely matches. Banks must maintain a buffer of liquid assets to 
+cover unexpected withdrawals. They also have access to funding markets (interbank, repo)
+and the central bank discount window. Liquidity management is a daily treasury function.
 
 ```
 COMMERCIAL BANK LIQUIDITY CYCLE
