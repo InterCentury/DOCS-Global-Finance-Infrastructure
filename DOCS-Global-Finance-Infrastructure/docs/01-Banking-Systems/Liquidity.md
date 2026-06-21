@@ -233,39 +233,39 @@ MARKET LIQUIDITY DIMENSIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DIMENSION 1: TIGHTNESS (Bid-Ask Spread)                                  │
+    │   DIMENSION 1: TIGHTNESS (Bid-Ask Spread)                                   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Highly Liquid: Bid = $99.95, Ask = $100.05 (Spread = $0.10)        │   │
     │   │  Low Liquidity: Bid = $98.00, Ask = $102.00 (Spread = $4.00)        │   │
-    │   │  Wider spread = Lower liquidity                                    │   │
+    │   │  Wider spread = Lower liquidity                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DIMENSION 2: DEPTH (Order Book Size)                                     │
+    │   DIMENSION 2: DEPTH (Order Book Size)                                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  High Depth: Many orders at each price level                        │   │
-    │   │  Low Depth: Few orders, large trades move prices                   │   │
-    │   │  Deep market = Higher liquidity                                    │   │
+    │   │  Low Depth: Few orders, large trades move prices                    │   │
+    │   │  Deep market = Higher liquidity                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DIMENSION 3: IMMEDIACY (Time to Execute)                                 │
+    │   DIMENSION 3: IMMEDIACY (Time to Execute)                                  │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  High Immediacy: Trade executes instantly                          │   │
-    │   │  Low Immediacy: Trade takes time to find counterparty             │   │
-    │   │  Quick execution = Higher liquidity                                │   │
+    │   │  High Immediacy: Trade executes instantly                           │   │
+    │   │  Low Immediacy: Trade takes time to find counterparty               │   │
+    │   │  Quick execution = Higher liquidity                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DIMENSION 4: RESILIENCY (Recovery from Trade)                           │
+    │   DIMENSION 4: RESILIENCY (Recovery from Trade)                             │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  High Resiliency: Prices recover quickly after trade               │   │
-    │   │  Low Resiliency: Prices stay disturbed after trade                 │   │
-    │   │  Fast recovery = Higher liquidity                                  │   │
+    │   │  High Resiliency: Prices recover quickly after trade                │   │
+    │   │  Low Resiliency: Prices stay disturbed after trade                  │   │
+    │   │  Fast recovery = Higher liquidity                                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
