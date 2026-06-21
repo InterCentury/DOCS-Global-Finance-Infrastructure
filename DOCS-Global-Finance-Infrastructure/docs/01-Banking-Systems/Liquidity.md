@@ -1,4 +1,4 @@
-# 10 - Liquidity
+# Liquidity
 
 ## Documentation Overview
 
@@ -2645,4 +2645,3 @@ BEST PRACTICES
 60. The entire financial system depends on liquidity flowing smoothly from central banks through commercial banks to the economy.
 
 *This documentation belongs to https://github.com/InterCentury*
-```
