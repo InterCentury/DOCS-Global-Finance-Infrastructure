@@ -465,7 +465,7 @@ GLOBAL LIQUIDITY CHANNELS
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
-
+```
 ## 11. Liquidity vs Solvency
 
 Liquidity and solvency are distinct but related concepts. A bank can be solvent but illiquid, or liquid but insolvent.
@@ -486,18 +486,18 @@ LIQUIDITY VS SOLVENCY COMPARISON
                |  ASSETS > LIABILITIES?    |   |  ASSETS < LIABILITIES?    |
                |  (Is Bank Solvent?)       |   |  (Is Bank Insolvent?)     |
                +-------------+-------------+   +-------------+-------------+
-                             |                                 |
-               +-------------+-------------+                   |
-               |                           |                   |
-               ▼                           ▼                   ▼
+                             |                               |
+               +-------------+-------------+                 |
+               |                           |                 |
+               ▼                           ▼                 ▼
          +---------------------------+  +---------------------------+
          |  CAN MEET OBLIGATIONS?    |  |  CANNOT MEET OBLIGATIONS? |
          |  (Is Bank Liquid?)        |  |  (Is Bank Illiquid?)      |
          +-------------+-------------+  +-------------+-------------+
-                       |                                |
-         +-------------+-------------+                  |
-         |                           |                  |
-         ▼                           ▼                  ▼
+                       |                              |
+         +-------------+-------------+                |
+         |                           |                |
+         ▼                           ▼                ▼ 
    +---------------------------+  +---------------------------+
    |  HEALTHY BANK             |  |  LIQUIDITY CRISIS         |
    |  - Solvent                |  |  - Solvent                |
@@ -507,33 +507,32 @@ LIQUIDITY VS SOLVENCY COMPARISON
    +---------------------------+  +---------------------------+
 
 
-                     LIQUIDITY IS ABOUT SURVIVAL
-                     SOLVENCY IS ABOUT VIABILITY
+  >>LIQUIDITY IS ABOUT SURVIVAL
+  >>SOLVENCY IS ABOUT VIABILITY
 
-
-                  +-------------------------------------------+
-                  |        LIQUIDITY DIMENSIONS               |
-                  +-------------------------------------------+
-                  │                                           │
-                  │   LIQUIDITY          SOLVENCY             │
-                  │   (Cash Flow)        (Balance Sheet)      │
-                  │       |                    |              │
-                  │       |                    |              │
-                  │   +---+----+          +----+---+          │
-                  │   |        |          |        |          │
-                  │   ▼        ▼          ▼        ▼          │
-                  │ INFLOW  OUTFLOW    ASSETS  LIABILITIES    │
-                  │   |        |          |        |          │
-                  │   +----+---+          +----+---+          │
-                  │        |                    |             │
-                  │   +----+----+          +----+----+        │
-                  │   |         |          |         |        │
-                  │   ▼         ▼          ▼         ▼        │
-                  │ DEPOSITS │PAYMENTS   │LOANS     │DEPOSITS │
-                  │ LOANS    │WITHDRAWALS│SECURITIES│BORROW   │
-                  │ REPAY    │EXPENSES   │CASH      │EQUITY   │
-                  │                                           │
-                  +-------------------------------------------+
+  +------------------------------------------------------------+
+  |                   LIQUIDITY DIMENSIONS                     |
+  +------------------------------------------------------------+
+  │                                                            │
+  │           LIQUIDITY                SOLVENCY                │
+  │           (Cash Flow)              (Balance Sheet)         │
+  │               |                          |                 │
+  │               |                          |                 │
+  │           +---+----+                +----+---+             │
+  │           |        |                |        |             │
+  │           ▼        ▼                ▼        ▼             │
+  │         INFLOW  OUTFLOW          ASSETS  LIABILITIES       │
+  │           |        |                |        |             │
+  │           +----+---+                +----+---+             │
+  │                |                          |                │
+  │           +----+----+                +----+----+           │
+  │           |         |                |         |           │
+  │           ▼         ▼                ▼         ▼           │
+  │      DEPOSITS   │PAYMENTS        LOANS       │DEPOSITS     │
+  │      LOANS      │WITHDRAWALS     SECURITIES  │BORROW       │
+  │      REPAY      │EXPENSES        CASH        │EQUITY       │
+  │                                                            │
+  +------------------------------------------------------------+
     ```
 
 ## 12. Liquidity in Commercial Banks
