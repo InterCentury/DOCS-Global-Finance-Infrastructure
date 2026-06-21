@@ -563,30 +563,30 @@ CENTRAL BANK LIQUIDITY TOOLS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOOL 1: OPEN MARKET OPERATIONS (OMO)                                    │
-    │   ├── Buy securities → Inject reserves → Increase liquidity               │
-    │   ├── Sell securities → Drain reserves → Decrease liquidity              │
-    │   └── Daily operations to manage system liquidity                         │
+    │   TOOL 1: OPEN MARKET OPERATIONS (OMO)                                      │
+    │   ├── Buy securities → Inject reserves → Increase liquidity                 │
+    │   ├── Sell securities → Drain reserves → Decrease liquidity                 │
+    │   └── Daily operations to manage system liquidity                           │
     │                                                                             │
-    │   TOOL 2: STANDING FACILITIES                                              │
-    │   ├── Deposit facility → Banks park excess reserves                      │
-    │   ├── Lending facility → Banks borrow reserves                            │
-    │   └── Creates interest rate corridor                                      │
+    │   TOOL 2: STANDING FACILITIES                                               │
+    │   ├── Deposit facility → Banks park excess reserves                         │
+    │   ├── Lending facility → Banks borrow reserves                              │
+    │   └── Creates interest rate corridor                                        │
     │                                                                             │
-    │   TOOL 3: RESERVE REQUIREMENTS                                            │
-    │   ├── Minimum reserves banks must hold                                   │
-    │   ├── Higher requirement → Less liquidity in system                      │
-    │   └── Lower requirement → More liquidity in system                       │
+    │   TOOL 3: RESERVE REQUIREMENTS                                              │
+    │   ├── Minimum reserves banks must hold                                      │
+    │   ├── Higher requirement → Less liquidity in system                         │
+    │   └── Lower requirement → More liquidity in system                          │
     │                                                                             │
-    │   TOOL 4: QUANTITATIVE EASING (QE)                                        │
-    │   ├── Large-scale asset purchases                                        │
-    │   ├── Massive reserve injection                                          │
-    │   └── Used when policy rate at zero lower bound                         │
+    │   TOOL 4: QUANTITATIVE EASING (QE)                                          │
+    │   ├── Large-scale asset purchases                                           │
+    │   ├── Massive reserve injection                                             │
+    │   └── Used when policy rate at zero lower bound                             │
     │                                                                             │
-    │   TOOL 5: DISCOUNT WINDOW                                                 │
-    │   ├── Emergency lending to banks                                         │
-    │   ├── Penalty rate                                                       │
-    │   └── Lender of last resort function                                     │
+    │   TOOL 5: DISCOUNT WINDOW                                                   │
+    │   ├── Emergency lending to banks                                            │
+    │   ├── Penalty rate                                                          │
+    │   └── Lender of last resort function                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
