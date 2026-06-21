@@ -522,32 +522,32 @@ COMMERCIAL BANK LIQUIDITY CYCLE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   INFLOWS                                            OUTFLOWS              │
-    │   ───────────────────────────                        ──────────────────────│
+    │   INFLOWS                                          OUTFLOWS                 │
+    │   ───────────────────────────                      ──────────────────────   │
     │                                                                             │
-    │   ┌─────────────────────┐                          ┌─────────────────────┐   │
-    │   │ Customer Deposits   │                          │ Customer Withdrawals│   │
-    │   │ ├── Retail          │                          │ ├── ATM             │   │
-    │   │ └── Wholesale       │                          │ ├── Checks          │   │
-    │   └─────────────────────┘                          │ └── Wire transfers  │   │
+    │   ┌─────────────────────┐                          ┌─────────────────────┐  │
+    │   │ Customer Deposits   │                          │ Customer Withdrawals│  │
+    │   │ ├── Retail          │                          │ ├── ATM             │  │
+    │   │ └── Wholesale       │                          │ ├── Checks          │  │
+    │   └─────────────────────┘                          │ └── Wire transfers  │  │
+    │                                                    └─────────────────────┘  │
+    │   ┌─────────────────────┐                          ┌─────────────────────┐  │
+    │   │ Loan Repayments     │                          │ Loan Disbursements  │  │
+    │   │ ├── Principal       │                          │ ├── Mortgages       │  │
+    │   │ └── Interest        │                          │ └── Business loans  │  │
+    │   └─────────────────────┘                          └─────────────────────┘  │
     │                                                                             │
-    │   ┌─────────────────────┐                          ┌─────────────────────┐   │
-    │   │ Loan Repayments     │                          │ Loan Disbursements  │   │
-    │   │ ├── Principal       │                          │ ├── Mortgages       │   │
-    │   │ └── Interest        │                          │ └── Business loans  │   │
-    │   └─────────────────────┘                          └─────────────────────┘   │
+    │   ┌─────────────────────┐                          ┌─────────────────────┐  │
+    │   │ Interbank Borrowing │                          │ Interbank Lending   │  │
+    │   │ ├── Fed funds       │                          │ ├── Fed funds       │  │
+    │   │ └── Repo            │                          │ └── Repo            │  │
+    │   └─────────────────────┘                          └─────────────────────┘  │
     │                                                                             │
-    │   ┌─────────────────────┐                          ┌─────────────────────┐   │
-    │   │ Interbank Borrowing │                          │ Interbank Lending   │   │
-    │   │ ├── Fed funds       │                          │ ├── Fed funds       │   │
-    │   │ └── Repo            │                          │ └── Repo            │   │
-    │   └─────────────────────┘                          └─────────────────────┘   │
-    │                                                                             │
-    │   ┌─────────────────────┐                          ┌─────────────────────┐   │
-    │   │ Central Bank        │                          │ Operating Expenses  │   │
-    │   │ ├── Discount window │                          │ └── Salaries, rent, │   │
-    │   │ └── Reserves        │                          │     utilities       │   │
-    │   └─────────────────────┘                          └─────────────────────┘   │
+    │   ┌─────────────────────┐                          ┌─────────────────────┐  │
+    │   │ Central Bank        │                          │ Operating Expenses  │  │
+    │   │ ├── Discount window │                          │ └── Salaries, rent, │  │
+    │   │ └── Reserves        │                          │     utilities       │  │
+    │   └─────────────────────┘                          └─────────────────────┘  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
