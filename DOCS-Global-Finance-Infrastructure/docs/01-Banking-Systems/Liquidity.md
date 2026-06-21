@@ -194,32 +194,32 @@ FUNDING LIQUIDITY SOURCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FUNDING SOURCE              │ STABILITY    │ COST       │ AVAILABILITY   │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Retail Deposits             │ Very High    │ Low        │ Always         │
-    │   (insured, <$250k)           │              │            │                │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Retail Deposits             │ High         │ Moderate   │ Usually        │
-    │   (uninsured, >$250k)         │              │            │                │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Wholesale Deposits          │ Moderate     │ Moderate   │ Often          │
-    │   (corporate, institutional)  │              │            │                │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Interbank Borrowing         │ Low          │ Low        │ Market-based   │
-    │   (Fed funds, unsecured)      │              │            │                │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Repurchase Agreements       │ Low          │ Low        │ Market-based   │
-    │   (Repo)                      │ (collateral- │            │                │
-    │                               │ backed)      │            │                │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Commercial Paper            │ Very Low     │ Low        │ Market-based   │
-    │   (Short-term debt)           │              │            │                │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Bond Issuance               │ Low          │ High       │ Market-based   │
-    │   (Long-term debt)            │ (term)       │            │                │
-    │   ────────────────────────────│──────────────│────────────│────────────────│
-    │   Central Bank Lending        │ High (crisis)│ Penalty    │ Emergency only │
-    │   (Discount window)           │              │            │                │
+    │   FUNDING SOURCE              │ STABILITY    │ COST       │ AVAILABILITY    │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Retail Deposits             │ Very High    │ Low        │ Always          │
+    │   (insured, <$250k)           │              │            │                 │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Retail Deposits             │ High         │ Moderate   │ Usually         │
+    │   (uninsured, >$250k)         │              │            │                 │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Wholesale Deposits          │ Moderate     │ Moderate   │ Often           │
+    │   (corporate, institutional)  │              │            │                 │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Interbank Borrowing         │ Low          │ Low        │ Market-based    │
+    │   (Fed funds, unsecured)      │              │            │                 │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Repurchase Agreements       │ Low          │ Low        │ Market-based    │
+    │   (Repo)                      │ (collateral- │            │                 │
+    │                               │ backed)      │            │                 │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Commercial Paper            │ Very Low     │ Low        │ Market-based    │
+    │   (Short-term debt)           │              │            │                 │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Bond Issuance               │ Low          │ High       │ Market-based    │
+    │   (Long-term debt)            │ (term)       │            │                 │
+    │   ────────────────────────────│──────────────│────────────│──────────────── │
+    │   Central Bank Lending        │ High (crisis)│ Penalty    │ Emergency only  │
+    │   (Discount window)           │              │            │                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
