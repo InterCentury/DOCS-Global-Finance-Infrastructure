@@ -149,19 +149,19 @@ TYPES OF LIQUIDITY
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CASH LIQUIDITY                                                      │   │
-    │   │  Actual cash available for immediate use                           │   │
+    │   │  CASH LIQUIDITY                                                     │   │
+    │   │  Actual cash available for immediate use                            │   │
     │   │  ├── Vault cash (physical currency)                                 │   │
-    │   │  ├── Central bank reserves (digital cash)                          │   │
-    │   │  └── Demand deposits (liquid but bank liability)                   │   │
+    │   │  ├── Central bank reserves (digital cash)                           │   │
+    │   │  └── Demand deposits (liquid but bank liability)                    │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  SYSTEM LIQUIDITY                                                    │   │
-    │   │  Overall cash availability in the financial system                 │   │
-    │   │  ├── Central bank operations affect system liquidity               │   │
-    │   │  ├── Total reserves in banking system                              │   │
-    │   │  └── Monetary policy stance                                        │   │
+    │   │  SYSTEM LIQUIDITY                                                   │   │
+    │   │  Overall cash availability in the financial system                  │   │
+    │   │  ├── Central bank operations affect system liquidity                │   │
+    │   │  ├── Total reserves in banking system                               │   │
+    │   │  └── Monetary policy stance                                         │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
