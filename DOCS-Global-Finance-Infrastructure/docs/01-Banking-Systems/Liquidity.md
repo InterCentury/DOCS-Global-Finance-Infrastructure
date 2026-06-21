@@ -325,22 +325,22 @@ CASH LIQUIDITY COMPONENTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BANK CASH LIQUIDITY                                                      │
+    │   BANK CASH LIQUIDITY                                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  VAULT CASH                                                         │   │
     │   │  ├── Physical currency (notes and coins)                            │   │
-    │   │  ├── Held in bank premises and ATMs                                │   │
-    │   │  ├── Used for customer withdrawals                                 │   │
-    │   │  └── Typically 20-40% of total cash holdings                      │   │
+    │   │  ├── Held in bank premises and ATMs                                 │   │
+    │   │  ├── Used for customer withdrawals                                  │   │
+    │   │  └── Typically 20-40% of total cash holdings                        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  RESERVES AT CENTRAL BANK                                            │   │
+    │   │  RESERVES AT CENTRAL BANK                                           │   │
     │   │  ├── Digital account at central bank                                │   │
     │   │  ├── Used for interbank settlement                                  │   │
-    │   │  ├── Can be transferred instantly                                  │   │
-    │   │  └── Typically 60-80% of total cash holdings                      │   │
+    │   │  ├── Can be transferred instantly                                   │   │
+    │   │  └── Typically 60-80% of total cash holdings                        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
