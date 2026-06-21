@@ -443,25 +443,25 @@ GLOBAL LIQUIDITY CHANNELS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CHANNEL 1: DOLLAR LIQUIDITY                                              │
-    │   ├── Federal Reserve monetary policy                                    │
-    │   ├── US dollar funding costs                                            │
-    │   └── Cross-border bank lending                                           │
+    │   CHANNEL 1: DOLLAR LIQUIDITY                                               │
+    │   ├── Federal Reserve monetary policy                                       │
+    │   ├── US dollar funding costs                                               │
+    │   └── Cross-border bank lending                                             │
     │                                                                             │
-    │   CHANNEL 2: CURRENCY SWAPS                                                │
-    │   ├── Central bank swap lines                                             │
-    │   ├── Provide foreign currency liquidity                                  │
-    │   └── Used during crises                                                  │
+    │   CHANNEL 2: CURRENCY SWAPS                                                 │
+    │   ├── Central bank swap lines                                               │
+    │   ├── Provide foreign currency liquidity                                    │
+    │   └── Used during crises                                                    │
     │                                                                             │
-    │   CHANNEL 3: INTERNATIONAL CAPITAL FLOWS                                  │
-    │   ├── Portfolio flows (stocks, bonds)                                    │
-    │   ├── Direct investment                                                    │
-    │   └── Bank lending (cross-border)                                         │
+    │   CHANNEL 3: INTERNATIONAL CAPITAL FLOWS                                    │
+    │   ├── Portfolio flows (stocks, bonds)                                       │
+    │   ├── Direct investment                                                     │
+    │   └── Bank lending (cross-border)                                           │
     │                                                                             │
-    │   CHANNEL 4: GLOBAL BANKS                                                 │
-    │   ├── International banks move liquidity across borders                  │
-    │   ├── Parent banks fund subsidiaries                                     │
-    │   └── Repatriation of profits                                            │
+    │   CHANNEL 4: GLOBAL BANKS                                                   │
+    │   ├── International banks move liquidity across borders                     │
+    │   ├── Parent banks fund subsidiaries                                        │
+    │   └── Repatriation of profits                                               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
