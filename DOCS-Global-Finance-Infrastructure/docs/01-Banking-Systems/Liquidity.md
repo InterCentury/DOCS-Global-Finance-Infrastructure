@@ -101,15 +101,15 @@ LIQUIDITY IMPORTANCE FRAMEWORK
     │   ├── Insufficient liquidity blocks payment flows                           │
     │   └── Payment system disruption affects entire economy                      │
     │                                                                             │
-    │   IMPORTANCE 4: MONETARY POLICY                                            │
-    │   ├── Central banks manage liquidity to implement policy                 │
-    │   ├── Interest rates depend on liquidity conditions                       │
-    │   └── Liquidity transmission affects economy                              │
+    │   IMPORTANCE 4: MONETARY POLICY                                             │
+    │   ├── Central banks manage liquidity to implement policy                    │
+    │   ├── Interest rates depend on liquidity conditions                         │
+    │   └── Liquidity transmission affects economy                                │
     │                                                                             │
-    │   IMPORTANCE 5: FINANCIAL STABILITY                                        │
-    │   ├── Liquidity shortages cause systemic risk                             │
-    │   ├── Contagion spreads through liquidity channels                        │
-    │   └── Central banks act as lender of last resort                          │
+    │   IMPORTANCE 5: FINANCIAL STABILITY                                         │
+    │   ├── Liquidity shortages cause systemic risk                               │
+    │   ├── Contagion spreads through liquidity channels                          │
+    │   └── Central banks act as lender of last resort                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
