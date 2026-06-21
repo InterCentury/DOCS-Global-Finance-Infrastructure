@@ -475,40 +475,65 @@ How it works: Solvency is about the balance sheet: assets exceed liabilities. Li
 ```
 LIQUIDITY VS SOLVENCY COMPARISON
 
-    ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   ASPECT              │ LIQUIDITY               │ SOLVENCY                  │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Definition          │ Ability to meet short-  │ Assets > Liabilities      │
-    │                       │ term obligations        │                           │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Focus               │ Cash flow               │ Balance sheet             │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Time horizon        │ Short-term (< 1 year)   │ Long-term                 │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Key metric          │ LCR, NSFR               │ Capital ratio (CET1)      │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Problem             │ Illiquidity             │ Insolvency                │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Remedy              │ Borrowing, asset sale   │ Recapitalization,         │
-    │                       │                         │ restructuring             │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Time to resolve     │ Days to weeks           │ Months to years           │
-    │   ────────────────────│─────────────────────────│────────────────────────── │
-    │   Example             │ Northern Rock (2007)    │ Lehman Brothers (2008)    │
-    │                                                                             │
-    │                                                                             │
-    │   THE RELATIONSHIP:                                                         │
-    │                                                                             │
-    │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                                                                     │   │
-    │   │   Solvent + Illiquid = Potentially survivable (needs liquidity)     │   │
-    │   │   Insolvent + Liquid = Failing (needs recapitalization)             │   │
-    │   │   Insolvent + Illiquid = Failure (needs resolution)                 │   │
-    │   │                                                                     │   │
-    │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                                                             │
-    └─────────────────────────────────────────────────────────────────────────────┘
+                         +---------------------------+
+                         |  How to Classify a Bank   |
+                         +-------------+-------------+
+                                       |
+                     +-----------------+-----------------+
+                     |                                   |
+                     ▼                                   ▼
+               +---------------------------+   +---------------------------+
+               |  ASSETS > LIABILITIES?    |   |  ASSETS < LIABILITIES?    |
+               |  (Is Bank Solvent?)       |   |  (Is Bank Insolvent?)     |
+               +-------------+-------------+   +-------------+-------------+
+                             |                                 |
+               +-------------+-------------+                   |
+               |                           |                   |
+               ▼                           ▼                   ▼
+         +---------------------------+  +---------------------------+
+         |  CAN MEET OBLIGATIONS?    |  |  CANNOT MEET OBLIGATIONS? |
+         |  (Is Bank Liquid?)        |  |  (Is Bank Illiquid?)      |
+         +-------------+-------------+  +-------------+-------------+
+                       |                                |
+         +-------------+-------------+                  |
+         |                           |                  |
+         ▼                           ▼                  ▼
+   +---------------------------+  +---------------------------+
+   |  HEALTHY BANK             |  |  LIQUIDITY CRISIS         |
+   |  - Solvent                |  |  - Solvent                |
+   |  - Liquid                 |  |  - Illiquid               |
+   |  - Survives               |  |  - Needs liquidity        |
+   |                           |  |  - Central bank help      |
+   +---------------------------+  +---------------------------+
+
+
+                     LIQUIDITY IS ABOUT SURVIVAL
+                     SOLVENCY IS ABOUT VIABILITY
+
+
+                  +-------------------------------------------+
+                  |        LIQUIDITY DIMENSIONS               |
+                  +-------------------------------------------+
+                  │                                           │
+                  │   LIQUIDITY          SOLVENCY             │
+                  │   (Cash Flow)        (Balance Sheet)      │
+                  │       |                    |              │
+                  │       |                    |              │
+                  │   +---+----+          +----+---+          │
+                  │   |        |          |        |          │
+                  │   ▼        ▼          ▼        ▼          │
+                  │ INFLOW  OUTFLOW    ASSETS  LIABILITIES    │
+                  │   |        |          |        |          │
+                  │   +----+---+          +----+---+          │
+                  │        |                    |             │
+                  │   +----+----+          +----+----+        │
+                  │   |         |          |         |        │
+                  │   ▼         ▼          ▼         ▼        │
+                  │ DEPOSITS │PAYMENTS   │LOANS     │DEPOSITS │
+                  │ LOANS    │WITHDRAWALS│SECURITIES│BORROW   │
+                  │ REPAY    │EXPENSES   │CASH      │EQUITY   │
+                  │                                           │
+                  +-------------------------------------------+
     ```
 
 ## 12. Liquidity in Commercial Banks
