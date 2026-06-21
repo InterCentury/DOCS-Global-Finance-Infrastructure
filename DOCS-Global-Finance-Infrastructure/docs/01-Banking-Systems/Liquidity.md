@@ -477,34 +477,34 @@ LIQUIDITY VS SOLVENCY COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ASPECT              │ LIQUIDITY               │ SOLVENCY                 │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Definition          │ Ability to meet short-  │ Assets > Liabilities     │
-    │                       │ term obligations        │                          │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Focus               │ Cash flow               │ Balance sheet            │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Time horizon        │ Short-term (< 1 year)   │ Long-term                │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Key metric          │ LCR, NSFR               │ Capital ratio (CET1)     │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Problem             │ Illiquidity             │ Insolvency               │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Remedy              │ Borrowing, asset sale   │ Recapitalization,        │
-    │                       │                         │ restructuring            │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Time to resolve     │ Days to weeks           │ Months to years          │
-    │   ────────────────────│─────────────────────────│──────────────────────────│
-    │   Example             │ Northern Rock (2007)    │ Lehman Brothers (2008)   │
+    │   ASPECT              │ LIQUIDITY               │ SOLVENCY                  │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Definition          │ Ability to meet short-  │ Assets > Liabilities      │
+    │                       │ term obligations        │                           │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Focus               │ Cash flow               │ Balance sheet             │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Time horizon        │ Short-term (< 1 year)   │ Long-term                 │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Key metric          │ LCR, NSFR               │ Capital ratio (CET1)      │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Problem             │ Illiquidity             │ Insolvency                │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Remedy              │ Borrowing, asset sale   │ Recapitalization,         │
+    │                       │                         │ restructuring             │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Time to resolve     │ Days to weeks           │ Months to years           │
+    │   ────────────────────│─────────────────────────│────────────────────────── │
+    │   Example             │ Northern Rock (2007)    │ Lehman Brothers (2008)    │
     │                                                                             │
     │                                                                             │
-    │   THE RELATIONSHIP:                                                       │
+    │   THE RELATIONSHIP:                                                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │   Solvent + Illiquid = Potentially survivable (needs liquidity)    │   │
-    │   │   Insolvent + Liquid = Failing (needs recapitalization)            │   │
-    │   │   Insolvent + Illiquid = Failure (needs resolution)                │   │
+    │   │   Solvent + Illiquid = Potentially survivable (needs liquidity)     │   │
+    │   │   Insolvent + Liquid = Failing (needs recapitalization)             │   │
+    │   │   Insolvent + Illiquid = Failure (needs resolution)                 │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
