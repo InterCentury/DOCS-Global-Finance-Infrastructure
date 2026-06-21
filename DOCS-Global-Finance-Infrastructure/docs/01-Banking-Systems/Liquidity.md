@@ -37,40 +37,40 @@ LIQUIDITY SPECTRUM
     │                                                                             │
     │   PERFECTLY LIQUID ◄──────────────────────────────────► COMPLETELY ILLIQUID │
     │                                                                             │
-    │   Cash                                                                     │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Central Bank Reserves                                                    │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Treasury Bills                                                           │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Government Bonds                                                         │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Money Market Funds                                                       │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Bank Deposits                                                            │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Corporate Bonds                                                          │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Listed Equities                                                          │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Bank Loans                                                               │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Real Estate                                                              │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Private Equity                                                           │
-    │     │                                                                      │
-    │     ▼                                                                      │
-    │   Art / Collectibles                                                       │
+    │   Cash                                                                      │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Central Bank Reserves                                                     │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Treasury Bills                                                            │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Government Bonds                                                          │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Money Market Funds                                                        │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Bank Deposits                                                             │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Corporate Bonds                                                           │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Listed Equities                                                           │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Bank Loans                                                                │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Real Estate                                                               │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Private Equity                                                            │
+    │     │                                                                       │
+    │     ▼                                                                       │
+    │   Art / Collectibles                                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
