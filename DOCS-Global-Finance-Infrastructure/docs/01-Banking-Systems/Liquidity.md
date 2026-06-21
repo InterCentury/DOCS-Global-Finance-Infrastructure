@@ -86,20 +86,20 @@ LIQUIDITY IMPORTANCE FRAMEWORK
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   IMPORTANCE 1: SURVIVAL                                                   │
-    │   ├── Without liquidity, institutions fail                                 │
-    │   ├── Even solvent banks can become insolvent through illiquidity         │
-    │   └── "Liquidity is the first line of defense"                            │
+    │   IMPORTANCE 1: SURVIVAL                                                    │
+    │   ├── Without liquidity, institutions fail                                  │
+    │   ├── Even solvent banks can become insolvent through illiquidity           │
+    │   └── "Liquidity is the first line of defense"                              │
     │                                                                             │
-    │   IMPORTANCE 2: CONFIDENCE                                                 │
-    │   ├── Liquidity maintains public trust in banking system                  │
-    │   ├── Depositors need to know they can access funds                       │
-    │   └── Confidence prevents bank runs                                       │
+    │   IMPORTANCE 2: CONFIDENCE                                                  │
+    │   ├── Liquidity maintains public trust in banking system                    │
+    │   ├── Depositors need to know they can access funds                         │
+    │   └── Confidence prevents bank runs                                         │
     │                                                                             │
-    │   IMPORTANCE 3: PAYMENT SYSTEM                                             │
-    │   ├── Payments require settlement in central bank reserves                │
-    │   ├── Insufficient liquidity blocks payment flows                         │
-    │   └── Payment system disruption affects entire economy                    │
+    │   IMPORTANCE 3: PAYMENT SYSTEM                                              │
+    │   ├── Payments require settlement in central bank reserves                  │
+    │   ├── Insufficient liquidity blocks payment flows                           │
+    │   └── Payment system disruption affects entire economy                      │
     │                                                                             │
     │   IMPORTANCE 4: MONETARY POLICY                                            │
     │   ├── Central banks manage liquidity to implement policy                 │
