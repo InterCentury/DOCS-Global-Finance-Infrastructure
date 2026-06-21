@@ -600,33 +600,33 @@ SOURCES OF LIQUIDITY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   SOURCE 1: CASH AND RESERVES                                              │
-    │   ├── Vault cash                                                          │
-    │   ├── Reserves at central bank                                            │
-    │   └── Most liquid, lowest yield                                            │
+    │   SOURCE 1: CASH AND RESERVES                                               │
+    │   ├── Vault cash                                                            │
+    │   ├── Reserves at central bank                                              │
+    │   └── Most liquid, lowest yield                                             │
     │                                                                             │
-    │   SOURCE 2: LIQUID SECURITIES                                              │
-    │   ├── Treasury bonds                                                      │
-    │   ├── Agency securities                                                   │
-    │   └── Can be sold quickly                                                 │
+    │   SOURCE 2: LIQUID SECURITIES                                               │
+    │   ├── Treasury bonds                                                        │
+    │   ├── Agency securities                                                     │
+    │   └── Can be sold quickly                                                   │
     │                                                                             │
-    │   SOURCE 3: RETAIL DEPOSITS                                                │
-    │   ├── Insured deposits (<$250k)                                           │
-    │   ├── Highly stable                                                       │
-    │   └── Core funding for banks                                              │
+    │   SOURCE 3: RETAIL DEPOSITS                                                 │
+    │   ├── Insured deposits (<$250k)                                             │
+    │   ├── Highly stable                                                         │
+    │   └── Core funding for banks                                                │
     │                                                                             │
-    │   SOURCE 4: WHOLESALE DEPOSITS                                             │
-    │   ├── Corporate deposits                                                  │
-    │   ├── Institutional deposits                                              │
-    │   └── Less stable than retail                                            │
+    │   SOURCE 4: WHOLESALE DEPOSITS                                              │
+    │   ├── Corporate deposits                                                    │
+    │   ├── Institutional deposits                                                │
+    │   └── Less stable than retail                                               │
     │                                                                             │
-    │   SOURCE 5: INTERBANK BORROWING                                            │
-    │   ├── Federal funds market                                                │
-    │   ├── Unsecured borrowing                                                │
-    │   └── Volatile during crises                                              │
+    │   SOURCE 5: INTERBANK BORROWING                                             │
+    │   ├── Federal funds market                                                  │
+    │   ├── Unsecured borrowing                                                   │
+    │   └── Volatile during crises                                                │
     │                                                                             │
-    │   SOURCE 6: REPURCHASE AGREEMENTS (REPO)                                  │
-    │   ├── Collateralized borrowing                                            │
+    │   SOURCE 6: REPURCHASE AGREEMENTS (REPO)                                    │
+    │   ├── Collateralized borrowing                                              │
     │   ├── Usually overnight                                                  │
     │   └── More stable than unsecured                                         │
     │                                                                             │
