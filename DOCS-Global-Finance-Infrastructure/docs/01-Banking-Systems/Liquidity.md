@@ -364,29 +364,29 @@ SYSTEM LIQUIDITY DETERMINANTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DETERMINANT 1: CENTRAL BANK OPERATIONS                                   │
-    │   ├── Open market operations (buy/sell securities)                        │
-    │   ├── Standing facilities (deposit/lending)                              │
-    │   ├── Reserve requirements                                               │
-    │   └── Quantitative easing programs                                       │
+    │   DETERMINANT 1: CENTRAL BANK OPERATIONS                                    │
+    │   ├── Open market operations (buy/sell securities)                          │
+    │   ├── Standing facilities (deposit/lending)                                 │
+    │   ├── Reserve requirements                                                  │
+    │   └── Quantitative easing programs                                          │
     │                                                                             │
-    │   DETERMINANT 2: GOVERNMENT CASH FLOWS                                    │
-    │   ├── Tax collections (drain liquidity)                                  │
-    │   ├── Government spending (inject liquidity)                             │
-    │   ├── Debt issuance (drain liquidity)                                    │
-    │   └── Debt repayment (inject liquidity)                                  │
+    │   DETERMINANT 2: GOVERNMENT CASH FLOWS                                      │
+    │   ├── Tax collections (drain liquidity)                                     │
+    │   ├── Government spending (inject liquidity)                                │
+    │   ├── Debt issuance (drain liquidity)                                       │
+    │   └── Debt repayment (inject liquidity)                                     │
     │                                                                             │
-    │   DETERMINANT 3: BANK BEHAVIOR                                            │
-    │   ├── Lending activity (creates deposits)                               │
-    │   ├── Borrowing activity (affects reserves)                              │
-    │   ├── Holding of reserves (affects multiplier)                          │
-    │   └── Interbank activity (redistributes reserves)                       │
+    │   DETERMINANT 3: BANK BEHAVIOR                                              │
+    │   ├── Lending activity (creates deposits)                                   │
+    │   ├── Borrowing activity (affects reserves)                                 │
+    │   ├── Holding of reserves (affects multiplier)                              │
+    │   └── Interbank activity (redistributes reserves)                           │
     │                                                                             │
-    │   DETERMINANT 4: MARKET CONDITIONS                                       │
-    │   ├── Confidence levels                                                  │
-    │   ├── Risk appetite                                                     │
-    │   ├── Global financial conditions                                       │
-    │   └── Currency movements                                                 │
+    │   DETERMINANT 4: MARKET CONDITIONS                                          │
+    │   ├── Confidence levels                                                     │
+    │   ├── Risk appetite                                                         │
+    │   ├── Global financial conditions                                           │
+    │   └── Currency movements                                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
