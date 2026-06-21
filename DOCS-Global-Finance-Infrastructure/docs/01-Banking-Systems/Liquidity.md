@@ -344,10 +344,10 @@ CASH LIQUIDITY COMPONENTS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CASH EQUIVALENTS                                                    │   │
-    │   │  ├── Overnight deposits at other banks                             │   │
-    │   │  ├── Short-term government securities (≤3 months)                  │   │
-    │   │  └── Can be converted to cash within 1 day                         │   │
+    │   │  CASH EQUIVALENTS                                                   │   │
+    │   │  ├── Overnight deposits at other banks                              │   │
+    │   │  ├── Short-term government securities (≤3 months)                   │   │
+    │   │  └── Can be converted to cash within 1 day                          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
