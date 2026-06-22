@@ -225,11 +225,11 @@ MUDARABAH CONTRACT STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   KEY FEATURES:                                                            │
-    │   ├── Capital provider (bank) bears all financial losses                  │
-    │   ├── Entrepreneur (mudarib) bears no financial loss                     │
-    │   ├── Profits shared based on agreed ratio (not fixed amount)            │
-    │   └── Bank's profit is a share of actual profit, not predetermined        │
+    │   KEY FEATURES:                                                             │
+    │   ├── Capital provider (bank) bears all financial losses                    │
+    │   ├── Entrepreneur (mudarib) bears no financial loss                        │
+    │   ├── Profits shared based on agreed ratio (not fixed amount)               │
+    │   └── Bank's profit is a share of actual profit, not predetermined          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
