@@ -349,12 +349,12 @@ MURABAHA CONTRACT FLOW
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   KEY FEATURES:                                                            │
-    │   ├── Bank takes ownership of asset (even temporarily)                    │
-    │   ├── Bank bears risk during ownership period                            │
-    │   ├── Profit is a fixed markup on cost (not interest)                    │
-    │   ├── Cost and profit are disclosed to customer                           │
-    │   └── Payment can be deferred (but not interest-bearing)                 │
+    │   KEY FEATURES:                                                             │
+    │   ├── Bank takes ownership of asset (even temporarily)                      │
+    │   ├── Bank bears risk during ownership period                               │
+    │   ├── Profit is a fixed markup on cost (not interest)                       │
+    │   ├── Cost and profit are disclosed to customer                             │
+    │   └── Payment can be deferred (but not interest-bearing)                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
