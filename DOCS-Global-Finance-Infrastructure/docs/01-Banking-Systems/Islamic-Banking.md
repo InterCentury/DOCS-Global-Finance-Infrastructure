@@ -289,10 +289,10 @@ MUSHARAKAH CONTRACT STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   TYPES OF MUSHARAKAH:                                                    │
-    │   ├── Permanent Musharakah: Partnership continues until termination       │
-    │   ├── Diminishing Musharakah: Bank's share reduces over time             │
-    │   └── (Bank sells its share to customer gradually)                       │
+    │   TYPES OF MUSHARAKAH:                                                      │
+    │   ├── Permanent Musharakah: Partnership continues until termination         │
+    │   ├── Diminishing Musharakah: Bank's share reduces over time                │
+    │   └── (Bank sells its share to customer gradually)                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
