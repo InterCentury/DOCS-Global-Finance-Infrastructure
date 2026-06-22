@@ -410,13 +410,13 @@ IJARAH CONTRACT STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   KEY FEATURES:                                                            │
-    │   ├── Bank retains ownership, bears asset risk                           │
-    │   ├── Customer pays rent for use (not interest)                          │
-    │   ├── Bank responsible for major maintenance (in most contracts)         │
-    │   ├── Rent can be fixed or variable                                      │
-    │   └── Cannot charge late fees on overdue rent (only late payment         │
-    │       charity)                                                           │
+    │   KEY FEATURES:                                                             │
+    │   ├── Bank retains ownership, bears asset risk                              │
+    │   ├── Customer pays rent for use (not interest)                             │
+    │   ├── Bank responsible for major maintenance (in most contracts)            │
+    │   ├── Rent can be fixed or variable                                         │
+    │   └── Cannot charge late fees on overdue rent (only late payment            │
+    │       charity)                                                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
