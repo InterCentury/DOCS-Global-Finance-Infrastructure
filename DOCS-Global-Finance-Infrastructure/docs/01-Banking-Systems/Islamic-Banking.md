@@ -616,30 +616,30 @@ SHARIAH GOVERNANCE STRUCTURE
     │   │   │                                                             │   │   │
     │   │   │  2. Fatwa Issuance: Issue religious rulings on specific     │   │   │
     │   │   │     transactions                                            │   │   │
-    │   │   │                                                              │   │   │
+    │   │   │                                                             │   │   │
     │   │   │  3. Audit and Review: Review existing products for          │   │   │
     │   │   │     compliance                                              │   │   │
-    │   │   │                                                              │   │   │
-    │   │   │  4. Purification: Identify and dispose of non-compliant    │   │   │
+    │   │   │                                                             │   │   │
+    │   │   │  4. Purification: Identify and dispose of non-compliant     │   │   │
     │   │   │     income                                                  │   │   │
-    │   │   │                                                              │   │   │
+    │   │   │                                                             │   │   │
     │   │   │  5. Report: Annual Shariah report to shareholders           │   │   │
-    │   │   │                                                              │   │   │
+    │   │   │                                                             │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   INTERNAL SHARIAH DEPARTMENT                                              │
-    │   ├── Shariah staff within bank                                           │
-    │   ├── Monitor daily operations                                            │
-    │   ├── Review transaction documentation                                     │
-    │   └── Refer complex cases to SSB                                         │
+    │   INTERNAL SHARIAH DEPARTMENT                                               │
+    │   ├── Shariah staff within bank                                             │
+    │   ├── Monitor daily operations                                              │
+    │   ├── Review transaction documentation                                      │
+    │   └── Refer complex cases to SSB                                            │
     │                                                                             │
-    │   EXTERNAL SHARIAH AUDIT                                                   │
-    │   ├── Independent Shariah audit                                          │
-    │   ├── Verify compliance                                                  │
-    │   └── Report to shareholders                                             │
+    │   EXTERNAL SHARIAH AUDIT                                                    │
+    │   ├── Independent Shariah audit                                             │
+    │   ├── Verify compliance                                                     │
+    │   └── Report to shareholders                                                │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
