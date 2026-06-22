@@ -210,15 +210,15 @@ MUDARABAH CONTRACT STRUCTURE
     │   │                             ▼                                       │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
     │   │   │  OUTCOME:                                                   │   │   │
-    │   │   │                                                              │   │   │
+    │   │   │                                                             │   │   │
     │   │   │  ┌─────────────────────────┐  ┌───────────────────────────┐ │   │   │
-    │   │   │  │  Profit (Business       │  │  Loss (Business fails)   │ │   │   │
+    │   │   │  │  Profit (Business       │  │  Loss (Business fails)    │ │   │   │
     │   │   │  │  succeeds)              │  │                           │ │   │   │
     │   │   │  │                         │  │                           │ │   │   │
-    │   │   │  │  Bank: Share of profit  │  │  Bank: Bears all         │ │   │   │
-    │   │   │  │  Entrepreneur: Share    │  │  loss of capital         │ │   │   │
-    │   │   │  │  of profit              │  │  Entrepreneur: Loses     │ │   │   │
-    │   │   │  │                         │  │  time and effort         │ │   │   │
+    │   │   │  │  Bank: Share of profit  │  │  Bank: Bears all          │ │   │   │
+    │   │   │  │  Entrepreneur: Share    │  │  loss of capital          │ │   │   │
+    │   │   │  │  of profit              │  │  Entrepreneur: Loses      │ │   │   │
+    │   │   │  │                         │  │  time and effort          │ │   │   │
     │   │   │  └─────────────────────────┘  └───────────────────────────┘ │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │                                                                     │   │
