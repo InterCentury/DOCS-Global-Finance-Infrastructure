@@ -559,30 +559,30 @@ PROFIT GENERATION METHODS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   METHOD 1: MURABAHA (Cost-Plus Sale)                                      │
-    │   ├── Bank buys asset, sells at markup                                   │
-    │   ├── Profit = Markup on cost                                             │
-    │   └── Used for: Trade financing, equipment purchase                       │
+    │   METHOD 1: MURABAHA (Cost-Plus Sale)                                       │
+    │   ├── Bank buys asset, sells at markup                                      │
+    │   ├── Profit = Markup on cost                                               │
+    │   └── Used for: Trade financing, equipment purchase                         │
     │                                                                             │
-    │   METHOD 2: IJARAH (Leasing)                                              │
-    │   ├── Bank buys asset, leases to customer                                │
-    │   ├── Profit = Rental income                                              │
-    │   └── Used for: Property, vehicles, equipment                            │
+    │   METHOD 2: IJARAH (Leasing)                                                │
+    │   ├── Bank buys asset, leases to customer                                   │
+    │   ├── Profit = Rental income                                                │
+    │   └── Used for: Property, vehicles, equipment                               │
     │                                                                             │
-    │   METHOD 3: MUDARABAH (Profit-Sharing)                                    │
-    │   ├── Bank provides capital, entrepreneur manages                        │
-    │   ├── Profit = Share of business profits                                 │
-    │   └── Used for: Business financing, venture capital                      │
+    │   METHOD 3: MUDARABAH (Profit-Sharing)                                      │
+    │   ├── Bank provides capital, entrepreneur manages                           │
+    │   ├── Profit = Share of business profits                                    │
+    │   └── Used for: Business financing, venture capital                         │
     │                                                                             │
-    │   METHOD 4: MUSHARAKAH (Joint Venture)                                    │
-    │   ├── Bank and customer both contribute capital                          │
-    │   ├── Profit = Share of venture profits                                  │
-    │   └── Used for: Large projects, real estate development                  │
+    │   METHOD 4: MUSHARAKAH (Joint Venture)                                      │
+    │   ├── Bank and customer both contribute capital                             │
+    │   ├── Profit = Share of venture profits                                     │
+    │   └── Used for: Large projects, real estate development                     │
     │                                                                             │
-    │   METHOD 5: ISTISNA (Manufacturing)                                      │
-    │   ├── Bank finances manufacturing of goods                               │
-    │   ├── Profit = Markup on manufactured goods                              │
-    │   └── Used for: Project financing, real estate construction              │
+    │   METHOD 5: ISTISNA (Manufacturing)                                         │
+    │   ├── Bank finances manufacturing of goods                                  │
+    │   ├── Profit = Markup on manufactured goods                                 │
+    │   └── Used for: Project financing, real estate construction                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
