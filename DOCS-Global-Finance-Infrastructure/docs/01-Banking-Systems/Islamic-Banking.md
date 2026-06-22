@@ -539,11 +539,11 @@ ISTISNA CONTRACT STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DIFFERENCES FROM SALAM:                                                  │
-    │   ├── Goods are manufactured, not existing commodities                    │
-    │   ├── Payment can be in stages (not necessarily full upfront)            │
-    │   ├── Contract can be cancelled before manufacturing starts              │
-    │   └── Delivery date can be flexible                                      │
+    │   DIFFERENCES FROM SALAM:                                                   │
+    │   ├── Goods are manufactured, not existing commodities                      │
+    │   ├── Payment can be in stages (not necessarily full upfront)               │
+    │   ├── Contract can be cancelled before manufacturing starts                 │
+    │   └── Delivery date can be flexible                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
