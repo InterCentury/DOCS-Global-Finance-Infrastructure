@@ -490,28 +490,28 @@ ISTISNA CONTRACT STRUCTURE
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                     ISTISNA CONTRACT                                 │   │
+    │   │                     ISTISNA CONTRACT                                │   │
     │   │               (Manufacturing / Construction)                        │   │
     │   │                                                                     │   │
-    │   │   STEP 1: Contract between bank and customer                       │   │
+    │   │   STEP 1: Contract between bank and customer                        │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │   │  Customer orders custom manufacturing (e.g., ship,         │   │   │
-    │   │   │  building, machinery)                                      │   │   │
+    │   │   │  Customer orders custom manufacturing (e.g., ship,          │   │   │
+    │   │   │  building, machinery)                                       │   │   │
     │   │   │  Bank agrees to deliver at specified price and quality      │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   STEP 2: Bank enters contract with manufacturer                   │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   STEP 2: Bank enters contract with manufacturer                    │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │   │  ┌─────────────────────┐         ┌─────────────────────┐   │   │   │
-    │   │   │  │        BANK         │─────────│   MANUFACTURER      │   │   │   │
-    │   │   │  │                     │ Payment │                     │   │   │   │
-    │   │   │  │                     │ in      │   (Builder)         │   │   │   │
-    │   │   │  │                     │ stages  │                     │   │   │   │
-    │   │   │  │                     │◄────────│                     │   │   │   │
-    │   │   │  │                     │ Goods   │                     │   │   │   │
-    │   │   │  │                     │         │                     │   │   │   │
-    │   │   │  └─────────────────────┘         └─────────────────────┘   │   │   │
+    │   │   │  ┌─────────────────────┐         ┌─────────────────────┐    │   │   │
+    │   │   │  │        BANK         │─────────│   MANUFACTURER      │    │   │   │
+    │   │   │  │                     │ Payment │                     │    │   │   │
+    │   │   │  │                     │ in      │   (Builder)         │    │   │   │
+    │   │   │  │                     │ stages  │                     │    │   │   │
+    │   │   │  │                     │◄────────│                     │    │   │   │
+    │   │   │  │                     │ Goods   │                     │    │   │   │
+    │   │   │  │                     │         │                     │    │   │   │
+    │   │   │  └─────────────────────┘         └─────────────────────┘    │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │        │                                                           │   │
     │   │        ▼                                                           │   │
