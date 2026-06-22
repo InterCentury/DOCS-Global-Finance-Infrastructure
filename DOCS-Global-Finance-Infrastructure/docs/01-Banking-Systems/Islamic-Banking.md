@@ -852,20 +852,20 @@ MAJOR ISLAMIC BANKS WORLDWIDE
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   BANK NAME                 │ COUNTRY        │ ASSETS (USD)                 │
-    │   ──────────────────────────│────────────────│─────────────────────────────│
-    │   Al Rajhi Bank             │ Saudi Arabia   │ ~$200 billion               │
-    │   ──────────────────────────│────────────────│─────────────────────────────│
-    │   Kuwait Finance House      │ Kuwait         │ ~$100 billion               │
-    │   ──────────────────────────│────────────────│─────────────────────────────│
-    │   Dubai Islamic Bank        │ UAE            │ ~$85 billion                │
-    │   ──────────────────────────│────────────────│─────────────────────────────│
-    │   Qatar Islamic Bank        │ Qatar          │ ~$75 billion                │
-    │   ──────────────────────────│────────────────│─────────────────────────────│
-    │   Bank Islam Malaysia       │ Malaysia       │ ~$30 billion                │
-    │   ──────────────────────────│────────────────│─────────────────────────────│
-    │   Meezan Bank               │ Pakistan       │ ~$15 billion                │
-    │   ──────────────────────────│────────────────│─────────────────────────────│
-    │   Islamic Development Bank  │ Saudi Arabia   │ ~$150 billion (incl.        │
+    │   ──────────────────────────│────────────────│───────────────────────────── │
+    │   Al Rajhi Bank             │ Saudi Arabia   │ ~$200 billion                │
+    │   ──────────────────────────│────────────────│───────────────────────────── │
+    │   Kuwait Finance House      │ Kuwait         │ ~$100 billion                │
+    │   ──────────────────────────│────────────────│───────────────────────────── │
+    │   Dubai Islamic Bank        │ UAE            │ ~$85 billion                 │
+    │   ──────────────────────────│────────────────│───────────────────────────── │
+    │   Qatar Islamic Bank        │ Qatar          │ ~$75 billion                 │
+    │   ──────────────────────────│────────────────│───────────────────────────── │
+    │   Bank Islam Malaysia       │ Malaysia       │ ~$30 billion                 │
+    │   ──────────────────────────│────────────────│───────────────────────────── │
+    │   Meezan Bank               │ Pakistan       │ ~$15 billion                 │
+    │   ──────────────────────────│────────────────│───────────────────────────── │
+    │   Islamic Development Bank  │ Saudi Arabia   │ ~$150 billion (incl.         │
     │   (IsDB)                    │                │ multilateral funding)        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
@@ -878,29 +878,29 @@ ISLAMIC BANKING FORMULAS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Mudarabah Profit Share = Total Profit × Profit Sharing Ratio             │
-    │   Example: $100,000 × 60% = $60,000 (depositor share)                     │
+    │   Mudarabah Profit Share = Total Profit × Profit Sharing Ratio              │
+    │   Example: $100,000 × 60% = $60,000 (depositor share)                       │
     │                                                                             │
-    │   Musharakah Loss Share = Total Loss × Capital Contribution Ratio          │
-    │   Example: $50,000 × 40% = $20,000 (partner's loss share)                 │
+    │   Musharakah Loss Share = Total Loss × Capital Contribution Ratio           │
+    │   Example: $50,000 × 40% = $20,000 (partner's loss share)                   │
     │                                                                             │
-    │   Murabaha Profit = Cost × Markup Percentage                               │
-    │   Example: $100,000 × 20% = $20,000                                       │
+    │   Murabaha Profit = Cost × Markup Percentage                                │
+    │   Example: $100,000 × 20% = $20,000                                         │
     │                                                                             │
-    │   Murabaha Sale Price = Cost + Profit                                     │
-    │   Example: $100,000 + $20,000 = $120,000                                  │
+    │   Murabaha Sale Price = Cost + Profit                                       │
+    │   Example: $100,000 + $20,000 = $120,000                                    │
     │                                                                             │
-    │   Ijarah Rental Rate = (Asset Cost × Desired Return) / Lease Term         │
-    │   Example: ($100,000 × 8%) / 5 years = $1,600 per month                  │
+    │   Ijarah Rental Rate = (Asset Cost × Desired Return) / Lease Term           │
+    │   Example: ($100,000 × 8%) / 5 years = $1,600 per month                     │
     │                                                                             │
-    │   Salam Payment = Price per Unit × Quantity                               │
-    │   Example: $10/bushel × 1,000 bushels = $10,000                           │
+    │   Salam Payment = Price per Unit × Quantity                                 │
+    │   Example: $10/bushel × 1,000 bushels = $10,000                             │
     │                                                                             │
-    │   Istisna Payment = Progress Payment % × Contract Price                   │
-    │   Example: 40% completion × $1,000,000 = $400,000                         │
+    │   Istisna Payment = Progress Payment % × Contract Price                     │
+    │   Example: 40% completion × $1,000,000 = $400,000                           │
     │                                                                             │
-    │   Diminishing Musharakah Buyout = (Bank's Share / Total Shares) ×         │
-    │   Property Value                                                           │
+    │   Diminishing Musharakah Buyout = (Bank's Share / Total Shares) ×           │
+    │   Property Value                                                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
