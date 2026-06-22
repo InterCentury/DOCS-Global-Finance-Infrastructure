@@ -781,14 +781,14 @@ MUDARABAH DEPOSIT STRUCTURE
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  DEPOSITOR (Rabb-ul-Mal)       BANK (Mudarib)                       │   │
     │   │                                                                     │   │
-    │   │  Provides capital    ─────────► Manages and invests funds         │   │
-    │   │  Bears losses                   Shares profits                     │   │
-    │   │  Receives profit share          Receives profit share             │   │
+    │   │  Provides capital    ─────────► Manages and invests funds           │   │
+    │   │  Bears losses                   Shares profits                      │   │
+    │   │  Receives profit share          Receives profit share               │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   PROFIT DISTRIBUTION:                                                     │
+    │   PROFIT DISTRIBUTION:                                                      │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Total Profit from Investments: $100,000                           │   │
     │   │  Profit Sharing Ratio (Depositor:Bank): 60:40                    │   │
