@@ -653,35 +653,35 @@ PURIFICATION PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   WHAT NEEDS PURIFICATION:                                                 │
+    │   WHAT NEEDS PURIFICATION:                                                  │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Sources of Non-Compliant Income:                                   │   │
     │   │  ├── Late payment penalties (interest-like)                         │   │
-    │   │  ├── Income from investments in non-compliant businesses           │   │
-    │   │  ├── Interest earned on idle funds                                 │   │
+    │   │  ├── Income from investments in non-compliant businesses            │   │
+    │   │  ├── Interest earned on idle funds                                  │   │
     │   │  └── Income from prohibited activities                              │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   PURIFICATION PROCESS:                                                    │
+    │   PURIFICATION PROCESS:                                                     │
     │                                                                             │
-    │   STEP 1: Identify non-compliant income                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Calculate amount to be purified                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Segregate amount in separate account                            │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: Donate to charity (with SSB approval)                          │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: Report purification in annual report                            │
+    │   STEP 1: Identify non-compliant income                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Calculate amount to be purified                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Segregate amount in separate account                              │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: Donate to charity (with SSB approval)                             │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: Report purification in annual report                              │
     │                                                                             │
-    │   IMPORTANT: The bank cannot benefit from purified funds.                │
-    │   The funds are given to charity without any tax benefit to the bank.     │
+    │   IMPORTANT: The bank cannot benefit from purified funds.                   │
+    │   The funds are given to charity without any tax benefit to the bank.       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
