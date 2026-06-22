@@ -800,13 +800,13 @@ MUDARABAH DEPOSIT STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   LOSS SCENARIO:                                                          │
+    │   LOSS SCENARIO:                                                            │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Loss from Investments: $100,000                                    │   │
-    │   │  Loss Sharing: Proportional to capital                            │   │
+    │   │  Loss Sharing: Proportional to capital                              │   │
     │   │                                                                     │   │
-    │   │  Depositor bears loss: -$100,000 (capital reduced)                │   │
-    │   │  Bank bears loss: -$0 (loses effort, not capital)                 │   │
+    │   │  Depositor bears loss: -$100,000 (capital reduced)                  │   │
+    │   │  Bank bears loss: -$0 (loses effort, not capital)                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
