@@ -695,42 +695,42 @@ ISLAMIC VS CONVENTIONAL BANKING COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ASPECT              │ ISLAMIC BANKING        │ CONVENTIONAL BANKING     │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Interest            │ Prohibited (Riba)      │ Core business model      │
-    │   (Riba)              │                         │                         │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Profit mechanism    │ Trade, leasing,        │ Interest on loans       │
-    │                       │ partnership            │                         │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Risk sharing        │ Bank shares risk       │ Risk transferred to     │
-    │                       │ with customer          │ borrower                 │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Asset backing       │ Every transaction      │ Can lend without asset  │
-    │                       │ backed by real asset   │ backing                  │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Money creation      │ Money has no intrinsic │ Money can create money  │
-    │                       │ value; must be used    │ through lending          │
-    │                       │ productively           │                         │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Guarantee           │ Bank cannot guarantee  │ Bank can guarantee      │
-    │                       │ profit                 │ profit (fixed interest)  │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Deposits            │ Wadiah (safe-keeping)  │ Debt obligation         │
-    │                       │ or Mudarabah           │                         │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Governance          │ Shariah board          │ Board of directors only  │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Late payment        │ Cannot charge interest │ Can charge late fees    │
-    │   penalties           │ (can charge charity)   │ (penalty interest)       │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Prohibited sectors  │ Cannot invest in       │ Can invest in all legal  │
-    │                       │ alcohol, pork, gambling│ sectors                   │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Derivative use      │ Severely restricted    │ Widely used              │
-    │   ────────────────────│────────────────────────│──────────────────────────│
-    │   Speculation         │ Prohibited (Maysir)    │ Common practice          │
-    │   (Gambling)          │                         │                         │
+    │   ASPECT              │ ISLAMIC BANKING        │ CONVENTIONAL BANKING       │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Interest            │ Prohibited (Riba)      │ Core business model        │
+    │   (Riba)              │                        │                            │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Profit mechanism    │ Trade, leasing,        │ Interest on loans          │
+    │                       │ partnership            │                            │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Risk sharing        │ Bank shares risk       │ Risk transferred to        │
+    │                       │ with customer          │ borrower                   │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Asset backing       │ Every transaction      │ Can lend without asset     │
+    │                       │ backed by real asset   │ backing                    │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Money creation      │ Money has no intrinsic │ Money can create money     │
+    │                       │ value; must be used    │ through lending            │
+    │                       │ productively           │                            │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Guarantee           │ Bank cannot guarantee  │ Bank can guarantee         │
+    │                       │ profit                 │ profit (fixed interest)    │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Deposits            │ Wadiah (safe-keeping)  │ Debt obligation            │
+    │                       │ or Mudarabah           │                            │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Governance          │ Shariah board          │ Board of directors only    │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Late payment        │ Cannot charge interest │ Can charge late fees       │  
+    │   penalties           │ (can charge charity)   │ (penalty interest)         │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Prohibited sectors  │ Cannot invest in       │ Can invest in all legal    │
+    │                       │ alcohol, pork, gambling│ sectors                    │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Derivative use      │ Severely restricted    │ Widely used                │
+    │   ────────────────────│────────────────────────│──────────────────────────  │
+    │   Speculation         │ Prohibited (Maysir)    │ Common practice            │
+    │   (Gambling)          │                        │                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
