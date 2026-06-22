@@ -694,7 +694,6 @@ PURIFICATION PROCESS
 ISLAMIC VS CONVENTIONAL BANKING COMPARISON
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   ASPECT              │ ISLAMIC BANKING        │ CONVENTIONAL BANKING       │
     │   ────────────────────│────────────────────────│──────────────────────────  │
     │   Interest            │ Prohibited (Riba)      │ Core business model        │
@@ -731,7 +730,6 @@ ISLAMIC VS CONVENTIONAL BANKING COMPARISON
     │   ────────────────────│────────────────────────│──────────────────────────  │
     │   Speculation         │ Prohibited (Maysir)    │ Common practice            │
     │   (Gambling)          │                        │                            │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
