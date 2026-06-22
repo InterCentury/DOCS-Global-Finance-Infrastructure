@@ -465,15 +465,15 @@ SALAM CONTRACT STRUCTURE
     │                                                                             │
     │   CONDITIONS:                                                               │
     │   ├── Goods must be specified (quantity, quality, delivery date)            │
-    │   ├── Full payment must be made at the time of contract                  │
-    │   ├── Goods must be commodities or assets that can be delivered          │
-    │   └── Goods must be available in the market at delivery time             │
+    │   ├── Full payment must be made at the time of contract                     │
+    │   ├── Goods must be commodities or assets that can be delivered             │
+    │   └── Goods must be available in the market at delivery time                │
     │                                                                             │
     │                                                                             │
-    │   PARALLEL SALAM:                                                         │
-    │   ├── Bank can enter a second Salam contract (as seller)                 │
-    │   ├── To manage risk and secure profit                                   │
-    │   └── Subject to strict conditions                                        │
+    │   PARALLEL SALAM:                                                           │
+    │   ├── Bank can enter a second Salam contract (as seller)                    │
+    │   ├── To manage risk and secure profit                                      │
+    │   └── Subject to strict conditions                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
