@@ -454,17 +454,17 @@ SALAM CONTRACT STRUCTURE
     │   │                                                                     │   │
     │   │   ┌─────────────────────┐         ┌─────────────────────────────┐   │   │
     │   │   │      ISLAMIC BANK   │◄────────│          FARMER             │   │   │
-    │   │   │  (Buyer)            │ 1,000    │  (Seller)                   │   │   │
-    │   │   │                     │ bushels  │                             │   │   │
-    │   │   │                     │ wheat    │                             │   │   │
-    │   │   │                     │          │                             │   │   │
+    │   │   │  (Buyer)            │ 1,000   │  (Seller)                   │   │   │
+    │   │   │                     │ bushels │                             │   │   │
+    │   │   │                     │ wheat   │                             │   │   │
+    │   │   │                     │         │                             │   │   │
     │   │   └─────────────────────┘         └─────────────────────────────┘   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   CONDITIONS:                                                              │
-    │   ├── Goods must be specified (quantity, quality, delivery date)          │
+    │   CONDITIONS:                                                               │
+    │   ├── Goods must be specified (quantity, quality, delivery date)            │
     │   ├── Full payment must be made at the time of contract                  │
     │   ├── Goods must be commodities or assets that can be delivered          │
     │   └── Goods must be available in the market at delivery time             │
