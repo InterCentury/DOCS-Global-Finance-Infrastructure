@@ -790,13 +790,13 @@ MUDARABAH DEPOSIT STRUCTURE
     │                                                                             │
     │   PROFIT DISTRIBUTION:                                                      │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Total Profit from Investments: $100,000                           │   │
-    │   │  Profit Sharing Ratio (Depositor:Bank): 60:40                    │   │
+    │   │  Total Profit from Investments: $100,000                            │   │
+    │   │  Profit Sharing Ratio (Depositor:Bank): 60:40                       │   │
     │   │                                                                     │   │
-    │   │  Depositor Share: $60,000                                          │   │
-    │   │  Bank Share: $40,000                                              │   │
+    │   │  Depositor Share: $60,000                                           │   │
+    │   │  Bank Share: $40,000                                                │   │
     │   │                                                                     │   │
-    │   │  Depositor's Return = $60,000 / Depositor's Capital               │   │
+    │   │  Depositor's Return = $60,000 / Depositor's Capital                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
