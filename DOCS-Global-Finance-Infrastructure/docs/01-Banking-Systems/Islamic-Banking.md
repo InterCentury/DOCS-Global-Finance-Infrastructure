@@ -747,9 +747,9 @@ WADIAH DEPOSIT STRUCTURE
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  DEPOSITOR               BANK                                         │   │
+    │   │  DEPOSITOR               BANK                                       │   │
     │   │                                                                     │   │
-    │   │  Places deposit ─────────────────► Receives deposit                │   │
+    │   │  Places deposit ─────────────────► Receives deposit                 │   │
     │   │  Can withdraw anytime             Guarantees full amount            │   │
     │   │  No interest expected             May use funds permissibly         │   │
     │   │  May receive gift (hibah)         May give gift at discretion       │   │
@@ -757,12 +757,12 @@ WADIAH DEPOSIT STRUCTURE
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   KEY FEATURES:                                                            │
-    │   ├── Bank is custodian, not borrower                                     │
-    │   ├── Depositor has full access to funds                                │
-    │   ├── Bank can charge fees for services                                  │
-    │   ├── Bank can give discretionary gifts (non-guaranteed)                 │
-    │   └── Principal fully guaranteed by bank                                │
+    │   KEY FEATURES:                                                             │
+    │   ├── Bank is custodian, not borrower                                       │
+    │   ├── Depositor has full access to funds                                    │
+    │   ├── Bank can charge fees for services                                     │
+    │   ├── Bank can give discretionary gifts (non-guaranteed)                    │
+    │   └── Principal fully guaranteed by bank                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
