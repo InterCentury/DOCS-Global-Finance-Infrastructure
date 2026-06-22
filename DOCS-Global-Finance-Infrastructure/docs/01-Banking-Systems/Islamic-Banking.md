@@ -371,7 +371,7 @@ IJARAH CONTRACT STRUCTURE
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                     IJARAH (LEASING) CONTRACT                        │   │
+    │   │                     IJARAH (LEASING) CONTRACT                       │   │
     │   │                                                                     │   │
     │   │   STEP 1: Bank purchases asset                                      │   │
     │   │   ┌─────────────┐     $100,000      ┌─────────────┐                 │   │
@@ -379,12 +379,12 @@ IJARAH CONTRACT STRUCTURE
     │   │   │             │◄──────────────────│             │                 │   │
     │   │   │             │   Asset Transfer  │             │                 │   │
     │   │   └─────────────┘                   └─────────────┘                 │   │
-    │   │        │                                                           │   │
+    │   │        │                                                            │   │
     │   │        │ Bank owns asset                                            │   │
-    │   │        ▼                                                           │   │
-    │   │   STEP 2: Bank leases asset to customer                            │   │
+    │   │        ▼                                                            │   │
+    │   │   STEP 2: Bank leases asset to customer                             │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │   │                                                              │   │   │
+    │   │   │                                                             │   │   │
     │   │   │   ┌─────────────────────┐         ┌─────────────────────┐   │   │   │
     │   │   │   │        BANK         │         │      CUSTOMER       │   │   │   │
     │   │   │   │   (Lessor/Owner)    │─────────│    (Lessee/User)    │   │   │   │
@@ -394,17 +394,17 @@ IJARAH CONTRACT STRUCTURE
     │   │   │   │   Bears maintenance │         │                     │   │   │   │
     │   │   │   │                     │         │                     │   │   │   │
     │   │   │   └─────────────────────┘         └─────────────────────┘   │   │   │
-    │   │   │                                                              │   │   │
+    │   │   │                                                             │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
-    │   │        │                                                           │   │
-    │   │        ▼                                                           │   │
-    │   │   STEP 3: End of lease term                                        │   │
+    │   │        │                                                            │   │
+    │   │        ▼                                                            │   │
+    │   │   STEP 3: End of lease term                                         │   │
     │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
-    │   │   │                                                              │   │   │
-    │   │   │   Option A: Return asset to bank                           │   │   │
-    │   │   │   Option B: Purchase asset (Ijarah wa Iqtina)              │   │   │
+    │   │   │                                                             │   │   │
+    │   │   │   Option A: Return asset to bank                            │   │   │
+    │   │   │   Option B: Purchase asset (Ijarah wa Iqtina)               │   │   │
     │   │   │              └── Gradual ownership transfer                 │   │   │
-    │   │   │                                                              │   │   │
+    │   │   │                                                             │   │   │
     │   │   └─────────────────────────────────────────────────────────────┘   │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
