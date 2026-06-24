@@ -1117,27 +1117,27 @@ WITHDRAWAL PATTERN ANALYSIS
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   Withdrawal Amount                                                         │
-    │        ▲                                                                   │
-    │        │                                                                   │
-    │   High  ┼                      ●●    ●●●                                  │
-    │        │                   ●●●  ●●  ●   ●●                                │
-    │        │                ●●●         ●     ●                               │
-    │        │             ●●●            ●      ●                              │
-    │        │          ●●●               ●       ●                             │
-    │        │       ●●●                  ●        ●                            │
-    │        │    ●●●                     ●         ●                           │
-    │   Low  ┼─●●─────────────────────────────────────────────────────────     │
-    │        │                                                                   │
-    │        └────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────► Time     │
-    │             Mon  Tue  Wed  Thu  Fri  Sat  Sun  Mon  Tue  Wed             │
+    │        ▲                                                                    │
+    │        │                                                                    │
+    │   High  ┼                      ●●    ●●●                                    │
+    │        │                   ●●●  ●●  ●   ●●                                  │
+    │        │                ●●●         ●     ●                                 │
+    │        │             ●●●            ●      ●                                │
+    │        │          ●●●               ●       ●                               │
+    │        │       ●●●                  ●        ●                              │
+    │        │    ●●●                     ●         ●                             │
+    │   Low  ┼─●●─────────────────────────────────────────────────────────        │
+    │        │                                                                    │
+    │        └────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────► Time        │
+    │             Mon  Tue  Wed  Thu  Fri  Sat  Sun  Mon  Tue  Wed                │
     │                                                                             │
     │                                                                             │
-    │   OBSERVATIONS:                                                            │
-    │   ├── Higher withdrawals on Fridays (payday effect)                       │
-    │   ├── High withdrawals on weekends (shopping, entertainment)              │
-    │   ├── Low withdrawals on Mondays (settling down after weekend)           │
-    │   ├── Peak around month-end (bill payments, rent)                        │
-    │   └── Seasonal peaks (holidays, tax season)                              │
+    │   OBSERVATIONS:                                                             │
+    │   ├── Higher withdrawals on Fridays (payday effect)                         │
+    │   ├── High withdrawals on weekends (shopping, entertainment)                │
+    │   ├── Low withdrawals on Mondays (settling down after weekend)              │
+    │   ├── Peak around month-end (bill payments, rent)                           │
+    │   └── Seasonal peaks (holidays, tax season)                                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
