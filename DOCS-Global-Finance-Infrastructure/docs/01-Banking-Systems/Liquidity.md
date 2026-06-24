@@ -752,16 +752,16 @@ TREASURY OPERATIONS STRUCTURE
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  RISK MANAGEMENT                                                    │   │
-    │   │  ├── Interest rate risk hedging                                    │   │
-    │   │  ├── Foreign exchange risk management                              │   │
-    │   │  └── Counterparty risk management                                  │   │
+    │   │  ├── Interest rate risk hedging                                     │   │
+    │   │  ├── Foreign exchange risk management                               │   │
+    │   │  └── Counterparty risk management                                   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  RELATIONSHIP MANAGEMENT                                             │   │
-    │   │  ├── Correspondent banking                                         │   │
-    │   │  ├── Central bank relations                                        │   │
-    │   │  └── Interbank market relationships                                │   │
+    │   │  RELATIONSHIP MANAGEMENT                                            │   │
+    │   │  ├── Correspondent banking                                          │   │
+    │   │  ├── Central bank relations                                         │   │
+    │   │  └── Interbank market relationships                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
