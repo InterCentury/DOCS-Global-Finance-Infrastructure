@@ -884,23 +884,23 @@ HQLA CATEGORIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CATEGORY           │ ASSET TYPES              │ HAIRCUT │ LIMIT         │
-    │   ───────────────────│──────────────────────────│─────────│───────────────│
-    │   Level 1            │ Cash                      │ 0%      │ Unlimited     │
-    │                      │ Central bank reserves    │         │               │
-    │                      │ Sovereign bonds (OECD)   │         │               │
-    │   ───────────────────│──────────────────────────│─────────│───────────────│
-    │   Level 2A           │ Agency MBS              │ 15%     │ Unlimited     │
-    │                      │ Corporate bonds (AA-)    │         │ (in Level 2)  │
-    │                      │ Sovereign bonds (not    │         │               │
-    │                      │ Level 1)                │         │               │
-    │   ───────────────────│──────────────────────────│─────────│───────────────│
-    │   Level 2B           │ Corporate bonds (BBB-)   │ 50%     │ 15% of total  │
-    │                      │ Equities (listed)        │         │ HQLA          │
-    │                      │ Residential MBS (RMBS)   │         │               │
+    │   CATEGORY           │ ASSET TYPES              │ HAIRCUT │ LIMIT           │
+    │   ───────────────────│──────────────────────────│─────────│───────────────  │
+    │   Level 1            │ Cash                     │ 0%      │ Unlimited       │
+    │                      │ Central bank reserves    │         │                 │
+    │                      │ Sovereign bonds (OECD)   │         │                 │
+    │   ───────────────────│──────────────────────────│─────────│───────────────  │
+    │   Level 2A           │ Agency MBS               │ 15%     │ Unlimited       │
+    │                      │ Corporate bonds (AA-)    │         │ (in Level 2)    │
+    │                      │ Sovereign bonds (not     │         │                 │
+    │                      │ Level 1)                 │         │                 │
+    │   ───────────────────│──────────────────────────│─────────│───────────────  │
+    │   Level 2B           │ Corporate bonds (BBB-)   │ 50%     │ 15% of total    │
+    │                      │ Equities (listed)        │         │ HQLA            │
+    │                      │ Residential MBS (RMBS)   │         │                 │
     │                                                                             │
-    │   HAIRCUT: The discount applied to asset value for liquidity purposes.    │
-    │   Example: $100 of Level 2A asset counts as $85 of HQLA (15% haircut).    │
+    │   HAIRCUT: The discount applied to asset value for liquidity purposes.      │
+    │   Example: $100 of Level 2A asset counts as $85 of HQLA (15% haircut).      │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
