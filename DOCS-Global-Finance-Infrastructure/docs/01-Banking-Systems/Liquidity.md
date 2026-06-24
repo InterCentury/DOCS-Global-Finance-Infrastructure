@@ -727,19 +727,19 @@ TREASURY OPERATIONS STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TREASURY FUNCTIONS                                                       │
+    │   TREASURY FUNCTIONS                                                        │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LIQUIDITY MANAGEMENT                                               │   │
-    │   │  ├── Daily cash positioning                                        │   │
+    │   │  ├── Daily cash positioning                                         │   │
     │   │  ├── Reserve management                                             │   │
-    │   │  └── Contingency liquidity planning                                │   │
+    │   │  └── Contingency liquidity planning                                 │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  FUNDING MANAGEMENT                                                  │   │
+    │   │  FUNDING MANAGEMENT                                                 │   │
     │   │  ├── Deposit gathering                                              │   │
-    │   │  ├── Wholesale funding (fed funds, repo, CP)                       │   │
+    │   │  ├── Wholesale funding (fed funds, repo, CP)                        │   │
     │   │  └── Capital market issuance                                        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
@@ -747,7 +747,7 @@ TREASURY OPERATIONS STRUCTURE
     │   │  INVESTMENT MANAGEMENT                                              │   │
     │   │  ├── Liquid asset portfolio                                         │   │
     │   │  ├── Securities trading                                             │   │
-    │   │  └── Asset-liability management (ALM)                              │   │
+    │   │  └── Asset-liability management (ALM)                               │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
