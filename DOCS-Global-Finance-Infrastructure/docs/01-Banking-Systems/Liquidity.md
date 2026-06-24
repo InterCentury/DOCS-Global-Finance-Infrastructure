@@ -915,7 +915,6 @@ How it works: The central bank sets a reserve requirement ratio (e.g., 10%). Ban
 RESERVE REQUIREMENT CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   FORMULA: Required Reserves = Reserve Requirement Ratio × Deposits         │
     │                                                                             │
     │   EXAMPLE 1 (10% requirement):                                              │
@@ -936,7 +935,6 @@ RESERVE REQUIREMENT CALCULATION
     │   ├── Two-week averaging period                                             │
     │   ├── Banks can have daily deficits                                         │
     │   └── Must meet average requirement over period                             │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
