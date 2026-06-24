@@ -1200,28 +1200,28 @@ PAYMENT PROCESSING LIQUIDITY FLOW
     │   │  Customer A's account: -$100                                        │   │
     │   │  Bank A's liability: -$100                                          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Bank A sends payment instruction to Bank B                      │
-    │   (Via SWIFT, ACH, or RTGS)                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Settlement through central bank                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Bank A sends payment instruction to Bank B                        │
+    │   (Via SWIFT, ACH, or RTGS)                                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Settlement through central bank                                   │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Central Bank Ledger:                                                │   │
-    │   │  ├── Bank A Reserve Account: -$100                                 │   │
-    │   │  └── Bank B Reserve Account: +$100                                 │   │
+    │   │  Central Bank Ledger:                                               │   │
+    │   │  ├── Bank A Reserve Account: -$100                                  │   │
+    │   │  └── Bank B Reserve Account: +$100                                  │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: Bank B credits Customer B                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: Bank B credits Customer B                                         │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Customer B's account: +$100                                       │   │
-    │   │  Bank B's liability: +$100                                         │   │
+    │   │  Customer B's account: +$100                                        │   │
+    │   │  Bank B's liability: +$100                                          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Key insight: Bank A must have sufficient reserves to make payment.      │
-    │   Without reserves, payment fails.                                        │
+    │   Key insight: Bank A must have sufficient reserves to make payment.        │
+    │   Without reserves, payment fails.                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
