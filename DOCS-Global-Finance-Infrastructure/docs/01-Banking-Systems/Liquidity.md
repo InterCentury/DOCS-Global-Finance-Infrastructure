@@ -1293,7 +1293,7 @@ INTERBANK LIQUIDITY MARKET
     │   AFTER TRANSACTION:                                                        │
     │   Bank A Reserves: $140M (Excess now $40M)                                  │
     │   Bank B Reserves: $50M (Shortfall eliminated)                              │
-    │                                                                             │
+    │   ────────────────────────────────────────────────────────────────────────  │
     │   KEY FEATURES:                                                             │
     │   ├── Unsecured overnight lending                                           │
     │   ├── Rate negotiated between banks                                         │
