@@ -778,11 +778,11 @@ LIQUIDITY FORECASTING COMPONENTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORECAST HORIZON:                                                        │
+    │   FORECAST HORIZON:                                                         │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  SHORT-TERM (Daily - Weekly)                                        │   │
-    │   │  ├── Known payments and receipts                                   │   │
+    │   │  ├── Known payments and receipts                                    │   │
     │   │  ├── Scheduled transactions                                         │   │
     │   │  └── Historical patterns                                            │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
@@ -790,40 +790,40 @@ LIQUIDITY FORECASTING COMPONENTS
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  MEDIUM-TERM (Monthly - Quarterly)                                  │   │
     │   │  ├── Seasonal patterns                                              │   │
-    │   │  ├── Business cycles                                               │   │
-    │   │  └── Planned funding activities                                    │   │
+    │   │  ├── Business cycles                                                │   │
+    │   │  └── Planned funding activities                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  LONG-TERM (Annual)                                                 │   │
-    │   │  ├── Strategic plans                                               │   │
-    │   │  ├── Regulatory changes                                            │   │
-    │   │  └── Economic outlook                                              │   │
+    │   │  ├── Strategic plans                                                │   │
+    │   │  ├── Regulatory changes                                             │   │
+    │   │  └── Economic outlook                                               │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   FORECASTING METHODS:                                                    │
+    │   FORECASTING METHODS:                                                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Method 1: Historical Analysis                                      │   │
-    │   │  ├── Use past patterns to project future                           │   │
-    │   │  ├── Daily, weekly, monthly seasonality                            │   │
+    │   │  ├── Use past patterns to project future                            │   │
+    │   │  ├── Daily, weekly, monthly seasonality                             │   │
     │   │  └── Assumes patterns continue                                      │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Method 2: Behavioral Modeling                                      │   │
-    │   │  ├── Model customer behavior                                       │   │
-    │   │  ├── Deposit decay rates                                           │   │
-    │   │  ├── Loan drawdown rates                                           │   │
-    │   │  └── Requires advanced analytics                                   │   │
+    │   │  ├── Model customer behavior                                        │   │
+    │   │  ├── Deposit decay rates                                            │   │
+    │   │  ├── Loan drawdown rates                                            │   │
+    │   │  └── Requires advanced analytics                                    │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Method 3: Scenario Analysis                                        │   │
-    │   │  ├── Base case (normal conditions)                                 │   │
-    │   │  ├── Adverse case (stress conditions)                              │   │
-    │   │  └── Severe case (crisis conditions)                               │   │
+    │   │  ├── Base case (normal conditions)                                  │   │
+    │   │  ├── Adverse case (stress conditions)                               │   │
+    │   │  └── Severe case (crisis conditions)                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
