@@ -1088,19 +1088,19 @@ INTERNAL LIQUIDITY FLOW
     │                               ▼                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                          TREASURY                                   │   │
-    │   │                  (Central funding desk)                            │   │
+    │   │                  (Central funding desk)                             │   │
     │   │                                                                     │   │
-    │   │   Funds allocated to business units:                               │   │
+    │   │   Funds allocated to business units:                                │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │              │                 │                 │                       │
-    │              ▼                 ▼                 ▼                       │
-    │   ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐            │
-    │   │  Retail Banking │ │  Commercial     │ │  Investment    │            │
-    │   │  (Mortgages,    │ │  Banking        │ │  Banking       │            │
-    │   │   Consumer)     │ │  (Business      │ │  (Trading,     │            │
-    │   │                 │ │   Loans)        │ │   Markets)     │            │
-    │   └─────────────────┘ └─────────────────┘ └─────────────────┘            │
+    │              │                 │                 │                          │
+    │              ▼                 ▼                 ▼                          │
+    │   ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐               │
+    │   │  Retail Banking │ │  Commercial     │ │  Investment     │               │
+    │   │  (Mortgages,    │ │  Banking        │ │  Banking        │               │
+    │   │   Consumer)     │ │  (Business      │ │  (Trading,      │               │
+    │   │                 │ │   Loans)        │ │   Markets)      │               │
+    │   └─────────────────┘ └─────────────────┘ └─────────────────┘               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
