@@ -1030,36 +1030,36 @@ LIQUIDITY LIFECYCLE FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   START: Central Bank creates reserves                                    │
-    │   (Open market purchase, QE)                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Reserves flow to commercial banks                                      │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Banks use reserves for:                                                 │
-    │   ├── Interbank settlement                                               │
-    │   ├── Meeting withdrawal demands                                         │
-    │   └── Funding loan growth                                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Loans create new deposits                                               │
-    │   (Money creation)                                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Deposits circulate through economy                                     │
-    │   (Spending, payments, transfers)                                        │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Deposits return to banks                                               │
-    │   (As deposits, loan repayments, tax payments)                           │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Banks rebuild reserve balances                                         │
-    │   (Through deposits, loan repayments, borrowing)                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Cycle continues                                                         │
+    │   START: Central Bank creates reserves                                      │
+    │   (Open market purchase, QE)                                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Reserves flow to commercial banks                                         │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Banks use reserves for:                                                   │
+    │   ├── Interbank settlement                                                  │
+    │   ├── Meeting withdrawal demands                                            │
+    │   └── Funding loan growth                                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Loans create new deposits                                                 │
+    │   (Money creation)                                                          │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Deposits circulate through economy                                      │
+    │   (Spending, payments, transfers)                                         │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Deposits return to banks                                                │
+    │   (As deposits, loan repayments, tax payments)                            │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Banks rebuild reserve balances                                          │
+    │   (Through deposits, loan repayments, borrowing)                          │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   Cycle continues                                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
