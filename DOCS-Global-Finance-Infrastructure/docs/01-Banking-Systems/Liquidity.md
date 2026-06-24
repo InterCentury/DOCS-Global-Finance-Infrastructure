@@ -1153,31 +1153,31 @@ LOAN DISBURSEMENT LIQUIDITY IMPACT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BEFORE LOAN DISBURSEMENT:                                                │
+    │   BEFORE LOAN DISBURSEMENT:                                                 │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
     │   │  │ Reserves: $10,000           ││ │ Deposits: $100,000          │   │   │
     │   │  │ Loans: $0                   ││ │ Equity: $10,000             │   │   │
     │   │  └─────────────────────────────┘│ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   Reserve Ratio: 10%                                                       │
-    │   Required Reserves: $10,000 (matched)                                    │
+    │   Reserve Ratio: 10%                                                        │
+    │   Required Reserves: $10,000 (matched)                                      │
     │                                                                             │
     │                                                                             │
-    │   AFTER $20,000 LOAN DISBURSEMENT:                                        │
+    │   AFTER $20,000 LOAN DISBURSEMENT:                                          │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Bank Assets                    │ Bank Liabilities                   │   │
+    │   │  Bank Assets                    │ Bank Liabilities                  │   │
     │   │  ┌─────────────────────────────┐│ ┌─────────────────────────────┐   │   │
     │   │  │ Reserves: $10,000           ││ │ Deposits: $120,000          │   │   │
     │   │  │ Loans: $20,000              ││ │ Equity: $10,000             │   │   │
     │   │  └─────────────────────────────┘│ └─────────────────────────────┘   │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   New Required Reserves: 10% × $120,000 = $12,000                         │
-    │   Actual Reserves: $10,000 (shortfall of $2,000)                         │
-    │   Bank must borrow $2,000 or reduce lending                              │
+    │   New Required Reserves: 10% × $120,000 = $12,000                           │
+    │   Actual Reserves: $10,000 (shortfall of $2,000)                            │
+    │   Bank must borrow $2,000 or reduce lending                                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
