@@ -950,7 +950,7 @@ CENTRAL BANK RESERVE ACCOUNT
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  CENTRAL BANK LEDGER                                                 │   │
+    │   │  CENTRAL BANK LEDGER                                                │   │
     │   │                                                                     │   │
     │   │  Account Holder              │ Balance ($ millions)                 │   │
     │   │  ────────────────────────────│──────────────────────────────────────│   │
@@ -966,12 +966,12 @@ CENTRAL BANK RESERVE ACCOUNT
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   KEY FEATURES:                                                            │
-    │   ├── Digital (no physical cash)                                          │
-    │   ├── Interest-bearing (IORB rate)                                       │
-    │   ├── Real-time transferable                                            │
-    │   ├── No credit risk (central bank liability)                            │
-    │   └── Used for interbank settlement                                      │
+    │   KEY FEATURES:                                                             │
+    │   ├── Digital (no physical cash)                                            │
+    │   ├── Interest-bearing (IORB rate)                                          │
+    │   ├── Real-time transferable                                                │
+    │   ├── No credit risk (central bank liability)                               │
+    │   └── Used for interbank settlement                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
