@@ -916,20 +916,20 @@ RESERVE REQUIREMENT CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: Required Reserves = Reserve Requirement Ratio × Deposits        │
+    │   FORMULA: Required Reserves = Reserve Requirement Ratio × Deposits         │
     │                                                                             │
-    │   EXAMPLE 1 (10% requirement):                                             │
-    │   Deposits = $100,000,000                                                 │
-    │   Required Reserves = 0.10 × $100,000,000 = $10,000,000                   │
+    │   EXAMPLE 1 (10% requirement):                                              │
+    │   Deposits = $100,000,000                                                   │
+    │   Required Reserves = 0.10 × $100,000,000 = $10,000,000                     │
     │                                                                             │
-    │   EXAMPLE 2 (5% requirement):                                              │
-    │   Deposits = $100,000,000                                                 │
-    │   Required Reserves = 0.05 × $100,000,000 = $5,000,000                    │
+    │   EXAMPLE 2 (5% requirement):                                               │
+    │   Deposits = $100,000,000                                                   │
+    │   Required Reserves = 0.05 × $100,000,000 = $5,000,000                      │
     │                                                                             │
-    │   EXAMPLE 3 (0% requirement):                                              │
-    │   Deposits = $100,000,000                                                 │
-    │   Required Reserves = $0                                                  │
-    │   (All reserves are excess)                                               │
+    │   EXAMPLE 3 (0% requirement):                                               │
+    │   Deposits = $100,000,000                                                   │
+    │   Required Reserves = $0                                                    │
+    │   (All reserves are excess)                                                 │
     │                                                                             │
     │                                                                             │
     │   RESERVE MAINTENANCE PERIOD:                                              │
