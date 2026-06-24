@@ -932,10 +932,10 @@ RESERVE REQUIREMENT CALCULATION
     │   (All reserves are excess)                                                 │
     │                                                                             │
     │                                                                             │
-    │   RESERVE MAINTENANCE PERIOD:                                              │
-    │   ├── Two-week averaging period                                           │
-    │   ├── Banks can have daily deficits                                     │
-    │   └── Must meet average requirement over period                         │
+    │   RESERVE MAINTENANCE PERIOD:                                               │
+    │   ├── Two-week averaging period                                             │
+    │   ├── Banks can have daily deficits                                         │
+    │   └── Must meet average requirement over period                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
