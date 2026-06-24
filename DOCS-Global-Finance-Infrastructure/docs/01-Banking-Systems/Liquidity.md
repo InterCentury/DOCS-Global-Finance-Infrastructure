@@ -987,36 +987,36 @@ CASH RESERVE MANAGEMENT PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STEP 1: FORECAST CASH DEMAND                                             │
-    │   ├── Historical withdrawal patterns                                      │
-    │   ├── Seasonal factors (holidays, weekends)                              │
-    │   ├── Local events                                                       │
-    │   └── Economic conditions                                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: DETERMINE CASH REQUIREMENTS                                    │
-    │   ├── Required at each branch                                            │
-    │   ├── Required at each ATM                                               │
-    │   ├── Required at central vault                                          │
-    │   └── Required for reserve requirements                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: SOURCE CASH                                                     │
-    │   ├── Central bank (Federal Reserve)                                    │
-    │   ├── Correspondent bank                                                │
-    │   └── Cash in transit (from other branches)                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: DISTRIBUTE CASH                                                 │
-    │   ├── Armored carriers to branches                                      │
-    │   ├── Cash loading to ATMs                                              │
-    │   └── Replenishment based on usage                                       │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: MONITOR AND ADJUST                                              │
-    │   ├── Track actual usage                                                 │
-    │   ├── Identify abnormal patterns                                        │
-    │   └── Adjust forecasts and distribution                                 │
+    │   STEP 1: FORECAST CASH DEMAND                                              │
+    │   ├── Historical withdrawal patterns                                        │
+    │   ├── Seasonal factors (holidays, weekends)                                 │
+    │   ├── Local events                                                          │
+    │   └── Economic conditions                                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: DETERMINE CASH REQUIREMENTS                                       │
+    │   ├── Required at each branch                                               │
+    │   ├── Required at each ATM                                                  │
+    │   ├── Required at central vault                                             │
+    │   └── Required for reserve requirements                                     │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: SOURCE CASH                                                       │
+    │   ├── Central bank (Federal Reserve)                                        │
+    │   ├── Correspondent bank                                                    │
+    │   └── Cash in transit (from other branches)                                 │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: DISTRIBUTE CASH                                                   │
+    │   ├── Armored carriers to branches                                          │
+    │   ├── Cash loading to ATMs                                                  │
+    │   └── Replenishment based on usage                                          │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: MONITOR AND ADJUST                                                │
+    │   ├── Track actual usage                                                    │
+    │   ├── Identify abnormal patterns                                            │
+    │   └── Adjust forecasts and distribution                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
