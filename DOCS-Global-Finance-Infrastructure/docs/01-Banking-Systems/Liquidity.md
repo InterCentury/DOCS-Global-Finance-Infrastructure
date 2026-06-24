@@ -1278,7 +1278,7 @@ INTERBANK LIQUIDITY MARKET
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BANK WITH EXCESS RESERVES              BANK WITH RESERVE SHORTFALL       │
+    │   BANK WITH EXCESS RESERVES              BANK WITH RESERVE SHORTFALL        │
     │                                                                             │
     │   ┌─────────────────────────────────┐    ┌─────────────────────────────────┐│
     │   │  Bank A                         │    │  Bank B                         ││
@@ -1286,19 +1286,19 @@ INTERBANK LIQUIDITY MARKET
     │   │  Required: $100M                │    │  Required: $50M                 ││
     │   │  Excess: $50M                   │    │  Shortfall: $10M                ││
     │   └───────────────┬─────────────────┘    └───────────────┬─────────────────┘│
-    │                   │                                       │                  │
+    │                   │                                      │                  │
     │                   │         Lends $10M at 5.25%          │                  │
-    │                   └─────────────────────────────────────┘                  │
+    │                   └──────────────────────────────────────┘                  │
     │                                                                             │
-    │   AFTER TRANSACTION:                                                       │
-    │   Bank A Reserves: $140M (Excess now $40M)                                │
-    │   Bank B Reserves: $50M (Shortfall eliminated)                            │
+    │   AFTER TRANSACTION:                                                        │
+    │   Bank A Reserves: $140M (Excess now $40M)                                  │
+    │   Bank B Reserves: $50M (Shortfall eliminated)                              │
     │                                                                             │
-    │   KEY FEATURES:                                                            │
-    │   ├── Unsecured overnight lending                                         │
-    │   ├── Rate negotiated between banks                                        │
-    │   ├── Rate stays near central bank target                                 │
-    │   └── Transparent and liquid market                                       │
+    │   KEY FEATURES:                                                             │
+    │   ├── Unsecured overnight lending                                           │
+    │   ├── Rate negotiated between banks                                         │
+    │   ├── Rate stays near central bank target                                   │
+    │   └── Transparent and liquid market                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
