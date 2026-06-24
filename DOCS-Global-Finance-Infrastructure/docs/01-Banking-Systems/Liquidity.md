@@ -706,12 +706,12 @@ LIQUIDITY MANAGEMENT PROCESS
     │   ├── Report to senior management                                           │
     │   ├── Submit regulatory reports                                             │
     │   └── Document decisions and actions                                        │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 5: CONTINGENCY PLANNING                                            │
-    │   ├── Monitor stress indicators                                           │
-    │   ├── Activate contingency plan if needed                                │
-    │   └── Access emergency facilities                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 5: CONTINGENCY PLANNING                                              │
+    │   ├── Monitor stress indicators                                             │
+    │   ├── Activate contingency plan if needed                                   │
+    │   └── Access emergency facilities                                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
