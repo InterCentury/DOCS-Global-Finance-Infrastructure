@@ -840,23 +840,23 @@ LIQUIDITY BUFFER STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TIER 1: CASH AND RESERVES                                                │
-    │   ├── Vault cash                                                          │
-    │   ├── Reserves at central bank                                            │
-    │   ├── 0% haircut, immediately available                                  │
-    │   └── Very low yield                                                      │
+    │   TIER 1: CASH AND RESERVES                                                 │
+    │   ├── Vault cash                                                            │
+    │   ├── Reserves at central bank                                              │
+    │   ├── 0% haircut, immediately available                                     │
+    │   └── Very low yield                                                        │
     │                                                                             │
-    │   TIER 2: LEVEL 1 HQLA                                                    │
-    │   ├── Government securities (sovereign bonds)                             │
-    │   ├── Highly rated, extremely liquid                                     │
-    │   ├── 0% haircut                                                         │
-    │   └── Modest yield                                                       │
+    │   TIER 2: LEVEL 1 HQLA                                                      │
+    │   ├── Government securities (sovereign bonds)                               │
+    │   ├── Highly rated, extremely liquid                                        │
+    │   ├── 0% haircut                                                            │
+    │   └── Modest yield                                                          │
     │                                                                             │
-    │   TIER 3: LEVEL 2A HQLA                                                   │
-    │   ├── Agency MBS                                                         │
-    │   ├── High-quality corporate bonds                                       │
-    │   ├── 15% haircut                                                        │
-    │   └── Moderate yield                                                     │
+    │   TIER 3: LEVEL 2A HQLA                                                     │
+    │   ├── Agency MBS                                                            │
+    │   ├── High-quality corporate bonds                                          │
+    │   ├── 15% haircut                                                           │
+    │   └── Moderate yield                                                        │
     │                                                                             │
     │   TIER 4: LEVEL 2B HQLA                                                   │
     │   ├── Lower-rated corporate bonds                                        │
