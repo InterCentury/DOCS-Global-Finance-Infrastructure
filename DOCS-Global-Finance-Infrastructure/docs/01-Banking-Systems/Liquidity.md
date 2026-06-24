@@ -1193,12 +1193,12 @@ PAYMENT PROCESSING LIQUIDITY FLOW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CUSTOMER A (Bank A) PAYS $100 TO CUSTOMER B (Bank B)                    │
+    │   CUSTOMER A (Bank A) PAYS $100 TO CUSTOMER B (Bank B)                      │
     │                                                                             │
-    │   STEP 1: Customer initiates payment                                      │
+    │   STEP 1: Customer initiates payment                                        │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Customer A's account: -$100                                       │   │
-    │   │  Bank A's liability: -$100                                         │   │
+    │   │  Customer A's account: -$100                                        │   │
+    │   │  Bank A's liability: -$100                                          │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │        │                                                                   │
     │        ▼                                                                   │
