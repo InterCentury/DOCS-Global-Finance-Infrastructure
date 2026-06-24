@@ -1047,19 +1047,19 @@ LIQUIDITY LIFECYCLE FLOW
     │   (Money creation)                                                          │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   Deposits circulate through economy                                      │
-    │   (Spending, payments, transfers)                                         │
+    │   Deposits circulate through economy                                        │
+    │   (Spending, payments, transfers)                                           │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   Deposits return to banks                                                │
-    │   (As deposits, loan repayments, tax payments)                            │
+    │   Deposits return to banks                                                  │
+    │   (As deposits, loan repayments, tax payments)                              │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   Banks rebuild reserve balances                                          │
-    │   (Through deposits, loan repayments, borrowing)                          │
+    │   Banks rebuild reserve balances                                            │
+    │   (Through deposits, loan repayments, borrowing)                            │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   Cycle continues                                                          │
+    │   Cycle continues                                                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
