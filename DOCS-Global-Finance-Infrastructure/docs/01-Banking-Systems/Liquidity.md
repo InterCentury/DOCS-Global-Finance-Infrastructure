@@ -858,17 +858,17 @@ LIQUIDITY BUFFER STRUCTURE
     │   ├── 15% haircut                                                           │
     │   └── Moderate yield                                                        │
     │                                                                             │
-    │   TIER 4: LEVEL 2B HQLA                                                   │
-    │   ├── Lower-rated corporate bonds                                        │
-    │   ├── Some equities                                                      │
-    │   ├── 50% haircut                                                        │
-    │   └── Higher yield                                                       │
+    │   TIER 4: LEVEL 2B HQLA                                                     │
+    │   ├── Lower-rated corporate bonds                                           │
+    │   ├── Some equities                                                         │
+    │   ├── 50% haircut                                                           │
+    │   └── Higher yield                                                          │
     │                                                                             │
-    │   TIER 5: OTHER LIQUID ASSETS                                            │
-    │   ├── Bank loans (securitizable)                                         │
-    │   ├── Less liquid assets                                                 │
-    │   ├── High haircut                                                       │
-    │   └── Only used in severe stress                                         │
+    │   TIER 5: OTHER LIQUID ASSETS                                               │
+    │   ├── Bank loans (securitizable)                                            │
+    │   ├── Less liquid assets                                                    │
+    │   ├── High haircut                                                          │
+    │   └── Only used in severe stress                                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
