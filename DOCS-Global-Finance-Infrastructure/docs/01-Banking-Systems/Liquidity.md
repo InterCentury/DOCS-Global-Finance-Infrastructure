@@ -1259,10 +1259,10 @@ ATM LIQUIDITY MANAGEMENT
     │   └── Count and record                                                      │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   STEP 4: Monitor and adjust                                              │
-    │   ├── Track actual usage                                                 │
-    │   ├── Identify abnormal patterns                                        │
-    │   └── Adjust replenishment schedule                                      │
+    │   STEP 4: Monitor and adjust                                                │
+    │   ├── Track actual usage                                                    │
+    │   ├── Identify abnormal patterns                                            │
+    │   └── Adjust replenishment schedule                                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
