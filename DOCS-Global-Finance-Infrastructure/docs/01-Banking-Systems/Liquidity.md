@@ -1237,28 +1237,28 @@ ATM LIQUIDITY MANAGEMENT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ATM CASH MANAGEMENT PROCESS:                                             │
+    │   ATM CASH MANAGEMENT PROCESS:                                              │
     │                                                                             │
-    │   STEP 1: Forecast demand                                                  │
-    │   ├── Historical transaction data                                         │
-    │   ├── Location-specific factors (urban, suburban, rural)                  │
-    │   ├── Day of week patterns (weekend higher)                              │
-    │   └── Special events                                                      │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: Optimize cash level                                             │
-    │   ├── Avoid running out of cash                                          │
-    │   ├── Avoid excessive idle cash                                          │
-    │   ├── Optimize replenishment frequency                                   │
-    │   └── Consider interest rate on idle cash                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: Replenish                                                       │
-    │   ├── Armored vehicle to ATM                                             │
-    │   ├── Load cash cassettes                                                 │
-    │   └── Count and record                                                   │
-    │        │                                                                   │
-    │        ▼                                                                   │
+    │   STEP 1: Forecast demand                                                   │
+    │   ├── Historical transaction data                                           │
+    │   ├── Location-specific factors (urban, suburban, rural)                    │
+    │   ├── Day of week patterns (weekend higher)                                 │
+    │   └── Special events                                                        │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: Optimize cash level                                               │
+    │   ├── Avoid running out of cash                                             │
+    │   ├── Avoid excessive idle cash                                             │
+    │   ├── Optimize replenishment frequency                                      │
+    │   └── Consider interest rate on idle cash                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: Replenish                                                         │
+    │   ├── Armored vehicle to ATM                                                │
+    │   ├── Load cash cassettes                                                   │
+    │   └── Count and record                                                      │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   STEP 4: Monitor and adjust                                              │
     │   ├── Track actual usage                                                 │
     │   ├── Identify abnormal patterns                                        │
