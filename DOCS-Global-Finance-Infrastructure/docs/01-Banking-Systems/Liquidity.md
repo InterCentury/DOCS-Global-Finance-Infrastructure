@@ -986,7 +986,6 @@ How it works: Bank branches and ATMs need cash for withdrawals. The bank must fo
 CASH RESERVE MANAGEMENT PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   STEP 1: FORECAST CASH DEMAND                                              │
     │   ├── Historical withdrawal patterns                                        │
     │   ├── Seasonal factors (holidays, weekends)                                 │
@@ -1017,7 +1016,6 @@ CASH RESERVE MANAGEMENT PROCESS
     │   ├── Track actual usage                                                    │
     │   ├── Identify abnormal patterns                                            │
     │   └── Adjust forecasts and distribution                                     │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
