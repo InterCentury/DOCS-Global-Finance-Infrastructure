@@ -681,31 +681,31 @@ LIQUIDITY MANAGEMENT PROCESS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DAILY LIQUIDITY MANAGEMENT:                                              │
+    │   DAILY LIQUIDITY MANAGEMENT:                                               │
     │                                                                             │
-    │   STEP 1: FORECAST                                                         │
-    │   ├── Project cash inflows and outflows                                   │
-    │   ├── Estimate reserve requirements                                       │
-    │   └── Identify potential shortfalls or surpluses                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 2: MONITOR                                                          │
-    │   ├── Track actual cash flows against forecast                           │
-    │   ├── Monitor reserve balances                                            │
-    │   ├── Track key liquidity metrics (LCR, NSFR)                            │
-    │   └── Identify deviations                                                │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 3: FUNDING DECISIONS                                               │
-    │   ├── If shortfall: Borrow (fed funds, repo, discount window)            │
-    │   ├── If surplus: Lend (fed funds, repo) or buy securities              │
-    │   └── Execute transactions                                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   STEP 4: REPORTING                                                        │
-    │   ├── Report to senior management                                        │
-    │   ├── Submit regulatory reports                                          │
-    │   └── Document decisions and actions                                     │
+    │   STEP 1: FORECAST                                                          │
+    │   ├── Project cash inflows and outflows                                     │
+    │   ├── Estimate reserve requirements                                         │
+    │   └── Identify potential shortfalls or surpluses                            │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 2: MONITOR                                                           │
+    │   ├── Track actual cash flows against forecast                              │
+    │   ├── Monitor reserve balances                                              │
+    │   ├── Track key liquidity metrics (LCR, NSFR)                               │
+    │   └── Identify deviations                                                   │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 3: FUNDING DECISIONS                                                 │
+    │   ├── If shortfall: Borrow (fed funds, repo, discount window)               │
+    │   ├── If surplus: Lend (fed funds, repo) or buy securities                  │
+    │   └── Execute transactions                                                  │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   STEP 4: REPORTING                                                         │
+    │   ├── Report to senior management                                           │
+    │   ├── Submit regulatory reports                                             │
+    │   └── Document decisions and actions                                        │
     │        │                                                                   │
     │        ▼                                                                   │
     │   STEP 5: CONTINGENCY PLANNING                                            │
