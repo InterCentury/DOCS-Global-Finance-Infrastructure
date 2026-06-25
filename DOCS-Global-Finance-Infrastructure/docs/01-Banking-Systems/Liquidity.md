@@ -1672,8 +1672,8 @@ NSFR CALCULATION
     │                                                                             │
     │   NSFR = $970M / $510M = 190% (Well above 100% requirement)                 │
     │                                                                             │
-    │   Minimum Requirement: ≥ 100%                                             │
-    │   Enforcement: Since 2018                                                │
+    │   Minimum Requirement: ≥ 100%                                               │
+    │   Enforcement: Since 2018                                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
