@@ -1650,27 +1650,27 @@ NSFR CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: NSFR = Available Stable Funding (ASF) / Required Stable         │
-    │   Funding (RSF)                                                           │
+    │   FORMULA: NSFR = Available Stable Funding (ASF) / Required Stable          │
+    │   Funding (RSF)                                                             │
     │                                                                             │
-    │   EXAMPLE:                                                                 │
+    │   EXAMPLE:                                                                  │
     │                                                                             │
-    │   Available Stable Funding (ASF):                                          │
-    │   ├── Equity capital: $200 million (100% stable)                         │
-    │   ├── Long-term debt (>1 year): $300 million (100%)                     │
-    │   ├── Stable retail deposits: $400 million (95%)                        │
-    │   ├── Less stable retail deposits: $100 million (90%)                   │
-    │   └── Total ASF: $200 + $300 + $380 + $90 = $970 million                │
+    │   Available Stable Funding (ASF):                                           │
+    │   ├── Equity capital: $200 million (100% stable)                            │
+    │   ├── Long-term debt (>1 year): $300 million (100%)                         │
+    │   ├── Stable retail deposits: $400 million (95%)                            │
+    │   ├── Less stable retail deposits: $100 million (90%)                       │
+    │   └── Total ASF: $200 + $300 + $380 + $90 = $970 million                    │
     │                                                                             │
-    │   Required Stable Funding (RSF):                                          │
-    │   ├── Cash and reserves: $200 million (0% requirement)                   │
-    │   ├── Sovereign bonds: $300 million (5% requirement)                     │
-    │   ├── Corporate bonds: $200 million (50% requirement)                    │
-    │   ├── Residential mortgages: $300 million (65% requirement)             │
-    │   ├── Unsecured loans: $200 million (100% requirement)                   │
-    │   └── Total RSF: $0 + $15 + $100 + $195 + $200 = $510 million           │
+    │   Required Stable Funding (RSF):                                            │
+    │   ├── Cash and reserves: $200 million (0% requirement)                      │
+    │   ├── Sovereign bonds: $300 million (5% requirement)                        │
+    │   ├── Corporate bonds: $200 million (50% requirement)                       │
+    │   ├── Residential mortgages: $300 million (65% requirement)                 │
+    │   ├── Unsecured loans: $200 million (100% requirement)                      │
+    │   └── Total RSF: $0 + $15 + $100 + $195 + $200 = $510 million               │
     │                                                                             │
-    │   NSFR = $970M / $510M = 190% (Well above 100% requirement)              │
+    │   NSFR = $970M / $510M = 190% (Well above 100% requirement)                 │
     │                                                                             │
     │   Minimum Requirement: ≥ 100%                                             │
     │   Enforcement: Since 2018                                                │
