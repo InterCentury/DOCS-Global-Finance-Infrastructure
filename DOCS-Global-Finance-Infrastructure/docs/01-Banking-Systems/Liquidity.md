@@ -1726,7 +1726,7 @@ LIQUIDITY MONITORING DASHBOARD
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DAILY LIQUIDITY DASHBOARD                                                │
+    │   DAILY LIQUIDITY DASHBOARD                                                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  METRIC                      │ VALUE      │ TARGET    │ STATUS      │   │
@@ -1741,16 +1741,16 @@ LIQUIDITY MONITORING DASHBOARD
     │   │  Fed Funds Rate Deviation    │ 0.05%      │ <0.10%    │ Green       │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   EARLY WARNING INDICATORS:                                                │
+    │   EARLY WARNING INDICATORS:                                                 │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Indicator                     │ Trigger                            │   │
     │   │  ──────────────────────────────│────────────────────────────────────│   │
-    │   │  LCR falling                    │ < 120%                             │   │
-    │   │  Deposit growth negative        │ 2 consecutive weeks               │   │
-    │   │  Wholesale funding cost rising  │ > 50 bps increase                 │   │
-    │   │  Unsecured borrowing declined   │ > 20% decrease                    │   │
-    │   │  Rating outlook negative        │ Any negative change               │   │
+    │   │  LCR falling                   │ < 120%                             │   │
+    │   │  Deposit growth negative       │ 2 consecutive weeks                │   │
+    │   │  Wholesale funding cost rising │ > 50 bps increase                  │   │
+    │   │  Unsecured borrowing declined  │ > 20% decrease                     │   │
+    │   │  Rating outlook negative       │ Any negative change                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
