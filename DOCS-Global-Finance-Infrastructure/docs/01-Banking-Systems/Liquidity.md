@@ -1836,42 +1836,49 @@ A bank run occurs when a large number of depositors withdraw their money simulta
 
 How it works: A bank run can start with a rumor or actual problem. Depositors withdraw to protect their money. The bank pays from its reserves. As reserves deplete, the bank must sell assets quickly (fire sale). Asset prices fall, causing further losses. More depositors withdraw. The bank may fail even if fundamentally solvent.
 
-```
-BANK RUN MECHANISM    ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   TRIGGER: Rumor or actual bank problem                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Depositors rush to withdraw                                             │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Bank pays from reserves                                                 │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Reserves deplete                                                        │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Bank must sell assets quickly (fire sale)                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Asset prices fall (losses incurred)                                    │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   Bank capital eroded                                                     │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   More depositors withdraw (panic spreads)                               │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   BANK FAILS (even if solvent)                                            │
-    │                                                                             │
-    │   BREAKING THE RUN:                                                       │
-    │   ├── Deposit insurance (protects depositors)                            │
-    │   ├── Central bank lending (provides liquidity)                          │
-    │   ├── Government guarantee (restores confidence)                         │
-    │   └── Bank holiday (temporary closure)                                  │
-    │                                                                             │
-    └─────────────────────────────────────────────────────────────────────────────┘
+```     
+                 +-----------------------+
+                 |  Rumor / Bad News     |
+                 +-----------+-----------+
+                             |
+                             v
+                 +-----------------------+
+                 | Depositor Panic       |
+                 +-----------+-----------+
+                             |
+          +------------------+------------------+
+          |                                     |
+          v                                     |
+ +---------------------+                        |
+ | Withdraw Deposits   |                        |
+ +----------+----------+                        |
+            |                                   |
+            v                                   |
+ +---------------------+                        |
+ | Cash Reserves Fall  |                        |
+ +----------+----------+                        |
+            |                                   |
+            v                                   |
+ +---------------------+                        |
+ | Fire Sale Assets    |                        |
+ +----------+----------+                        |
+            |                                   |
+            v                                   |
+ +---------------------+                        |
+ | Capital Declines    |------------------------+
+ +----------+----------+
+            |
+            v
+      +------------+
+      | Bank Fails |
+      +------------+
+                                                                                
+   BREAKING THE RUN:                                              
+   ├── Deposit insurance (protects depositors)                    
+   ├── Central bank lending (provides liquidity)                  
+   ├── Government guarantee (restores confidence)                 
+   └── Bank holiday (temporary closure)                           
+   
     ```
 
 ## 45. Emergency Liquidity Assistance (ELA)
