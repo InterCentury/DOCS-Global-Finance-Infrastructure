@@ -1587,12 +1587,12 @@ STRESS TESTING SCENARIOS
     │   ├── Worst-case scenario                                                   │
     │   ├── Loss of funding + asset fire sales                                    │
     │   └── Duration: 1 month                                                     │
-    │                                                                               │
-    │                                                                               │
+    │                                                                             │
+    │                                                                             │
     │   STRESS TEST OUTPUTS:                                                      │
-    │                                                                               │
+    │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Scenario      │ Initial LCR │ Day 5 LCR │ Survivability             │   │
+    │   │  Scenario      │ Initial LCR │ Day 5 LCR │ Survivability            │   │
     │   │  ──────────────│─────────────│───────────│──────────────────────────│   │
     │   │  Idiosyncratic │ 150%        │ 120%      │ Survives                 │   │
     │   │  Systemic      │ 150%        │ 85%       │ Needs additional funding │   │
