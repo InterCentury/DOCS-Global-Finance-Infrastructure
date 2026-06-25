@@ -1926,31 +1926,31 @@ LENDER OF LAST RESORT PRINCIPLES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   BAGEHOT'S PRINCIPLES (1873):                                             │
+    │   BAGEHOT'S PRINCIPLES (1873):                                              │
     │                                                                             │
-    │   1. LEND FREELY                                                           │
-    │      └── Do not restrict lending during a panic                         │
+    │   1. LEND FREELY                                                            │
+    │      └── Do not restrict lending during a panic                             │
     │                                                                             │
-    │   2. AT A PENALTY RATE                                                     │
-    │      └── Charge above market rates to discourage overuse                 │
+    │   2. AT A PENALTY RATE                                                      │
+    │      └── Charge above market rates to discourage overuse                    │
     │                                                                             │
-    │   3. AGAINST GOOD COLLATERAL                                               │
-    │      └── Accept high-quality assets to protect central bank              │
+    │   3. AGAINST GOOD COLLATERAL                                                │
+    │      └── Accept high-quality assets to protect central bank                 │
     │                                                                             │
-    │   4. TO SOLVENT BUT ILLIQUID INSTITUTIONS                                  │
-    │      └── Do not lend to insolvent banks                                  │
+    │   4. TO SOLVENT BUT ILLIQUID INSTITUTIONS                                   │
+    │      └── Do not lend to insolvent banks                                     │
     │                                                                             │
     │                                                                             │
-    │   APPLIED IN PRACTICE:                                                    │
+    │   APPLIED IN PRACTICE:                                                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Crisis               │ LOLR Action                                 │   │
     │   │  ─────────────────────│─────────────────────────────────────────────│   │
-    │   │  2008                 │ Fed creates PDCF, TAF, TSLF, AMLF, CPFF    │   │
-    │   │  2020 (COVID)         │ Fed cuts rates, expands QE, creates PMCCF, │   │
-    │   │                       │ SMCCF, PPPLF                               │   │
-    │   │  2023 (SVB)           │ Fed creates BTFP (Bank Term Funding        │   │
-    │   │                       │ Program)                                   │   │
+    │   │  2008                 │ Fed creates PDCF, TAF, TSLF, AMLF, CPFF     │   │
+    │   │  2020 (COVID)         │ Fed cuts rates, expands QE, creates PMCCF,  │   │
+    │   │                       │ SMCCF, PPPLF                                │   │
+    │   │  2023 (SVB)           │ Fed creates BTFP (Bank Term Funding         │   │
+    │   │                       │ Program)                                    │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
