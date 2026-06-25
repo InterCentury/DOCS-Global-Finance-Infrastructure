@@ -1814,18 +1814,18 @@ LIQUIDITY DURING 2008 CRISIS
     │   └── Liquidity vanishes                                                    │
     │        │                                                                    │
     │        ▼                                                                    │
-    │   PHASE 3: SYSTEMIC CRISIS (September 2008)                              │
-    │   ├── Lehman Brothers fails                                              │
-    │   ├── AIG receives government bailout                                    │
-    │   ├── Money market funds "break the buck"                               │
-    │   └── Global financial panic                                              │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PHASE 4: CENTRAL BANK INTERVENTION                                     │
-    │   ├── Fed creates emergency facilities                                  │
-    │   ├── QE injects massive liquidity                                      │
-    │   ├── Deposit insurance increased                                       │
-    │   └── Liquidity slowly returns                                           │
+    │   PHASE 3: SYSTEMIC CRISIS (September 2008)                                 │
+    │   ├── Lehman Brothers fails                                                 │
+    │   ├── AIG receives government bailout                                       │
+    │   ├── Money market funds "break the buck"                                   │
+    │   └── Global financial panic                                                │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PHASE 4: CENTRAL BANK INTERVENTION                                        │
+    │   ├── Fed creates emergency facilities                                      │
+    │   ├── QE injects massive liquidity                                          │
+    │   ├── Deposit insurance increased                                           │
+    │   └── Liquidity slowly returns                                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
