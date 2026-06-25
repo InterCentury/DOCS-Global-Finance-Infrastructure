@@ -1495,19 +1495,19 @@ INTERBANK LENDING TYPES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TYPE                │ COLLATERAL │ MATURITY    │ RATE                    │
-    │   ────────────────────│────────────│─────────────│─────────────────────────│
-    │   Unsecured Loans     │ None       │ Overnight   │ Federal Funds Rate      │
-    │   (Fed Funds - US)    │            │             │ (US)                    │
-    │   ────────────────────│────────────│─────────────│─────────────────────────│
-    │   Unsecured Loans     │ None       │ Overnight-  │ LIBOR (discontinued),   │
+    │   TYPE                │ COLLATERAL │ MATURITY    │ RATE                     │
+    │   ────────────────────│────────────│─────────────│───────────────────────── │
+    │   Unsecured Loans     │ None       │ Overnight   │ Federal Funds Rate       │
+    │   (Fed Funds - US)    │            │             │ (US)                     │
+    │   ────────────────────│────────────│─────────────│───────────────────────── │
+    │   Unsecured Loans     │ None       │ Overnight-  │ LIBOR (discontinued),    │
     │   (Eurodollar)        │            │ 1 year      │ SOFR                     │
-    │   ────────────────────│────────────│─────────────│─────────────────────────│
-    │   Secured Loans       │ Securities │ Overnight-  │ Repo Rate               │
-    │   (Repo)              │            │ 1 year      │                         │
-    │   ────────────────────│────────────│─────────────│─────────────────────────│
-    │   Secured Loans       │ Bank loans │ 1 month-    │ Asset-backed loan rate  │
-    │   (Asset-backed)      │ or assets  │ 1 year      │                         │
+    │   ────────────────────│────────────│─────────────│───────────────────────── │
+    │   Secured Loans       │ Securities │ Overnight-  │ Repo Rate                │
+    │   (Repo)              │            │ 1 year      │                          │
+    │   ────────────────────│────────────│─────────────│───────────────────────── │
+    │   Secured Loans       │ Bank loans │ 1 month-    │ Asset-backed loan rate   │
+    │   (Asset-backed)      │ or assets  │ 1 year      │                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
