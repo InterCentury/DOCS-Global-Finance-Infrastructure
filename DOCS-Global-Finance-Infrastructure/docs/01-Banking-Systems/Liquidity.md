@@ -1801,19 +1801,19 @@ LIQUIDITY DURING 2008 CRISIS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   PHASE 1: SUBPRIME MORTGAGE CRISIS (2007)                                 │
-    │   ├── Mortgage-backed securities lose value                               │
-    │   ├── Banks holding MBS face losses                                      │
-    │   └── Liquidity starts to tighten                                         │
-    │        │                                                                   │
-    │        ▼                                                                   │
-    │   PHASE 2: INTERBANK MARKET FREEZE (2008)                                 │
-    │   ├── Banks stop lending to each other                                    │
-    │   ├── LIBOR spikes (TED spread widens)                                    │
-    │   ├── Bear Stearns fails (March 2008)                                    │
-    │   └── Liquidity vanishes                                                  │
-    │        │                                                                   │
-    │        ▼                                                                   │
+    │   PHASE 1: SUBPRIME MORTGAGE CRISIS (2007)                                  │
+    │   ├── Mortgage-backed securities lose value                                 │
+    │   ├── Banks holding MBS face losses                                         │
+    │   └── Liquidity starts to tighten                                           │
+    │        │                                                                    │
+    │        ▼                                                                    │
+    │   PHASE 2: INTERBANK MARKET FREEZE (2008)                                   │
+    │   ├── Banks stop lending to each other                                      │
+    │   ├── LIBOR spikes (TED spread widens)                                      │
+    │   ├── Bear Stearns fails (March 2008)                                       │
+    │   └── Liquidity vanishes                                                    │
+    │        │                                                                    │
+    │        ▼                                                                    │
     │   PHASE 3: SYSTEMIC CRISIS (September 2008)                              │
     │   ├── Lehman Brothers fails                                              │
     │   ├── AIG receives government bailout                                    │
