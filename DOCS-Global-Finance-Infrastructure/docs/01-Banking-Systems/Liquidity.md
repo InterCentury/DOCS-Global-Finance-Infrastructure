@@ -1687,30 +1687,30 @@ BASEL III LIQUIDITY STANDARDS SUMMARY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   STANDARD 1: LIQUIDITY COVERAGE RATIO (LCR)                               │
-    │   ├── Ensure sufficient HQLA to survive 30-day stress                     │
-    │   ├── Requirement: ≥ 100%                                                 │
-    │   ├── Effective: 2015 (phased in from 2013)                              │
-    │   └── Applies to: All internationally active banks                        │
+    │   STANDARD 1: LIQUIDITY COVERAGE RATIO (LCR)                                │
+    │   ├── Ensure sufficient HQLA to survive 30-day stress                       │
+    │   ├── Requirement: ≥ 100%                                                   │
+    │   ├── Effective: 2015 (phased in from 2013)                                 │
+    │   └── Applies to: All internationally active banks                          │
     │                                                                             │
-    │   STANDARD 2: NET STABLE FUNDING RATIO (NSFR)                             │
-    │   ├── Ensure stable funding for illiquid assets                          │
-    │   ├── Requirement: ≥ 100%                                                 │
-    │   ├── Effective: 2018                                                    │
-    │   └── Applies to: All internationally active banks                        │
+    │   STANDARD 2: NET STABLE FUNDING RATIO (NSFR)                               │
+    │   ├── Ensure stable funding for illiquid assets                             │
+    │   ├── Requirement: ≥ 100%                                                   │
+    │   ├── Effective: 2018                                                       │
+    │   └── Applies to: All internationally active banks                          │
     │                                                                             │
-    │   STANDARD 3: LIQUIDITY MONITORING TOOLS                                  │
-    │   ├── Contractual maturity mismatch                                      │
-    │   ├── Concentration of funding                                           │
-    │   ├── Available unencumbered assets                                      │
-    │   ├── Market liquidity monitoring                                        │
-    │   └── Reporting to supervisors                                           │
+    │   STANDARD 3: LIQUIDITY MONITORING TOOLS                                    │
+    │   ├── Contractual maturity mismatch                                         │
+    │   ├── Concentration of funding                                              │
+    │   ├── Available unencumbered assets                                         │
+    │   ├── Market liquidity monitoring                                           │
+    │   └── Reporting to supervisors                                              │
     │                                                                             │
-    │   STANDARD 4: CONTINGENCY FUNDING PLAN (CFP)                              │
-    │   ├── Strategy for liquidity stress                                      │
-    │   ├── Identification of early warning indicators                         │
-    │   ├── Contingency actions                                               │
-    │   └── Testing and updating                                              │
+    │   STANDARD 4: CONTINGENCY FUNDING PLAN (CFP)                                │
+    │   ├── Strategy for liquidity stress                                         │
+    │   ├── Identification of early warning indicators                            │
+    │   ├── Contingency actions                                                   │
+    │   └── Testing and updating                                                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
