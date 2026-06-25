@@ -1414,36 +1414,36 @@ REPO TRANSACTION STRUCTURE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   DAY 1: START                                                                │
+    │   DAY 1: START                                                              │
     │                                                                             │
-    │   ┌─────────────────────┐         $100 million         ┌─────────────────────┐│
-    │   │    Bank A           │─────────────────────────────►│    Bank B           ││
-    │   │    (Borrower)       │                              │    (Lender)         ││
-    │   │                     │◄─────────────────────────────│                     ││
-    │   │                     │    Treasury Bonds            │                     ││
-    │   │                     │    (Collateral)              │                     ││
-    │   └─────────────────────┘                              └─────────────────────┘│
+    │   ┌─────────────────────┐         $100 million      ┌─────────────────────┐ │
+    │   │    Bank A           │──────────────────────────►│    Bank B           │ │
+    │   │    (Borrower)       │                           │    (Lender)         │ │
+    │   │                     │◄──────────────────────────│                     │ │
+    │   │                     │    Treasury Bonds         │                     │ │
+    │   │                     │    (Collateral)           │                     │ │
+    │   └─────────────────────┘                           └─────────────────────┘ │
     │                                                                             │
-    │   Repo Rate: 5.00%                                                         │
-    │   Repo Price: $100 million + Interest                                    │
+    │   Repo Rate: 5.00%                                                          │
+    │   Repo Price: $100 million + Interest                                       │
     │                                                                             │
     │                                                                             │
-    │   DAY 2: REPURCHASE                                                       │
+    │   DAY 2: REPURCHASE                                                         │
     │                                                                             │
-    │   ┌─────────────────────┐         $100.014 million     ┌─────────────────────┐│
-    │   │    Bank A           │─────────────────────────────►│    Bank B           ││
-    │   │    (Borrower)       │                              │    (Lender)         ││
-    │   │                     │◄─────────────────────────────│                     ││
-    │   │                     │    Treasury Bonds            │                     ││
-    │   │                     │    (Collateral returned)     │                     ││
-    │   └─────────────────────┘                              └─────────────────────┘│
+    │   ┌─────────────────────┐         $100.014 million   ┌─────────────────────┐│
+    │   │    Bank A           │───────────────────────────►│    Bank B           ││
+    │   │    (Borrower)       │                            │    (Lender)         ││
+    │   │                     │◄───────────────────────────│                     ││
+    │   │                     │    Treasury Bonds          │                     ││
+    │   │                     │    (Collateral returned)   │                     ││
+    │   └─────────────────────┘                            └─────────────────────┘│
     │                                                                             │
-    │   KEY FEATURES:                                                            │
-    │   ├── Collateralized (reduces credit risk)                                │
-    │   ├── Overnight (mostly)                                                   │
-    │   ├── Lower rate than unsecured                                          │
-    │   ├── Used for funding and liquidity                                       │
-    │   └── Also used by central banks for monetary policy                      │
+    │   KEY FEATURES:                                                             │
+    │   ├── Collateralized (reduces credit risk)                                  │
+    │   ├── Overnight (mostly)                                                    │
+    │   ├── Lower rate than unsecured                                             │
+    │   ├── Used for funding and liquidity                                        │
+    │   └── Also used by central banks for monetary policy                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
