@@ -1964,7 +1964,6 @@ Central banks provide various facilities to supply liquidity to the financial sy
 CENTRAL BANK LIQUIDITY FACILITIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   FACILITY               │ PURPOSE               │ COLLATERAL               │
     │   ───────────────────────│───────────────────────│────────────────────────  │
     │   Discount Window        │ Day-to-day liquidity  │ Broad range of assets    │
@@ -1988,7 +1987,6 @@ CENTRAL BANK LIQUIDITY FACILITIES
     │   Bank Term Funding      │ Liquidity to banks    │ Treasuries, agency       │
     │   Program (BTFP)         │ against Treasuries    │ bonds (at par)           │
     │   (2023)                 │ (2023 crisis)         │                          │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
