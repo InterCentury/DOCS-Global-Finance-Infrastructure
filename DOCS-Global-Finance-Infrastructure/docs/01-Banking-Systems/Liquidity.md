@@ -1892,25 +1892,25 @@ ELA MECHANISM
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ELIGIBILITY CRITERIA:                                                    │
-    │   ├── Solvent (assets > liabilities)                                      │
-    │   ├── Illiquid (cannot access normal funding)                            │
-    │   ├── Good collateral (acceptable to central bank)                       │
-    │   └── Systemic importance (large, interconnected)                        │
+    │   ELIGIBILITY CRITERIA:                                                     │
+    │   ├── Solvent (assets > liabilities)                                        │
+    │   ├── Illiquid (cannot access normal funding)                               │
+    │   ├── Good collateral (acceptable to central bank)                          │
+    │   └── Systemic importance (large, interconnected)                           │
     │                                                                             │
     │                                                                             │
-    │   ELA TERMS:                                                              │
-    │   ├── Interest rate: Policy Rate + Penalty Spread (e.g., +0.50%)         │
-    │   ├── Maturity: Overnight to 90 days (renewable)                         │
-    │   ├── Collateral: High-quality assets (with haircut)                     │
-    │   └── Confidential: Usually not disclosed publicly                       │
+    │   ELA TERMS:                                                                │
+    │   ├── Interest rate: Policy Rate + Penalty Spread (e.g., +0.50%)            │
+    │   ├── Maturity: Overnight to 90 days (renewable)                            │
+    │   ├── Collateral: High-quality assets (with haircut)                        │
+    │   └── Confidential: Usually not disclosed publicly                          │
     │                                                                             │
     │                                                                             │
-    │   ELA FACILITIES (US):                                                    │
-    │   ├── Primary Credit (Discount Window): For sound banks                 │
-    │   ├── Secondary Credit: For weaker banks                                  │
-    │   ├── Term Auction Facility (TAF): During 2008 crisis                    │
-    │   └── Emergency facilities: Created during crises                        │
+    │   ELA FACILITIES (US):                                                      │
+    │   ├── Primary Credit (Discount Window): For sound banks                     │
+    │   ├── Secondary Credit: For weaker banks                                    │
+    │   ├── Term Auction Facility (TAF): During 2008 crisis                       │
+    │   └── Emergency facilities: Created during crises                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
