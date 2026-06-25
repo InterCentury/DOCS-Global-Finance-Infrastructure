@@ -1764,7 +1764,6 @@ Key performance indicators measure liquidity health and are monitored by managem
 LIQUIDITY METRICS AND KPIS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   METRIC                     │ FORMULA                      │ TARGET        │
     │   ───────────────────────────│──────────────────────────────│────────────── │
     │   Liquidity Coverage Ratio   │ HQLA / Net Cash Outflows     │ ≥ 100%        │
@@ -1788,7 +1787,6 @@ LIQUIDITY METRICS AND KPIS
     │   ───────────────────────────│──────────────────────────────│────────────── │
     │   Unencumbered Asset Ratio   │ Unencumbered Assets /        │ > 20%         │
     │                              │ Total Assets                 │               │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
