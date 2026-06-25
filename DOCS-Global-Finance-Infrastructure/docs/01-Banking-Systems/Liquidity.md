@@ -1521,16 +1521,16 @@ LIQUIDITY RISK COMPONENTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   COMPONENT 1: FUNDING LIQUIDITY RISK                                      │
+    │   COMPONENT 1: FUNDING LIQUIDITY RISK                                       │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Risk: Cannot obtain funding to meet obligations                   │   │
+    │   │  Risk: Cannot obtain funding to meet obligations                    │   │
     │   │  Causes:                                                            │   │
-    │   │  ├── Loss of depositor confidence (withdrawals)                    │   │
+    │   │  ├── Loss of depositor confidence (withdrawals)                     │   │
     │   │  ├── Wholesale funding market freeze                                │   │
-    │   │  ├── Downgrade (loss of access to capital markets)                 │   │
-    │   │  └── Asset-liability mismatch (short-term funding, long-term       │   │
-    │   │      assets)                                                       │   │
+    │   │  ├── Downgrade (loss of access to capital markets)                  │   │
+    │   │  └── Asset-liability mismatch (short-term funding, long-term        │   │
+    │   │      assets)                                                        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
