@@ -1550,9 +1550,9 @@ LIQUIDITY RISK COMPONENTS
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
-    │   │  Loss of confidence → Deposit withdrawals → Reserve depletion      │   │
-    │   │  → Fire sales → Asset price decline → Capital erosion              │   │
-    │   │  → Further loss of confidence → Bank failure                       │   │
+    │   │  Loss of confidence → Deposit withdrawals → Reserve depletion       │   │
+    │   │  → Fire sales → Asset price decline → Capital erosion               │   │
+    │   │  → Further loss of confidence → Bank failure                        │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
