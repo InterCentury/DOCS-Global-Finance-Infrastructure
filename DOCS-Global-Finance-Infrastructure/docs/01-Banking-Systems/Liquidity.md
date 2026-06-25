@@ -2001,25 +2001,25 @@ FOREIGN CURRENCY LIQUIDITY SOURCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   SOURCE 1: FX SWAP MARKET                                                 │
-    │   ├── Swap local currency for USD                                         │
-    │   ├── Agree to reverse in future                                           │
-    │   └── Provides USD liquidity                                              │
+    │   SOURCE 1: FX SWAP MARKET                                                  │
+    │   ├── Swap local currency for USD                                           │
+    │   ├── Agree to reverse in future                                            │
+    │   └── Provides USD liquidity                                                │
     │                                                                             │
-    │   SOURCE 2: EURODOLLAR MARKET                                              │
-    │   ├── USD deposits outside US                                             │
-    │   ├── Interbank USD lending                                               │
-    │   └── Provided by international banks                                    │
+    │   SOURCE 2: EURODOLLAR MARKET                                               │
+    │   ├── USD deposits outside US                                               │
+    │   ├── Interbank USD lending                                                 │
+    │   └── Provided by international banks                                       │
     │                                                                             │
-    │   SOURCE 3: CENTRAL BANK SWAP LINES                                        │
-    │   ├── Federal Reserve swap lines                                          │
-    │   ├── Foreign central banks borrow USD                                    │
-    │   └── Lend USD to domestic banks                                          │
+    │   SOURCE 3: CENTRAL BANK SWAP LINES                                         │
+    │   ├── Federal Reserve swap lines                                            │
+    │   ├── Foreign central banks borrow USD                                      │
+    │   └── Lend USD to domestic banks                                            │
     │                                                                             │
-    │   SOURCE 4: FORWARD MARKET                                                 │
-    │   ├── Forward contracts to buy USD                                        │
-    │   ├── Locks in future rate                                               │
-    │   └── Provides certainty                                                  │
+    │   SOURCE 4: FORWARD MARKET                                                  │
+    │   ├── Forward contracts to buy USD                                          │
+    │   ├── Locks in future rate                                                  │
+    │   └── Provides certainty                                                    │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
