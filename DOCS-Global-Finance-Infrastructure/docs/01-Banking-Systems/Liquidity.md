@@ -1614,27 +1614,27 @@ LCR CALCULATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FORMULA: LCR = Stock of HQLA / Total Net Cash Outflows (30 days)         │
+    │   FORMULA: LCR = Stock of HQLA / Total Net Cash Outflows (30 days)          │
     │                                                                             │
-    │   EXAMPLE:                                                                 │
+    │   EXAMPLE:                                                                  │
     │                                                                             │
     │   HQLA:                                                                     │
-    │   ├── Cash and reserves: $500 million (Level 1)                           │
-    │   ├── Sovereign bonds: $300 million (Level 1)                            │
-    │   ├── Agency MBS: $200 million × 85% (15% haircut) = $170 million        │
-    │   └── Total HQLA: $970 million                                            │
+    │   ├── Cash and reserves: $500 million (Level 1)                             │
+    │   ├── Sovereign bonds: $300 million (Level 1)                               │
+    │   ├── Agency MBS: $200 million × 85% (15% haircut) = $170 million           │
+    │   └── Total HQLA: $970 million                                              │
     │                                                                             │
-    │   30-Day Net Cash Outflows:                                               │
-    │   ├── Retail deposits outflow: $100 million                              │
-    │   ├── Wholesale deposits outflow: $200 million                          │
-    │   ├── Unsecured wholesale funding: $300 million                          │
-    │   ├── Inflows (expected): $200 million                                   │
-    │   └── Net outflows: $400 million                                         │
+    │   30-Day Net Cash Outflows:                                                 │
+    │   ├── Retail deposits outflow: $100 million                                 │
+    │   ├── Wholesale deposits outflow: $200 million                              │
+    │   ├── Unsecured wholesale funding: $300 million                             │
+    │   ├── Inflows (expected): $200 million                                      │
+    │   └── Net outflows: $400 million                                            │
     │                                                                             │
-    │   LCR = $970M / $400M = 242.5% (Well above 100% requirement)             │
+    │   LCR = $970M / $400M = 242.5% (Well above 100% requirement)                │
     │                                                                             │
-    │   Minimum Requirement: ≥ 100%                                             │
-    │   Enforcement: Since 2015                                                │
+    │   Minimum Requirement: ≥ 100%                                               │
+    │   Enforcement: Since 2015                                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
