@@ -1347,27 +1347,27 @@ INTRADAY LIQUIDITY MANAGEMENT TOOLS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOOL 1: PAYMENT PRIORITIZATION                                           │
-    │   ├── Tier 1: Critical payments (systemically important)                  │
-    │   ├── Tier 2: Time-sensitive payments (end-of-day deadlines)             │
-    │   ├── Tier 3: Non-urgent payments                                       │
-    │   └── Hold Tier 3 payments until liquidity available                    │
+    │   TOOL 1: PAYMENT PRIORITIZATION                                            │
+    │   ├── Tier 1: Critical payments (systemically important)                    │
+    │   ├── Tier 2: Time-sensitive payments (end-of-day deadlines)                │
+    │   ├── Tier 3: Non-urgent payments                                           │
+    │   └── Hold Tier 3 payments until liquidity available                        │
     │                                                                             │
-    │   TOOL 2: INTRADAY CREDIT                                                  │
-    │   ├── Central bank provides intraday credit                               │
-    │   ├── Interest-free (in many jurisdictions)                              │
-    │   ├── Collateralized                                                     │
-    │   └── Repaid by end of day                                               │
+    │   TOOL 2: INTRADAY CREDIT                                                   │
+    │   ├── Central bank provides intraday credit                                 │
+    │   ├── Interest-free (in many jurisdictions)                                 │
+    │   ├── Collateralized                                                        │
+    │   └── Repaid by end of day                                                  │
     │                                                                             │
-    │   TOOL 3: PAYMENT TIMING                                                   │
-    │   ├── Schedule payments to align with inflows                             │
-    │   ├── Receive payments before making payments                            │
-    │   └── Smooth out payment peaks                                           │
+    │   TOOL 3: PAYMENT TIMING                                                    │
+    │   ├── Schedule payments to align with inflows                               │
+    │   ├── Receive payments before making payments                               │
+    │   └── Smooth out payment peaks                                              │
     │                                                                             │
-    │   TOOL 4: LIQUIDITY SAVING MECHANISMS (LSM)                              │
-    │   ├── Offset payments against each other                                │
-    │   ├── Multi-lateral netting                                               │
-    │   └── Reduce gross payment volumes                                       │
+    │   TOOL 4: LIQUIDITY SAVING MECHANISMS (LSM)                                 │
+    │   ├── Offset payments against each other                                    │
+    │   ├── Multi-lateral netting                                                 │
+    │   └── Reduce gross payment volumes                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
