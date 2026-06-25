@@ -1765,29 +1765,29 @@ LIQUIDITY METRICS AND KPIS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   METRIC                     │ FORMULA                      │ TARGET       │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Liquidity Coverage Ratio   │ HQLA / Net Cash Outflows     │ ≥ 100%       │
-    │   (LCR)                      │ (30 days)                    │              │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Net Stable Funding Ratio   │ ASF / RSF                    │ ≥ 100%       │
-    │   (NSFR)                     │                              │              │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Loan-to-Deposit Ratio      │ Total Loans / Total Deposits │ < 90%        │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Core Deposits Ratio        │ Core Deposits / Total        │ > 70%        │
-    │   (Retail + stable)          │ Deposits                     │              │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Wholesale Funding Ratio    │ Wholesale Funding / Total    │ < 25%        │
-    │                              │ Liabilities                  │              │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Liquidity Buffer Ratio     │ HQLA / Total Assets          │ > 10%        │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Funding Concentration      │ Top 10 Depositors / Total    │ < 10%        │
-    │                              │ Deposits                     │              │
-    │   ───────────────────────────│──────────────────────────────│──────────────│
-    │   Unencumbered Asset Ratio   │ Unencumbered Assets /        │ > 20%        │
-    │                              │ Total Assets                 │              │
+    │   METRIC                     │ FORMULA                      │ TARGET        │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Liquidity Coverage Ratio   │ HQLA / Net Cash Outflows     │ ≥ 100%        │
+    │   (LCR)                      │ (30 days)                    │               │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Net Stable Funding Ratio   │ ASF / RSF                    │ ≥ 100%        │
+    │   (NSFR)                     │                              │               │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Loan-to-Deposit Ratio      │ Total Loans / Total Deposits │ < 90%         │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Core Deposits Ratio        │ Core Deposits / Total        │ > 70%         │
+    │   (Retail + stable)          │ Deposits                     │               │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Wholesale Funding Ratio    │ Wholesale Funding / Total    │ < 25%         │
+    │                              │ Liabilities                  │               │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Liquidity Buffer Ratio     │ HQLA / Total Assets          │ > 10%         │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Funding Concentration      │ Top 10 Depositors / Total    │ < 10%         │
+    │                              │ Deposits                     │               │
+    │   ───────────────────────────│──────────────────────────────│────────────── │
+    │   Unencumbered Asset Ratio   │ Unencumbered Assets /        │ > 20%         │
+    │                              │ Total Assets                 │               │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
