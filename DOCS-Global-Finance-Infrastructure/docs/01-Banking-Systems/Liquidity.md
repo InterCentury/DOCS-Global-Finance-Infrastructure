@@ -1314,24 +1314,24 @@ OVERNIGHT LIQUIDITY POSITION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   END OF DAY RESERVE POSITION                                              │
+    │   END OF DAY RESERVE POSITION                                               │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Opening Balance: $100M                                             │   │
     │   │                                                                     │   │
-    │   │  Add: Incoming payments (+$80M)                                    │   │
-    │   │  Less: Outgoing payments (-$120M)                                  │   │
-    │   │  Less: Loan disbursements (-$30M)                                  │   │
-    │   │  Add: Deposit inflows (+$50M)                                      │   │
+    │   │  Add: Incoming payments (+$80M)                                     │   │
+    │   │  Less: Outgoing payments (-$120M)                                   │   │
+    │   │  Less: Loan disbursements (-$30M)                                   │   │
+    │   │  Add: Deposit inflows (+$50M)                                       │   │
     │   │                                                                     │   │
-    │   │  Ending Balance: $80M                                              │   │
+    │   │  Ending Balance: $80M                                               │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
-    │   If Required Reserves = $85M:                                             │
-    │   Shortfall = $5M → Borrow overnight                                     │
+    │   If Required Reserves = $85M:                                              │
+    │   Shortfall = $5M → Borrow overnight                                        │
     │                                                                             │
-    │   If Required Reserves = $70M:                                             │
-    │   Surplus = $10M → Lend overnight                                         │
+    │   If Required Reserves = $70M:                                              │
+    │   Surplus = $10M → Lend overnight                                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
