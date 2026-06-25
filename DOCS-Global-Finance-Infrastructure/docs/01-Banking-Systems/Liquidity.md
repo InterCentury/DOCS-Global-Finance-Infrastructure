@@ -1570,27 +1570,27 @@ STRESS TESTING SCENARIOS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   SCENARIO 1: IDIOSYNCRATIC STRESS                                        │
-    │   ├── Bank-specific shock (e.g., rating downgrade)                       │
-    │   ├── Loss of wholesale funding                                           │
-    │   ├── Deposit withdrawals (uninsured depositors)                         │
-    │   └── Duration: 1-7 days                                                  │
+    │   SCENARIO 1: IDIOSYNCRATIC STRESS                                          │
+    │   ├── Bank-specific shock (e.g., rating downgrade)                          │
+    │   ├── Loss of wholesale funding                                             │
+    │   ├── Deposit withdrawals (uninsured depositors)                            │
+    │   └── Duration: 1-7 days                                                    │
     │                                                                             │
-    │   SCENARIO 2: SYSTEMIC STRESS                                             │
-    │   ├── Market-wide shock (e.g., financial crisis)                         │
-    │   ├── All funding sources unavailable                                     │
-    │   ├── Widespread deposit withdrawals                                     │
-    │   └── Duration: 1-3 months                                               │
+    │   SCENARIO 2: SYSTEMIC STRESS                                               │
+    │   ├── Market-wide shock (e.g., financial crisis)                            │
+    │   ├── All funding sources unavailable                                       │
+    │   ├── Widespread deposit withdrawals                                        │
+    │   └── Duration: 1-3 months                                                  │
     │                                                                             │
-    │   SCENARIO 3: COMBINED STRESS                                             │
-    │   ├── Combination of idiosyncratic and systemic                          │
-    │   ├── Worst-case scenario                                                │
-    │   ├── Loss of funding + asset fire sales                                │
-    │   └── Duration: 1 month                                                  │
-    │                                                                             │
-    │                                                                             │
-    │   STRESS TEST OUTPUTS:                                                    │
-    │                                                                             │
+    │   SCENARIO 3: COMBINED STRESS                                               │
+    │   ├── Combination of idiosyncratic and systemic                             │
+    │   ├── Worst-case scenario                                                   │
+    │   ├── Loss of funding + asset fire sales                                    │
+    │   └── Duration: 1 month                                                     │
+    │                                                                               │
+    │                                                                               │
+    │   STRESS TEST OUTPUTS:                                                      │
+    │                                                                               │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Scenario      │ Initial LCR │ Day 5 LCR │ Survivability             │   │
     │   │  ──────────────│─────────────│───────────│──────────────────────────│   │
