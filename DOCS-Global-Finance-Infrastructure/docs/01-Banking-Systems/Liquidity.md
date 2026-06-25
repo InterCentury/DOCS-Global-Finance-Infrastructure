@@ -1494,7 +1494,6 @@ How it works: Banks lend to each other to manage liquidity, meet reserve require
 INTERBANK LENDING TYPES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   TYPE                │ COLLATERAL │ MATURITY    │ RATE                     │
     │   ────────────────────│────────────│─────────────│───────────────────────── │
     │   Unsecured Loans     │ None       │ Overnight   │ Federal Funds Rate       │
@@ -1508,7 +1507,6 @@ INTERBANK LENDING TYPES
     │   ────────────────────│────────────│─────────────│───────────────────────── │
     │   Secured Loans       │ Bank loans │ 1 month-    │ Asset-backed loan rate   │
     │   (Asset-backed)      │ or assets  │ 1 year      │                          │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
