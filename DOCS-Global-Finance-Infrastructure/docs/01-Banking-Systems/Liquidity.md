@@ -1426,17 +1426,16 @@ REPO TRANSACTION STRUCTURE
     │                                                                             │
     │   Repo Rate: 5.00%                                                          │
     │   Repo Price: $100 million + Interest                                       │
-    │                                                                             │
-    │                                                                             │
+    │   ────────────────────────────────────────────────────────────────────────  │
     │   DAY 2: REPURCHASE                                                         │
     │                                                                             │
-    │   ┌─────────────────────┐         $100.014 million   ┌─────────────────────┐│
-    │   │    Bank A           │───────────────────────────►│    Bank B           ││
-    │   │    (Borrower)       │                            │    (Lender)         ││
-    │   │                     │◄───────────────────────────│                     ││
-    │   │                     │    Treasury Bonds          │                     ││
-    │   │                     │    (Collateral returned)   │                     ││
-    │   └─────────────────────┘                            └─────────────────────┘│
+    │   ┌─────────────────────┐         $100.014 million  ┌─────────────────────┐ │
+    │   │    Bank A           │──────────────────────────►│    Bank B           │ │
+    │   │    (Borrower)       │                           │    (Lender)         │ │
+    │   │                     │◄──────────────────────────│                     │ │
+    │   │                     │    Treasury Bonds         │                     │ │
+    │   │                     │    (Collateral returned)  │                     │ │
+    │   └─────────────────────┘                           └─────────────────────┘ │
     │                                                                             │
     │   KEY FEATURES:                                                             │
     │   ├── Collateralized (reduces credit risk)                                  │
