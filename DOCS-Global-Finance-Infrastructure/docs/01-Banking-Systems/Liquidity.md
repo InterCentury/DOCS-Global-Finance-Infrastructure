@@ -1459,26 +1459,26 @@ FEDERAL FUNDS MARKET OPERATION
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Federal Funds Market Characteristics                              │   │
+    │   │  Federal Funds Market Characteristics                               │   │
     │   │                                                                     │   │
-    │   │  Purpose: Manage reserve positions                                 │   │
-    │   │  Participants: US depository institutions only                    │   │
-    │   │  Collateral: None (unsecured)                                     │   │
-    │   │  Maturity: Overnight (mostly)                                     │   │
-    │   │  Rate: Federal Funds Rate                                          │   │
-    │   │  Target: Set by FOMC                                              │   │
+    │   │  Purpose: Manage reserve positions                                  │   │
+    │   │  Participants: US depository institutions only                      │   │
+    │   │  Collateral: None (unsecured)                                       │   │
+    │   │  Maturity: Overnight (mostly)                                       │   │
+    │   │  Rate: Federal Funds Rate                                           │   │
+    │   │  Target: Set by FOMC                                                │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Rate Determination:                                               │   │
+    │   │  Rate Determination:                                                │   │
     │   │                                                                     │   │
-    │   │  Supply of reserves (from Fed policy) + Demand for reserves        │   │
-    │   │  (from bank reserve management) = Federal Funds Rate               │   │
+    │   │  Supply of reserves (from Fed policy) + Demand for reserves         │   │
+    │   │  (from bank reserve management) = Federal Funds Rate                │   │
     │   │                                                                     │   │
-    │   │  Fed influences rate through:                                      │   │
-    │   │  ├── Interest on Reserves (IORB) - sets floor                      │   │
-    │   │  ├── Overnight Reverse Repo (ON RRP) - sets floor for non-banks   │   │
-    │   │  └── Open market operations - manages supply                       │   │
+    │   │  Fed influences rate through:                                       │   │
+    │   │  ├── Interest on Reserves (IORB) - sets floor                       │   │
+    │   │  ├── Overnight Reverse Repo (ON RRP) - sets floor for non-banks     │   │
+    │   │  └── Open market operations - manages supply                        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
