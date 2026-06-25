@@ -1534,19 +1534,19 @@ LIQUIDITY RISK COMPONENTS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   COMPONENT 2: MARKET LIQUIDITY RISK                                       │
+    │   COMPONENT 2: MARKET LIQUIDITY RISK                                        │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Risk: Cannot sell assets without significant price decline       │   │
+    │   │  Risk: Cannot sell assets without significant price decline         │   │
     │   │  Causes:                                                            │   │
     │   │  ├── Market disruption (no buyers)                                  │   │
     │   │  ├── Fire sales (forced selling)                                    │   │
-    │   │  ├── Illiquid assets (loans, real estate)                          │   │
-    │   │  └── Concentrated positions (single asset, single borrower)        │   │
+    │   │  ├── Illiquid assets (loans, real estate)                           │   │
+    │   │  └── Concentrated positions (single asset, single borrower)         │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   LIQUIDITY RISK CONSEQUENCES:                                            │
+    │   LIQUIDITY RISK CONSEQUENCES:                                              │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                                                                     │   │
