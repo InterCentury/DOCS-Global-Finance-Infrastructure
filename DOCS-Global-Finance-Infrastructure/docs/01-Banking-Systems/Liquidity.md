@@ -1965,29 +1965,29 @@ CENTRAL BANK LIQUIDITY FACILITIES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FACILITY               │ PURPOSE               │ COLLATERAL             │
-    │   ───────────────────────│───────────────────────│────────────────────────│
-    │   Discount Window        │ Day-to-day liquidity  │ Broad range of assets  │
-    │   (Primary Credit)       │ for sound banks      │ (with haircuts)        │
-    │   ───────────────────────│───────────────────────│────────────────────────│
-    │   Discount Window        │ Liquidity for weaker  │ Higher-quality assets  │
-    │   (Secondary Credit)     │ banks                 │ (with larger haircuts) │
-    │   ───────────────────────│───────────────────────│────────────────────────│
-    │   Overnight Reverse      │ Absorb excess         │ Treasury securities    │
-    │   Repo (ON RRP)          │ liquidity, set floor  │                        │
-    │   ───────────────────────│───────────────────────│────────────────────────│
-    │   Term Auction Facility  │ Medium-term funding   │ Various collateral    │
-    │   (TAF)                  │ (during crisis)       │                        │
-    │   ───────────────────────│───────────────────────│────────────────────────│
-    │   Primary Dealer         │ Liquidity to primary  │ Treasury, agency MBS   │
-    │   Credit Facility (PDCF) │ dealers (crisis)      │                        │
-    │   ───────────────────────│───────────────────────│────────────────────────│
-    │   Money Market Mutual    │ Liquidity to MMFs     │ Commercial paper,     │
-    │   Fund Liquidity (MMLF)  │ (crisis)              │ CDs                    │
-    │   ───────────────────────│───────────────────────│────────────────────────│
-    │   Bank Term Funding     │ Liquidity to banks    │ Treasuries, agency     │
-    │   Program (BTFP)        │ against Treasuries    │ bonds (at par)         │
-    │   (2023)                 │ (2023 crisis)         │                        │
+    │   FACILITY               │ PURPOSE               │ COLLATERAL               │
+    │   ───────────────────────│───────────────────────│────────────────────────  │
+    │   Discount Window        │ Day-to-day liquidity  │ Broad range of assets    │
+    │   (Primary Credit)       │ for sound banks       │ (with haircuts)          │
+    │   ───────────────────────│───────────────────────│────────────────────────  │
+    │   Discount Window        │ Liquidity for weaker  │ Higher-quality assets    │
+    │   (Secondary Credit)     │ banks                 │ (with larger haircuts)   │
+    │   ───────────────────────│───────────────────────│────────────────────────  │
+    │   Overnight Reverse      │ Absorb excess         │ Treasury securities      │
+    │   Repo (ON RRP)          │ liquidity, set floor  │                          │
+    │   ───────────────────────│───────────────────────│────────────────────────  │
+    │   Term Auction Facility  │ Medium-term funding   │ Various collateral       │
+    │   (TAF)                  │ (during crisis)       │                          │
+    │   ───────────────────────│───────────────────────│────────────────────────  │
+    │   Primary Dealer         │ Liquidity to primary  │ Treasury, agency MBS     │
+    │   Credit Facility (PDCF) │ dealers (crisis)      │                          │
+    │   ───────────────────────│───────────────────────│────────────────────────  │
+    │   Money Market Mutual    │ Liquidity to MMFs     │ Commercial paper,        │
+    │   Fund Liquidity (MMLF)  │ (crisis)              │ CDs                      │
+    │   ───────────────────────│───────────────────────│────────────────────────  │
+    │   Bank Term Funding      │ Liquidity to banks    │ Treasuries, agency       │
+    │   Program (BTFP)         │ against Treasuries    │ bonds (at par)           │
+    │   (2023)                 │ (2023 crisis)         │                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
