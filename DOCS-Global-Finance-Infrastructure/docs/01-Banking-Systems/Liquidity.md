@@ -2250,10 +2250,10 @@ CAPITAL MARKET LIQUIDITY
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  High-Frequency Traders (HFT)                                      │   │
-    │   │  ├── Algorithmic trading                                           │   │
-    │   │  ├── Provide large volume                                          │   │
-    │   │  └── Can withdraw during crises                                  │   │
+    │   │  High-Frequency Traders (HFT)                                       │   │
+    │   │  ├── Algorithmic trading                                            │   │
+    │   │  ├── Provide large volume                                           │   │
+    │   │  └── Can withdraw during crises                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
