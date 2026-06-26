@@ -2280,18 +2280,18 @@ LIQUIDITY RISK MANAGEMENT FRAMEWORK
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  GOVERNANCE                                                          │   │
-    │   │  ├── Board of Directors: Sets risk appetite, approves policies     │   │
-    │   │  ├── Senior Management: Implements policies, oversees risk         │   │
+    │   │  GOVERNANCE                                                         │   │
+    │   │  ├── Board of Directors: Sets risk appetite, approves policies      │   │
+    │   │  ├── Senior Management: Implements policies, oversees risk          │   │
     │   │  └── Asset-Liability Committee (ALCO): Manages liquidity daily      │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  RISK APPETITE STATEMENT                                             │   │
-    │   │  ├── LCR target: 120% (management buffer)                         │   │
-    │   │  ├── NSFR target: 110%                                             │   │
-    │   │  ├── Maximum wholesale funding: 25% of liabilities                 │   │
-    │   │  └── Minimum liquidity buffer: 15% of assets                       │   │
+    │   │  RISK APPETITE STATEMENT                                            │   │
+    │   │  ├── LCR target: 120% (management buffer)                           │   │
+    │   │  ├── NSFR target: 110%                                              │   │
+    │   │  ├── Maximum wholesale funding: 25% of liabilities                  │   │
+    │   │  └── Minimum liquidity buffer: 15% of assets                        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
