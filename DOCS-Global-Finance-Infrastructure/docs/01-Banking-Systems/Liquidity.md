@@ -2296,10 +2296,10 @@ LIQUIDITY RISK MANAGEMENT FRAMEWORK
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  POLICIES AND PROCEDURES                                            │   │
-    │   │  ├── Funding policy: Diversify funding sources                    │   │
-    │   │  ├── Asset policy: Maintain liquid assets                         │   │
-    │   │  ├── Contingency funding plan: Response to stress                │   │
-    │   │  └── Collateral management: Optimize use of collateral            │   │
+    │   │  ├── Funding policy: Diversify funding sources                      │   │
+    │   │  ├── Asset policy: Maintain liquid assets                           │   │
+    │   │  ├── Contingency funding plan: Response to stress                   │   │
+    │   │  └── Collateral management: Optimize use of collateral              │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
