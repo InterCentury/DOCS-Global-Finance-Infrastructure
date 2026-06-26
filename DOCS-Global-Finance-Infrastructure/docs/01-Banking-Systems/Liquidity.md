@@ -2312,10 +2312,10 @@ LIQUIDITY RISK MANAGEMENT FRAMEWORK
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  CONTINGENCY FUNDING PLAN (CFP)                                     │   │
-    │   │  ├── Early warning indicators                                     │   │
-    │   │  ├── Escalation procedures                                       │   │
-    │   │  ├── Contingency actions                                        │   │
-    │   │  └── Communication plan                                         │   │
+    │   │  ├── Early warning indicators                                       │   │
+    │   │  ├── Escalation procedures                                          │   │
+    │   │  ├── Contingency actions                                            │   │
+    │   │  └── Communication plan                                             │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
