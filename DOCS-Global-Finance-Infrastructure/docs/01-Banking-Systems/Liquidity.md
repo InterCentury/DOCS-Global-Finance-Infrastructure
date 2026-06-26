@@ -2334,10 +2334,10 @@ LIQUIDITY GOVERNANCE STRUCTURE
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                     BOARD OF DIRECTORS                              │   │
-    │   │  ├── Sets risk appetite                                            │   │
+    │   │  ├── Sets risk appetite                                             │   │
     │   │  ├── Approves policies                                              │   │
     │   │  ├── Reviews liquidity position                                     │   │
-    │   │  └── Oversees senior management                                   │   │
+    │   │  └── Oversees senior management                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                     │                                      │
     │                                     ▼                                      │
