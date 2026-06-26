@@ -2407,17 +2407,17 @@ CASE STUDY 1: NORTHERN ROCK (2007)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Background: UK mortgage lender, heavily reliant on wholesale funding    │
+    │   Background: UK mortgage lender, heavily reliant on wholesale funding      │
     │                                                                             │
-    │   Trigger: Subprime crisis → wholesale funding markets freeze            │
+    │   Trigger: Subprime crisis → wholesale funding markets freeze               │
     │                                                                             │
-    │   Process:                                                                 │
-    │   ├── Could not roll over short-term funding                             │
-    │   ├── Announced need for Bank of England support                         │
-    │   ├── First UK bank run in 150 years                                     │
-    │   └── Nationalized (2008)                                                │
+    │   Process:                                                                  │
+    │   ├── Could not roll over short-term funding                                │
+    │   ├── Announced need for Bank of England support                            │
+    │   ├── First UK bank run in 150 years                                        │
+    │   └── Nationalized (2008)                                                   │
     │                                                                             │
-    │   Lesson: Over-reliance on wholesale funding is dangerous                │
+    │   Lesson: Over-reliance on wholesale funding is dangerous                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
@@ -2426,9 +2426,9 @@ CASE STUDY 1: NORTHERN ROCK (2007)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Background: Investment bank, heavily leveraged                         │
+    │   Background: Investment bank, heavily leveraged                            │
     │                                                                             │
-    │   Trigger: Mortgage-backed securities losses, loss of confidence         │
+    │   Trigger: Mortgage-backed securities losses, loss of confidence            │
     │                                                                             │
     │   Process:                                                                 │
     │   ├── Repo funding withdrawn                                              │
