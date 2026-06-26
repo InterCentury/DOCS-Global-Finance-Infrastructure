@@ -2377,7 +2377,6 @@ Banks must report liquidity metrics to regulators regularly.
 REGULATORY LIQUIDITY REPORTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   REPORT              │ FREQUENCY   │ CONTENT                               │
     │   ────────────────────│─────────────│────────────────────────────────────── │
     │   LCR Report          │ Monthly     │ HQLA, net cash outflows, LCR ratio    │
@@ -2395,10 +2394,9 @@ REGULATORY LIQUIDITY REPORTS
     │   ────────────────────│─────────────│────────────────────────────────────── │
     │   Contingency         │ Annual      │ CFP details, testing results          │
     │   Funding Plan        │             │                                       │
-    │                                                                             │
+    │   ──────────────────────────────────────────────────────────────────────────│
     │   In the US, these are reported to the Federal Reserve and FDIC.            │
     │   Format: FR 2052a (Complex Institution Liquidity Monitoring Report)        │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
