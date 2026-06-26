@@ -2378,26 +2378,26 @@ REGULATORY LIQUIDITY REPORTS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   REPORT              │ FREQUENCY   │ CONTENT                              │
-    │   ────────────────────│─────────────│──────────────────────────────────────│
-    │   LCR Report          │ Monthly     │ HQLA, net cash outflows, LCR ratio  │
-    │   ────────────────────│─────────────│──────────────────────────────────────│
-    │   NSFR Report         │ Quarterly   │ ASF, RSF, NSFR ratio                │
-    │   ────────────────────│─────────────│──────────────────────────────────────│
-    │   Liquidity Stress    │ Quarterly   │ Scenario analysis, survival horizon  │
-    │   Test Report         │             │                                     │
-    │   ────────────────────│─────────────│──────────────────────────────────────│
-    │   Funding             │ Monthly     │ Top 10 depositors, funding           │
-    │   Concentration       │             │ concentrations                       │
-    │   ────────────────────│─────────────│──────────────────────────────────────│
-    │   Asset Encumbrance   │ Quarterly   │ Collateral pledged, unencumbered    │
-    │   Report              │             │ assets                              │
-    │   ────────────────────│─────────────│──────────────────────────────────────│
-    │   Contingency         │ Annual      │ CFP details, testing results        │
-    │   Funding Plan        │             │                                     │
+    │   REPORT              │ FREQUENCY   │ CONTENT                               │
+    │   ────────────────────│─────────────│────────────────────────────────────── │
+    │   LCR Report          │ Monthly     │ HQLA, net cash outflows, LCR ratio    │
+    │   ────────────────────│─────────────│────────────────────────────────────── │ 
+    │   NSFR Report         │ Quarterly   │ ASF, RSF, NSFR ratio                  │
+    │   ────────────────────│─────────────│────────────────────────────────────── │
+    │   Liquidity Stress    │ Quarterly   │ Scenario analysis, survival horizon   │
+    │   Test Report         │             │                                       │
+    │   ────────────────────│─────────────│────────────────────────────────────── │
+    │   Funding             │ Monthly     │ Top 10 depositors, funding            │
+    │   Concentration       │             │ concentrations                        │
+    │   ────────────────────│─────────────│────────────────────────────────────── │
+    │   Asset Encumbrance   │ Quarterly   │ Collateral pledged, unencumbered      │
+    │   Report              │             │ assets                                │
+    │   ────────────────────│─────────────│────────────────────────────────────── │
+    │   Contingency         │ Annual      │ CFP details, testing results          │
+    │   Funding Plan        │             │                                       │
     │                                                                             │
-    │   In the US, these are reported to the Federal Reserve and FDIC.          │
-    │   Format: FR 2052a (Complex Institution Liquidity Monitoring Report)      │
+    │   In the US, these are reported to the Federal Reserve and FDIC.            │
+    │   Format: FR 2052a (Complex Institution Liquidity Monitoring Report)        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
