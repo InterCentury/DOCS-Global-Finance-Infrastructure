@@ -2351,11 +2351,11 @@ LIQUIDITY GOVERNANCE STRUCTURE
     │                                     │                                       │
     │                                     ▼                                       │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │                     ASSET-LIABILITY COMMITTEE (ALCO)               │   │
-    │   │  ├── Treasurer (Chair)                                             │   │
-    │   │  ├── Senior members from Treasury, Risk, Finance                  │   │
-    │   │  ├── Meets weekly or monthly                                      │   │
-    │   │  └── Makes liquidity decisions                                    │   │
+    │   │                     ASSET-LIABILITY COMMITTEE (ALCO)                │   │
+    │   │  ├── Treasurer (Chair)                                              │   │
+    │   │  ├── Senior members from Treasury, Risk, Finance                    │   │
+    │   │  ├── Meets weekly or monthly                                        │   │
+    │   │  └── Makes liquidity decisions                                      │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                     │                                      │
     │                                     ▼                                      │
