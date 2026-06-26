@@ -2232,21 +2232,21 @@ CAPITAL MARKET LIQUIDITY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   LIQUIDITY PROVIDERS:                                                     │
+    │   LIQUIDITY PROVIDERS:                                                      │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Market Makers                                                       │   │
-    │   │  ├── Banks and broker-dealers                                     │   │
-    │   │  ├── Provide continuous bid-ask quotes                           │   │
+    │   │  Market Makers                                                      │   │
+    │   │  ├── Banks and broker-dealers                                       │   │
+    │   │  ├── Provide continuous bid-ask quotes                              │   │
     │   │  ├── Profit from spread                                             │   │
-    │   │  └── Take principal risk                                          │   │
+    │   │  └── Take principal risk                                            │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Institutional Investors                                            │   │
-    │   │  ├── Pension funds, mutual funds, hedge funds                    │   │
-    │   │  ├── Large buyers and sellers                                     │   │
-    │   │  └── Provide liquidity through trading                           │   │
+    │   │  ├── Pension funds, mutual funds, hedge funds                       │   │
+    │   │  ├── Large buyers and sellers                                       │   │
+    │   │  └── Provide liquidity through trading                              │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
