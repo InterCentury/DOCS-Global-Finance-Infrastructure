@@ -2304,10 +2304,10 @@ LIQUIDITY RISK MANAGEMENT FRAMEWORK
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  MONITORING AND REPORTING                                           │   │
-    │   │  ├── Daily: Reserve position, LCR, funding concentrations         │   │
-    │   │  ├── Monthly: NSFR, stress test results                         │   │
-    │   │  ├── Quarterly: Board reporting                                  │   │
-    │   │  └── Annual: Framework review                                   │   │
+    │   │  ├── Daily: Reserve position, LCR, funding concentrations           │   │
+    │   │  ├── Monthly: NSFR, stress test results                             │   │
+    │   │  ├── Quarterly: Board reporting                                     │   │
+    │   │  └── Annual: Framework review                                       │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
