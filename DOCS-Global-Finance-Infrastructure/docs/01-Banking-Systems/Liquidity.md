@@ -2257,12 +2257,12 @@ CAPITAL MARKET LIQUIDITY
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   LIQUIDITY DURING MARKET STRESS:                                        │
+    │   LIQUIDITY DURING MARKET STRESS:                                           │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Normal: Tight spreads, high volume, deep markets                 │   │
-    │   │  Crisis: Wide spreads, low volume, shallow markets                │   │
-    │   │  Flash Crash (2010): Liquidity disappeared in minutes            │   │
+    │   │  Normal: Tight spreads, high volume, deep markets                   │   │
+    │   │  Crisis: Wide spreads, low volume, shallow markets                  │   │
+    │   │  Flash Crash (2010): Liquidity disappeared in minutes               │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
