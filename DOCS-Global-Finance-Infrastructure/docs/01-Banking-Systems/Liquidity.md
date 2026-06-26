@@ -2339,17 +2339,17 @@ LIQUIDITY GOVERNANCE STRUCTURE
     │   │  ├── Reviews liquidity position                                     │   │
     │   │  └── Oversees senior management                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                     │                                      │
-    │                                     ▼                                      │
+    │                                     │                                       │
+    │                                     ▼                                       │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                     SENIOR MANAGEMENT                               │   │
-    │   │  ├── CEO: Overall accountability                                   │   │
-    │   │  ├── CFO: Financial oversight                                     │   │
-    │   │  ├── Treasurer: Daily management                                  │   │
-    │   │  └── CRO: Risk oversight                                          │   │
+    │   │  ├── CEO: Overall accountability                                    │   │
+    │   │  ├── CFO: Financial oversight                                       │   │
+    │   │  ├── Treasurer: Daily management                                    │   │
+    │   │  └── CRO: Risk oversight                                            │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                     │                                      │
-    │                                     ▼                                      │
+    │                                     │                                       │
+    │                                     ▼                                       │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                     ASSET-LIABILITY COMMITTEE (ALCO)               │   │
     │   │  ├── Treasurer (Chair)                                             │   │
