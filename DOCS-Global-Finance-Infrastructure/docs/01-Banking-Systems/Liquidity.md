@@ -2357,13 +2357,13 @@ LIQUIDITY GOVERNANCE STRUCTURE
     │   │  ├── Meets weekly or monthly                                        │   │
     │   │  └── Makes liquidity decisions                                      │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
-    │                                     │                                      │
-    │                                     ▼                                      │
+    │                                     │                                       │
+    │                                     ▼                                       │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │                     TREASURY OPERATIONS                             │   │
-    │   │  ├── Daily liquidity management                                  │   │
-    │   │  ├── Execution of ALCO decisions                                 │   │
-    │   │  └── Reporting to management                                     │   │
+    │   │  ├── Daily liquidity management                                     │   │
+    │   │  ├── Execution of ALCO decisions                                    │   │
+    │   │  └── Reporting to management                                        │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
