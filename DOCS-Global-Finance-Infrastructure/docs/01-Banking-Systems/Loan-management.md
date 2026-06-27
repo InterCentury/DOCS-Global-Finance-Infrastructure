@@ -133,7 +133,6 @@ Loans can be issued by various types of financial institutions and entities.
 LOAN ISSUERS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   ISSUER 1: COMMERCIAL BANKS                                                │
     │   ├── Largest providers of loans                                            │
     │   ├── Offer all types of loans (mortgages, auto, business, personal)        │
@@ -158,17 +157,16 @@ LOAN ISSUERS
     │   ├── Use alternative credit scoring models                                 │
     │   └── Peer-to-peer lending platforms                                        │
     │                                                                             │
-    │   ISSUER 5: GOVERNMENT AGENCIES                                            │
-    │   ├── Student loans (Direct Loans)                                        │
-    │   ├── Small Business Administration (SBA) loans                           │
-    │   ├── USDA and FHA mortgages                                              │
-    │   └── Often subsidized with favorable terms                              │
+    │   ISSUER 5: GOVERNMENT AGENCIES                                             │
+    │   ├── Student loans (Direct Loans)                                          │
+    │   ├── Small Business Administration (SBA) loans                             │
+    │   ├── USDA and FHA mortgages                                                │
+    │   └── Often subsidized with favorable terms                                 │
     │                                                                             │
-    │   ISSUER 6: INSURANCE COMPANIES                                            │
-    │   ├── Policy loans (borrowing against life insurance)                     │
-    │   ├── Commercial real estate lending                                     │
-    │   └── Private placement debt                                              │
-    │                                                                             │
+    │   ISSUER 6: INSURANCE COMPANIES                                             │
+    │   ├── Policy loans (borrowing against life insurance)                       │
+    │   ├── Commercial real estate lending                                        │
+    │   └── Private placement debt                                                │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
