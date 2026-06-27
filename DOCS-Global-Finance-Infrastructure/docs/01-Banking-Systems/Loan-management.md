@@ -55,12 +55,12 @@ BASIC LOAN STRUCTURE
 
     KEY COMPONENTS:
     +---------------------------+
-    | Principal: Original amount borrowed
-    | Interest: Cost of borrowing (fee for using money)
-    | Term: Time period for repayment
-    | Payment Schedule: Regular installments
-    | Collateral: Assets pledged as security (if secured)
-    | Legal Agreement: Contract specifying terms
+    |  Principal: Original amount borrowed
+    |  Interest: Cost of borrowing (fee for using money)
+    |  Term: Time period for repayment
+    |  Payment Schedule: Regular installments
+    |  Collateral: Assets pledged as security (if secured)
+    |  Legal Agreement: Contract specifying terms
     +---------------------------+
 ```
 
