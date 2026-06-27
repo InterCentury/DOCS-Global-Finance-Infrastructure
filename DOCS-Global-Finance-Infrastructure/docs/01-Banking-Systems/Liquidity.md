@@ -2040,20 +2040,20 @@ CROSS-BORDER LIQUIDITY CHANNELS
     │   ├── Parent bank to foreign subsidiary                                     │
     │   └── Foreign subsidiary to parent bank                                     │
     │                                                                             │
-    │   CHANNEL 2: CROSS-BORDER LENDING                                          │
-    │   ├── Banks lend to foreign borrowers                                     │
-    │   ├── In foreign currency (USD, EUR)                                      │
-    │   └── Through syndicated loans                                            │
+    │   CHANNEL 2: CROSS-BORDER LENDING                                           │
+    │   ├── Banks lend to foreign borrowers                                       │
+    │   ├── In foreign currency (USD, EUR)                                        │
+    │   └── Through syndicated loans                                              │
     │                                                                             │
-    │   CHANNEL 3: PORTFOLIO FLOWS                                               │
-    │   ├── Foreign investors buy local bonds                                  │
-    │   ├── Local investors buy foreign bonds                                   │
-    │   └── Affects local liquidity                                             │
+    │   CHANNEL 3: PORTFOLIO FLOWS                                                │
+    │   ├── Foreign investors buy local bonds                                     │
+    │   ├── Local investors buy foreign bonds                                     │
+    │   └── Affects local liquidity                                               │
     │                                                                             │
-    │   CHANNEL 4: CENTRAL BANK SWAP LINES                                       │
-    │   ├── US Fed swap lines                                                   │
-    │   ├── ECB swap lines                                                      │
-    │   └── BOE swap lines                                                      │
+    │   CHANNEL 4: CENTRAL BANK SWAP LINES                                        │
+    │   ├── US Fed swap lines                                                     │
+    │   ├── ECB swap lines                                                        │
+    │   └── BOE swap lines                                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
