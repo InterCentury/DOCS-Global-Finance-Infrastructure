@@ -2086,11 +2086,11 @@ PAYMENT SYSTEM LIQUIDITY
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  Without LSM                    │ With LSM                          │   │
     │   │                                 │                                   │   │
-    │   │  Payment A ──┐                  │ Payment A ──┐                    │   │
-    │   │  Payment B ──┼── Queue ──►     │ Payment B ──┼── Queue ──┬──     │   │
-    │   │  Payment C ──┘                  │ Payment C ──┘           │      │   │
-    │   │                                 │                         │      │   │
-    │   │  Requires: 3 units              │                         ▼      │   │
+    │   │  Payment A ──┐                  │ Payment A ──┐                     │   │
+    │   │  Payment B ──┼── Queue ──►      │ Payment B ──┼── Queue ─┬──        │   │
+    │   │  Payment C ──┘                  │ Payment C ──┘          │          │   │
+    │   │                                 │                        │          │   │
+    │   │  Requires: 3 units              │                        ▼          │   │
     │   │  of liquidity                   │                    ┌─────────────┐│   │
     │   │                                 │                    │   Net       ││   │
     │   │                                 │                    │ Settlement  ││   │
