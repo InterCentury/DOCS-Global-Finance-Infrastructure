@@ -10,7 +10,6 @@ Loans are the primary mechanism through which banks create money and drive econo
 DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Understand what a loan is and its fundamental purpose                     │
     │   Learn why individuals and businesses borrow money                         │
     │   Study the different types of loans and their characteristics              │
@@ -21,7 +20,6 @@ DOCUMENTATION OBJECTIVES
     │   Analyze the relationship between lending, inflation, and growth           │
     │   Understand loan default, NPLs, and risk management                        │
     │   Learn the complete lifecycle of a bank loan                               │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
