@@ -219,20 +219,20 @@ LOAN TYPES BY SECURITY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   SECURED LOANS                                                            │
-    │   │                                                                        │
-    │   ├── Backed by collateral (asset)                                        │
-    │   ├── Lower interest rates                                                │
-    │   ├── Lender can seize asset on default                                  │
-    │   └── Examples: Mortgage, auto loan, secured personal loan               │
-    │   │                                                                        │
-    │   │                                                                        │
-    │   UNSECURED LOANS                                                          │
-    │   │                                                                        │
-    │   ├── No collateral required                                              │
-    │   ├── Higher interest rates (more risk)                                  │
-    │   ├── Based on credit score and income                                   │
-    │   └── Examples: Credit cards, personal loans, student loans              │
+    │   SECURED LOANS                                                             │
+    │   │                                                                         │
+    │   ├── Backed by collateral (asset)                                          │
+    │   ├── Lower interest rates                                                  │
+    │   ├── Lender can seize asset on default                                     │
+    │   └── Examples: Mortgage, auto loan, secured personal loan                  │
+    │   │                                                                         │
+    │   │                                                                         │
+    │   UNSECURED LOANS                                                           │
+    │   │                                                                         │
+    │   ├── No collateral required                                                │
+    │   ├── Higher interest rates (more risk)                                     │
+    │   ├── Based on credit score and income                                      │
+    │   └── Examples: Credit cards, personal loans, student loans                 │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
