@@ -178,7 +178,6 @@ Loans can be categorized by purpose, security, and repayment structure.
 LOAN TYPES BY PURPOSE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   MORTGAGE LOANS                                                            │
     │   ├── Purpose: Purchase or refinance real estate                            │
     │   ├── Term: 15-30 years                                                     │
@@ -214,7 +213,6 @@ LOAN TYPES BY PURPOSE
     │   ├── Term: 2-4 weeks                                                       │
     │   ├── Unsecured                                                             │
     │   └── Very high interest rates (predatory)                                  │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
 LOAN TYPES BY SECURITY
