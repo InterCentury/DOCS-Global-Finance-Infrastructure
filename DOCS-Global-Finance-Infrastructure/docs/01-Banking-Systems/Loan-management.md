@@ -134,29 +134,29 @@ LOAN ISSUERS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ISSUER 1: COMMERCIAL BANKS                                               │
-    │   ├── Largest providers of loans                                           │
-    │   ├── Offer all types of loans (mortgages, auto, business, personal)      │
-    │   ├── Regulated by central banks and banking authorities                  │
-    │   └── Create money through lending (fractional reserve)                   │
+    │   ISSUER 1: COMMERCIAL BANKS                                                │
+    │   ├── Largest providers of loans                                            │
+    │   ├── Offer all types of loans (mortgages, auto, business, personal)        │
+    │   ├── Regulated by central banks and banking authorities                    │
+    │   └── Create money through lending (fractional reserve)                     │
     │                                                                             │
-    │   ISSUER 2: CREDIT UNIONS                                                  │
-    │   ├── Member-owned cooperatives                                            │
-    │   ├── Typically offer lower rates                                          │
-    │   ├── Focus on consumer loans and auto loans                              │
-    │   └── Limited to members                                                  │
+    │   ISSUER 2: CREDIT UNIONS                                                   │
+    │   ├── Member-owned cooperatives                                             │
+    │   ├── Typically offer lower rates                                           │
+    │   ├── Focus on consumer loans and auto loans                                │
+    │   └── Limited to members                                                    │
     │                                                                             │
-    │   ISSUER 3: FINANCE COMPANIES                                              │
-    │   ├── Specialize in specific loan types                                   │
-    │   ├── Auto finance, mortgage companies, payday lenders                    │
-    │   ├── Often higher rates than banks                                       │
-    │   └── Less regulated than banks                                            │
+    │   ISSUER 3: FINANCE COMPANIES                                               │
+    │   ├── Specialize in specific loan types                                     │
+    │   ├── Auto finance, mortgage companies, payday lenders                      │
+    │   ├── Often higher rates than banks                                         │
+    │   └── Less regulated than banks                                             │
     │                                                                             │
-    │   ISSUER 4: ONLINE LENDERS (FINTECH)                                      │
-    │   ├── Digital-first lending platforms                                     │
-    │   ├── Faster approval and disbursement                                    │
-    │   ├── Use alternative credit scoring models                               │
-    │   └── Peer-to-peer lending platforms                                      │
+    │   ISSUER 4: ONLINE LENDERS (FINTECH)                                        │
+    │   ├── Digital-first lending platforms                                       │
+    │   ├── Faster approval and disbursement                                      │
+    │   ├── Use alternative credit scoring models                                 │
+    │   └── Peer-to-peer lending platforms                                        │
     │                                                                             │
     │   ISSUER 5: GOVERNMENT AGENCIES                                            │
     │   ├── Student loans (Direct Loans)                                        │
