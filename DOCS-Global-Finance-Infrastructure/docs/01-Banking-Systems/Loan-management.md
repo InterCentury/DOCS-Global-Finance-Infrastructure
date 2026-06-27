@@ -179,33 +179,33 @@ LOAN TYPES BY PURPOSE
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   MORTGAGE LOANS                                                           │
-    │   ├── Purpose: Purchase or refinance real estate                          │
-    │   ├── Term: 15-30 years                                                   │
-    │   ├── Secured by property                                                  │
-    │   └── Lower interest rates (collateral reduces risk)                      │
+    │   MORTGAGE LOANS                                                            │
+    │   ├── Purpose: Purchase or refinance real estate                            │
+    │   ├── Term: 15-30 years                                                     │
+    │   ├── Secured by property                                                   │
+    │   └── Lower interest rates (collateral reduces risk)                        │
     │                                                                             │
-    │   AUTO LOANS                                                               │
-    │   ├── Purpose: Purchase a vehicle                                         │
-    │   ├── Term: 3-7 years                                                     │
-    │   ├── Secured by the vehicle                                              │
-    │   └── Moderate interest rates                                             │
+    │   AUTO LOANS                                                                │
+    │   ├── Purpose: Purchase a vehicle                                           │
+    │   ├── Term: 3-7 years                                                       │
+    │   ├── Secured by the vehicle                                                │
+    │   └── Moderate interest rates                                               │
     │                                                                             │
-    │   STUDENT LOANS                                                            │
-    │   ├── Purpose: Fund education expenses                                    │
-    │   ├── Term: 10-30 years                                                   │
-    │   ├── Government or private                                               │
-    │   └── Often deferred payments while studying                             │
+    │   STUDENT LOANS                                                             │
+    │   ├── Purpose: Fund education expenses                                      │
+    │   ├── Term: 10-30 years                                                     │
+    │   ├── Government or private                                                 │
+    │   └── Often deferred payments while studying                                │
     │                                                                             │
-    │   PERSONAL LOANS                                                           │
-    │   ├── Purpose: General use (debt consolidation, emergencies)             │
-    │   ├── Term: 1-7 years                                                     │
-    │   ├── Unsecured (no collateral)                                           │
-    │   └── Higher interest rates (more risk)                                  │
+    │   PERSONAL LOANS                                                            │
+    │   ├── Purpose: General use (debt consolidation, emergencies)                │
+    │   ├── Term: 1-7 years                                                       │
+    │   ├── Unsecured (no collateral)                                             │
+    │   └── Higher interest rates (more risk)                                     │
     │                                                                             │
-    │   BUSINESS LOANS                                                          │
-    │   ├── Purpose: Business operations, equipment, working capital           │
-    │   ├── Term: 1-10 years                                                    │
+    │   BUSINESS LOANS                                                            │
+    │   ├── Purpose: Business operations, equipment, working capital              │
+    │   ├── Term: 1-10 years                                                      │
     │   ├── Secured or unsecured                                               │
     │   └── Based on business performance                                      │
     │                                                                             │
