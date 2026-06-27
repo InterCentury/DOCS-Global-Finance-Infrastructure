@@ -2441,7 +2441,6 @@ CASE STUDY 1: NORTHERN ROCK (2007)
     CASE STUDY 3: SILICON VALLEY BANK (2023)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Background: Tech-focused bank, high uninsured deposits (>90%)             │
     │                                                                             │
     │   Trigger: Interest rate rises → bond losses, social media panic            │
@@ -2454,7 +2453,6 @@ CASE STUDY 1: NORTHERN ROCK (2007)
     │                                                                             │
     │   Lesson: Social media accelerates bank runs                                │
     │   Uninsured deposits are flighty                                            │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
 
