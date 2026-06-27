@@ -2460,18 +2460,18 @@ CASE STUDY 1: NORTHERN ROCK (2007)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Background: Global systemically important bank, repeated scandals      │
+    │   Background: Global systemically important bank, repeated scandals         │
     │                                                                             │
-    │   Trigger: Loss of confidence, deposit outflows                         │
+    │   Trigger: Loss of confidence, deposit outflows                             │
     │                                                                             │
-    │   Process:                                                                 │
-    │   ├── Losses in Archegos, Greensill                                     │
-    │   ├── Repeated outflows over years                                      │
-    │   ├── Swiss National Bank provided liquidity                           │
-    │   └── Acquired by UBS (Mar 2023)                                        │
+    │   Process:                                                                  │
+    │   ├── Losses in Archegos, Greensill                                         │
+    │   ├── Repeated outflows over years                                          │
+    │   ├── Swiss National Bank provided liquidity                                │
+    │   └── Acquired by UBS (Mar 2023)                                            │
     │                                                                             │
-    │   Lesson: Reputation matters for funding access                         │
-    │   Central bank support can be insufficient                              │
+    │   Lesson: Reputation matters for funding access                             │
+    │   Central bank support can be insufficient                                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
