@@ -246,9 +246,9 @@ LOAN APPLICATION PROCESS FLOW
 
                          +---------------------------+
                          |  STEP 1: APPLICATION      |
-                         |  Borrower submits details  |
-                         |  - Personal information    |
-                         |  - Income/employment       |
+                         |  Borrower submits details |
+                         |  - Personal information   |
+                         |  - Income/employment      |
                          |  - Loan amount/purpose    |
                          |  - Existing debts         |
                          +-------------+-------------+
@@ -257,27 +257,27 @@ LOAN APPLICATION PROCESS FLOW
                          +---------------------------+
                          |  STEP 2: CREDIT CHECK     |
                          |  - Pull credit report     |
-                         |  - Check credit score    |
+                         |  - Check credit score     |
                          |  - Review payment history |
-                         |  - Verify identity       |
+                         |  - Verify identity        |
                          +-------------+-------------+
                                        |
                                        ▼
                          +---------------------------+
                          |  STEP 3: DOCUMENTATION    |
-                         |  - Proof of income       |
-                         |  - Bank statements       |
-                         |  - Tax returns           |
-                         |  - Asset verification    |
+                         |  - Proof of income        |
+                         |  - Bank statements        |
+                         |  - Tax returns            |
+                         |  - Asset verification     |
                          +-------------+-------------+
                                        |
                                        ▼
                          +---------------------------+
-                         |  STEP 4: UNDERWRITING    |
-                         |  - Evaluate risk         |
-                         |  - Calculate DTI        |
-                         |  - Determine eligibility |
-                         |  - Set terms/rate       |
+                         |  STEP 4: UNDERWRITING     |
+                         |  - Evaluate risk          |
+                         |  - Calculate DTI          |
+                         |  - Determine eligibility  |
+                         |  - Set terms/rate         |
                          +-------------+-------------+
                                        |
                          +-------------+-------------+
