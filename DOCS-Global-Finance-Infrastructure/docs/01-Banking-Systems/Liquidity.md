@@ -2480,7 +2480,6 @@ CASE STUDY 1: NORTHERN ROCK (2007)
 BEST PRACTICES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   1. DIVERSIFY FUNDING SOURCES                                              │
     │      ├── Retail deposits (most stable)                                      │
     │      ├── Wholesale funding (market-based)                                   │
@@ -2522,7 +2521,6 @@ BEST PRACTICES
     │      ├── Discount window access                                             │
     │      ├── Eligible collateral                                                │
     │      └── Understand facilities                                              │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
