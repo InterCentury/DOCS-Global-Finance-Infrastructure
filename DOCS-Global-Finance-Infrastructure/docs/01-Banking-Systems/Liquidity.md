@@ -2459,7 +2459,6 @@ CASE STUDY 1: NORTHERN ROCK (2007)
     CASE STUDY 4: CREDIT SUISSE (2023)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Background: Global systemically important bank, repeated scandals         │
     │                                                                             │
     │   Trigger: Loss of confidence, deposit outflows                             │
@@ -2472,7 +2471,6 @@ CASE STUDY 1: NORTHERN ROCK (2007)
     │                                                                             │
     │   Lesson: Reputation matters for funding access                             │
     │   Central bank support can be insufficient                                  │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
