@@ -2198,15 +2198,15 @@ SECURITIES LIQUIDITY MEASURES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   MEASURE 1: BID-ASK SPREAD                                                │
-    │   ├── Liquid: $0.01 spread (Treasury)                                    │
-    │   ├── Illiquid: $1.00 spread (small-cap stock)                          │
-    │   └── Wider spread = lower liquidity                                    │
+    │   MEASURE 1: BID-ASK SPREAD                                                 │
+    │   ├── Liquid: $0.01 spread (Treasury)                                       │
+    │   ├── Illiquid: $1.00 spread (small-cap stock)                              │
+    │   └── Wider spread = lower liquidity                                        │
     │                                                                             │
-    │   MEASURE 2: TRADING VOLUME                                                │
-    │   ├── Liquid: Millions of shares/day                                    │
-    │   ├── Illiquid: Thousands of shares/day                                 │
-    │   └── Higher volume = higher liquidity                                  │
+    │   MEASURE 2: TRADING VOLUME                                                 │
+    │   ├── Liquid: Millions of shares/day                                        │
+    │   ├── Illiquid: Thousands of shares/day                                     │
+    │   └── Higher volume = higher liquidity                                      │
     │                                                                             │
     │   MEASURE 3: MARKET DEPTH                                                 │
     │   ├── Liquid: Many orders at each price level                           │
