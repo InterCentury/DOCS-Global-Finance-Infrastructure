@@ -2430,14 +2430,14 @@ CASE STUDY 1: NORTHERN ROCK (2007)
     │                                                                             │
     │   Trigger: Mortgage-backed securities losses, loss of confidence            │
     │                                                                             │
-    │   Process:                                                                 │
-    │   ├── Repo funding withdrawn                                              │
-    │   ├── Could not roll over commercial paper                             │
-    │   ├── Failed to find buyer                                               │
-    │   └── Filed for bankruptcy (Sep 15, 2008)                               │
+    │   Process:                                                                  │
+    │   ├── Repo funding withdrawn                                                │
+    │   ├── Could not roll over commercial paper                                  │
+    │   ├── Failed to find buyer                                                  │
+    │   └── Filed for bankruptcy (Sep 15, 2008)                                   │
     │                                                                             │
-    │   Lesson: Liquidity crisis can become solvency crisis                    │
-    │   Systemic impact: Global financial panic                                │
+    │   Lesson: Liquidity crisis can become solvency crisis                       │
+    │   Systemic impact: Global financial panic                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
