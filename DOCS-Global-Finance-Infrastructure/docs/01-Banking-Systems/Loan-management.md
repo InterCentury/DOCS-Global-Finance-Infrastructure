@@ -50,7 +50,7 @@ BASIC LOAN STRUCTURE
                                        ▼
                          +---------------------------+
                          |         LENDER            |
-                         |       (Bank)              |
+                         |         (Bank)            |
                          +---------------------------+
 
     KEY COMPONENTS:
