@@ -2502,26 +2502,26 @@ BEST PRACTICES
     │      ├── Systemic stress                                                    │
     │      └── Combined stress                                                    │
     │                                                                             │
-    │   5. DEVELOP AND TEST CONTINGENCY PLAN                                     │
-    │      ├── Identify early warning indicators                              │
-    │      ├── Define escalation procedures                                   │
-    │      └── Test plan annually                                              │
+    │   5. DEVELOP AND TEST CONTINGENCY PLAN                                      │
+    │      ├── Identify early warning indicators                                  │
+    │      ├── Define escalation procedures                                       │
+    │      └── Test plan annually                                                 │
     │                                                                             │
-    │   6. MONITOR LIQUIDITY DAILY                                               │
-    │      ├── Reserve position                                                │
-    │      ├── LCR/NSFR                                                        │
-    │      ├── Funding concentrations                                         │
-    │      └── Market indicators                                               │
+    │   6. MONITOR LIQUIDITY DAILY                                                │
+    │      ├── Reserve position                                                   │
+    │      ├── LCR/NSFR                                                           │
+    │      ├── Funding concentrations                                             │
+    │      └── Market indicators                                                  │
     │                                                                             │
-    │   7. MAINTAIN STRONG GOVERNANCE                                            │
-    │      ├── Board oversight                                                │
-    │      ├── Clear risk appetite                                            │
-    │      └── Regular reporting                                              │
+    │   7. MAINTAIN STRONG GOVERNANCE                                             │
+    │      ├── Board oversight                                                    │
+    │      ├── Clear risk appetite                                                │
+    │      └── Regular reporting                                                  │
     │                                                                             │
-    │   8. MAINTAIN CENTRAL BANK RELATIONSHIPS                                   │
-    │      ├── Discount window access                                         │
-    │      ├── Eligible collateral                                             │
-    │      └── Understand facilities                                          │
+    │   8. MAINTAIN CENTRAL BANK RELATIONSHIPS                                    │
+    │      ├── Discount window access                                             │
+    │      ├── Eligible collateral                                                │
+    │      └── Understand facilities                                              │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
