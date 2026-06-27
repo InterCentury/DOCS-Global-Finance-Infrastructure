@@ -2208,15 +2208,15 @@ SECURITIES LIQUIDITY MEASURES
     │   ├── Illiquid: Thousands of shares/day                                     │
     │   └── Higher volume = higher liquidity                                      │
     │                                                                             │
-    │   MEASURE 3: MARKET DEPTH                                                 │
-    │   ├── Liquid: Many orders at each price level                           │
-    │   ├── Illiquid: Few orders at each price level                        │
-    │   └── Deeper market = higher liquidity                                 │
+    │   MEASURE 3: MARKET DEPTH                                                   │
+    │   ├── Liquid: Many orders at each price level                               │
+    │   ├── Illiquid: Few orders at each price level                              │
+    │   └── Deeper market = higher liquidity                                      │
     │                                                                             │
-    │   MEASURE 4: PRICE IMPACT                                                 │
-    │   ├── Liquid: Small price impact for large trade                      │
-    │   ├── Illiquid: Large price impact for large trade                   │
-    │   └── Lower impact = higher liquidity                                 │
+    │   MEASURE 4: PRICE IMPACT                                                   │
+    │   ├── Liquid: Small price impact for large trade                            │
+    │   ├── Illiquid: Large price impact for large trade                          │
+    │   └── Lower impact = higher liquidity                                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
