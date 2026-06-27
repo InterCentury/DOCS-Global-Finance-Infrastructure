@@ -2034,7 +2034,6 @@ How it works: Banks move liquidity between jurisdictions to meet local demand, t
 CROSS-BORDER LIQUIDITY CHANNELS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   CHANNEL 1: INTERNAL CAPITAL MARKETS                                       │
     │   ├── Global banks move funds between subsidiaries                          │
     │   ├── Parent bank to foreign subsidiary                                     │
@@ -2054,7 +2053,6 @@ CROSS-BORDER LIQUIDITY CHANNELS
     │   ├── US Fed swap lines                                                     │
     │   ├── ECB swap lines                                                        │
     │   └── BOE swap lines                                                        │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
 
