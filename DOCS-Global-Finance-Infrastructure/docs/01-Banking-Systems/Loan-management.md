@@ -74,7 +74,6 @@ How it works: Borrowing allows individuals and businesses to make purchases or i
 WHY PEOPLE BORROW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   REASON 1: BIG TICKET PURCHASES                                            │
     │   ├── Home purchase (mortgage)                                              │
     │   ├── Vehicle purchase (auto loan)                                          │
@@ -94,7 +93,6 @@ WHY PEOPLE BORROW
     │   ├── Establishing a credit record                                          │
     │   ├── Demonstrating responsible borrowing                                   │
     │   └── Qualifying for future, larger loans                                   │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
 WHY BUSINESSES BORROW
