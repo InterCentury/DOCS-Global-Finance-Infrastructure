@@ -2406,7 +2406,6 @@ REGULATORY LIQUIDITY REPORTS
 CASE STUDY 1: NORTHERN ROCK (2007)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Background: UK mortgage lender, heavily reliant on wholesale funding      │
     │                                                                             │
     │   Trigger: Subprime crisis → wholesale funding markets freeze               │
@@ -2418,14 +2417,12 @@ CASE STUDY 1: NORTHERN ROCK (2007)
     │   └── Nationalized (2008)                                                   │
     │                                                                             │
     │   Lesson: Over-reliance on wholesale funding is dangerous                   │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
 
     CASE STUDY 2: LEHMAN BROTHERS (2008)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   Background: Investment bank, heavily leveraged                            │
     │                                                                             │
     │   Trigger: Mortgage-backed securities losses, loss of confidence            │
@@ -2438,7 +2435,6 @@ CASE STUDY 1: NORTHERN ROCK (2007)
     │                                                                             │
     │   Lesson: Liquidity crisis can become solvency crisis                       │
     │   Systemic impact: Global financial panic                                   │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
 
