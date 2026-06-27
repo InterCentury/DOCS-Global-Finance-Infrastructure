@@ -2442,18 +2442,18 @@ CASE STUDY 1: NORTHERN ROCK (2007)
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Background: Tech-focused bank, high uninsured deposits (>90%)           │
+    │   Background: Tech-focused bank, high uninsured deposits (>90%)             │
     │                                                                             │
-    │   Trigger: Interest rate rises → bond losses, social media panic         │
+    │   Trigger: Interest rate rises → bond losses, social media panic            │
     │                                                                             │
-    │   Process:                                                                 │
-    │   ├── Announced capital raise                                            │
-    │   ├── VC firms advised startups to withdraw                             │
-    │   ├── $42 billion withdrawn in one day                                  │
-    │   └── Bank seized by regulators (Mar 10, 2023)                         │
+    │   Process:                                                                  │
+    │   ├── Announced capital raise                                               │
+    │   ├── VC firms advised startups to withdraw                                 │
+    │   ├── $42 billion withdrawn in one day                                      │
+    │   └── Bank seized by regulators (Mar 10, 2023)                              │
     │                                                                             │
-    │   Lesson: Social media accelerates bank runs                            │
-    │   Uninsured deposits are flighty                                        │
+    │   Lesson: Social media accelerates bank runs                                │
+    │   Uninsured deposits are flighty                                            │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
