@@ -2481,26 +2481,26 @@ BEST PRACTICES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1. DIVERSIFY FUNDING SOURCES                                             │
-    │      ├── Retail deposits (most stable)                                   │
-    │      ├── Wholesale funding (market-based)                                  │
-    │      ├── Capital markets (long-term)                                     │
-    │      └── Avoid concentration in any source                               │
+    │   1. DIVERSIFY FUNDING SOURCES                                              │
+    │      ├── Retail deposits (most stable)                                      │
+    │      ├── Wholesale funding (market-based)                                   │
+    │      ├── Capital markets (long-term)                                        │
+    │      └── Avoid concentration in any source                                  │
     │                                                                             │
-    │   2. MAINTAIN ADEQUATE LIQUIDITY BUFFERS                                   │
-    │      ├── Above regulatory minimums (LCR, NSFR)                           │
-    │      ├── Management buffer (e.g., 120% LCR)                             │
-    │      └── Tested under stress scenarios                                  │
+    │   2. MAINTAIN ADEQUATE LIQUIDITY BUFFERS                                    │
+    │      ├── Above regulatory minimums (LCR, NSFR)                              │
+    │      ├── Management buffer (e.g., 120% LCR)                                 │
+    │      └── Tested under stress scenarios                                      │
     │                                                                             │
-    │   3. MANAGE MATURITY MISMATCH                                              │
-    │      ├── Match funding to asset maturities                               │
-    │      ├── Avoid short-term funding for long-term assets                  │
-    │      └── Monitor cumulative maturity gaps                                │
+    │   3. MANAGE MATURITY MISMATCH                                               │
+    │      ├── Match funding to asset maturities                                  │
+    │      ├── Avoid short-term funding for long-term assets                      │
+    │      └── Monitor cumulative maturity gaps                                   │
     │                                                                             │
-    │   4. CONDUCT REGULAR STRESS TESTS                                          │
-    │      ├── Idiosyncratic stress                                            │
-    │      ├── Systemic stress                                                 │
-    │      └── Combined stress                                                 │
+    │   4. CONDUCT REGULAR STRESS TESTS                                           │
+    │      ├── Idiosyncratic stress                                               │
+    │      ├── Systemic stress                                                    │
+    │      └── Combined stress                                                    │
     │                                                                             │
     │   5. DEVELOP AND TEST CONTINGENCY PLAN                                     │
     │      ├── Identify early warning indicators                              │
