@@ -98,7 +98,6 @@ WHY PEOPLE BORROW
 WHY BUSINESSES BORROW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   REASON 1: CAPITAL EXPENDITURE (CAPEX)                                     │
     │   ├── Purchasing equipment and machinery                                    │
     │   ├── Buying real estate for operations                                     │
@@ -123,7 +122,6 @@ WHY BUSINESSES BORROW
     │   ├── Using borrowed money to amplify returns                               │
     │   ├── Maintaining ownership instead of issuing equity                       │
     │   └── Taking advantage of interest tax deductions                           │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
