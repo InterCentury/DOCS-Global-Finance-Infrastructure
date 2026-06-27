@@ -75,25 +75,25 @@ WHY PEOPLE BORROW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   REASON 1: BIG TICKET PURCHASES                                           │
+    │   REASON 1: BIG TICKET PURCHASES                                            │
     │   ├── Home purchase (mortgage)                                              │
     │   ├── Vehicle purchase (auto loan)                                          │
     │   └── Education (student loan)                                              │
     │                                                                             │
-    │   REASON 2: BRIDGING CASH FLOW GAPS                                        │
-    │   ├── Unexpected emergencies (medical, repairs)                            │
+    │   REASON 2: BRIDGING CASH FLOW GAPS                                         │
+    │   ├── Unexpected emergencies (medical, repairs)                             │
     │   ├── Temporary income shortfall                                            │
     │   └── Seasonal business needs                                               │
     │                                                                             │
-    │   REASON 3: CONSOLIDATING DEBT                                             │
-    │   ├── Combining multiple debts into one loan                              │
-    │   ├── Lowering overall interest cost                                       │
-    │   └── Simplifying monthly payments                                         │
+    │   REASON 3: CONSOLIDATING DEBT                                              │
+    │   ├── Combining multiple debts into one loan                                │
+    │   ├── Lowering overall interest cost                                        │
+    │   └── Simplifying monthly payments                                          │
     │                                                                             │
-    │   REASON 4: BUILDING CREDIT HISTORY                                        │
-    │   ├── Establishing a credit record                                        │
-    │   ├── Demonstrating responsible borrowing                                 │
-    │   └── Qualifying for future, larger loans                                 │
+    │   REASON 4: BUILDING CREDIT HISTORY                                         │
+    │   ├── Establishing a credit record                                          │
+    │   ├── Demonstrating responsible borrowing                                   │
+    │   └── Qualifying for future, larger loans                                   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
