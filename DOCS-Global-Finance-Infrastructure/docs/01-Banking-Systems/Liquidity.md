@@ -2131,16 +2131,16 @@ RTGS LIQUIDITY MANAGEMENT
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   LIQUIDITY NEEDS IN RTGS:                                                │
+    │   LIQUIDITY NEEDS IN RTGS:                                                  │
     │                                                                             │
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
-    │   │  Gross Settlement: Each payment settled separately                 │   │
+    │   │  Gross Settlement: Each payment settled separately                  │   │
     │   │  └── High liquidity requirements                                    │   │
     │   │                                                                     │   │
-    │   │  Net Settlement (with LSM): Offsetting payments                    │   │
+    │   │  Net Settlement (with LSM): Offsetting payments                     │   │
     │   │  └── Lower liquidity requirements                                   │   │
     │   │                                                                     │   │
-    │   │  Intraday Credit: Central bank provides credit                     │   │
+    │   │  Intraday Credit: Central bank provides credit                      │   │
     │   │  └── Facilitates payment flow                                       │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
