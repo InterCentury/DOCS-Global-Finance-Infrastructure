@@ -2173,16 +2173,16 @@ SETTLEMENT LIQUIDITY REQUIREMENTS
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     │                                                                             │
-    │   DELIVERY VS PAYMENT (DvP):                                               │
-    │   ├── Settlement simultaneous: cash for securities                        │
-    │   ├── Reduces settlement risk                                            │
-    │   └── Requires both cash and securities availability                     │
+    │   DELIVERY VS PAYMENT (DvP):                                                │
+    │   ├── Settlement simultaneous: cash for securities                          │
+    │   ├── Reduces settlement risk                                               │
+    │   └── Requires both cash and securities availability                        │
     │                                                                             │
     │                                                                             │
-    │   FOREIGN EXCHANGE SETTLEMENT (PvP):                                      │
-    │   ├── Payment vs Payment: both currencies exchanged simultaneously       │
-    │   ├── Reduces FX settlement risk                                        │
-    │   └── Requires CLS (Continuous Linked Settlement)                       │
+    │   FOREIGN EXCHANGE SETTLEMENT (PvP):                                        │
+    │   ├── Payment vs Payment: both currencies exchanged simultaneously          │
+    │   ├── Reduces FX settlement risk                                            │
+    │   └── Requires CLS (Continuous Linked Settlement)                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
     ```
