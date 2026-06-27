@@ -218,7 +218,6 @@ LOAN TYPES BY PURPOSE
 LOAN TYPES BY SECURITY
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   SECURED LOANS                                                             │
     │   │                                                                         │
     │   ├── Backed by collateral (asset)                                          │
@@ -233,7 +232,6 @@ LOAN TYPES BY SECURITY
     │   ├── Higher interest rates (more risk)                                     │
     │   ├── Based on credit score and income                                      │
     │   └── Examples: Credit cards, personal loans, student loans                 │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
