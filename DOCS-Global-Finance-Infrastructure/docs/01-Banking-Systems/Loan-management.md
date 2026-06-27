@@ -33,8 +33,8 @@ How it works: The lender provides a lump sum of money to the borrower. The borro
 BASIC LOAN STRUCTURE
 
                          +---------------------------+
-                         |         LENDER            |
-                         |       (Bank)              |
+                         |        LENDER             |
+                         |        (Bank)             |
                          +-------------+-------------+
                                        |
                                        | Provides Principal
