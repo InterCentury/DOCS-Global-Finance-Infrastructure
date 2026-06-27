@@ -206,14 +206,14 @@ LOAN TYPES BY PURPOSE
     │   BUSINESS LOANS                                                            │
     │   ├── Purpose: Business operations, equipment, working capital              │
     │   ├── Term: 1-10 years                                                      │
-    │   ├── Secured or unsecured                                               │
-    │   └── Based on business performance                                      │
+    │   ├── Secured or unsecured                                                  │
+    │   └── Based on business performance                                         │
     │                                                                             │
-    │   PAYDAY LOANS                                                             │
-    │   ├── Purpose: Short-term cash need until payday                         │
-    │   ├── Term: 2-4 weeks                                                     │
-    │   ├── Unsecured                                                           │
-    │   └── Very high interest rates (predatory)                              │
+    │   PAYDAY LOANS                                                              │
+    │   ├── Purpose: Short-term cash need until payday                            │
+    │   ├── Term: 2-4 weeks                                                       │
+    │   ├── Unsecured                                                             │
+    │   └── Very high interest rates (predatory)                                  │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
