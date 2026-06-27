@@ -99,30 +99,30 @@ WHY BUSINESSES BORROW
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   REASON 1: CAPITAL EXPENDITURE (CAPEX)                                    │
-    │   ├── Purchasing equipment and machinery                                   │
-    │   ├── Buying real estate for operations                                   │
-    │   └── Technology upgrades and infrastructure                              │
+    │   REASON 1: CAPITAL EXPENDITURE (CAPEX)                                     │
+    │   ├── Purchasing equipment and machinery                                    │
+    │   ├── Buying real estate for operations                                     │
+    │   └── Technology upgrades and infrastructure                                │
     │                                                                             │
     │   REASON 2: WORKING CAPITAL                                                 │
     │   ├── Funding inventory purchases                                           │
-    │   ├── Covering payroll during slow seasons                                 │
-    │   └── Managing accounts receivable gaps                                    │
+    │   ├── Covering payroll during slow seasons                                  │
+    │   └── Managing accounts receivable gaps                                     │
     │                                                                             │
-    │   REASON 3: EXPANSION AND GROWTH                                           │
-    │   ├── Opening new locations                                               │
-    │   ├── Entering new markets                                                │
-    │   └── Acquiring competitors                                               │
+    │   REASON 3: EXPANSION AND GROWTH                                            │
+    │   ├── Opening new locations                                                 │
+    │   ├── Entering new markets                                                  │
+    │   └── Acquiring competitors                                                 │
     │                                                                             │
-    │   REASON 4: RESEARCH AND DEVELOPMENT                                      │
-    │   ├── Developing new products                                             │
-    │   ├── Patent and innovation investment                                    │
-    │   └── Hiring specialized talent                                           │
+    │   REASON 4: RESEARCH AND DEVELOPMENT                                        │
+    │   ├── Developing new products                                               │
+    │   ├── Patent and innovation investment                                      │
+    │   └── Hiring specialized talent                                             │
     │                                                                             │
-    │   REASON 5: LEVERAGE                                                       │
-    │   ├── Using borrowed money to amplify returns                             │
-    │   ├── Maintaining ownership instead of issuing equity                     │
-    │   └── Taking advantage of interest tax deductions                         │
+    │   REASON 5: LEVERAGE                                                        │
+    │   ├── Using borrowed money to amplify returns                               │
+    │   ├── Maintaining ownership instead of issuing equity                       │
+    │   └── Taking advantage of interest tax deductions                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
