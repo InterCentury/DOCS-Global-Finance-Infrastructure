@@ -2035,10 +2035,10 @@ CROSS-BORDER LIQUIDITY CHANNELS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CHANNEL 1: INTERNAL CAPITAL MARKETS                                      │
-    │   ├── Global banks move funds between subsidiaries                       │
-    │   ├── Parent bank to foreign subsidiary                                   │
-    │   └── Foreign subsidiary to parent bank                                  │
+    │   CHANNEL 1: INTERNAL CAPITAL MARKETS                                       │
+    │   ├── Global banks move funds between subsidiaries                          │
+    │   ├── Parent bank to foreign subsidiary                                     │
+    │   └── Foreign subsidiary to parent bank                                     │
     │                                                                             │
     │   CHANNEL 2: CROSS-BORDER LENDING                                          │
     │   ├── Banks lend to foreign borrowers                                     │
