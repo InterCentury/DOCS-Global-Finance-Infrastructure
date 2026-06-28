@@ -350,8 +350,8 @@ FIVE C'S OF CREDIT
                          |                           |
                          ▼                           ▼
                +-------------------+   +---------------------------+
-               |  All criteria met  |   |  Criteria not met         |
-               |  Low risk level    |   |  High risk level          |
+               |  All criteria met |   |  Criteria not met         |
+               |  Low risk level   |   |  High risk level          |
                +-------------------+   +---------------------------+
                          │                           │
                          ▼                           ▼
