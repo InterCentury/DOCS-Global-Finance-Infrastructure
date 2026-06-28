@@ -307,7 +307,6 @@ Loan approval is based on the lender's assessment of the borrower's ability and 
 FIVE C'S OF CREDIT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   1. CHARACTER                                                              │
     │      ├── Borrower's reputation and trustworthiness                          │
     │      ├── Credit history and payment record                                  │
@@ -338,7 +337,6 @@ FIVE C'S OF CREDIT
     │      ├── Industry conditions                                                │
     │      ├── Interest rate environment                                          │
     │      └── Loan terms and covenants                                           │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 
 
