@@ -470,7 +470,6 @@ How it works: Lenders calculate the maximum amount a borrower can afford based o
 LOAN AMOUNT DETERMINATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   FACTOR 1: INCOME AND DEBT                                                 │
     │   ├── Debt-to-Income Ratio (DTI)                                            │
     │   ├── DTI = Total Monthly Debt Payments / Gross Monthly Income              │
@@ -496,7 +495,6 @@ LOAN AMOUNT DETERMINATION
     │   ├── Auto loans: Based on car value                                        │
     │   ├── Student loans: Based on cost of attendance                            │
     │   └── Business loans: Based on business revenue                             │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
