@@ -639,10 +639,10 @@ FIXED VS VARIABLE RATES
 
     VARIABLE RATE COMPONENTS:
     +---------------------------+
-    | Index Rate (e.g., SOFR) + Margin = Fully Indexed Rate
-    | Example: SOFR (4.50%) + Margin (2.00%) = 6.50%
-    | Rate adjusts periodically (monthly, quarterly, annually)
-    | Rate caps limit increases (per adjustment and lifetime)
+    |  Index Rate (e.g., SOFR) + Margin = Fully Indexed Rate
+    |  Example: SOFR (4.50%) + Margin (2.00%) = 6.50%
+    |  Rate adjusts periodically (monthly, quarterly, annually)
+    |  Rate caps limit increases (per adjustment and lifetime)
     +---------------------------+
 ```
 
