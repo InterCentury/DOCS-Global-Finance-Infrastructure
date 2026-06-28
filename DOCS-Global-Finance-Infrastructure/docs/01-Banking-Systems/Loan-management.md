@@ -530,11 +530,11 @@ INTEREST EXPLANATION
 
     COMPONENTS OF INTEREST:
     +---------------------------+
-    | 1. Cost of funds: What the lender pays for money
-    | 2. Operating costs: Loan processing, administration
-    | 3. Risk premium: Compensation for default risk
-    | 4. Profit margin: Lender's earnings
-    | 5. Inflation: Preserving purchasing power
+    |  1. Cost of funds: What the lender pays for money
+    |  2. Operating costs: Loan processing, administration
+    |  3. Risk premium: Compensation for default risk
+    |  4. Profit margin: Lender's earnings
+    |  5. Inflation: Preserving purchasing power
     +---------------------------+
 ```
 
