@@ -1009,22 +1009,22 @@ LIMITS ON MONEY CREATION
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   LIMIT 1: RESERVE REQUIREMENTS                                             │
-    │   ├── Banks must hold reserves against deposits                           │
-    │   ├── Reserve ratio limits lending capacity                               │
-    │   ├── Excess reserves determine lending power                             │
-    │   └── Higher requirements = Less money creation                           │
+    │   ├── Banks must hold reserves against deposits                             │
+    │   ├── Reserve ratio limits lending capacity                                 │
+    │   ├── Excess reserves determine lending power                               │
+    │   └── Higher requirements = Less money creation                             │
     │                                                                             │
-    │   LIMIT 2: CAPITAL REQUIREMENTS                                            │
-    │   ├── Banks must maintain minimum capital ratios                          │
-    │   ├── Lending increases risk-weighted assets                              │
-    │   ├── More lending requires more capital                                 │
-    │   └── Basel III capital standards limit lending                          │
+    │   LIMIT 2: CAPITAL REQUIREMENTS                                             │
+    │   ├── Banks must maintain minimum capital ratios                            │
+    │   ├── Lending increases risk-weighted assets                                │
+    │   ├── More lending requires more capital                                    │
+    │   └── Basel III capital standards limit lending                             │
     │                                                                             │
-    │   LIMIT 3: CREDITWORTHY BORROWERS                                          │
-    │   ├── Banks cannot lend to uncreditworthy borrowers                      │
-    │   ├── Requires qualified borrowers with capacity to repay                │
-    │   ├── Limited number of bankable projects                                 │
-    │   └── Credit standards restrict lending                                   │
+    │   LIMIT 3: CREDITWORTHY BORROWERS                                           │
+    │   ├── Banks cannot lend to uncreditworthy borrowers                         │
+    │   ├── Requires qualified borrowers with capacity to repay                   │
+    │   ├── Limited number of bankable projects                                   │
+    │   └── Credit standards restrict lending                                     │
     │                                                                             │
     │   LIMIT 4: LIQUIDITY REQUIREMENTS                                          │
     │   ├── LCR (Liquidity Coverage Ratio)                                     │
