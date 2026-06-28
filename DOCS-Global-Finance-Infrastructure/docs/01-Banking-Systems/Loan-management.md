@@ -471,25 +471,25 @@ LOAN AMOUNT DETERMINATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   FACTOR 1: INCOME AND DEBT                                                │
-    │   ├── Debt-to-Income Ratio (DTI)                                          │
-    │   ├── DTI = Total Monthly Debt Payments / Gross Monthly Income            │
-    │   ├── Maximum DTI typically 36-43%                                        │
-    │   └── Lower DTI = Higher loan amount                                      │
+    │   FACTOR 1: INCOME AND DEBT                                                 │
+    │   ├── Debt-to-Income Ratio (DTI)                                            │
+    │   ├── DTI = Total Monthly Debt Payments / Gross Monthly Income              │
+    │   ├── Maximum DTI typically 36-43%                                          │
+    │   └── Lower DTI = Higher loan amount                                        │
     │                                                                             │
-    │   FACTOR 2: CREDIT SCORE                                                   │
-    │   ├── Higher score = Higher loan amount                                  │
-    │   ├── Excellent (750+): Best terms                                       │
-    │   ├── Good (700-749): Good terms                                         │
-    │   ├── Fair (650-699): Acceptable terms                                   │
-    │   └── Poor (<650): Limited options                                       │
+    │   FACTOR 2: CREDIT SCORE                                                    │
+    │   ├── Higher score = Higher loan amount                                     │
+    │   ├── Excellent (750+): Best terms                                          │
+    │   ├── Good (700-749): Good terms                                            │
+    │   ├── Fair (650-699): Acceptable terms                                      │
+    │   └── Poor (<650): Limited options                                          │
     │                                                                             │
-    │   FACTOR 3: COLLATERAL VALUE (Secured Loans)                             │
-    │   ├── Loan-to-Value Ratio (LTV)                                          │
-    │   ├── LTV = Loan Amount / Collateral Value                               │
-    │   ├── Typical LTV: 80% (mortgage)                                        │
-    │   ├── Lower LTV = Lower risk                                             │
-    │   └── Higher LTV = Higher interest rate                                 │
+    │   FACTOR 3: COLLATERAL VALUE (Secured Loans)                                │
+    │   ├── Loan-to-Value Ratio (LTV)                                             │
+    │   ├── LTV = Loan Amount / Collateral Value                                  │
+    │   ├── Typical LTV: 80% (mortgage)                                           │
+    │   ├── Lower LTV = Lower risk                                                │
+    │   └── Higher LTV = Higher interest rate                                     │
     │                                                                             │
     │   FACTOR 4: LOAN PURPOSE                                                    │
     │   ├── Mortgages: Based on home value                                     │
