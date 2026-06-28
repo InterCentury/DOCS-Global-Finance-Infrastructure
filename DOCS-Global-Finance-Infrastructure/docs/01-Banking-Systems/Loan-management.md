@@ -1026,19 +1026,19 @@ LIMITS ON MONEY CREATION
     │   ├── Limited number of bankable projects                                   │
     │   └── Credit standards restrict lending                                     │
     │                                                                             │
-    │   LIMIT 4: LIQUIDITY REQUIREMENTS                                          │
-    │   ├── LCR (Liquidity Coverage Ratio)                                     │
-    │   ├── NSFR (Net Stable Funding Ratio)                                    │
-    │   ├── Banks must maintain liquid assets                                  │
-    │   └── Restricts long-term illiquid lending                               │
+    │   LIMIT 4: LIQUIDITY REQUIREMENTS                                           │
+    │   ├── LCR (Liquidity Coverage Ratio)                                        │
+    │   ├── NSFR (Net Stable Funding Ratio)                                       │
+    │   ├── Banks must maintain liquid assets                                     │
+    │   └── Restricts long-term illiquid lending                                  │
     │                                                                             │
-    │   LIMIT 5: MARKET DEMAND FOR LOANS                                         │
-    │   ├── Banks cannot lend if no one wants to borrow                        │
-    │   ├── Interest rates affect loan demand                                  │
-    │   ├── Economic conditions affect borrowing                                │
-    │   └── Demand constraints may limit lending                               │
+    │   LIMIT 5: MARKET DEMAND FOR LOANS                                          │
+    │   ├── Banks cannot lend if no one wants to borrow                           │
+    │   ├── Interest rates affect loan demand                                     │
+    │   ├── Economic conditions affect borrowing                                  │
+    │   └── Demand constraints may limit lending                                  │
     │                                                                             │
-    │   LIMIT 6: CENTRAL BANK POLICY                                             │
+    │   LIMIT 6: CENTRAL BANK POLICY                                              │
     │   ├── Policy rate affects lending costs                                  │
     │   ├── Open market operations affect reserves                             │
     │   ├── Quantitative easing increases reserves                             │
