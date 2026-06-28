@@ -357,9 +357,9 @@ FIVE C'S OF CREDIT
                          ▼                           ▼
                +-------------------+   +---------------------------+
                |  LOAN APPROVED    |   |  LOAN DECLINED            |
-               |  - Rate assigned  |   |  - Counter-offer?        |
-               |  - Terms set     |   |  - Conditional?          |
-               |  - Ready to close |   |  - Alternative product?  |
+               |  - Rate assigned  |   |  - Counter-offer?         |
+               |  - Terms set      |   |  - Conditional?           |
+               |  - Ready to close |   |  - Alternative product?   |
                +-------------------+   +---------------------------+
 ```
 
