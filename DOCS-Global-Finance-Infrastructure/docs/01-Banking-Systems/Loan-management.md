@@ -1007,7 +1007,6 @@ Banks face several constraints that limit their ability to create money through 
 LIMITS ON MONEY CREATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   LIMIT 1: RESERVE REQUIREMENTS                                             │
     │   ├── Banks must hold reserves against deposits                             │
     │   ├── Reserve ratio limits lending capacity                                 │
@@ -1043,7 +1042,6 @@ LIMITS ON MONEY CREATION
     │   ├── Open market operations affect reserves                                │
     │   ├── Quantitative easing increases reserves                                │
     │   └── Monetary policy influences lending volume                             │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
