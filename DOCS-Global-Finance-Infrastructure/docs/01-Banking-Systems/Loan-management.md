@@ -785,30 +785,30 @@ DEFAULT CONSEQUENCES
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
     │   CONSEQUENCE 1: CREDIT DAMAGE                                              │
-    │   ├── Credit score drops significantly (100-200+ points)                   │
-    │   ├── Default remains on credit report for 7 years                         │
-    │   ├── Difficulty obtaining future credit                                   │
-    │   └── Higher interest rates on future loans                               │
+    │   ├── Credit score drops significantly (100-200+ points)                    │
+    │   ├── Default remains on credit report for 7 years                          │
+    │   ├── Difficulty obtaining future credit                                    │
+    │   └── Higher interest rates on future loans                                 │
     │                                                                             │
-    │   CONSEQUENCE 2: SECURED LOAN (Collateral Seizure)                         │
-    │   ├── Mortgage: Foreclosure                                                │
-    │   ├── Auto loan: Repossession                                              │
-    │   ├── Asset sold by lender                                                │
-    │   ├── Deficiency judgment if sale < balance                               │
-    │   └── Borrower loses the asset                                            │
+    │   CONSEQUENCE 2: SECURED LOAN (Collateral Seizure)                          │
+    │   ├── Mortgage: Foreclosure                                                 │
+    │   ├── Auto loan: Repossession                                               │
+    │   ├── Asset sold by lender                                                  │
+    │   ├── Deficiency judgment if sale < balance                                 │
+    │   └── Borrower loses the asset                                              │
     │                                                                             │
-    │   CONSEQUENCE 3: UNSECURED LOAN (Legal Action)                            │
-    │   ├── Lawsuit filed                                                       │
-    │   ├── Court judgment obtained                                             │
-    │   ├── Wage garnishment (up to 25% of wages)                               │
-    │   ├── Bank account levy                                                  │
-    │   └── Property lien                                                       │
+    │   CONSEQUENCE 3: UNSECURED LOAN (Legal Action)                              │
+    │   ├── Lawsuit filed                                                         │
+    │   ├── Court judgment obtained                                               │
+    │   ├── Wage garnishment (up to 25% of wages)                                 │
+    │   ├── Bank account levy                                                     │
+    │   └── Property lien                                                         │
     │                                                                             │
-    │   CONSEQUENCE 4: FINANCIAL COSTS                                           │
-    │   ├── Late fees and penalties                                             │
-    │   ├── Legal fees and court costs                                          │
-    │   ├── Collection agency fees                                              │
-    │   └── Interest continues to accrue                                        │
+    │   CONSEQUENCE 4: FINANCIAL COSTS                                            │
+    │   ├── Late fees and penalties                                               │
+    │   ├── Legal fees and court costs                                            │
+    │   ├── Collection agency fees                                                │
+    │   └── Interest continues to accrue                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
