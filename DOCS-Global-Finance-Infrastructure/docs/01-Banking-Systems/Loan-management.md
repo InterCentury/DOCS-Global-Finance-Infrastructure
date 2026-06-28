@@ -871,7 +871,7 @@ FRACTIONAL RESERVE BANKING PROCESS
     +-------------------------------------------------+
     |  Initial Deposit: $100,000                      |
     |  Reserve Requirement: 10%                       |
-    |  Money Multiplier: 1 / 0.10 = 10               |
+    |  Money Multiplier: 1 / 0.10 = 10                |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
@@ -883,7 +883,7 @@ FRACTIONAL RESERVE BANKING PROCESS
                          |
                          ▼
     +-------------------------------------------------+
-    |  Bank B:                                         |
+    |  Bank B:                                        |
     |  Deposits: +$90,000                             |
     |  Reserves: +$9,000 (10%)                        |
     |  Loan: +$81,000 (90%)                           |
@@ -891,7 +891,7 @@ FRACTIONAL RESERVE BANKING PROCESS
                          |
                          ▼
     +-------------------------------------------------+
-    |  Bank C:                                         |
+    |  Bank C:                                        |
     |  Deposits: +$81,000                             |
     |  Reserves: +$8,100 (10%)                        |
     |  Loan: +$72,900 (90%)                           |
