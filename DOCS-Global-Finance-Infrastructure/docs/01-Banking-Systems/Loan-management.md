@@ -922,8 +922,8 @@ How it works: Under normal conditions, only a small percentage of depositors wit
 WHY FRACTIONAL RESERVES WORK
 
     +-------------------------------------------------+
-    |  10,000 DEPOSITORS EACH HAVE $10,000           |
-    |  Total Deposits: $100,000,000                  |
+    |  10,000 DEPOSITORS EACH HAVE $10,000            |
+    |  Total Deposits: $100,000,000                   |
     +-------------------------------------------------+
 
     Normal Daily Activity:
