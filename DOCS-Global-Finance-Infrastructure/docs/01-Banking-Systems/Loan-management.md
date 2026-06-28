@@ -585,13 +585,13 @@ INTEREST CALCULATION METHODS
 
     Payment Schedule:
     +-------------------------------------------------+
-    | Month | Payment | Interest | Principal | Balance |
+    | Month| Payment | Interest | Principal | Balance |
     |------|---------|----------|-----------|---------|
-    | 1     | $599.55 | $500.00  | $99.55    | $99,900 |
-    | 2     | $599.55 | $499.50  | $100.05   | $99,800 |
-    | 3     | $599.55 | $499.00  | $100.55   | $99,699 |
-    | ...   |         |          |           |         |
-    | 360   | $599.55 | $2.99    | $596.56   | $0      |
+    | 1    | $599.55 | $500.00  | $99.55    | $99,900 |
+    | 2    | $599.55 | $499.50  | $100.05   | $99,800 |
+    | 3    | $599.55 | $499.00  | $100.55   | $99,699 |
+    | ...  |         |          |           |         |
+    | 360  | $599.55 | $2.99    | $596.56   | $0      |
     +-------------------------------------------------+
     (Interest portion decreases over time)
 ```
@@ -617,7 +617,7 @@ FIXED VS VARIABLE RATES
                |  Throughout term  |   |  Easy to budget           |
                |  No surprises     |   |  Higher initial rate      |
                |  Good for long    |   |  Protection from rising   |
-               |  term planning   |   |  rates                    |
+               |  term planning    |   |  rates                    |
                +-------------------+   +---------------------------+
 
 
