@@ -308,17 +308,17 @@ FIVE C'S OF CREDIT
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   1. CHARACTER                                                             │
-    │      ├── Borrower's reputation and trustworthiness                         │
-    │      ├── Credit history and payment record                                │
-    │      ├── FICO/VantageScore score                                          │
-    │      └── Past bankruptcies or defaults                                    │
+    │   1. CHARACTER                                                              │
+    │      ├── Borrower's reputation and trustworthiness                          │
+    │      ├── Credit history and payment record                                  │
+    │      ├── FICO/VantageScore score                                            │
+    │      └── Past bankruptcies or defaults                                      │
     │                                                                             │
-    │   2. CAPACITY                                                              │
-    │      ├── Ability to repay                                                 │
-    │      ├── Debt-to-income ratio (DTI)                                       │
-    │      ├── Income stability                                                 │
-    │      └── Employment history                                               │
+    │   2. CAPACITY                                                               │
+    │      ├── Ability to repay                                                   │
+    │      ├── Debt-to-income ratio (DTI)                                         │
+    │      ├── Income stability                                                   │
+    │      └── Employment history                                                 │
     │                                                                             │
     │   3. CAPITAL                                                               │
     │      ├── Borrower's net worth                                             │
