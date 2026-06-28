@@ -783,7 +783,6 @@ How it works: Default triggers the lender's right to demand full repayment of th
 DEFAULT CONSEQUENCES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   CONSEQUENCE 1: CREDIT DAMAGE                                              │
     │   ├── Credit score drops significantly (100-200+ points)                    │
     │   ├── Default remains on credit report for 7 years                          │
@@ -809,7 +808,6 @@ DEFAULT CONSEQUENCES
     │   ├── Legal fees and court costs                                            │
     │   ├── Collection agency fees                                                │
     │   └── Interest continues to accrue                                          │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
