@@ -972,23 +972,23 @@ MONEY SUPPLY MULTIPLICATION
                                     │
                                     ▼
                 +-------------------------------------------------+
-                |   MONEY MULTIPLIER EFFECT                      |
+                |   MONEY MULTIPLIER EFFECT                       |
                 |                                                 |
-                |   Deposit 1: $100,000   Reserve: $10,000       |
-                |                       ↓ Loan: $90,000          |
+                |   Deposit 1: $100,000   Reserve: $10,000        |
+                |                       ↓ Loan: $90,000           |
                 |                                                 |
-                |   Deposit 2: $90,000    Reserve: $9,000        |
-                |                       ↓ Loan: $81,000          |
+                |   Deposit 2: $90,000    Reserve: $9,000         |
+                |                       ↓ Loan: $81,000           |
                 |                                                 |
-                |   Deposit 3: $81,000    Reserve: $8,100        |
-                |                       ↓ Loan: $72,900          |
+                |   Deposit 3: $81,000    Reserve: $8,100         |
+                |                       ↓ Loan: $72,900           |
                 |                                                 |
-                |   ... continues until $1,000,000 total         |
+                |   ... continues until $1,000,000 total          |
                 |                                                 |
-                |   Total Deposits: $1,000,000                   |
-                |   Total Reserves: $100,000                     |
-                |   Total Loans: $900,000                        |
-                |   Money Multiplier: 10                         |
+                |   Total Deposits: $1,000,000                    |
+                |   Total Reserves: $100,000                      |
+                |   Total Loans: $900,000                         |
+                |   Money Multiplier: 10                          |
                 +-------------------------------------------------+
                                     │
                                     ▼
