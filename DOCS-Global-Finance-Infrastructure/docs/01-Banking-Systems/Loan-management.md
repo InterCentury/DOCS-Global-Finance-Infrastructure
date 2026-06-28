@@ -285,9 +285,9 @@ LOAN APPLICATION PROCESS FLOW
                          ▼                           ▼
                +-------------------+   +---------------------------+
                |  APPROVED         |   |  DECLINED                 |
-               |  - Offer made    |   |  - Notified              |
-               |  - Terms set    |   |  - Reason provided       |
-               |  - Disbursement |   |  - May appeal           |
+               |  - Offer made     |   |  - Notified               |
+               |  - Terms set      |   |  - Reason provided        |
+               |  - Disbursement   |   |  - May appeal             |
                +-------------------+   +---------------------------+
                          │
                          ▼
