@@ -436,9 +436,9 @@ SECURED VS UNSECURED LOANS
                |  COLLATERAL       |   |  LOWER RISK               |
                |  Asset pledged    |   |  Lower interest rate      |
                |  Can be seized    |   |  Higher approval chance   |
-               |  Examples:        |   |  Examples:               |
-               |  Mortgage         |   |  Mortgage               |
-               |  Auto loan        |   |  Auto loan              |
+               |  Examples:        |   |  Examples:                |
+               |  Mortgage         |   |  Mortgage                 |
+               |  Auto loan        |   |  Auto loan                |
                +-------------------+   +---------------------------+
 
 
