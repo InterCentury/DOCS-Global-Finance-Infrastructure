@@ -1039,10 +1039,10 @@ LIMITS ON MONEY CREATION
     │   └── Demand constraints may limit lending                                  │
     │                                                                             │
     │   LIMIT 6: CENTRAL BANK POLICY                                              │
-    │   ├── Policy rate affects lending costs                                  │
-    │   ├── Open market operations affect reserves                             │
-    │   ├── Quantitative easing increases reserves                             │
-    │   └── Monetary policy influences lending volume                          │
+    │   ├── Policy rate affects lending costs                                     │
+    │   ├── Open market operations affect reserves                                │
+    │   ├── Quantitative easing increases reserves                                │
+    │   └── Monetary policy influences lending volume                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
