@@ -492,10 +492,10 @@ LOAN AMOUNT DETERMINATION
     │   └── Higher LTV = Higher interest rate                                     │
     │                                                                             │
     │   FACTOR 4: LOAN PURPOSE                                                    │
-    │   ├── Mortgages: Based on home value                                     │
-    │   ├── Auto loans: Based on car value                                     │
-    │   ├── Student loans: Based on cost of attendance                         │
-    │   └── Business loans: Based on business revenue                          │
+    │   ├── Mortgages: Based on home value                                        │
+    │   ├── Auto loans: Based on car value                                        │
+    │   ├── Student loans: Based on cost of attendance                            │
+    │   └── Business loans: Based on business revenue                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
