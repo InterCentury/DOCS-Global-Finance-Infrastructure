@@ -900,9 +900,9 @@ FRACTIONAL RESERVE BANKING PROCESS
                          ▼
     +-------------------------------------------------+
     |  Process continues...                           |
-    |  Total Deposits Created: $1,000,000            |
-    |  Total Reserves Held: $100,000                 |
-    |  Total Loans Made: $900,000                    |
+    |  Total Deposits Created: $1,000,000             |
+    |  Total Reserves Held: $100,000                  |
+    |  Total Loans Made: $900,000                     |
     +-------------------------------------------------+
 
     Money Multiplier = 1 / Reserve Requirement Ratio
