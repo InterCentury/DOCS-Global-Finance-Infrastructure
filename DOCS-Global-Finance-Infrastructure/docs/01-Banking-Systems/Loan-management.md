@@ -847,7 +847,7 @@ MONEY CREATION THROUGH LENDING
                +-------------------+   +---------------------------+
                |  ASSETS           |   |  LIABILITIES              |
                |  Reserves: $10M   |   |  Deposits: $120M          |
-               |  Loans: $20M     |   |  Equity: $10M             |
+               |  Loans: $20M      |   |  Equity: $10M             |
                +-------------------+   +---------------------------+
 
     Money Supply = $120M (+$20M CREATED)
