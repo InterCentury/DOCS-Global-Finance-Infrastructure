@@ -443,7 +443,7 @@ SECURED VS UNSECURED LOANS
 
 
                          +---------------------------+
-                         |    UNSECURED LOAN          |
+                         |    UNSECURED LOAN         |
                          +-------------+-------------+
                                        |
                          +-------------+-------------+
@@ -453,10 +453,10 @@ SECURED VS UNSECURED LOANS
                |  NO COLLATERAL    |   |  HIGHER RISK              |
                |  No asset pledged |   |  Higher interest rate     |
                |  Legal action only|   |  Lower approval chance    |
-               |  Examples:        |   |  Examples:               |
-               |  Credit cards     |   |  Credit cards            |
-               |  Personal loans   |   |  Personal loans          |
-               |  Student loans    |   |  Student loans           |
+               |  Examples:        |   |  Examples:                |
+               |  Credit cards     |   |  Credit cards             |
+               |  Personal loans   |   |  Personal loans           |
+               |  Student loans    |   |  Student loans            |
                +-------------------+   +---------------------------+
 ```
 
