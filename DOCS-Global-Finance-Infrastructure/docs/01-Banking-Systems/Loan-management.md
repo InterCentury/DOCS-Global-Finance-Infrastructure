@@ -936,10 +936,10 @@ WHY FRACTIONAL RESERVES WORK
 
     If bank keeps 10% reserves ($10,000,000):
     +-------------------------------------------------+
-    |  Even if 10% of depositors withdraw ($10M)     |
+    |  Even if 10% of depositors withdraw ($10M)      |
     |  Bank has $10M reserves = covers all withdrawals|
-    |  No need to sell assets or borrow              |
-    |  System remains stable                         |
+    |  No need to sell assets or borrow               |
+    |  System remains stable                          |
     +-------------------------------------------------+
 
     Why It Works:
