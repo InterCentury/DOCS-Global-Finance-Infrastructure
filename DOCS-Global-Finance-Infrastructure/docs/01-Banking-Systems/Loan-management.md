@@ -1309,7 +1309,6 @@ How it works: Borrowers default for various reasons: loss of income, business fa
 CAUSES OF NON-PERFORMING LOANS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   CAUSE 1: BORROWER DISTRESS                                                │
     │   ├── Job loss or income reduction                                          │
     │   ├── Business failure                                                      │
@@ -1339,7 +1338,6 @@ CAUSES OF NON-PERFORMING LOANS
     │   ├── Higher payments strain borrowers                                      │
     │   ├── Defaults on adjustable rate mortgages                                 │
     │   └── Refinancing becomes impossible                                        │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
