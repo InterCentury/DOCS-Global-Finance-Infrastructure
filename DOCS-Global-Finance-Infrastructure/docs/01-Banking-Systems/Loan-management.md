@@ -1068,15 +1068,15 @@ CENTRAL BANK ROLES IN MONEY CREATION
     │   ├── Open market operations adjust reserves                                │
     │   └── Forward guidance shapes expectations                                  │
     │                                                                             │
-    │   ROLE 3: SUPERVISE BANKS                                                 │
-    │   ├── Ensure prudent lending practices                                  │
-    │   ├── Enforce capital requirements                                       │
-    │   ├── Conduct stress tests                                               │
-    │   └── Prevent excessive money creation                                  │
+    │   ROLE 3: SUPERVISE BANKS                                                   │
+    │   ├── Ensure prudent lending practices                                      │
+    │   ├── Enforce capital requirements                                          │
+    │   ├── Conduct stress tests                                                  │
+    │   └── Prevent excessive money creation                                      │
     │                                                                             │
-    │   ROLE 4: LENDER OF LAST RESORT                                           │
-    │   ├── Provide emergency liquidity                                        │
-    │   ├── Prevent bank runs                                                  │
+    │   ROLE 4: LENDER OF LAST RESORT                                             │
+    │   ├── Provide emergency liquidity                                           │
+    │   ├── Prevent bank runs                                                     │
     │   ├── Maintain financial stability                                      │
     │   └── Support money creation during crises                              │
     │                                                                             │
