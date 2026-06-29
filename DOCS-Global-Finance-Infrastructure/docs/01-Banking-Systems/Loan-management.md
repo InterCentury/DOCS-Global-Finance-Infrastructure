@@ -1077,14 +1077,14 @@ CENTRAL BANK ROLES IN MONEY CREATION
     │   ROLE 4: LENDER OF LAST RESORT                                             │
     │   ├── Provide emergency liquidity                                           │
     │   ├── Prevent bank runs                                                     │
-    │   ├── Maintain financial stability                                      │
-    │   └── Support money creation during crises                              │
+    │   ├── Maintain financial stability                                          │
+    │   └── Support money creation during crises                                  │
     │                                                                             │
-    │   ROLE 5: TARGET INFLATION                                                 │
-    │   ├── Control money supply to meet inflation target                     │
-    │   ├── Prevent excessive money creation leading to inflation             │
-    │   ├── Prevent insufficient money creation leading to deflation         │
-    │   └── Balance money creation with economic growth                       │
+    │   ROLE 5: TARGET INFLATION                                                  │
+    │   ├── Control money supply to meet inflation target                         │
+    │   ├── Prevent excessive money creation leading to inflation                 │
+    │   ├── Prevent insufficient money creation leading to deflation              │
+    │   └── Balance money creation with economic growth                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
