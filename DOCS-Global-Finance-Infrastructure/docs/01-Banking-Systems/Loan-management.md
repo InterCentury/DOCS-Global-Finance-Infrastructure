@@ -1115,9 +1115,9 @@ RESERVE REQUIREMENT IMPACT ON LENDING
 
     +-------------------------------------------------+
     |  RESERVE REQUIREMENT = 0%                       |
-    |  Money Multiplier = Infinite (theoretically)   |
-    |  Initial Deposit: $100,000                     |
-    |  Total Money Created: Unlimited                |
+    |  Money Multiplier = Infinite (theoretically)    |
+    |  Initial Deposit: $100,000                      |
+    |  Total Money Created: Unlimited                 |
     +-------------------------------------------------+
 
     Impact: Zero requirement removes lending limit
