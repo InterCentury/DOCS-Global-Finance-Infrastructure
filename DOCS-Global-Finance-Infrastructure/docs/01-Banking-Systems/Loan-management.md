@@ -1423,11 +1423,11 @@ CREDITWORTHINESS ASSESSMENT
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  EXISTING DEBT OBLIGATIONS                       |
+    |  EXISTING DEBT OBLIGATIONS                      |
     |  Few existing loans                             |
-    |  Low credit utilization (credit cards)         |
-    |  On-time payment history                       |
-    |  No recent defaults or bankruptcies            |
+    |  Low credit utilization (credit cards)          |
+    |  On-time payment history                        |
+    |  No recent defaults or bankruptcies             |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
