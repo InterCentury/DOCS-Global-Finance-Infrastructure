@@ -1106,9 +1106,9 @@ RESERVE REQUIREMENT IMPACT ON LENDING
                          ▼
     +-------------------------------------------------+
     |  RESERVE REQUIREMENT = 20%                      |
-    |  Money Multiplier = 1 / 0.20 = 5               |
-    |  Initial Deposit: $100,000                     |
-    |  Total Money Created: $500,000                 |
+    |  Money Multiplier = 1 / 0.20 = 5                |
+    |  Initial Deposit: $100,000                      |
+    |  Total Money Created: $500,000                  |
     +-------------------------------------------------+
 
     Impact: Higher requirement reduces lending capacity by 50%
