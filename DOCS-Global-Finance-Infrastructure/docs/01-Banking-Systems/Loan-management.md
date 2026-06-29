@@ -1352,17 +1352,17 @@ LOAN RISK MANAGEMENT TOOLS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   TOOL 1: UNDERWRITING STANDARDS                                           │
-    │   ├── Credit scoring and analysis                                         │
-    │   ├── Debt-to-income limits                                              │
-    │   ├── Loan-to-value limits                                               │
-    │   └── Income verification                                                │
+    │   TOOL 1: UNDERWRITING STANDARDS                                            │
+    │   ├── Credit scoring and analysis                                           │
+    │   ├── Debt-to-income limits                                                 │
+    │   ├── Loan-to-value limits                                                  │
+    │   └── Income verification                                                   │
     │                                                                             │
-    │   TOOL 2: COLLATERAL REQUIREMENTS                                         │
-    │   ├── Secured by assets (property, equipment, deposits)                  │
-    │   ├── Lien on collateral                                                │
-    │   ├── Foreclosure or repossession rights                                 │
-    │   └── Guarantees from third parties                                     │
+    │   TOOL 2: COLLATERAL REQUIREMENTS                                           │
+    │   ├── Secured by assets (property, equipment, deposits)                     │
+    │   ├── Lien on collateral                                                    │
+    │   ├── Foreclosure or repossession rights                                    │
+    │   └── Guarantees from third parties                                         │
     │                                                                             │
     │   TOOL 3: DIVERSIFICATION                                                  │
     │   ├── Across borrowers (not concentrated in one customer)                │
