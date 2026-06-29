@@ -1268,23 +1268,23 @@ RISKS OF EXCESSIVE LENDING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   RISK 1: ASSET BUBBLES                                                    │
-    │   ├── Too much money chasing assets                                       │
-    │   ├── Housing prices inflate                                              │
-    │   ├── Stock market overvaluation                                          │
-    │   └── Bubbles eventually burst                                           │
+    │   RISK 1: ASSET BUBBLES                                                     │
+    │   ├── Too much money chasing assets                                         │
+    │   ├── Housing prices inflate                                                │
+    │   ├── Stock market overvaluation                                            │
+    │   └── Bubbles eventually burst                                              │
     │                                                                             │
-    │   RISK 2: OVER-INDEBTEDNESS                                                │
-    │   ├── Borrowers take on too much debt                                    │
-    │   ├── Debt service consumes income                                       │
-    │   ├── Defaults rise when conditions change                                │
-    │   └── Household and business distress                                    │
+    │   RISK 2: OVER-INDEBTEDNESS                                                 │
+    │   ├── Borrowers take on too much debt                                       │
+    │   ├── Debt service consumes income                                          │
+    │   ├── Defaults rise when conditions change                                  │
+    │   └── Household and business distress                                       │
     │                                                                             │
-    │   RISK 3: BANK INSTABILITY                                                 │
-    │   ├── Banks become over-leveraged                                        │
-    │   ├── Loan losses erode capital                                          │
-    │   ├── Bank runs when confidence fails                                    │
-    │   └── Bank failures lead to credit crunch                               │
+    │   RISK 3: BANK INSTABILITY                                                  │
+    │   ├── Banks become over-leveraged                                           │
+    │   ├── Loan losses erode capital                                             │
+    │   ├── Bank runs when confidence fails                                       │
+    │   └── Bank failures lead to credit crunch                                   │
     │                                                                             │
     │   RISK 4: INFLATION                                                       │
     │   ├── Too much money chasing too few goods                                │
