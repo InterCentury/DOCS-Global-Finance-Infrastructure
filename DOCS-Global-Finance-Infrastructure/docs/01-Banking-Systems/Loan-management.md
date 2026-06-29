@@ -1432,10 +1432,10 @@ CREDITWORTHINESS ASSESSMENT
 
     +-------------------------------------------------+
     |  ASSETS AND SAVINGS                             |
-    |  Substantial savings/emergency fund            |
-    |  Investment portfolio                         |
-    |  Real estate or other assets                  |
-    |  Ability to handle income disruption           |
+    |  Substantial savings/emergency fund             |
+    |  Investment portfolio                           |
+    |  Real estate or other assets                    |
+    |  Ability to handle income disruption            |
     +-------------------------------------------------+
 ```
 
