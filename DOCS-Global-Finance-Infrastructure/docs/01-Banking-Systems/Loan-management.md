@@ -1416,10 +1416,10 @@ CREDITWORTHINESS ASSESSMENT
 
     +-------------------------------------------------+
     |  INCOME AND EMPLOYMENT                          |
-    |  Stable income (2+ years at same job)          |
-    |  Sufficient income to cover payments           |
-    |  Rising income trend                           |
-    |  Low risk of job loss                          |
+    |  Stable income (2+ years at same job)           |
+    |  Sufficient income to cover payments            |
+    |  Rising income trend                            |
+    |  Low risk of job loss                           |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
