@@ -1408,10 +1408,10 @@ CREDITWORTHINESS ASSESSMENT
     +-------------------------------------------------+
     |  DEBT-TO-INCOME RATIO (DTI)                     |
     |  DTI = Total Monthly Debt Payments / Income     |
-    |  < 36%: Excellent                              |
-    |  36-43%: Good                                  |
-    |  43-50%: Marginal                             |
-    |  > 50%: High risk                             |
+    |  < 36%: Excellent                               |
+    |  36-43%: Good                                   |
+    |  43-50%: Marginal                               |
+    |  > 50%: High risk                               |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
