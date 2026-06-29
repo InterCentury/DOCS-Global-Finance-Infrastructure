@@ -1238,11 +1238,11 @@ LOANS SUPPORTING ECONOMIC GROWTH
     │   ├── Student loans fund education                                          │
     │   └── Personal loans support consumption                                    │
     │                                                                             │
-    │   CHANNEL 3: ENTREPRENEURSHIP                                             │
-    │   ├── Startups need funding for innovation                               │
-    │   ├── Small business loans enable new ventures                           │
-    │   ├── Job creation through new businesses                               │
-    │   └── Economic diversification                                           │
+    │   CHANNEL 3: ENTREPRENEURSHIP                                               │
+    │   ├── Startups need funding for innovation                                  │
+    │   ├── Small business loans enable new ventures                              │
+    │   ├── Job creation through new businesses                                   │
+    │   └── Economic diversification                                              │
     │                                                                             │
     │   CHANNEL 4: JOB CREATION                                                 │
     │   ├── Investment creates employment                                      │
