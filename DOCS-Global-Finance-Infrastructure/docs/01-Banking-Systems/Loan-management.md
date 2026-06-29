@@ -1267,7 +1267,6 @@ How it works: Excessive lending can cause asset bubbles (housing, stocks), over-
 RISKS OF EXCESSIVE LENDING
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   RISK 1: ASSET BUBBLES                                                     │
     │   ├── Too much money chasing assets                                         │
     │   ├── Housing prices inflate                                                │
@@ -1297,7 +1296,6 @@ RISKS OF EXCESSIVE LENDING
     │   ├── Excessive lending → asset bubble → crash                              │
     │   ├── Bank failures → credit freeze                                         │
     │   └── Recession follows                                                     │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
