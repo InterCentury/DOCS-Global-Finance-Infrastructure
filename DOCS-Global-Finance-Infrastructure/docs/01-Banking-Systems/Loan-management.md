@@ -1286,17 +1286,17 @@ RISKS OF EXCESSIVE LENDING
     │   ├── Bank runs when confidence fails                                       │
     │   └── Bank failures lead to credit crunch                                   │
     │                                                                             │
-    │   RISK 4: INFLATION                                                       │
-    │   ├── Too much money chasing too few goods                                │
-    │   ├── Prices rise                                                       │
-    │   ├── Purchasing power erodes                                            │
-    │   └── Central bank must intervene                                       │
+    │   RISK 4: INFLATION                                                         │
+    │   ├── Too much money chasing too few goods                                  │
+    │   ├── Prices rise                                                           │
+    │   ├── Purchasing power erodes                                               │
+    │   └── Central bank must intervene                                           │
     │                                                                             │
-    │   RISK 5: FINANCIAL CRISIS                                                │
-    │   ├── Boom-bust cycle                                                    │
-    │   ├── Excessive lending → asset bubble → crash                          │
-    │   ├── Bank failures → credit freeze                                     │
-    │   └── Recession follows                                                  │
+    │   RISK 5: FINANCIAL CRISIS                                                  │
+    │   ├── Boom-bust cycle                                                       │
+    │   ├── Excessive lending → asset bubble → crash                              │
+    │   ├── Bank failures → credit freeze                                         │
+    │   └── Recession follows                                                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
