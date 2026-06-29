@@ -1098,9 +1098,9 @@ RESERVE REQUIREMENT IMPACT ON LENDING
 
     +-------------------------------------------------+
     |  RESERVE REQUIREMENT = 10%                      |
-    |  Money Multiplier = 1 / 0.10 = 10              |
-    |  Initial Deposit: $100,000                     |
-    |  Total Money Created: $1,000,000              |
+    |  Money Multiplier = 1 / 0.10 = 10               |
+    |  Initial Deposit: $100,000                      |
+    |  Total Money Created: $1,000,000                |
     +-------------------------------------------------+
                          │
                          ▼
