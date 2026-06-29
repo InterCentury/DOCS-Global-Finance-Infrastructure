@@ -1186,7 +1186,7 @@ LOANS AND INFLATION CONNECTION
                          |
                          ▼
     +-------------------------------------------------+
-    |  MORE MONEY IN ECONOMY                         |
+    |  MORE MONEY IN ECONOMY                          |
     +--------------------+----------------------------+
                          |
                          ▼
@@ -1196,22 +1196,22 @@ LOANS AND INFLATION CONNECTION
                          |
                          ▼
     +-------------------------------------------------+
-    |  IF GOODS SUPPLY CONSTANT: PRICES RISE         |
-    |  (Demand-Pull Inflation)                       |
+    |  IF GOODS SUPPLY CONSTANT: PRICES RISE          |
+    |  (Demand-Pull Inflation)                        |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  BALANCE NEEDED:                                |
-    |  Money creation = Economic growth              |
-    |  Inflation stable at 2%                        |
+    |  Money creation = Economic growth               |
+    |  Inflation stable at 2%                         |
     +-------------------------------------------------+
     |  TOO MUCH LENDING:                              |
-    |  Money creation > Economic growth              |
-    |  Inflation rises above target                  |
+    |  Money creation > Economic growth               |
+    |  Inflation rises above target                   |
     +-------------------------------------------------+
     |  TOO LITTLE LENDING:                            |
-    |  Money creation < Economic growth              |
-    |  Deflation risk, slow growth                   |
+    |  Money creation < Economic growth               |
+    |  Deflation risk, slow growth                    |
     +-------------------------------------------------+
 ```
 
