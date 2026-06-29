@@ -1226,17 +1226,17 @@ LOANS SUPPORTING ECONOMIC GROWTH
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CHANNEL 1: BUSINESS INVESTMENT                                           │
-    │   ├── Loans fund capital expenditure (CAPEX)                              │
-    │   ├── Businesses buy equipment, machinery, technology                     │
-    │   ├── Increases productivity and efficiency                              │
-    │   └── Expands production capacity                                        │
+    │   CHANNEL 1: BUSINESS INVESTMENT                                            │
+    │   ├── Loans fund capital expenditure (CAPEX)                                │
+    │   ├── Businesses buy equipment, machinery, technology                       │
+    │   ├── Increases productivity and efficiency                                 │
+    │   └── Expands production capacity                                           │
     │                                                                             │
-    │   CHANNEL 2: HOUSEHOLD CONSUMPTION                                        │
-    │   ├── Mortgages enable home ownership                                    │
-    │   ├── Auto loans enable vehicle purchases                                │
-    │   ├── Student loans fund education                                       │
-    │   └── Personal loans support consumption                                 │
+    │   CHANNEL 2: HOUSEHOLD CONSUMPTION                                          │
+    │   ├── Mortgages enable home ownership                                       │
+    │   ├── Auto loans enable vehicle purchases                                   │
+    │   ├── Student loans fund education                                          │
+    │   └── Personal loans support consumption                                    │
     │                                                                             │
     │   CHANNEL 3: ENTREPRENEURSHIP                                             │
     │   ├── Startups need funding for innovation                               │
