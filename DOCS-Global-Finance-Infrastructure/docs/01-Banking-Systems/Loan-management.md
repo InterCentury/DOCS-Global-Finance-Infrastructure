@@ -1364,16 +1364,16 @@ LOAN RISK MANAGEMENT TOOLS
     │   ├── Foreclosure or repossession rights                                    │
     │   └── Guarantees from third parties                                         │
     │                                                                             │
-    │   TOOL 3: DIVERSIFICATION                                                  │
-    │   ├── Across borrowers (not concentrated in one customer)                │
-    │   ├── Across industries (not concentrated in oil, real estate)           │
-    │   └── Across geographies                                                │
+    │   TOOL 3: DIVERSIFICATION                                                   │
+    │   ├── Across borrowers (not concentrated in one customer)                   │
+    │   ├── Across industries (not concentrated in oil, real estate)              │
+    │   └── Across geographies                                                    │
     │                                                                             │
-    │   TOOL 4: LOAN LOSS RESERVES (PROVISIONS)                                 │
-    │   ├── Reserve for expected losses                                       │
-    │   ├── Based on historical default rates                                 │
-    │   ├── Adjusted for economic conditions                                  │
-    │   └── CECL (Current Expected Credit Losses) standard                   │
+    │   TOOL 4: LOAN LOSS RESERVES (PROVISIONS)                                   │
+    │   ├── Reserve for expected losses                                           │
+    │   ├── Based on historical default rates                                     │
+    │   ├── Adjusted for economic conditions                                      │
+    │   └── CECL (Current Expected Credit Losses) standard                        │
     │                                                                             │
     │   TOOL 5: LOAN COVENANTS                                                   │
     │   ├── Financial covenants (maintain ratios)                               │
