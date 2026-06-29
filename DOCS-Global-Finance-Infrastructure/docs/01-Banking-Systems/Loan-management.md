@@ -1056,17 +1056,17 @@ CENTRAL BANK ROLES IN MONEY CREATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   ROLE 1: CREATE BASE MONEY                                                │
-    │   ├── Issue currency (notes and coins)                                     │
-    │   ├── Create reserves through open market operations                      │
-    │   ├── Quantitative easing expands base money                             │
-    │   └── Base money is the foundation of money creation                     │
+    │   ROLE 1: CREATE BASE MONEY                                                 │
+    │   ├── Issue currency (notes and coins)                                      │
+    │   ├── Create reserves through open market operations                        │
+    │   ├── Quantitative easing expands base money                                │
+    │   └── Base money is the foundation of money creation                        │
     │                                                                             │
-    │   ROLE 2: SET MONETARY POLICY                                              │
-    │   ├── Policy rate influences lending costs                               │
-    │   ├── Reserve requirements limit money creation                          │
-    │   ├── Open market operations adjust reserves                             │
-    │   └── Forward guidance shapes expectations                               │
+    │   ROLE 2: SET MONETARY POLICY                                               │
+    │   ├── Policy rate influences lending costs                                  │
+    │   ├── Reserve requirements limit money creation                             │
+    │   ├── Open market operations adjust reserves                                │
+    │   └── Forward guidance shapes expectations                                  │
     │                                                                             │
     │   ROLE 3: SUPERVISE BANKS                                                 │
     │   ├── Ensure prudent lending practices                                  │
