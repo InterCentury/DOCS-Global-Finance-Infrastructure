@@ -1055,7 +1055,6 @@ How it works: The central bank controls the monetary base through open market op
 CENTRAL BANK ROLES IN MONEY CREATION
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   ROLE 1: CREATE BASE MONEY                                                 │
     │   ├── Issue currency (notes and coins)                                      │
     │   ├── Create reserves through open market operations                        │
@@ -1085,7 +1084,6 @@ CENTRAL BANK ROLES IN MONEY CREATION
     │   ├── Prevent excessive money creation leading to inflation                 │
     │   ├── Prevent insufficient money creation leading to deflation              │
     │   └── Balance money creation with economic growth                           │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
