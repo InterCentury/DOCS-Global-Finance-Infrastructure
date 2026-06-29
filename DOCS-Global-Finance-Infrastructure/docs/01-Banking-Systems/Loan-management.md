@@ -1351,7 +1351,6 @@ How it works: Before lending, banks assess borrower risk through credit checks, 
 LOAN RISK MANAGEMENT TOOLS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   TOOL 1: UNDERWRITING STANDARDS                                            │
     │   ├── Credit scoring and analysis                                           │
     │   ├── Debt-to-income limits                                                 │
@@ -1385,7 +1384,6 @@ LOAN RISK MANAGEMENT TOOLS
     │   ├── Equity absorbs unexpected losses                                      │
     │   ├── Higher capital = greater loss absorption                              │
     │   └── Regulatory minimums (4.5% CET1)                                       │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
