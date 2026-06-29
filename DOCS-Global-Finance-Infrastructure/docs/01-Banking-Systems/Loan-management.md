@@ -1401,8 +1401,8 @@ CREDITWORTHINESS ASSESSMENT
     |  Excellent (750+): Best rates                   |
     |  Good (700-749): Good rates                     |
     |  Fair (650-699): Acceptable rates               |
-    |  Poor (600-649): High rates                    |
-    |  Bad (<600): May be declined                   |
+    |  Poor (600-649): High rates                     |
+    |  Bad (<600): May be declined                    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
