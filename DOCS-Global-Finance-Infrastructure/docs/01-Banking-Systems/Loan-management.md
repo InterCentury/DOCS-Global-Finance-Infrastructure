@@ -1244,17 +1244,17 @@ LOANS SUPPORTING ECONOMIC GROWTH
     │   ├── Job creation through new businesses                                   │
     │   └── Economic diversification                                              │
     │                                                                             │
-    │   CHANNEL 4: JOB CREATION                                                 │
-    │   ├── Investment creates employment                                      │
-    │   ├── New businesses hire workers                                        │
-    │   ├── Existing businesses expand workforce                              │
-    │   └── Income generation through employment                              │
+    │   CHANNEL 4: JOB CREATION                                                   │
+    │   ├── Investment creates employment                                         │
+    │   ├── New businesses hire workers                                           │
+    │   ├── Existing businesses expand workforce                                  │
+    │   └── Income generation through employment                                  │
     │                                                                             │
-    │   CHANNEL 5: MULTIPLIER EFFECT                                            │
-    │   ├── One loan creates multiple economic transactions                   │
-    │   ├── Spending becomes income for others                                 │
-    │   ├── Income leads to more spending                                      │
-    │   └── Economic activity multiplies                                      │
+    │   CHANNEL 5: MULTIPLIER EFFECT                                              │
+    │   ├── One loan creates multiple economic transactions                       │
+    │   ├── Spending becomes income for others                                    │
+    │   ├── Income leads to more spending                                         │
+    │   └── Economic activity multiplies                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
