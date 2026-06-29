@@ -1310,35 +1310,35 @@ CAUSES OF NON-PERFORMING LOANS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   CAUSE 1: BORROWER DISTRESS                                               │
-    │   ├── Job loss or income reduction                                        │
-    │   ├── Business failure                                                    │
-    │   ├── Health emergencies                                                  │
-    │   └── Divorce or family issues                                            │
+    │   CAUSE 1: BORROWER DISTRESS                                                │
+    │   ├── Job loss or income reduction                                          │
+    │   ├── Business failure                                                      │
+    │   ├── Health emergencies                                                    │
+    │   └── Divorce or family issues                                              │
     │                                                                             │
-    │   CAUSE 2: ECONOMIC DOWNTURN                                               │
-    │   ├── Recession reduces income                                           │
-    │   ├── Unemployment rises                                                 │
-    │   ├── Business revenues fall                                              │
-    │   └── Widespread defaults                                                │
+    │   CAUSE 2: ECONOMIC DOWNTURN                                                │
+    │   ├── Recession reduces income                                              │
+    │   ├── Unemployment rises                                                    │
+    │   ├── Business revenues fall                                                │
+    │   └── Widespread defaults                                                   │
     │                                                                             │
-    │   CAUSE 3: POOR UNDERWRITING                                               │
-    │   ├── Lending to uncreditworthy borrowers                                 │
-    │   ├── Inadequate income verification                                     │
-    │   ├── Overly optimistic assumptions                                      │
-    │   └── Loose lending standards                                            │
+    │   CAUSE 3: POOR UNDERWRITING                                                │
+    │   ├── Lending to uncreditworthy borrowers                                   │
+    │   ├── Inadequate income verification                                        │
+    │   ├── Overly optimistic assumptions                                         │
+    │   └── Loose lending standards                                               │
     │                                                                             │
-    │   CAUSE 4: ASSET BUBBLE BURST                                              │
-    │   ├── Housing price crash                                                │
-    │   ├── Borrowers underwater (loan > asset value)                          │
-    │   ├── Strategic defaults                                                 │
-    │   └── Collateral value declines                                          │
+    │   CAUSE 4: ASSET BUBBLE BURST                                               │
+    │   ├── Housing price crash                                                   │
+    │   ├── Borrowers underwater (loan > asset value)                             │
+    │   ├── Strategic defaults                                                    │
+    │   └── Collateral value declines                                             │
     │                                                                             │
-    │   CAUSE 5: INTEREST RATE RISES                                             │
-    │   ├── Variable rate loans become unaffordable                            │
-    │   ├── Higher payments strain borrowers                                   │
-    │   ├── Defaults on adjustable rate mortgages                              │
-    │   └── Refinancing becomes impossible                                     │
+    │   CAUSE 5: INTEREST RATE RISES                                              │
+    │   ├── Variable rate loans become unaffordable                               │
+    │   ├── Higher payments strain borrowers                                      │
+    │   ├── Defaults on adjustable rate mortgages                                 │
+    │   └── Refinancing becomes impossible                                        │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
