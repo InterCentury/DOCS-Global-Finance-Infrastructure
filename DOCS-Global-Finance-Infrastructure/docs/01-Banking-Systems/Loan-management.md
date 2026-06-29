@@ -1375,16 +1375,16 @@ LOAN RISK MANAGEMENT TOOLS
     │   ├── Adjusted for economic conditions                                      │
     │   └── CECL (Current Expected Credit Losses) standard                        │
     │                                                                             │
-    │   TOOL 5: LOAN COVENANTS                                                   │
-    │   ├── Financial covenants (maintain ratios)                               │
-    │   ├── Reporting requirements                                              │
-    │   ├── Restrictions on additional borrowing                               │
-    │   └── Triggers for early repayment                                       │
+    │   TOOL 5: LOAN COVENANTS                                                    │
+    │   ├── Financial covenants (maintain ratios)                                 │
+    │   ├── Reporting requirements                                                │
+    │   ├── Restrictions on additional borrowing                                  │
+    │   └── Triggers for early repayment                                          │
     │                                                                             │
-    │   TOOL 6: CAPITAL REQUIREMENTS                                            │
-    │   ├── Equity absorbs unexpected losses                                   │
-    │   ├── Higher capital = greater loss absorption                           │
-    │   └── Regulatory minimums (4.5% CET1)                                   │
+    │   TOOL 6: CAPITAL REQUIREMENTS                                              │
+    │   ├── Equity absorbs unexpected losses                                      │
+    │   ├── Higher capital = greater loss absorption                              │
+    │   └── Regulatory minimums (4.5% CET1)                                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
