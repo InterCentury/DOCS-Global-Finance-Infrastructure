@@ -1225,7 +1225,6 @@ How it works: Loans channel funds from savers to borrowers who can use them prod
 LOANS SUPPORTING ECONOMIC GROWTH
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   CHANNEL 1: BUSINESS INVESTMENT                                            │
     │   ├── Loans fund capital expenditure (CAPEX)                                │
     │   ├── Businesses buy equipment, machinery, technology                       │
@@ -1255,7 +1254,6 @@ LOANS SUPPORTING ECONOMIC GROWTH
     │   ├── Spending becomes income for others                                    │
     │   ├── Income leads to more spending                                         │
     │   └── Economic activity multiplies                                          │
-    │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
