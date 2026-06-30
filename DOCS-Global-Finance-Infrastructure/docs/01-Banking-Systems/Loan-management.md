@@ -1726,18 +1726,18 @@ COMPLETE LOAN LIFECYCLE
                          ▼
     STAGE 7: REPAYMENT
     +-------------------------------------------------+
-    |  Borrower continues payments                   |
-    |  Principal balance decreases to zero           |
-    |  Interest accrues until paid                   |
+    |  Borrower continues payments                    |
+    |  Principal balance decreases to zero            |
+    |  Interest accrues until paid                    |
     +--------------------+----------------------------+
                          |
                          ▼
     STAGE 8: CLOSURE
     +-------------------------------------------------+
-    |  Loan fully repaid                            |
-    |  Loan account closed                          |
-    |  Collateral released (secured)               |
-    |  Money destroyed (principal portion)          |
+    |  Loan fully repaid                              |
+    |  Loan account closed                            |
+    |  Collateral released (secured)                  |
+    |  Money destroyed (principal portion)            |
     +-------------------------------------------------+
 ```
 
