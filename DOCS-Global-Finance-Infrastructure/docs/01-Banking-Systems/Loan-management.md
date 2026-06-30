@@ -1574,17 +1574,17 @@ LENDING EXISTING MONEY VS CREATING NEW MONEY
     Comparison:
 
     +-------------------------------------------------+
-    |  Aspect         | Existing Money   | New Money   |
+    |  Aspect         | Existing Money  | New Money   |
     |-----------------|-----------------|-------------|
     | Source          | Depositor funds | Bank creates|
-    | Money supply    | Unchanged        | Increases   |
-    | Asset impact    | Depositor asset  | Bank loan   |
-    |                 | decreases        | asset       |
-    | Liability impact| Depositor        | Borrower    |
-    |                 | liability        | deposit     |
-    |                 | decreases        | liability   |
-    |                 |                  | increases   |
-    | Balance sheet   | Size unchanged   | Size grows  |
+    | Money supply    | Unchanged       | Increases   |
+    | Asset impact    | Depositor asset | Bank loan   |
+    |                 | decreases       | asset       |
+    | Liability impact| Depositor       | Borrower    |
+    |                 | liability       | deposit     |
+    |                 | decreases       | liability   |
+    |                 |                 | increases   |
+    | Balance sheet   | Size unchanged  | Size grows  |
     +-------------------------------------------------+
 ```
 
