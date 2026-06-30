@@ -1599,11 +1599,11 @@ LOAN REPAYMENT MONEY DESTRUCTION
 
     BEFORE REPAYMENT:
     +-------------------------------------------------+
-    |  Bank Assets                    | Liabilities   |
-    |  Reserve: $10,000              | Deposits:     |
+    |  Bank Assets                   | Liabilities    |
+    |  Reserve: $10,000              | Deposits:      |
     |  Loans: $20,000                | $120,000       |
     |                                | Equity: $10,000|
-    |  Money Supply: $120,000                          |
+    |  Money Supply: $120,000                         |
     +-------------------------------------------------+
 
     BORROWER REPAYS $5,000:
