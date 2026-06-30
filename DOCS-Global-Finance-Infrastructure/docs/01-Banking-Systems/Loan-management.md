@@ -1701,8 +1701,8 @@ COMPLETE LOAN LIFECYCLE
     |  Borrower accepts offer                        |
     |  Legal documents signed                        |
     |  Loan agreement executed                       |
-    |  Funds disbursed                              |
-    |  New money created                            |
+    |  Funds disbursed                               |
+    |  New money created                             |
     +--------------------+----------------------------+
                          |
                          ▼
