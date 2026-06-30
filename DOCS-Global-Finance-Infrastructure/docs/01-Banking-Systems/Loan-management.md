@@ -1690,9 +1690,9 @@ COMPLETE LOAN LIFECYCLE
                          ▼
     STAGE 3: APPROVAL
     +-------------------------------------------------+
-    |  Loan approved or declined                     |
-    |  Terms set (rate, amount, term, covenants)     |
-    |  Offer extended to borrower                   |
+    |  Loan approved or declined                      |
+    |  Terms set (rate, amount, term, covenants)      |
+    |  Offer extended to borrower                     |
     +--------------------+----------------------------+
                          |
                          ▼
