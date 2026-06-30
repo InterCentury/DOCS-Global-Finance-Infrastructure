@@ -1451,8 +1451,8 @@ CREDIT SCORE COMPONENTS (FICO)
     +-------------------------------------------------+
     |  PAYMENT HISTORY (35%)                          |
     |  On-time payments vs late payments              |
-    |  Public records (bankruptcies, judgments)      |
-    |  Collection accounts                           |
+    |  Public records (bankruptcies, judgments)       |
+    |  Collection accounts                            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
@@ -1465,8 +1465,8 @@ CREDIT SCORE COMPONENTS (FICO)
     +-------------------------------------------------+
     |  LENGTH OF CREDIT HISTORY (15%)                 |
     |  Age of oldest account                          |
-    |  Average age of all accounts                   |
-    |  Age of newest account                         |
+    |  Average age of all accounts                    |
+    |  Age of newest account                          |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
