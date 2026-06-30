@@ -1617,10 +1617,10 @@ LOAN REPAYMENT MONEY DESTRUCTION
 
     RESULT:
     +-------------------------------------------------+
-    |  Money supply decreased by $5,000              |
-    |  Loan asset decreased by $5,000               |
-    |  Deposit liability decreased by $5,000        |
-    |  Money is destroyed                            |
+    |  Money supply decreased by $5,000               |
+    |  Loan asset decreased by $5,000                 |
+    |  Deposit liability decreased by $5,000          |
+    |  Money is destroyed                             |
     +-------------------------------------------------+
 ```
 
