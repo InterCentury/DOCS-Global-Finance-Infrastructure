@@ -1674,8 +1674,8 @@ COMPLETE LOAN LIFECYCLE
     STAGE 1: APPLICATION
     +-------------------------------------------------+
     |  Borrower applies for loan                      |
-    |  Submits financial information                 |
-    |  Specifies purpose and amount                  |
+    |  Submits financial information                  |
+    |  Specifies purpose and amount                   |
     +--------------------+----------------------------+
                          |
                          ▼
