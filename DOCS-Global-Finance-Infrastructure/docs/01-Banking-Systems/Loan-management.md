@@ -1821,49 +1821,47 @@ REAL-WORLD EXAMPLE
 COMMON MISCONCEPTIONS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
+    │   MISCONCEPTION 1: "Banks only lend money deposited by customers"           │
     │                                                                             │
-    │   MISCONCEPTION 1: "Banks only lend money deposited by customers"          │
-    │                                                                             │
-    │   TRUTH: Banks create new money when they make loans. They do not         │
-    │   simply lend existing deposits. The loan creates a new deposit.           │
-    │                                                                             │
-    │                                                                             │
-    │   MISCONCEPTION 2: "Savers' money is used for loans"                      │
-    │                                                                             │
-    │   TRUTH: Deposits and loans are independent. Loans create deposits,        │
-    │   not the reverse. Savings provide reserves, not lending funds.            │
+    │   TRUTH: Banks create new money when they make loans. They do not           │
+    │   simply lend existing deposits. The loan creates a new deposit.            │
     │                                                                             │
     │                                                                             │
-    │   MISCONCEPTION 3: "Banks have a fixed pool of money to lend"             │
+    │   MISCONCEPTION 2: "Savers' money is used for loans"                        │
     │                                                                             │
-    │   TRUTH: Banks can create unlimited money through lending, subject to     │
-    │   reserve requirements, capital constraints, and borrower demand.         │
-    │                                                                             │
-    │                                                                             │
-    │   MISCONCEPTION 4: "Money creation is printing physical currency"         │
-    │                                                                             │
-    │   TRUTH: Most money creation is digital. Banks create money by            │
-    │   making electronic entries, not printing notes.                          │
+    │   TRUTH: Deposits and loans are independent. Loans create deposits,         │
+    │   not the reverse. Savings provide reserves, not lending funds.             │
     │                                                                             │
     │                                                                             │
-    │   MISCONCEPTION 5: "Banks can create unlimited money"                     │
+    │   MISCONCEPTION 3: "Banks have a fixed pool of money to lend"               │
     │                                                                             │
-    │   TRUTH: Banks are limited by reserve requirements, capital                │
-    │   requirements, liquidity requirements, and the availability of            │
-    │   creditworthy borrowers.                                                 │
-    │                                                                             │
-    │                                                                             │
-    │   MISCONCEPTION 6: "Loan repayment creates new money"                     │
-    │                                                                             │
-    │   TRUTH: Loan repayment destroys money. The borrower's deposit is         │
-    │   debited, and the loan asset is reduced. Money disappears.               │
+    │   TRUTH: Banks can create unlimited money through lending, subject to       │
+    │   reserve requirements, capital constraints, and borrower demand.           │
     │                                                                             │
     │                                                                             │
-    │   MISCONCEPTION 7: "Only central banks create money"                      │
+    │   MISCONCEPTION 4: "Money creation is printing physical currency"           │
     │                                                                             │
-    │   TRUTH: Central banks create base money (currency, reserves).            │
-    │   Commercial banks create broad money (deposits) through lending.         │
+    │   TRUTH: Most money creation is digital. Banks create money by              │
+    │   making electronic entries, not printing notes.                            │
     │                                                                             │
+    │                                                                             │
+    │   MISCONCEPTION 5: "Banks can create unlimited money"                       │
+    │                                                                             │
+    │   TRUTH: Banks are limited by reserve requirements, capital                 │
+    │   requirements, liquidity requirements, and the availability of             │
+    │   creditworthy borrowers.                                                   │
+    │                                                                             │
+    │                                                                             │
+    │   MISCONCEPTION 6: "Loan repayment creates new money"                       │
+    │                                                                             │
+    │   TRUTH: Loan repayment destroys money. The borrower's deposit is           │
+    │   debited, and the loan asset is reduced. Money disappears.                 │
+    │                                                                             │
+    │                                                                             │
+    │   MISCONCEPTION 7: "Only central banks create money"                        │
+    │                                                                             │
+    │   TRUTH: Central banks create base money (currency, reserves).              │
+    │   Commercial banks create broad money (deposits) through lending.           │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -1874,23 +1872,23 @@ KEY TAKEAWAYS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   LOANS BASICS                                                             │
-    │   ├── A loan is borrowed money with a promise to repay with interest      │
-    │   ├── Loans enable purchases and investments beyond current resources     │
-    │   ├── Different types serve different purposes (mortgage, auto, business) │
-    │   └── Approval depends on the Five C's of Credit                         │
+    │   LOANS BASICS                                                              │
+    │   ├── A loan is borrowed money with a promise to repay with interest        │
+    │   ├── Loans enable purchases and investments beyond current resources       │
+    │   ├── Different types serve different purposes (mortgage, auto, business)   │
+    │   └── Approval depends on the Five C's of Credit                            │
     │                                                                             │
-    │   INTEREST AND REPAYMENT                                                   │
-    │   ├── Interest is the cost of borrowing                                  │
-    │   ├── Fixed rates stay constant, variable rates change                   │
-    │   ├── EMIs are equal monthly installments covering principal and interest │
-    │   └── Default occurs when repayment obligations are not met              │
+    │   INTEREST AND REPAYMENT                                                    │
+    │   ├── Interest is the cost of borrowing                                     │
+    │   ├── Fixed rates stay constant, variable rates change                      │
+    │   ├── EMIs are equal monthly installments covering principal and interest   │
+    │   └── Default occurs when repayment obligations are not met                 │
     │                                                                             │
-    │   MONEY CREATION THROUGH LENDING                                           │
-    │   ├── Banks create new money when issuing loans                          │
-    │   ├── No existing deposit is used—a new deposit is created               │
-    │   ├── Fractional reserve banking enables money creation                  │
-    │   └── Money multiplier multiplies base money into broad money            │
+    │   MONEY CREATION THROUGH LENDING                                            │
+    │   ├── Banks create new money when issuing loans                             │
+    │   ├── No existing deposit is used—a new deposit is created                  │
+    │   ├── Fractional reserve banking enables money creation                     │
+    │   └── Money multiplier multiplies base money into broad money               │
     │                                                                             │
     │   LIMITS AND CONTROLS                                                      │
     │   ├── Reserve requirements limit lending capacity                        │
