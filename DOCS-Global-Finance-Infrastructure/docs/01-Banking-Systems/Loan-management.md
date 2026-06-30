@@ -1717,10 +1717,10 @@ COMPLETE LOAN LIFECYCLE
                          ▼
     STAGE 6: MONITORING
     +-------------------------------------------------+
-    |  Bank monitors payment performance             |
-    |  Reviews borrower financial condition          |
-    |  Identifies early warning signs                |
-    |  Manages problem loans                        |
+    |  Bank monitors payment performance              |
+    |  Reviews borrower financial condition           |
+    |  Identifies early warning signs                 |
+    |  Manages problem loans                          |
     +--------------------+----------------------------+
                          |
                          ▼
