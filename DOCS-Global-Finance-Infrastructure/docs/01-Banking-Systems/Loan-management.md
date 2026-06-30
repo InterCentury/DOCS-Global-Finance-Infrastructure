@@ -1651,13 +1651,13 @@ FULL LOAN REPAYMENT
 
     FULLY REPAID:
     +-------------------------------------------------+
-    |  Bank Assets                    | Liabilities   |
-    |  Reserve: $10,000              | Deposits:     |
-    |  Loans: $0                     | $100,000       |
-    |                                | Equity: $14,000|
-    |                                | (Original     |
-    |                                |  equity +     |
-    |                                |  interest)    |
+    |  Bank Assets                 | Liabilities      |
+    |  Reserve: $10,000            | Deposits:        |
+    |  Loans: $0                   | $100,000         |
+    |                              | Equity: $14,000  |
+    |                              | (Original        |
+    |                              |  equity +        |
+    |                              |  interest)       |
     +-------------------------------------------------+
 
     Money Supply: $100,000 (returned to pre-loan level)
