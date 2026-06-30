@@ -1708,10 +1708,10 @@ COMPLETE LOAN LIFECYCLE
                          ▼
     STAGE 5: SERVICING
     +-------------------------------------------------+
-    |  Borrower makes regular payments               |
-    |  Bank collects interest and principal          |
-    |  Loan amortization proceeds                   |
-    |  Interest portion declines over time          |
+    |  Borrower makes regular payments                |
+    |  Bank collects interest and principal           |
+    |  Loan amortization proceeds                     |
+    |  Interest portion declines over time            |
     +--------------------+----------------------------+
                          |
                          ▼
