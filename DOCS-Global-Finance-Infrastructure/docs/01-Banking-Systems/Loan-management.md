@@ -1557,10 +1557,10 @@ LENDING EXISTING MONEY VS CREATING NEW MONEY
 
     LENDING EXISTING MONEY:
     +-------------------------------------------------+
-    |  Bank uses depositor funds to make loan        |
-    |  Funds transfer from depositor to borrower    |
-    |  Money supply unchanged                       |
-    |  Example: Using savings deposits             |
+    |  Bank uses depositor funds to make loan         |
+    |  Funds transfer from depositor to borrower      |
+    |  Money supply unchanged                         |
+    |  Example: Using savings deposits                |
     +-------------------------------------------------+
 
     CREATING NEW MONEY:
