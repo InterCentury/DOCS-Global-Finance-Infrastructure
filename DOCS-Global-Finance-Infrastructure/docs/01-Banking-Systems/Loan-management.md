@@ -1523,9 +1523,9 @@ BORROWER EVALUATION PROCESS
                          ▼
     +-------------------------------------------------+
     |  STEP 4: DEBT CALCULATION                       |
-    |  - Total monthly debt payments                |
-    |  - Debt-to-income ratio (DTI)                  |
-    |  - Compare to maximum DTI (36-43%)            |
+    |  - Total monthly debt payments                  |
+    |  - Debt-to-income ratio (DTI)                   |
+    |  - Compare to maximum DTI (36-43%)              |
     +--------------------+----------------------------+
                          |
                          ▼
