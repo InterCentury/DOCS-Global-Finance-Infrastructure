@@ -1608,11 +1608,11 @@ LOAN REPAYMENT MONEY DESTRUCTION
 
     BORROWER REPAYS $5,000:
     +-------------------------------------------------+
-    |  Bank Assets                    | Liabilities   |
-    |  Reserve: $10,000              | Deposits:     |
+    |  Bank Assets                   | Liabilities    |
+    |  Reserve: $10,000              | Deposits:      |
     |  Loans: $15,000                | $115,000       |
     |                                | Equity: $10,000|
-    |  Money Supply: $115,000                          |
+    |  Money Supply: $115,000                         |
     +-------------------------------------------------+
 
     RESULT:
