@@ -1479,9 +1479,9 @@ CREDIT SCORE COMPONENTS (FICO)
 
     +-------------------------------------------------+
     |  NEW CREDIT (10%)                               |
-    |  Number of recent inquiries                    |
-    |  Number of recently opened accounts            |
-    |  Time since last inquiry                      |
+    |  Number of recent inquiries                     |
+    |  Number of recently opened accounts             |
+    |  Time since last inquiry                        |
     +-------------------------------------------------+
 ```
 
@@ -1496,10 +1496,10 @@ BORROWER EVALUATION PROCESS
 
     +-------------------------------------------------+
     |  STEP 1: CREDIT CHECK                           |
-    |  - Pull credit report                          |
-    |  - Review credit score                        |
-    |  - Check payment history                       |
-    |  - Identify red flags (collections, judgments)|
+    |  - Pull credit report                           |
+    |  - Review credit score                          |
+    |  - Check payment history                        |
+    |  - Identify red flags (collections, judgments)  |
     +--------------------+----------------------------+
                          |
                          ▼
