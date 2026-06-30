@@ -1683,8 +1683,8 @@ COMPLETE LOAN LIFECYCLE
     +-------------------------------------------------+
     |  Bank evaluates borrower                        |
     |  Credit check, income verification              |
-    |  Debt-to-income analysis                       |
-    |  Collateral valuation (secured)                |
+    |  Debt-to-income analysis                        |
+    |  Collateral valuation (secured)                 |
     +--------------------+----------------------------+
                          |
                          ▼
