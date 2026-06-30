@@ -1698,11 +1698,11 @@ COMPLETE LOAN LIFECYCLE
                          ▼
     STAGE 4: CLOSING
     +-------------------------------------------------+
-    |  Borrower accepts offer                        |
-    |  Legal documents signed                        |
-    |  Loan agreement executed                       |
-    |  Funds disbursed                               |
-    |  New money created                             |
+    |  Borrower accepts offer                         |
+    |  Legal documents signed                         |
+    |  Loan agreement executed                        |
+    |  Funds disbursed                                |
+    |  New money created                              |
     +--------------------+----------------------------+
                          |
                          ▼
