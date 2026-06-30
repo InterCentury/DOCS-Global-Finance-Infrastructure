@@ -1871,7 +1871,6 @@ COMMON MISCONCEPTIONS
 KEY TAKEAWAYS
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
     │   LOANS BASICS                                                              │
     │   ├── A loan is borrowed money with a promise to repay with interest        │
     │   ├── Loans enable purchases and investments beyond current resources       │
@@ -1890,30 +1889,29 @@ KEY TAKEAWAYS
     │   ├── Fractional reserve banking enables money creation                     │
     │   └── Money multiplier multiplies base money into broad money               │
     │                                                                             │
-    │   LIMITS AND CONTROLS                                                      │
-    │   ├── Reserve requirements limit lending capacity                        │
-    │   ├── Capital requirements constrain excessive lending                  │
-    │   ├── Central banks set policy and supervise banks                       │
-    │   └── Creditworthy borrowers are essential for lending                   │
+    │   LIMITS AND CONTROLS                                                       │
+    │   ├── Reserve requirements limit lending capacity                           │
+    │   ├── Capital requirements constrain excessive lending                      │
+    │   ├── Central banks set policy and supervise banks                          │
+    │   └── Creditworthy borrowers are essential for lending                      │
     │                                                                             │
-    │   IMPACTS AND RISKS                                                       │
-    │   ├── Loans support economic growth through investment and consumption  │
-    │   ├── Excessive lending can cause inflation and asset bubbles           │
-    │   ├── Non-Performing Loans arise from borrower distress and poor          │
-    │   │   underwriting                                                        │
-    │   └── Banks manage risk through underwriting, diversification, reserves   │
+    │   IMPACTS AND RISKS                                                         │
+    │   ├── Loans support economic growth through investment and consumption      │
+    │   ├── Excessive lending can cause inflation and asset bubbles               │
+    │   ├── Non-Performing Loans arise from borrower distress and poor            │
+    │   │   underwriting                                                          │
+    │   └── Banks manage risk through underwriting, diversification, reserves     │
     │                                                                             │
-    │   MONEY DESTRUCTION                                                        │
-    │   ├── Loan repayment destroys money                                     │
-    │   ├── The borrower's deposit is debited                                 │
-    │   ├── The loan asset is reduced                                          │
-    │   └── Money supply decreases                                            │
+    │   MONEY DESTRUCTION                                                         │
+    │   ├── Loan repayment destroys money                                         │
+    │   ├── The borrower's deposit is debited                                     │
+    │   ├── The loan asset is reduced                                             │
+    │   └── Money supply decreases                                                │
     │                                                                             │
-    │   THE COMPLETE CYCLE                                                      │
-    │   ├── Application → Underwriting → Approval → Closing                    │
-    │   ├── → Servicing → Monitoring → Repayment → Closure                     │
-    │   └── Money created at origination, destroyed at repayment               │
-    │                                                                             │
+    │   THE COMPLETE CYCLE                                                        │
+    │   ├── Application → Underwriting → Approval → Closing                       │
+    │   ├── → Servicing → Monitoring → Repayment → Closure                        │
+    │   └── Money created at origination, destroyed at repayment                  │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
