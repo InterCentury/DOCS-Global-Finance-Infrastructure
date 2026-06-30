@@ -1530,10 +1530,10 @@ BORROWER EVALUATION PROCESS
                          |
                          ▼
     +-------------------------------------------------+
-    |  STEP 5: COLLATERAL EVALUATION (Secured)       |
-    |  - Appraisal of asset                         |
-    |  - Loan-to-value ratio (LTV)                  |
-    |  - Collateral quality                        |
+    |  STEP 5: COLLATERAL EVALUATION (Secured)        |
+    |  - Appraisal of asset                           |
+    |  - Loan-to-value ratio (LTV)                    |
+    |  - Collateral quality                           |
     +--------------------+----------------------------+
                          |
                          ▼
