@@ -1471,8 +1471,8 @@ CREDIT SCORE COMPONENTS (FICO)
 
     +-------------------------------------------------+
     |  CREDIT MIX (10%)                               |
-    |  Variety of credit types (cards, mortgage,     |
-    |  auto, student loans)                         |
+    |  Variety of credit types (cards, mortgage,      |
+    |  auto, student loans)                           |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
