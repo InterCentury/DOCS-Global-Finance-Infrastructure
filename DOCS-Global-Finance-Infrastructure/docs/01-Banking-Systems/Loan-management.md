@@ -1505,10 +1505,10 @@ BORROWER EVALUATION PROCESS
                          ▼
     +-------------------------------------------------+
     |  STEP 2: INCOME VERIFICATION                    |
-    |  - Pay stubs (2+ years)                        |
-    |  - Tax returns (W-2, 1040)                    |
-    |  - Bank statements                            |
-    |  - Employer verification                      |
+    |  - Pay stubs (2+ years)                         |
+    |  - Tax returns (W-2, 1040)                      |
+    |  - Bank statements                              |
+    |  - Employer verification                        |
     +--------------------+----------------------------+
                          |
                          ▼
