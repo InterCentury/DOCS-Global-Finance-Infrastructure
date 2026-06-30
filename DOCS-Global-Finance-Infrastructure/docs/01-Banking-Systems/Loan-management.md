@@ -1539,10 +1539,10 @@ BORROWER EVALUATION PROCESS
                          ▼
     +-------------------------------------------------+
     |  STEP 6: UNDERWRITING DECISION                  |
-    |  - Approve, decline, or counter-offer         |
-    |  - Determine loan amount                     |
-    |  - Set interest rate                         |
-    |  - Establish terms and covenants             |
+    |  - Approve, decline, or counter-offer           |
+    |  - Determine loan amount                        |
+    |  - Set interest rate                            |
+    |  - Establish terms and covenants                |
     +-------------------------------------------------+
 ```
 
