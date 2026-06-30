@@ -1644,8 +1644,8 @@ FULL LOAN REPAYMENT
     DURING REPAYMENT (Principal + Interest):
     +-------------------------------------------------+
     |  Borrower makes monthly payments                |
-    |  Interest portion: Bank income (retained)      |
-    |  Principal portion: Money destroyed           |
+    |  Interest portion: Bank income (retained)       |
+    |  Principal portion: Money destroyed             |
     |  Loan balance decreases                         |
     +-------------------------------------------------+
 
