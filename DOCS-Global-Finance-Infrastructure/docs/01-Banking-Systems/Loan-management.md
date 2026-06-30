@@ -1749,69 +1749,69 @@ Let's follow a complete example of how money is created when a bank makes a loan
 REAL-WORLD EXAMPLE
 
     +-------------------------------------------------+
-    |  SCENARIO:                                       |
+    |  SCENARIO:                                      |
     |  Small business owner wants to expand           |
     |  Applies for $100,000 loan                      |
     +-------------------------------------------------+
 
     STEP 1: Application
     +-------------------------------------------------+
-    |  Business owner submits application            |
-    |  Business financials: Annual revenue $500,000  |
-    |  Existing debt: $50,000                        |
-    |  Credit score: 720 (Good)                      |
-    |  Purpose: Purchase equipment                  |
-    |  Repayment: 5 years                          |
+    |  Business owner submits application             |
+    |  Business financials: Annual revenue $500,000   |
+    |  Existing debt: $50,000                         |
+    |  Credit score: 720 (Good)                       |
+    |  Purpose: Purchase equipment                    |
+    |  Repayment: 5 years                             |
     +-------------------------------------------------+
 
     STEP 2: Bank Evaluation
     +-------------------------------------------------+
-    |  Credit check: Good history                    |
-    |  Debt-to-income ratio: 30% (acceptable)       |
-    |  Collateral: Equipment to be purchased         |
-    |  Business viability: Strong                    |
+    |  Credit check: Good history                     |
+    |  Debt-to-income ratio: 30% (acceptable)         |
+    |  Collateral: Equipment to be purchased          |
+    |  Business viability: Strong                     |
     +-------------------------------------------------+
 
     STEP 3: Loan Approved
     +-------------------------------------------------+
-    |  Amount: $100,000                              |
-    |  Rate: 6% (fixed)                             |
-    |  Term: 5 years (60 months)                    |
-    |  Monthly EMI: $1,933                         |
+    |  Amount: $100,000                               |
+    |  Rate: 6% (fixed)                               |
+    |  Term: 5 years (60 months)                      |
+    |  Monthly EMI: $1,933                            |
     +-------------------------------------------------+
 
     STEP 4: Money Creation
     +-------------------------------------------------+
-    |  Bank credits borrower's checking account     |
-    |  New deposit of $100,000 created              |
-    |  Bank creates new asset: Loan Receivable      |
-    |  Bank creates new liability: Borrower Deposit |
-    |  Money supply increases by $100,000           |
+    |  Bank credits borrower's checking account       |
+    |  New deposit of $100,000 created                |
+    |  Bank creates new asset: Loan Receivable        |
+    |  Bank creates new liability: Borrower Deposit   |
+    |  Money supply increases by $100,000             |
     +-------------------------------------------------+
 
     STEP 5: Borrower Uses the Money
     +-------------------------------------------------+
-    |  Borrower buys $100,000 equipment             |
-    |  Equipment supplier deposits check             |
-    |  Money moves to supplier's bank               |
-    |  Money remains in the system                  |
+    |  Borrower buys $100,000 equipment               |
+    |  Equipment supplier deposits check              |
+    |  Money moves to supplier's bank                 |
+    |  Money remains in the system                    |
     +-------------------------------------------------+
 
     STEP 6: Repayment Process
     +-------------------------------------------------+
-    |  Monthly payments of $1,933                   |
-    |  First year: Mostly interest                  |
-    |  Final year: Mostly principal                 |
-    |  Over 5 years, $115,980 repaid                |
-    |  Bank earns $15,980 in interest              |
+    |  Monthly payments of $1,933                     |
+    |  First year: Mostly interest                    |
+    |  Final year: Mostly principal                   |
+    |  Over 5 years, $115,980 repaid                  |
+    |  Bank earns $15,980 in interest                 |
     +-------------------------------------------------+
 
     STEP 7: Loan Fully Repaid
     +-------------------------------------------------+
-    |  Principal ($100,000) destroyed               |
-    |  Interest ($15,980) becomes bank income       |
-    |  Money supply decreases by $100,000           |
-    |  Bank earns profit from interest              |
+    |  Principal ($100,000) destroyed                 |
+    |  Interest ($15,980) becomes bank income         |
+    |  Money supply decreases by $100,000             |
+    |  Bank earns profit from interest                |
     +-------------------------------------------------+
 ```
 
