@@ -1514,10 +1514,10 @@ BORROWER EVALUATION PROCESS
                          ▼
     +-------------------------------------------------+
     |  STEP 3: ASSET VERIFICATION                     |
-    |  - Bank accounts                              |
-    |  - Investment accounts                        |
-    |  - Real estate holdings                       |
-    |  - Other assets                              |
+    |  - Bank accounts                                |
+    |  - Investment accounts                          |
+    |  - Real estate holdings                         |
+    |  - Other assets                                 |
     +--------------------+----------------------------+
                          |
                          ▼
