@@ -1565,10 +1565,10 @@ LENDING EXISTING MONEY VS CREATING NEW MONEY
 
     CREATING NEW MONEY:
     +-------------------------------------------------+
-    |  Bank credits borrower's account with new     |
-    |  deposit. No existing deposit is used.        |
-    |  Money supply increases by loan amount        |
-    |  Example: Most commercial bank lending        |
+    |  Bank credits borrower's account with new       |
+    |  deposit. No existing deposit is used.          |
+    |  Money supply increases by loan amount          |
+    |  Example: Most commercial bank lending          |
     +-------------------------------------------------+
 
     Comparison:
