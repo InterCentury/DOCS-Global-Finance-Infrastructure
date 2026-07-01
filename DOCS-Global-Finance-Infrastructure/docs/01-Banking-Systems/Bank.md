@@ -197,9 +197,9 @@ BANKING HISTORY TIMELINE
 
     2023: SVB and Credit Suisse Failures
     +-------------------------------------------------+
-    |  Silicon Valley Bank collapse                |
-    |  Credit Suisse acquired by UBS              |
-    |  Digital bank runs accelerated              |
+    |  Silicon Valley Bank collapse                   |
+    |  Credit Suisse acquired by UBS                  |
+    |  Digital bank runs accelerated                  |
     +-------------------------------------------------+
 ```
 
