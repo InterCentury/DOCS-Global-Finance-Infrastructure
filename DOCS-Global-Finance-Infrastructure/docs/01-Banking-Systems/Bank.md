@@ -212,10 +212,10 @@ EVOLUTION OF MODERN BANKING
 
     PHASE 1: PHYSICAL BANKING (Pre-1960s)
     +-------------------------------------------------+
-    |  Branches only                                 |
-    |  Passbook savings                             |
-    |  Paper checks                                 |
-    |  In-person transactions only                   |
+    |  Branches only                                  |
+    |  Passbook savings                               |
+    |  Paper checks                                   |
+    |  In-person transactions only                    |
     +-------------------------------------------------+
 
     PHASE 2: ATM AND CARD BANKING (1960s-1990s)
