@@ -1,4 +1,4 @@
-# 00 - Bank
+#  Bank
 
 ## Documentation Overview
 
