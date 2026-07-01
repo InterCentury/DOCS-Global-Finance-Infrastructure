@@ -152,9 +152,9 @@ BANKING HISTORY TIMELINE
 
     1694: Bank of England
     +-------------------------------------------------+
-    |  First modern central bank                    |
-    |  Issued banknotes                             |
-    |  Government lender                            |
+    |  First modern central bank                      |
+    |  Issued banknotes                               |
+    |  Government lender                              |
     +-------------------------------------------------+
 
     1791: First Bank of the United States
