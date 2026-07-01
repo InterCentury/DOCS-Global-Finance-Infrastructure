@@ -183,9 +183,9 @@ BANKING HISTORY TIMELINE
 
     1999: Gramm-Leach-Bliley Act
     +-------------------------------------------------+
-    |  Repealed Glass-Steagall                      |
-    |  Allowed banking, securities, insurance       |
-    |  Under one roof                              |
+    |  Repealed Glass-Steagall                        |
+    |  Allowed banking, securities, insurance         |
+    |  Under one roof                                 |
     +-------------------------------------------------+
 
     2008: Financial Crisis
