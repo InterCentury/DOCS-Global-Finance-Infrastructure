@@ -220,10 +220,10 @@ EVOLUTION OF MODERN BANKING
 
     PHASE 2: ATM AND CARD BANKING (1960s-1990s)
     +-------------------------------------------------+
-    |  ATMs introduced (1967)                       |
-    |  Credit cards (1950s)                         |
-    |  Debit cards (1980s)                          |
-    |  24/7 cash access                            |
+    |  ATMs introduced (1967)                         |
+    |  Credit cards (1950s)                           |
+    |  Debit cards (1980s)                            |
+    |  24/7 cash access                               |
     +-------------------------------------------------+
 
     PHASE 3: ONLINE BANKING (1990s-2000s)
