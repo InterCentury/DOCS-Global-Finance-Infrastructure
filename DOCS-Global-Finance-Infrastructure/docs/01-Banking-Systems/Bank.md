@@ -139,9 +139,9 @@ BANKING HISTORY TIMELINE
 
     1200s CE: Italian Merchant Banks
     +-------------------------------------------------+
-    |  Medici family in Florence                     |
-    |  Bills of exchange, letters of credit         |
-    |  First modern banking practices               |
+    |  Medici family in Florence                      |
+    |  Bills of exchange, letters of credit           |
+    |  First modern banking practices                 |
     +-------------------------------------------------+
 
     1609: Bank of Amsterdam
