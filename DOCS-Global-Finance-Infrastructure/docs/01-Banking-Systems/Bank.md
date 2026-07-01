@@ -34,18 +34,18 @@ How it works: Banks take money from depositors (individuals and businesses) and 
 WHAT IS A BANK
 
                          +---------------------------+
-                         |          BANK            |
+                         |            BANK           |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|   ACCEPTS DEPOSITS        |  |    MAKES LOANS           |   |   PROVIDES SERVICES       |
-|   - Checking accounts     |  |   - Mortgages            |   |   - Payments              |
-|   - Savings accounts      |  |   - Business loans       |   |   - Wire transfers        |
-|   - Certificates of       |  |   - Auto loans           |   |   - Safekeeping           |
-|   deposit                 |  |   - Personal loans       |   |   - Currency exchange     |
+|   ACCEPTS DEPOSITS        |  |    MAKES LOANS            |  |   PROVIDES SERVICES       |
+|   - Checking accounts     |  |   - Mortgages             |  |   - Payments              |
+|   - Savings accounts      |  |   - Business loans        |  |   - Wire transfers        |
+|   - Certificates of       |  |   - Auto loans            |  |   - Safekeeping           |
+|   deposit                 |  |   - Personal loans        |  |   - Currency exchange     |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
