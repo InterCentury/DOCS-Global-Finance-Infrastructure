@@ -128,13 +128,13 @@ BANKING HISTORY TIMELINE
     2000 BCE: Mesopotamian temples
     +-------------------------------------------------+
     |  Temples stored grain and valuables             |
-    |  First known safekeeping                       |
+    |  First known safekeeping                        |
     +-------------------------------------------------+
 
     500 BCE: Ancient Greece and Rome
     +-------------------------------------------------+
-    |  Moneylenders and money changers               |
-    |  First banking contracts                       |
+    |  Moneylenders and money changers                |
+    |  First banking contracts                        |
     +-------------------------------------------------+
 
     1200s CE: Italian Merchant Banks
