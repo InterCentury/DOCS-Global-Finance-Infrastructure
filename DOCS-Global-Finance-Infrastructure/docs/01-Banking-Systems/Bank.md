@@ -236,26 +236,26 @@ EVOLUTION OF MODERN BANKING
 
     PHASE 4: DIGITAL BANKING (2010s-Present)
     +-------------------------------------------------+
-    |  Mobile banking apps                         |
-    |  Contactless payments                       |
-    |  Digital-only banks (neobanks)              |
-    |  Biometric authentication (fingerprint, face) |
+    |  Mobile banking apps                            |
+    |  Contactless payments                           |
+    |  Digital-only banks (neobanks)                  |
+    |  Biometric authentication (fingerprint, face)   |
     +-------------------------------------------------+
 
     PHASE 5: OPEN BANKING (Current Trend)
     +-------------------------------------------------+
-    |  APIs for third-party integration           |
-    |  Data sharing (with consent)                |
-    |  Fintech partnerships                       |
-    |  Personalized financial services             |
+    |  APIs for third-party integration               |
+    |  Data sharing (with consent)                    |
+    |  Fintech partnerships                           |
+    |  Personalized financial services                |
     +-------------------------------------------------+
 
     PHASE 6: AI AND AUTOMATION (Future)
     +-------------------------------------------------+
-    |  AI-powered customer service                 |
-    |  Automated underwriting                     |
-    |  Fraud detection                             |
-    |  Predictive analytics                        |
+    |  AI-powered customer service                    |
+    |  Automated underwriting                         |
+    |  Fraud detection                                |
+    |  Predictive analytics                           |
     +-------------------------------------------------+
 ```
 
