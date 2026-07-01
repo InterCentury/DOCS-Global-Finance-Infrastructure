@@ -171,8 +171,8 @@ BANKING HISTORY TIMELINE
 
     1913: Federal Reserve Act (US)
     +-------------------------------------------------+
-    |  Created US central bank                      |
-    |  Lender of last resort                       |
+    |  Created US central bank                        |
+    |  Lender of last resort                          |
     +-------------------------------------------------+
 
     1933: Glass-Steagall Act
