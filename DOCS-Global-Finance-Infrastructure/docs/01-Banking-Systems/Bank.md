@@ -146,8 +146,8 @@ BANKING HISTORY TIMELINE
 
     1609: Bank of Amsterdam
     +-------------------------------------------------+
-    |  First true central bank (100% reserves)      |
-    |  Accepted deposits and made transfers         |
+    |  First true central bank (100% reserves)        |
+    |  Accepted deposits and made transfers           |
     +-------------------------------------------------+
 
     1694: Bank of England
