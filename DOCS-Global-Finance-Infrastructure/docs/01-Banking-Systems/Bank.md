@@ -228,10 +228,10 @@ EVOLUTION OF MODERN BANKING
 
     PHASE 3: ONLINE BANKING (1990s-2000s)
     +-------------------------------------------------+
-    |  Internet banking                             |
-    |  Online bill pay                             |
-    |  View balances and transactions online        |
-    |  Reduce branch visits                        |
+    |  Internet banking                               |
+    |  Online bill pay                                |
+    |  View balances and transactions online          |
+    |  Reduce branch visits                           |
     +-------------------------------------------------+
 
     PHASE 4: DIGITAL BANKING (2010s-Present)
