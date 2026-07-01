@@ -61,14 +61,14 @@ WHAT IS A BANK
 
     KEY CHARACTERISTICS:
     +---------------------------+
-    | Licensed and regulated   |
-    | Accepts deposits         |
-    | Makes loans              |
-    | Creates money            |
-    | Processes payments       |
-    | Profit-seeking           |
-    | Serves public and        |
-    | private sectors          |
+    | Licensed and regulated    |
+    | Accepts deposits          |
+    | Makes loans               |
+    | Creates money             |
+    | Processes payments        |
+    | Profit-seeking            |
+    | Serves public and         |
+    | private sectors           |
     +---------------------------+
 ```
 
