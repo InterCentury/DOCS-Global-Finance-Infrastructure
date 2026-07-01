@@ -83,9 +83,9 @@ WHY BANKS EXIST
 
     PROBLEM 1: SAVERS AND BORROWERS DON'T MATCH
     +-------------------------------------------------+
-    |  Savers have excess money but no borrowers     |
-    |  Borrowers need money but have no savers       |
-    |  Banks connect them                            |
+    |  Savers have excess money but no borrowers      |
+    |  Borrowers need money but have no savers        |
+    |  Banks connect them                             |
     +-------------------------------------------------+
 
     PROBLEM 2: INDIVIDUAL LENDING IS RISKY
