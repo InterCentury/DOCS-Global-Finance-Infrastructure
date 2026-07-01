@@ -104,9 +104,9 @@ WHY BANKS EXIST
 
     PROBLEM 4: PAYMENTS ARE COMPLEX
     +-------------------------------------------------+
-    |  Paying people directly is difficult           |
-    |  Banks provide checks, cards, wires, ACH      |
-    |  Electronic payments are efficient            |
+    |  Paying people directly is difficult            |
+    |  Banks provide checks, cards, wires, ACH        |
+    |  Electronic payments are efficient              |
     +-------------------------------------------------+
 
     PROBLEM 5: LONG-TERM VS SHORT-TERM
