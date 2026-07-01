@@ -11,15 +11,15 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the fundamental definition and purpose of a bank              │
-    │   Learn the history and evolution of banking                               │
-    │   Study the functions, characteristics, and types of banks                 │
-    │   Examine the basic banking business model and revenue sources             │
-    │   Understand the bank balance sheet and key components                     │
-    │   Learn the role of banks in the economy and financial system              │
-    │   Study bank organizational structure and operations                       │
-    │   Understand banking regulations and risks                                 │
-    │   Learn common banking terminology                                         │
+    │   Understand the fundamental definition and purpose of a bank               │
+    │   Learn the history and evolution of banking                                │
+    │   Study the functions, characteristics, and types of banks                  │
+    │   Examine the basic banking business model and revenue sources              │
+    │   Understand the bank balance sheet and key components                      │
+    │   Learn the role of banks in the economy and financial system               │
+    │   Study bank organizational structure and operations                        │
+    │   Understand banking regulations and risks                                  │
+    │   Learn common banking terminology                                          │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
