@@ -41,11 +41,11 @@ WHAT IS A BANK
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|   ACCEPTS DEPOSITS        |  |    MAKES LOANS           |  |   PROVIDES SERVICES      |
-|   - Checking accounts    |  |   - Mortgages            |  |   - Payments              |
-|   - Savings accounts     |  |   - Business loans       |  |   - Wire transfers        |
-|   - Certificates of      |  |   - Auto loans           |  |   - Safekeeping           |
-|   deposit                |  |   - Personal loans       |  |   - Currency exchange     |
+|   ACCEPTS DEPOSITS        |  |    MAKES LOANS           |   |   PROVIDES SERVICES       |
+|   - Checking accounts     |  |   - Mortgages            |   |   - Payments              |
+|   - Savings accounts      |  |   - Business loans       |   |   - Wire transfers        |
+|   - Certificates of       |  |   - Auto loans           |   |   - Safekeeping           |
+|   deposit                 |  |   - Personal loans       |   |   - Currency exchange     |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
