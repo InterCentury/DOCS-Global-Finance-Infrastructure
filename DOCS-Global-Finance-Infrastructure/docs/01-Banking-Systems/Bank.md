@@ -190,9 +190,9 @@ BANKING HISTORY TIMELINE
 
     2008: Financial Crisis
     +-------------------------------------------------+
-    |  Lehman Brothers fails                       |
-    |  Government bailouts                         |
-    |  Tighter regulation (Dodd-Frank, Basel III)  |
+    |  Lehman Brothers fails                          |
+    |  Government bailouts                            |
+    |  Tighter regulation (Dodd-Frank, Basel III)     |
     +-------------------------------------------------+
 
     2023: SVB and Credit Suisse Failures
