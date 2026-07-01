@@ -52,11 +52,11 @@ WHAT IS A BANK
                                        │
                                        ▼
                          +---------------------------+
-                         |    FINANCIAL SYSTEM      |
-                         |    - Money creation      |
+                         |    FINANCIAL SYSTEM       |
+                         |    - Money creation       |
                          |    - Payment processing   |
                          |    - Capital allocation   |
-                         |    - Risk management     |
+                         |    - Risk management      |
                          +---------------------------+
 
     KEY CHARACTERISTICS:
