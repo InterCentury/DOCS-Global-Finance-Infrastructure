@@ -159,8 +159,8 @@ BANKING HISTORY TIMELINE
 
     1791: First Bank of the United States
     +-------------------------------------------------+
-    |  US central bank (chartered 1791)             |
-    |  Proposed by Alexander Hamilton               |
+    |  US central bank (chartered 1791)               |
+    |  Proposed by Alexander Hamilton                 |
     +-------------------------------------------------+
 
     1863: National Banking Act (US)
