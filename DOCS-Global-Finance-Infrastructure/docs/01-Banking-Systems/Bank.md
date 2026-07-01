@@ -111,10 +111,10 @@ WHY BANKS EXIST
 
     PROBLEM 5: LONG-TERM VS SHORT-TERM
     +-------------------------------------------------+
-    |  Savers want short-term access                 |
-    |  Borrowers want long-term funds               |
-    |  Banks transform short-term deposits into     |
-    |  long-term loans (maturity transformation)    |
+    |  Savers want short-term access                  |
+    |  Borrowers want long-term funds                 |
+    |  Banks transform short-term deposits into       |
+    |  long-term loans (maturity transformation)      |
     +-------------------------------------------------+
 ```
 
