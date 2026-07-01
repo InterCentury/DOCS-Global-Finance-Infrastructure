@@ -177,8 +177,8 @@ BANKING HISTORY TIMELINE
 
     1933: Glass-Steagall Act
     +-------------------------------------------------+
-    |  Separated commercial and investment banking   |
-    |  Created FDIC (deposit insurance)             |
+    |  Separated commercial and investment banking    |
+    |  Created FDIC (deposit insurance)               |
     +-------------------------------------------------+
 
     1999: Gramm-Leach-Bliley Act
