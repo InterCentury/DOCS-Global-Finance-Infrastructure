@@ -90,16 +90,16 @@ WHY BANKS EXIST
 
     PROBLEM 2: INDIVIDUAL LENDING IS RISKY
     +-------------------------------------------------+
-    |  Lending directly is risky                     |
-    |  Banks pool risk across many borrowers         |
-    |  Diversification reduces risk                 |
+    |  Lending directly is risky                      |
+    |  Banks pool risk across many borrowers          |
+    |  Diversification reduces risk                   |
     +-------------------------------------------------+
 
     PROBLEM 3: MONEY NEEDS SAFE STORAGE
     +-------------------------------------------------+
-    |  Cash under mattress is unsafe (theft, fire)   |
-    |  Banks provide secure storage                 |
-    |  Deposit insurance protects depositors        |
+    |  Cash under mattress is unsafe (theft, fire)    |
+    |  Banks provide secure storage                   |
+    |  Deposit insurance protects depositors          |
     +-------------------------------------------------+
 
     PROBLEM 4: PAYMENTS ARE COMPLEX
