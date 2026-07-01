@@ -165,8 +165,8 @@ BANKING HISTORY TIMELINE
 
     1863: National Banking Act (US)
     +-------------------------------------------------+
-    |  Created national banks                       |
-    |  Standardized currency                       |
+    |  Created national banks                         |
+    |  Standardized currency                          |
     +-------------------------------------------------+
 
     1913: Federal Reserve Act (US)
