@@ -363,11 +363,11 @@ PRIMARY FUNCTIONS OF A BANK
 
     FUNCTION 5: FINANCIAL INTERMEDIATION
     +-------------------------------------------------+
-    |  Connects savers with borrowers                |
-    |  Channels funds to productive uses            |
-    |  Maturity transformation (short to long)      |
-    |  Risk transformation (risky loans to safe     |
-    |  deposits)                                    |
+    |  Connects savers with borrowers                 |
+    |  Channels funds to productive uses              |
+    |  Maturity transformation (short to long)        |
+    |  Risk transformation (risky loans to safe       |
+    |  deposits)                                      |
     +-------------------------------------------------+
 
     FUNCTION 6: SAFEKEEPING
