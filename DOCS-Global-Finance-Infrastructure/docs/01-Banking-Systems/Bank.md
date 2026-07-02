@@ -317,9 +317,9 @@ CHARACTERISTICS OF A BANK
 
     +-------------------------------------------------+
     |  8. INTERMEDIARY FUNCTION                       |
-    |  Connects savers and borrowers                 |
-    |  Channels funds to productive uses            |
-    |  Allocates capital efficiently                |
+    |  Connects savers and borrowers                  |
+    |  Channels funds to productive uses              |
+    |  Allocates capital efficiently                  |
     +-------------------------------------------------+
 ```
 
