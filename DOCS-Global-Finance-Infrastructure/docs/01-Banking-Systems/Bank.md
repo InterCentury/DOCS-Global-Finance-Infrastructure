@@ -477,12 +477,12 @@ COMMERCIAL BANKS VS CENTRAL BANKS
     |  Aspect          | Commercial    | Central      |
     |------------------|---------------|--------------|
     | Customers        | Public        | Banks & Govt |
-    | Deposits allowed | Yes           | No          |
-    | Loan creation    | Yes           | No          |
-    | Money creation   | Broad money   | Base money  |
-    | Profit motive    | Yes           | No          |
-    | Regulation       | Supervised    | Supervises  |
-    | Examples         | Chase, BofA   | Fed, ECB   |
+    | Deposits allowed | Yes           | No           |
+    | Loan creation    | Yes           | No           |
+    | Money creation   | Broad money   | Base money   |
+    | Profit motive    | Yes           | No           |
+    | Regulation       | Supervised    | Supervises   |
+    | Examples         | Chase, BofA   | Fed, ECB     |
     +-------------------------------------------------+
 ```
 
