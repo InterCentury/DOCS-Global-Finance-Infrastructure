@@ -288,10 +288,10 @@ CHARACTERISTICS OF A BANK
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  4. CREATES MONEY                              |
-    |  Lending creates new deposits                 |
-    |  Expands money supply                         |
-    |  Fractional reserve banking                   |
+    |  4. CREATES MONEY                               |
+    |  Lending creates new deposits                   |
+    |  Expands money supply                           |
+    |  Fractional reserve banking                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
