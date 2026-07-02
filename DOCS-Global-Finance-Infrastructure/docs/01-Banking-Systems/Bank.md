@@ -403,10 +403,10 @@ TYPES OF BANKS
 
     TYPE 3: INVESTMENT BANKS
     +-------------------------------------------------+
-    |  Serve corporations and governments            |
-    |  Underwriting, M&A, trading                   |
-    |  Do not accept retail deposits                 |
-    |  Examples: Goldman Sachs, Morgan Stanley      |
+    |  Serve corporations and governments             |
+    |  Underwriting, M&A, trading                     |
+    |  Do not accept retail deposits                  |
+    |  Examples: Goldman Sachs, Morgan Stanley        |
     +-------------------------------------------------+
 
     TYPE 4: CREDIT UNIONS
