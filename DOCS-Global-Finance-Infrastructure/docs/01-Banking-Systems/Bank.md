@@ -426,10 +426,10 @@ TYPES OF BANKS
 
     TYPE 6: ONLINE BANKS (NEOBANKS)
     +-------------------------------------------------+
-    |  Digital-only banks                           |
-    |  No physical branches                        |
-    |  Lower fees, higher rates                    |
-    |  Examples: Ally, Chime, Revolut             |
+    |  Digital-only banks                             |
+    |  No physical branches                           |
+    |  Lower fees, higher rates                       |
+    |  Examples: Ally, Chime, Revolut                 |
     +-------------------------------------------------+
 
     TYPE 7: COOPERATIVE BANKS
