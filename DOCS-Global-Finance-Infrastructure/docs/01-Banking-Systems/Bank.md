@@ -441,9 +441,9 @@ TYPES OF BANKS
 
     TYPE 8: PRIVATE BANKS
     +-------------------------------------------------+
-    |  Serve wealthy individuals and families       |
-    |  Wealth management, estate planning           |
-    |  High-touch service                           |
+    |  Serve wealthy individuals and families         |
+    |  Wealth management, estate planning             |
+    |  High-touch service                             |
     +-------------------------------------------------+
 ```
 
