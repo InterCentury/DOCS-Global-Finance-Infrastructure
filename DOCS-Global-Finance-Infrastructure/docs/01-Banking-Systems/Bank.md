@@ -419,9 +419,9 @@ TYPES OF BANKS
 
     TYPE 5: SAVINGS AND LOAN ASSOCIATIONS
     +-------------------------------------------------+
-    |  Focus on mortgages and savings                |
-    |  Also called thrifts                          |
-    |  Member-owned or stock-owned                  |
+    |  Focus on mortgages and savings                 |
+    |  Also called thrifts                            |
+    |  Member-owned or stock-owned                    |
     +-------------------------------------------------+
 
     TYPE 6: ONLINE BANKS (NEOBANKS)
