@@ -1751,8 +1751,8 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY TAKEAWAY                                  |
-    |  Banks are the foundation of the financial    |
+    |  KEY TAKEAWAY                                   |
+    |  Banks are the foundation of the financial     |
     |  system. They create money, process payments,  |
     |  and channel funds to productive uses.        |
     |  Without banks, modern economies could not    |
