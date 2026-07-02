@@ -340,10 +340,10 @@ PRIMARY FUNCTIONS OF A BANK
 
     FUNCTION 2: LENDING
     +-------------------------------------------------+
-    |  Provides loans to individuals and businesses  |
-    |  Mortgages, auto loans, credit cards           |
-    |  Business loans, working capital              |
-    |  Earns interest income                         |
+    |  Provides loans to individuals and businesses   |
+    |  Mortgages, auto loans, credit cards            |
+    |  Business loans, working capital                |
+    |  Earns interest income                          |
     +-------------------------------------------------+
 
     FUNCTION 3: PAYMENT PROCESSING
