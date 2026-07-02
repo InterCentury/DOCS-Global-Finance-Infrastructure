@@ -296,9 +296,9 @@ CHARACTERISTICS OF A BANK
 
     +-------------------------------------------------+
     |  5. PROVIDES PAYMENT SERVICES                   |
-    |  Processes checks, wires, ACH, cards          |
-    |  Enables domestic and international payments  |
-    |  Essential for economic activity              |
+    |  Processes checks, wires, ACH, cards            |
+    |  Enables domestic and international payments    |
+    |  Essential for economic activity                |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
