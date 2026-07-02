@@ -302,10 +302,10 @@ CHARACTERISTICS OF A BANK
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  6. PROFIT-SEEKING                             |
-    |  Operates as a business                       |
-    |  Earns profit for shareholders                |
-    |  Net interest margin and fees                |
+    |  6. PROFIT-SEEKING                              |
+    |  Operates as a business                         |
+    |  Earns profit for shareholders                  |
+    |  Net interest margin and fees                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
