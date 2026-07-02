@@ -275,9 +275,9 @@ CHARACTERISTICS OF A BANK
 
     +-------------------------------------------------+
     |  2. ACCEPTS DEPOSITS                            |
-    |  Takes money from the public                   |
-    |  Offers checking, savings, and time deposits  |
-    |  Deposits are insured (up to limit)           |
+    |  Takes money from the public                    |
+    |  Offers checking, savings, and time deposits    |
+    |  Deposits are insured (up to limit)             |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
