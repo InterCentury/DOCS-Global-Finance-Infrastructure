@@ -372,9 +372,9 @@ PRIMARY FUNCTIONS OF A BANK
 
     FUNCTION 6: SAFEKEEPING
     +-------------------------------------------------+
-    |  Protects deposits and valuables               |
-    |  Safe deposit boxes                           |
-    |  Custody services for securities              |
+    |  Protects deposits and valuables                |
+    |  Safe deposit boxes                             |
+    |  Custody services for securities                |
     +-------------------------------------------------+
 ```
 
