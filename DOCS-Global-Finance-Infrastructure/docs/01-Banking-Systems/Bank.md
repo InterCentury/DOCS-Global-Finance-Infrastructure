@@ -388,9 +388,9 @@ TYPES OF BANKS
     TYPE 1: COMMERCIAL BANKS
     +-------------------------------------------------+
     |  Serve individuals and businesses               |
-    |  Accept deposits, make loans                   |
-    |  Largest and most common                       |
-    |  Examples: JPMorgan Chase, Bank of America    |
+    |  Accept deposits, make loans                    |
+    |  Largest and most common                        |
+    |  Examples: JPMorgan Chase, Bank of America      |
     +-------------------------------------------------+
 
     TYPE 2: CENTRAL BANKS
