@@ -512,17 +512,17 @@ BASIC BANKING BUSINESS MODEL
                                        │
                                        ▼
                          +---------------------------+
-                         |          BANK            |
+                         |          BANK             |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  LIABILITIES (Deposits)  |  |  ASSETS (Loans)          |  |  INCOME (NII + Fees)     |
-|  Pay interest to        |  |  Earn interest from       |  |  - Net Interest Income   |
-|  depositors             |  |  borrowers               |  |  - Fee income            |
-|  Cost of funds          |  |  Yield on assets         |  |  - Trading income        |
+|  LIABILITIES (Deposits)   |  |  ASSETS (Loans)           |  |  INCOME (NII + Fees)      |
+|  Pay interest to          |  |  Earn interest from       |  |  - Net Interest Income    |
+|  depositors               |  |  borrowers                |  |  - Fee income             |
+|  Cost of funds            |  |  Yield on assets          |  |  - Trading income         |
 +---------------------------+  +---------------------------+  +---------------------------+
 
     Profit Formula:
