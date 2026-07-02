@@ -282,9 +282,9 @@ CHARACTERISTICS OF A BANK
 
     +-------------------------------------------------+
     |  3. MAKES LOANS                                 |
-    |  Lends money to individuals and businesses    |
-    |  Mortgages, auto loans, business loans        |
-    |  Earns interest income                         |
+    |  Lends money to individuals and businesses      |
+    |  Mortgages, auto loans, business loans          |
+    |  Earns interest income                          |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
