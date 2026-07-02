@@ -268,9 +268,9 @@ CHARACTERISTICS OF A BANK
 
     +-------------------------------------------------+
     |  1. LICENSED AND REGULATED                      |
-    |  Operates under government charter             |
-    |  Regulated by central bank and banking         |
-    |  authorities                                   |
+    |  Operates under government charter              |
+    |  Regulated by central bank and banking          |
+    |  authorities                                    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
