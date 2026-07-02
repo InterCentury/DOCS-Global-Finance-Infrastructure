@@ -496,16 +496,16 @@ How it works: Banks attract deposits (liabilities) by offering interest and serv
 BASIC BANKING BUSINESS MODEL
 
                          +---------------------------+
-                         |      CUSTOMERS           |
+                         |      CUSTOMERS            |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  DEPOSITORS              |  |  BORROWERS               |  |  PAYMENT USERS           |
-|  Provide funds          |  |  Use funds              |  |  Use services            |
-|  Earn interest          |  |  Pay interest           |  |  Pay fees                |
+|  DEPOSITORS               |  |  BORROWERS                |  |  PAYMENT USERS            |
+|  Provide funds            |  |  Use funds                |  |  Use services             |
+|  Earn interest            |  |  Pay interest             |  |  Pay fees                 |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
