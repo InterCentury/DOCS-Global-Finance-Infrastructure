@@ -455,27 +455,27 @@ Commercial banks and central banks serve different functions and are distinct en
 COMMERCIAL BANKS VS CENTRAL BANKS
 
                          +---------------------------+
-                         |   COMMERCIAL BANK        |
+                         |   COMMERCIAL BANK         |
                          +-------------+-------------+
                                        |
-    +----------------------------------+----------------------------------+
-    |                                                                        |
-    ▼                                                                        ▼
-+---------------------------+                                  +---------------------------+
-|  SERVES INDIVIDUALS      |                                  |  SERVES COMMERCIAL BANKS  |
-|  AND BUSINESSES          |                                  |  AND GOVERNMENT           |
-+---------------------------+                                  +---------------------------+
-|  Accepts deposits        |                                  |  Manages monetary policy  |
-|  Makes loans            |                                  |  Issues currency          |
-|  Creates money          |                                  |  Regulates banks          |
-|  Profit-seeking         |                                  |  Lender of last resort    |
-|  Private or public      |                                  |  Public institution       |
-+---------------------------+                                  +---------------------------+
+    +----------------------------------+-------------------------+
+    |                                                            |
+    ▼                                                            ▼
++---------------------------+                     +---------------------------+
+|  SERVES INDIVIDUALS       |                     |  SERVES COMMERCIAL BANKS  |
+|  AND BUSINESSES           |                     |  AND GOVERNMENT           |
++---------------------------+                     +---------------------------+
+|  Accepts deposits         |                     |  Manages monetary policy  |
+|  Makes loans              |                     |  Issues currency          |
+|  Creates money            |                     |  Regulates banks          |
+|  Profit-seeking           |                     |  Lender of last resort    |
+|  Private or public        |                     |  Public institution       |
++---------------------------+                     +---------------------------+
 
     Key Distinctions:
     +-------------------------------------------------+
-    |  Aspect          | Commercial     | Central      |
-    |------------------|---------------|-------------|
+    |  Aspect          | Commercial    | Central      |
+    |------------------|---------------|--------------|
     | Customers        | Public        | Banks & Govt |
     | Deposits allowed | Yes           | No          |
     | Loan creation    | Yes           | No          |
