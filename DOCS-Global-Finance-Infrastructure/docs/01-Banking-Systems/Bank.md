@@ -434,9 +434,9 @@ TYPES OF BANKS
 
     TYPE 7: COOPERATIVE BANKS
     +-------------------------------------------------+
-    |  Owned by members and customers                |
-    |  Focus on community development                |
-    |  Often local or regional                      |
+    |  Owned by members and customers                 |
+    |  Focus on community development                 |
+    |  Often local or regional                        |
     +-------------------------------------------------+
 
     TYPE 8: PRIVATE BANKS
