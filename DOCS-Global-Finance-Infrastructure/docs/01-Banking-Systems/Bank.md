@@ -310,9 +310,9 @@ CHARACTERISTICS OF A BANK
 
     +-------------------------------------------------+
     |  7. SAFEKEEPING FUNCTION                        |
-    |  Protects customer deposits                   |
-    |  Offers safe deposit boxes                    |
-    |  Insurance protects against bank failure      |
+    |  Protects customer deposits                     |
+    |  Offers safe deposit boxes                      |
+    |  Insurance protects against bank failure        |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
