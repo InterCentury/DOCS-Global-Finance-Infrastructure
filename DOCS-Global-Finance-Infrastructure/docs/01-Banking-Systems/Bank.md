@@ -395,10 +395,10 @@ TYPES OF BANKS
 
     TYPE 2: CENTRAL BANKS
     +-------------------------------------------------+
-    |  Government-owned (or controlled)              |
-    |  Manage monetary policy                       |
-    |  Issue currency, regulate banks                |
-    |  Examples: Federal Reserve, ECB, BOE, BOJ     |
+    |  Government-owned (or controlled)               |
+    |  Manage monetary policy                         |
+    |  Issue currency, regulate banks                 |
+    |  Examples: Federal Reserve, ECB, BOE, BOJ       |
     +-------------------------------------------------+
 
     TYPE 3: INVESTMENT BANKS
