@@ -411,10 +411,10 @@ TYPES OF BANKS
 
     TYPE 4: CREDIT UNIONS
     +-------------------------------------------------+
-    |  Member-owned cooperatives                     |
-    |  Serve members only                           |
-    |  Lower rates and fees                         |
-    |  Examples: Navy Federal, PenFed              |
+    |  Member-owned cooperatives                      |
+    |  Serve members only                             |
+    |  Lower rates and fees                           |
+    |  Examples: Navy Federal, PenFed                 |
     +-------------------------------------------------+
 
     TYPE 5: SAVINGS AND LOAN ASSOCIATIONS
