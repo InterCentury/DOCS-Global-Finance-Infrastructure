@@ -333,8 +333,8 @@ PRIMARY FUNCTIONS OF A BANK
     FUNCTION 1: DEPOSIT TAKING
     +-------------------------------------------------+
     |  Accepts money from depositors                  |
-    |  Provides safekeeping                         |
-    |  Offers interest on savings and time deposits  |
+    |  Provides safekeeping                           |
+    |  Offers interest on savings and time deposits   |
     |  Immediate access (checking) or notice (savings)|
     +-------------------------------------------------+
 
