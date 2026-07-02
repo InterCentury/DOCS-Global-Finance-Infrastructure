@@ -356,9 +356,9 @@ PRIMARY FUNCTIONS OF A BANK
 
     FUNCTION 4: MONEY CREATION
     +-------------------------------------------------+
-    |  Creates new money through lending            |
-    |  Expands money supply                         |
-    |  Multiplier effect from fractional reserves   |
+    |  Creates new money through lending              |
+    |  Expands money supply                           |
+    |  Multiplier effect from fractional reserves     |
     +-------------------------------------------------+
 
     FUNCTION 5: FINANCIAL INTERMEDIATION
