@@ -348,10 +348,10 @@ PRIMARY FUNCTIONS OF A BANK
 
     FUNCTION 3: PAYMENT PROCESSING
     +-------------------------------------------------+
-    |  Processes checks, wire transfers, ACH        |
-    |  Debit and credit card transactions           |
-    |  Enables domestic and international payments  |
-    |  Settlement through central bank reserves     |
+    |  Processes checks, wire transfers, ACH          |
+    |  Debit and credit card transactions             |
+    |  Enables domestic and international payments    |
+    |  Settlement through central bank reserves       |
     +-------------------------------------------------+
 
     FUNCTION 4: MONEY CREATION
