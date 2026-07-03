@@ -567,9 +567,9 @@ BANK REVENUE SOURCES
           │                                              │
           ▼                                              ▼
 +---------------------------+              +---------------------------+
-|  Interest Paid           |              |  Net Fee Income          |
-|  - Deposit interest      |              |  - Fees earned          |
-|  - Borrowing interest    |              |  - Less: costs          |
+|  Interest Paid            |              |  Net Fee Income           |
+|  - Deposit interest       |              |  - Fees earned            |
+|  - Borrowing interest     |              |  - Less: costs            |
 +---------------------------+              +---------------------------+
 
     Net Interest Income = Interest Earned - Interest Paid
