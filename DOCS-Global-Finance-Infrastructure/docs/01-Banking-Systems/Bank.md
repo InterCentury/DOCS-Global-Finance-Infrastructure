@@ -644,23 +644,23 @@ ASSETS, LIABILITIES, AND EQUITY
     ASSETS (What the bank owns)
     +-------------------------------------------------+
     |  Cash and Reserves                              |
-    |  ├── Vault cash (physical currency)            |
-    |  └── Reserves at central bank (digital)        |
-    |                                                  |
+    |  ├── Vault cash (physical currency)             |
+    |  └── Reserves at central bank (digital)         |
+    |                                                 |
     |  Securities                                     |
-    |  ├── Treasury bonds (safe, liquid)            |
-    |  ├── Agency bonds (MBS)                       |
-    |  └── Municipal bonds                          |
-    |                                                  |
+    |  ├── Treasury bonds (safe, liquid)              |
+    |  ├── Agency bonds (MBS)                         |
+    |  └── Municipal bonds                            |
+    |                                                 |
     |  Loans (largest asset category)                 |
-    |  ├── Commercial loans (business)              |
-    |  ├── Real estate loans (mortgages)           |
-    |  ├── Consumer loans (personal, auto)         |
-    |  └── Credit card receivables                  |
-    |                                                  |
+    |  ├── Commercial loans (business)                |
+    |  ├── Real estate loans (mortgages)              |
+    |  ├── Consumer loans (personal, auto)            |
+    |  └── Credit card receivables                    |
+    |                                                 |
     |  Other Assets                                   |
-    |  ├── Bank premises and equipment              |
-    |  └── Intangible assets (goodwill)             |
+    |  ├── Bank premises and equipment                |
+    |  └── Intangible assets (goodwill)               |
     +-------------------------------------------------+
 
     LIABILITIES (What the bank owes)
