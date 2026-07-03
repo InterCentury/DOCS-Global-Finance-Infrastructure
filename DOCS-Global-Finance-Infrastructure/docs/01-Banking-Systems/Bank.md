@@ -593,8 +593,8 @@ BASIC BANK BALANCE SHEET
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  ASSETS                  |                            |  LIABILITIES + EQUITY    |
-|  (What bank owns)       |                            |  (What bank owes)         |
+|  ASSETS                   |                            |  LIABILITIES + EQUITY     |
+|  (What bank owns)         |                            |  (What bank owes)         |
 +---------------------------+                            +---------------------------+
           │                                              │
           ▼                                              ▼
