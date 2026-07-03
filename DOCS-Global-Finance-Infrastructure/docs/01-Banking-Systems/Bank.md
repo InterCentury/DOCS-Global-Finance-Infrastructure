@@ -586,7 +586,7 @@ The bank balance sheet shows what the bank owns (assets), what it owes (liabilit
 BASIC BANK BALANCE SHEET
 
                          +---------------------------+
-                         |   BANK BALANCE SHEET     |
+                         |   BANK BALANCE SHEET      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
