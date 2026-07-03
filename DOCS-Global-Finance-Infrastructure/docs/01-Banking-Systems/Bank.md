@@ -677,7 +677,7 @@ ASSETS, LIABILITIES, AND EQUITY
     |                                                 |
     |  Other Liabilities                              |
     |  ├── Accrued expenses                           |
-    |  └── Deferred taxes                          |
+    |  └── Deferred taxes                             |
     +-------------------------------------------------+
 
     EQUITY (Owner's stake)
