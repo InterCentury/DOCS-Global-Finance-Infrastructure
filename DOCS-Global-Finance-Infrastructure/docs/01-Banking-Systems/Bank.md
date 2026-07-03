@@ -606,11 +606,11 @@ BASIC BANK BALANCE SHEET
 +---------------------------+              +---------------------------+---------------------------+
           │                                              │
           ▼                                              ▼
-+---------------------------+              +---------------------------+---------------------------+
-|  Securities              |              |  Borrowings              |
-|  - Treasury bonds       |              |  - Federal funds        |
-|  - Agency bonds         |              |  - Discount window      |
-|  - Municipal bonds      |              |  - Other borrowings     |
++---------------------------+              +---------------------------+
+|  Securities               |              |  Borrowings               |
+|  - Treasury bonds         |              |  - Federal funds          |
+|  - Agency bonds           |              |  - Discount window        |
+|  - Municipal bonds        |              |  - Other borrowings       |
 +---------------------------+              +---------------------------+
           │
           ▼
