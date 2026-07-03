@@ -746,13 +746,13 @@ BANKING PRODUCTS AND SERVICES
     DEPOSIT PRODUCTS
     +-------------------------------------------------+
     |  Checking Accounts                              |
-    |  ├── Demand deposits                          |
-    |  ├── Interest-bearing checking (NOW)          |
-    |  └── Business checking                        |
-    |                                                  |
+    |  ├── Demand deposits                            |
+    |  ├── Interest-bearing checking (NOW)            |
+    |  └── Business checking                          |
+    |                                                 |
     |  Savings Accounts                               |
-    |  ├── Regular savings                         |
-    |  ├── Money market deposit accounts (MMDA)    |
+    |  ├── Regular savings                            |
+    |  ├── Money market deposit accounts (MMDA)       |
     |  └── High-yield savings                       |
     |                                                  |
     |  Time Deposits                                  |
