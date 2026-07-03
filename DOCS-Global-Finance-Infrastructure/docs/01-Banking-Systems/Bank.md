@@ -683,9 +683,9 @@ ASSETS, LIABILITIES, AND EQUITY
     EQUITY (Owner's stake)
     +-------------------------------------------------+
     |  Share Capital                                  |
-    |  ├── Common stock                             |
-    |  └── Preferred stock                          |
-    |                                                  |
+    |  ├── Common stock                               |
+    |  └── Preferred stock                            |
+    |                                                 |
     |  Retained Earnings                              |
     |  ├── Accumulated profits                      |
     |  └── Less dividends paid                      |
