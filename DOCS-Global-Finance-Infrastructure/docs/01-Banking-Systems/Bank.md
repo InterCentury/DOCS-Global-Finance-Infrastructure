@@ -624,11 +624,11 @@ BASIC BANK BALANCE SHEET
           │
           ▼
 +---------------------------+
-|  Other Assets            |
-|  - Bank premises        |
-|  - Equipment            |
-|  - Other real estate    |
-|  - Intangibles          |
+|  Other Assets             |
+|  - Bank premises          |
+|  - Equipment              |
+|  - Other real estate      |
+|  - Intangibles            |
 +---------------------------+
 
     Identity: Assets = Liabilities + Equity
