@@ -666,17 +666,17 @@ ASSETS, LIABILITIES, AND EQUITY
     LIABILITIES (What the bank owes)
     +-------------------------------------------------+
     |  Deposits (largest liability)                   |
-    |  ├── Checking accounts (demand deposits)      |
-    |  ├── Savings accounts                         |
-    |  └── Time deposits (CDs)                     |
-    |                                                  |
+    |  ├── Checking accounts (demand deposits)        |
+    |  ├── Savings accounts                           |
+    |  └── Time deposits (CDs)                        |
+    |                                                 |
     |  Borrowings                                     |
-    |  ├── Federal funds purchased                  |
-    |  ├── Discount window loans                    |
-    |  └── Long-term debt                          |
-    |                                                  |
+    |  ├── Federal funds purchased                    |
+    |  ├── Discount window loans                      |
+    |  └── Long-term debt                             |
+    |                                                 |
     |  Other Liabilities                              |
-    |  ├── Accrued expenses                         |
+    |  ├── Accrued expenses                           |
     |  └── Deferred taxes                          |
     +-------------------------------------------------+
 
