@@ -615,11 +615,11 @@ BASIC BANK BALANCE SHEET
           │
           ▼
 +---------------------------+
-|  Loans                   |              +---------------------------+
-|  - Commercial loans     |              |  Other Liabilities        |
-|  - Real estate loans    |              |  - Accrued expenses      |
-|  - Consumer loans       |              |  - Deferred taxes       |
-|  - Other loans          |              +---------------------------+
+|  Loans                    |              +---------------------------+
+|  - Commercial loans       |              |  Other Liabilities        |
+|  - Real estate loans      |              |  - Accrued expenses       |
+|  - Consumer loans         |              |  - Deferred taxes         |
+|  - Other loans            |              +---------------------------+
 +---------------------------+
           │
           ▼
