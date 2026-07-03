@@ -702,10 +702,10 @@ BANK CUSTOMERS
     +-------------------------------------------------+
     |  INDIVIDUAL RETAIL CUSTOMERS                    |
     |  ├── Personal checking and savings accounts     |
-    |  ├── Mortgages and home equity loans           |
-    |  ├── Auto loans and credit cards               |
-    |  ├── Personal loans and lines of credit       |
-    |  └── Wealth management and retirement         |
+    |  ├── Mortgages and home equity loans            |
+    |  ├── Auto loans and credit cards                |
+    |  ├── Personal loans and lines of credit         |
+    |  └── Wealth management and retirement           |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
