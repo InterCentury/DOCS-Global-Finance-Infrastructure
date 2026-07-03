@@ -529,7 +529,7 @@ BASIC BANKING BUSINESS MODEL
     +-------------------------------------------------+
     |  Net Interest Income =                          |
     |  (Interest Earned) - (Interest Paid)            |
-    |                                                  |
+    |                                                 |
     |  Net Profit = Net Interest Income +             |
     |  Fee Income - Operating Expenses                |
     +-------------------------------------------------+
