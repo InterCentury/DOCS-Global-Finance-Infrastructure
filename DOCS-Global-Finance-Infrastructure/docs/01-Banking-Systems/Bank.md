@@ -545,15 +545,15 @@ How it works: Net interest income is the spread between what banks earn on loans
 BANK REVENUE SOURCES
 
                          +---------------------------+
-                         |     BANK REVENUE         |
+                         |     BANK REVENUE          |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  NET INTEREST INCOME     |                            |  NON-INTEREST INCOME     |
-|  (60-70% of revenue)    |                            |  (30-40% of revenue)     |
+|  NET INTEREST INCOME      |                            |  NON-INTEREST INCOME      |
+|  (60-70% of revenue)      |                            |  (30-40% of revenue)      |
 +---------------------------+                            +---------------------------+
           │                                              │
           ▼                                              ▼
