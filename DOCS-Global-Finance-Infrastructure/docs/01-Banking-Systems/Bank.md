@@ -753,11 +753,11 @@ BANKING PRODUCTS AND SERVICES
     |  Savings Accounts                               |
     |  ├── Regular savings                            |
     |  ├── Money market deposit accounts (MMDA)       |
-    |  └── High-yield savings                       |
-    |                                                  |
+    |  └── High-yield savings                         |
+    |                                                 |
     |  Time Deposits                                  |
-    |  ├── Certificates of Deposit (CDs)           |
-    |  └── Retirement accounts (IRAs)             |
+    |  ├── Certificates of Deposit (CDs)              |
+    |  └── Retirement accounts (IRAs)                 |
     +-------------------------------------------------+
 
     LOAN PRODUCTS
