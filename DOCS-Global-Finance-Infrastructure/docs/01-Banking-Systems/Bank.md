@@ -599,10 +599,10 @@ BASIC BANK BALANCE SHEET
           │                                                            │
           ▼                                                            ▼
 +---------------------------+              +---------------------------+---------------------------+
-|  Cash and Reserves        |              |  Deposits                |  Equity (Capital)          |
-|  - Vault cash             |              |  - Checking accounts     |  - Share capital           |
-|  - Central bank           |              |  - Savings accounts      |  - Retained earnings       |
-|    reserves               |              |  - Time deposits (CDs)   |  - Other equity            |
+|  Cash and Reserves        |              |  Deposits                 |  Equity (Capital)         |
+|  - Vault cash             |              |  - Checking accounts      |  - Share capital          |
+|  - Central bank           |              |  - Savings accounts       |  - Retained earnings      |
+|    reserves               |              |  - Time deposits (CDs)    |  - Other equity           |
 +---------------------------+              +---------------------------+---------------------------+
           │                                              │
           ▼                                              ▼
