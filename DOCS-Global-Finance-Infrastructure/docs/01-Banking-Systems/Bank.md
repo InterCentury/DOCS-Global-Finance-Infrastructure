@@ -709,12 +709,12 @@ BANK CUSTOMERS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  SMALL BUSINESS CUSTOMERS                      |
-    |  ├── Business checking and savings            |
-    |  ├── Business loans and lines of credit       |
-    |  ├── Merchant services (card processing)      |
-    |  ├── Payroll services                       |
-    |  └── Business credit cards                   |
+    |  SMALL BUSINESS CUSTOMERS                       |
+    |  ├── Business checking and savings              |
+    |  ├── Business loans and lines of credit         |
+    |  ├── Merchant services (card processing)        |
+    |  ├── Payroll services                           |
+    |  └── Business credit cards                      |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
