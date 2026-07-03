@@ -727,12 +727,12 @@ BANK CUSTOMERS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  INSTITUTIONAL CUSTOMERS                       |
-    |  ├── Government entities                      |
-    |  ├── Nonprofit organizations                  |
-    |  ├── Pension funds                           |
-    |  ├── Insurance companies                     |
-    |  └── Other banks (correspondent banking)     |
+    |  INSTITUTIONAL CUSTOMERS                        |
+    |  ├── Government entities                        |
+    |  ├── Nonprofit organizations                    |
+    |  ├── Pension funds                              |
+    |  ├── Insurance companies                        |
+    |  └── Other banks (correspondent banking)        |
     +-------------------------------------------------+
 ```
 
