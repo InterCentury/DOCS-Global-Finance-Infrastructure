@@ -558,11 +558,11 @@ BANK REVENUE SOURCES
           │                                                            │
           ▼                                                            ▼
 +---------------------------+              +---------------------------+---------------------------+
-|  Interest Earned          |              |  Fees                    |  Other Services          |
-|  - Loan interest          |              |  - Overdraft fees       |  - Wealth management    |
-|  - Securities interest    |              |  - ATM fees            |  - Trading income       |
-|  - Reserve interest       |              |  - Account maintenance  |  - Investment banking   |
-|  - Fed funds interest     |              |  - Credit card fees     |  - Currency exchange    |
+|  Interest Earned          |              |  Fees                    |  Other Services            |
+|  - Loan interest          |              |  - Overdraft fees        |  - Wealth management       |
+|  - Securities interest    |              |  - ATM fees              |  - Trading income          |
+|  - Reserve interest       |              |  - Account maintenance   |  - Investment banking      |
+|  - Fed funds interest     |              |  - Credit card fees      |  - Currency exchange       |
 +---------------------------+              +---------------------------+---------------------------+
           │                                              │
           ▼                                              ▼
