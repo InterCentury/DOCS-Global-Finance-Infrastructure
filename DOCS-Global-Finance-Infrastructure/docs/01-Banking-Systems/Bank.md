@@ -721,9 +721,9 @@ BANK CUSTOMERS
     |  CORPORATE / LARGE BUSINESS CUSTOMERS           |
     |  ├── Corporate checking and cash management     |
     |  ├── Commercial and industrial loans            |
-    |  ├── Treasury services (FX, hedging)         |
-    |  ├── Trade finance and letters of credit     |
-    |  └── Investment banking (M&A, underwriting)  |
+    |  ├── Treasury services (FX, hedging)            |
+    |  ├── Trade finance and letters of credit        |
+    |  └── Investment banking (M&A, underwriting)     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
