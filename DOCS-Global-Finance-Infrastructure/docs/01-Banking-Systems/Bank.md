@@ -525,14 +525,14 @@ BASIC BANKING BUSINESS MODEL
 |  Cost of funds            |  |  Yield on assets          |  |  - Trading income         |
 +---------------------------+  +---------------------------+  +---------------------------+
 
-    Profit Formula:
-    +-------------------------------------------------+
-    |  Net Interest Income =                          |
-    |  (Interest Earned) - (Interest Paid)            |
-    |                                                 |
-    |  Net Profit = Net Interest Income +             |
-    |  Fee Income - Operating Expenses                |
-    +-------------------------------------------------+
+ Profit Formula:
+ +-------------------------------------------------+
+ |  Net Interest Income =                          |
+ |  (Interest Earned) - (Interest Paid)            |
+ |                                                 |
+ |  Net Profit = Net Interest Income +             |
+ |  Fee Income - Operating Expenses                |
+ +-------------------------------------------------+
 ```
 
 ## 10. How Banks Make Money (Overview)
