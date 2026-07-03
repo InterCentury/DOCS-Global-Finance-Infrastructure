@@ -687,8 +687,8 @@ ASSETS, LIABILITIES, AND EQUITY
     |  └── Preferred stock                            |
     |                                                 |
     |  Retained Earnings                              |
-    |  ├── Accumulated profits                      |
-    |  └── Less dividends paid                      |
+    |  ├── Accumulated profits                        |
+    |  └── Less dividends paid                        |
     +-------------------------------------------------+
 ```
 
