@@ -555,14 +555,14 @@ BANK REVENUE SOURCES
 |  NET INTEREST INCOME      |                            |  NON-INTEREST INCOME      |
 |  (60-70% of revenue)      |                            |  (30-40% of revenue)      |
 +---------------------------+                            +---------------------------+
-          │                                              │
-          ▼                                              ▼
+          │                                                            │
+          ▼                                                            ▼
 +---------------------------+              +---------------------------+---------------------------+
-|  Interest Earned        |              |  Fees                    |  Other Services          |
-|  - Loan interest        |              |  - Overdraft fees       |  - Wealth management    |
-|  - Securities interest  |              |  - ATM fees            |  - Trading income       |
-|  - Reserve interest     |              |  - Account maintenance  |  - Investment banking   |
-|  - Fed funds interest   |              |  - Credit card fees     |  - Currency exchange    |
+|  Interest Earned          |              |  Fees                    |  Other Services          |
+|  - Loan interest          |              |  - Overdraft fees       |  - Wealth management    |
+|  - Securities interest    |              |  - ATM fees            |  - Trading income       |
+|  - Reserve interest       |              |  - Account maintenance  |  - Investment banking   |
+|  - Fed funds interest     |              |  - Credit card fees     |  - Currency exchange    |
 +---------------------------+              +---------------------------+---------------------------+
           │                                              │
           ▼                                              ▼
