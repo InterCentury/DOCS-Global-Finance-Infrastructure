@@ -853,10 +853,10 @@ ROLE OF BANKS IN THE ECONOMY
 
     ROLE 6: MONETARY POLICY TRANSMISSION
     +-------------------------------------------------+
-    |  Transmit central bank policy to the economy   |
-    |  Interest rate changes affect lending         |
-    |  Credit availability affects spending         |
-    |  Money supply affects inflation              |
+    |  Transmit central bank policy to the economy    |
+    |  Interest rate changes affect lending           |
+    |  Credit availability affects spending           |
+    |  Money supply affects inflation                 |
     +-------------------------------------------------+
 ```
 
