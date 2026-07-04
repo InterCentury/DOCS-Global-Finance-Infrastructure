@@ -934,9 +934,9 @@ BANKS AND THE PAYMENT SYSTEM
                                        ▼
                          +---------------------------+
                          |  SETTLEMENT               |
-                         |  Through central bank    |
-                         |  reserves                |
-                         |  Final and irrevocable   |
+                         |  Through central bank     |
+                         |  reserves                 |
+                         |  Final and irrevocable    |
                          +---------------------------+
 
     Key Features:
