@@ -845,10 +845,10 @@ ROLE OF BANKS IN THE ECONOMY
 
     ROLE 5: MATURITY TRANSFORMATION
     +-------------------------------------------------+
-    |  Transform short-term deposits into            |
-    |  long-term loans                              |
-    |  Enable long-term investment                  |
-    |  Support economic development                 |
+    |  Transform short-term deposits into             |
+    |  long-term loans                                |
+    |  Enable long-term investment                    |
+    |  Support economic development                   |
     +-------------------------------------------------+
 
     ROLE 6: MONETARY POLICY TRANSMISSION
