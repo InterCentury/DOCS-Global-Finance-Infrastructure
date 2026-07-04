@@ -941,11 +941,11 @@ BANKS AND THE PAYMENT SYSTEM
 
     Key Features:
     +-------------------------------------------------+
-    |  Banks maintain customer accounts              |
-    |  Payments are instructions to transfer funds   |
-    |  Settlement occurs in central bank reserves    |
-    |  Payment finality is critical                  |
-    |  Payment systems are regulated                 |
+    |  Banks maintain customer accounts               |
+    |  Payments are instructions to transfer funds    |
+    |  Settlement occurs in central bank reserves     |
+    |  Payment finality is critical                   |
+    |  Payment systems are regulated                  |
     +-------------------------------------------------+
 ```
 
