@@ -914,7 +914,7 @@ Banks are the backbone of the payment system, enabling trillions of dollars in t
 BANKS AND THE PAYMENT SYSTEM
 
                          +---------------------------+
-                         |    PAYMENT SYSTEM        |
+                         |    PAYMENT SYSTEM         |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
