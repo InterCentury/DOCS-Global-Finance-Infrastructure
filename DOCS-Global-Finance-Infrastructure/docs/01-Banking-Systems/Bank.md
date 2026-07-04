@@ -921,12 +921,12 @@ BANKS AND THE PAYMENT SYSTEM
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  RETAIL PAYMENTS         |  |  WHOLESALE PAYMENTS      |  |  INTERNATIONAL PAYMENTS   |
-|  - Checks               |  |  - RTGS                  |  |  - SWIFT                |
-|  - Debit cards          |  |  - Fedwire (US)         |  |  - Correspondent banks   |
-|  - Credit cards         |  |  - TARGET2 (EU)        |  |  - FX settlement (CLS)   |
-|  - ACH (direct deposit) |  |  - CHAPS (UK)          |  |  - Cross-border wires   |
-|  - Mobile payments      |  |  - BOJ-NET (Japan)     |  |  - Trade finance        |
+|  RETAIL PAYMENTS          |  |  WHOLESALE PAYMENTS       |  |  INTERNATIONAL PAYMENTS   |
+|  - Checks                 |  |  - RTGS                   |  |  - SWIFT                |
+|  - Debit cards            |  |  - Fedwire (US)           |  |  - Correspondent banks   |
+|  - Credit cards           |  |  - TARGET2 (EU)           |  |  - FX settlement (CLS)   |
+|  - ACH (direct deposit)   |  |  - CHAPS (UK)             |  |  - Cross-border wires   |
+|  - Mobile payments        |  |  - BOJ-NET (Japan)        |  |  - Trade finance        |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
