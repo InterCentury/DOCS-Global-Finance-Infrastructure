@@ -1013,11 +1013,11 @@ BANKS AND CENTRAL BANKS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  REGULATES BANKS         |  |  PROVIDES RESERVES        |  |  LENDER OF LAST RESORT  |
-|  Sets reserve           |  |  Holds bank deposits     |  |  Emergency liquidity     |
-|  requirements           |  |  Settles interbank       |  |  Prevents bank runs     |
-|  Conducts examinations  |  |  payments               |  |  Maintains stability     |
-|  Enforces capital rules  |  |  Manages monetary base  |  |  Penalty rate           |
+|  REGULATES BANKS          |  |  PROVIDES RESERVES        |  |  LENDER OF LAST RESORT    |
+|  Sets reserve             |  |  Holds bank deposits      |  |  Emergency liquidity      |
+|  requirements             |  |  Settles interbank        |  |  Prevents bank runs       |
+|  Conducts examinations    |  |  payments                 |  |  Maintains stability      |
+|  Enforces capital rules   |  |  Manages monetary base    |  |  Penalty rate             |
 +---------------------------+  +---------------------------+  +---------------------------+
 
 
