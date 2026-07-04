@@ -814,9 +814,9 @@ ROLE OF BANKS IN THE ECONOMY
     ROLE 1: FINANCIAL INTERMEDIATION
     +-------------------------------------------------+
     |  Connect savers with borrowers                  |
-    |  Channel funds to productive uses              |
-    |  Allocate capital efficiently                  |
-    |  Reduce transaction costs                      |
+    |  Channel funds to productive uses               |
+    |  Allocate capital efficiently                   |
+    |  Reduce transaction costs                       |
     +-------------------------------------------------+
 
     ROLE 2: MONEY CREATION
