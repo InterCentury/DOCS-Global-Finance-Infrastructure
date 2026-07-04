@@ -1006,7 +1006,7 @@ How it works: Commercial banks hold reserve accounts at the central bank. They u
 BANKS AND CENTRAL BANKS
 
                          +---------------------------+
-                         |    CENTRAL BANK          |
+                         |    CENTRAL BANK           |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
