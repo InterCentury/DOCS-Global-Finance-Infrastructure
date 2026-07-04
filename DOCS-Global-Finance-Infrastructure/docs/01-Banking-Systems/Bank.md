@@ -979,11 +979,11 @@ BANKS AND THE FINANCIAL SYSTEM
                     │   │  Regulators                                 │   │
                     │   │  Central Bank, FDIC, SEC, CFPB              │   │
                     │   └─────────────────────────────────────────────┘   │
-                    │                                                       │
-                    │   ┌─────────────────────────────────────────────┐  │
-                    │   │  Infrastructure                            │  │
-                    │   │  Payment systems, clearing houses, SWIFT  │  │
-                    │   └─────────────────────────────────────────────┘  │
+                    │                                                     │
+                    │   ┌─────────────────────────────────────────────┐   │
+                    │   │  Infrastructure                             │   │
+                    │   │  Payment systems, clearing houses, SWIFT    │   │
+                    │   └─────────────────────────────────────────────┘   │
                     └─────────────────────────────────────────────────────┘
 
     Bank Relationships:
