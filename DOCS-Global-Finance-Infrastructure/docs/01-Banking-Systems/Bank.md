@@ -870,7 +870,7 @@ How it works: When a bank makes a loan, it credits the borrower's account with a
 MONEY CREATION THROUGH BANKS
 
                          +---------------------------+
-                         |    BANK MAKES LOAN       |
+                         |    BANK MAKES LOAN        |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
