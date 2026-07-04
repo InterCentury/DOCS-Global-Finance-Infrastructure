@@ -829,10 +829,10 @@ ROLE OF BANKS IN THE ECONOMY
 
     ROLE 3: PAYMENT SYSTEM
     +-------------------------------------------------+
-    |  Process domestic and international payments   |
-    |  Enable trade and commerce                    |
-    |  Provide settlement services                  |
-    |  Ensure payment finality                     |
+    |  Process domestic and international payments    |
+    |  Enable trade and commerce                      |
+    |  Provide settlement services                    |
+    |  Ensure payment finality                        |
     +-------------------------------------------------+
 
     ROLE 4: RISK TRANSFORMATION
