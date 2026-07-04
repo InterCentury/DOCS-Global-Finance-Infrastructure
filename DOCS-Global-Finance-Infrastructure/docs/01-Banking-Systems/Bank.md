@@ -837,10 +837,10 @@ ROLE OF BANKS IN THE ECONOMY
 
     ROLE 4: RISK TRANSFORMATION
     +-------------------------------------------------+
-    |  Transform risky loans into safe deposits     |
-    |  Diversify risk across many borrowers         |
-    |  Provide risk management tools                |
-    |  Insure against losses (capital, reserves)    |
+    |  Transform risky loans into safe deposits       |
+    |  Diversify risk across many borrowers           |
+    |  Provide risk management tools                  |
+    |  Insure against losses (capital, reserves)      |
     +-------------------------------------------------+
 
     ROLE 5: MATURITY TRANSFORMATION
