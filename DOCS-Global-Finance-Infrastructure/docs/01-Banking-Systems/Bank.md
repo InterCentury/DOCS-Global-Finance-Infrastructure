@@ -877,10 +877,10 @@ MONEY CREATION THROUGH BANKS
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  NEW DEPOSIT CREATED     |                            |  NEW MONEY CREATED       |
-|  Borrower account        |                            |  Money supply increases   |
-|  credited with loan     |                            |  By full loan amount      |
-|  amount                 |                            |                           |
+|  NEW DEPOSIT CREATED      |                            |  NEW MONEY CREATED       |
+|  Borrower account         |                            |  Money supply increases   |
+|  credited with loan       |                            |  By full loan amount      |
+|  amount                   |                            |                           |
 +---------------------------+                            +---------------------------+
           │                                              │
           +----------------------------+-----------------+
