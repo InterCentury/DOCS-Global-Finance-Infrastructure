@@ -990,7 +990,7 @@ BANKS AND THE FINANCIAL SYSTEM
     +-------------------------------------------------+
     |  Banks lend to each other (interbank market)    |
     |  Banks trade securities with each other         |
-    |  Banks provide services to other financial     |
+    |  Banks provide services to other financial      |
     |  institutions                                   |
     |  Banks are regulated by financial authorities   |
     +-------------------------------------------------+
