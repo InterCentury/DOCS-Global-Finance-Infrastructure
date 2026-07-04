@@ -791,11 +791,11 @@ BANKING PRODUCTS AND SERVICES
     OTHER SERVICES
     +-------------------------------------------------+
     |  Wealth Management                              |
-    |  ├── Investment advisory                      |
-    |  ├── Asset management                        |
-    |  ├── Trust and estate planning               |
-    |  └── Brokerage services                       |
-    |                                                  |
+    |  ├── Investment advisory                        |
+    |  ├── Asset management                           |
+    |  ├── Trust and estate planning                  |
+    |  └── Brokerage services                         |
+    |                                                 |
     |  Corporate Services                             |
     |  ├── Cash management                         |
     |  ├── Trade finance                           |
