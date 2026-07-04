@@ -780,12 +780,12 @@ BANKING PRODUCTS AND SERVICES
     PAYMENT SERVICES
     +-------------------------------------------------+
     |  Payment Processing                             |
-    |  ├── Checks                                 |
-    |  ├── Wire transfers (domestic, international) |
-    |  ├── ACH (direct deposit, bill pay)           |
-    |  ├── Debit cards                            |
-    |  ├── Credit cards                           |
-    |  └── Mobile payments (Apple Pay, Google Pay)  |
+    |  ├── Checks                                     |
+    |  ├── Wire transfers (domestic, international)   |
+    |  ├── ACH (direct deposit, bill pay)             |
+    |  ├── Debit cards                                |
+    |  ├── Credit cards                               |
+    |  └── Mobile payments (Apple Pay, Google Pay)    |
     +-------------------------------------------------+
 
     OTHER SERVICES
