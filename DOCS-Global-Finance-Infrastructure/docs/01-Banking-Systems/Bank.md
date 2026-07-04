@@ -821,10 +821,10 @@ ROLE OF BANKS IN THE ECONOMY
 
     ROLE 2: MONEY CREATION
     +-------------------------------------------------+
-    |  Create money through lending                 |
-    |  Expand money supply                          |
-    |  Support economic growth                     |
-    |  Manage liquidity                            |
+    |  Create money through lending                   |
+    |  Expand money supply                            |
+    |  Support economic growth                        |
+    |  Manage liquidity                               |
     +-------------------------------------------------+
 
     ROLE 3: PAYMENT SYSTEM
