@@ -768,13 +768,13 @@ BANKING PRODUCTS AND SERVICES
     |  ├── Personal loans                             |
     |  ├── Credit cards                               |
     |  └── Student loans                              |
-    |                                                  |
+    |                                                 |
     |  Business Loans                                 |
-    |  ├── Commercial real estate                  |
-    |  ├── Equipment financing                     |
-    |  ├── Working capital loans                   |
-    |  ├── Lines of credit                        |
-    |  └── SBA loans                              |
+    |  ├── Commercial real estate                     |
+    |  ├── Equipment financing                        |
+    |  ├── Working capital loans                      |
+    |  ├── Lines of credit                            |
+    |  └── SBA loans                                  |
     +-------------------------------------------------+
 
     PAYMENT SERVICES
