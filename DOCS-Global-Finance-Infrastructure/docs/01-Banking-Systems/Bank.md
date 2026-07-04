@@ -894,12 +894,12 @@ MONEY CREATION THROUGH BANKS
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  Deposit 1: $100,000     |                            |  Reserve: 10%            |
-|  Loan 1: $90,000        |                            |  Total money created:    |
-|  Deposit 2: $90,000     |                            |  $1,000,000             |
-|  Loan 2: $81,000        |                            |  (10x multiplier)       |
-|  Deposit 3: $81,000     |                            |                           |
-|  ... continues          |                            |                           |
+|  Deposit 1: $100,000      |                            |  Reserve: 10%             |
+|  Loan 1: $90,000          |                            |  Total money created:     |
+|  Deposit 2: $90,000       |                            |  $1,000,000               |
+|  Loan 2: $81,000          |                            |  (10x multiplier)         |
+|  Deposit 3: $81,000       |                            |                           |
+|  ... continues            |                            |                           |
 +---------------------------+                            +---------------------------+
 
     Money Multiplier = 1 / Reserve Requirement Ratio
