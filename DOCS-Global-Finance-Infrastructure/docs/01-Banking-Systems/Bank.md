@@ -797,10 +797,10 @@ BANKING PRODUCTS AND SERVICES
     |  └── Brokerage services                         |
     |                                                 |
     |  Corporate Services                             |
-    |  ├── Cash management                         |
-    |  ├── Trade finance                           |
-    |  ├── Foreign exchange                        |
-    |  └── Hedging and derivatives                |
+    |  ├── Cash management                            |
+    |  ├── Trade finance                              |
+    |  ├── Foreign exchange                           |
+    |  └── Hedging and derivatives                    |
     +-------------------------------------------------+
 ```
 
