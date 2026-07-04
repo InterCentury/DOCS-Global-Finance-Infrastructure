@@ -763,11 +763,11 @@ BANKING PRODUCTS AND SERVICES
     LOAN PRODUCTS
     +-------------------------------------------------+
     |  Consumer Loans                                 |
-    |  ├── Mortgages (fixed, adjustable)           |
-    |  ├── Auto loans                              |
-    |  ├── Personal loans                          |
-    |  ├── Credit cards                            |
-    |  └── Student loans                           |
+    |  ├── Mortgages (fixed, adjustable)              |
+    |  ├── Auto loans                                 |
+    |  ├── Personal loans                             |
+    |  ├── Credit cards                               |
+    |  └── Student loans                              |
     |                                                  |
     |  Business Loans                                 |
     |  ├── Commercial real estate                  |
