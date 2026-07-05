@@ -1057,10 +1057,10 @@ BANKS AND FINANCIAL MARKETS
     │   │  └── Earn spreads                                                   │   │
     │   │                                                                     │   │
     │   │  UNDERWRITING                                                       │   │
-    │   │  ├── Corporate bonds                                               │   │
-    │   │  ├── Equity offerings (IPOs)                                       │   │
-    │   │  ├── Government bonds                                              │   │
-    │   │  └── Earn fees                                                    │   │
+    │   │  ├── Corporate bonds                                                │   │
+    │   │  ├── Equity offerings (IPOs)                                        │   │
+    │   │  ├── Government bonds                                               │   │
+    │   │  └── Earn fees                                                      │   │
     │   │                                                                     │   │
     │   │  TRADING                                                            │   │
     │   │  ├── Proprietary trading                                           │   │
