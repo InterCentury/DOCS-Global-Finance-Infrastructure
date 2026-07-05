@@ -1234,10 +1234,10 @@ BANK BRANCHES VS DIGITAL BANKING
     The Trend:
     +-------------------------------------------------+
     |  Branches are declining but not disappearing    |
-    |  Digital adoption is increasing                |
-    |  Hybrid model is emerging                     |
-    |  Branches become advisory centers             |
-    |  Digital handles routine transactions          |
+    |  Digital adoption is increasing                 |
+    |  Hybrid model is emerging                       |
+    |  Branches become advisory centers               |
+    |  Digital handles routine transactions           |
     +-------------------------------------------------+
 ```
 
