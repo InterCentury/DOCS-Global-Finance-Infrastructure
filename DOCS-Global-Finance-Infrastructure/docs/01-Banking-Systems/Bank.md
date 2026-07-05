@@ -1174,12 +1174,12 @@ TYPICAL DEPARTMENTS INSIDE A BANK
     |  ├── Liquidity management                       |
     |  ├── Funding                                    |
     |  └── Foreign exchange                           |
-    |                                                  |
+    |                                                 |
     |  Technology                                     |
-    |  ├── Core banking systems                     |
-    |  ├── IT infrastructure                        |
-    |  ├── Cybersecurity                            |
-    |  └── Digital banking platforms                |
+    |  ├── Core banking systems                       |
+    |  ├── IT infrastructure                          |
+    |  ├── Cybersecurity                              |
+    |  └── Digital banking platforms                  |
     +-------------------------------------------------+
 
     SUPPORT FUNCTIONS
