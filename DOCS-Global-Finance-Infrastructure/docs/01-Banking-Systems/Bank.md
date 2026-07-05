@@ -1184,11 +1184,11 @@ TYPICAL DEPARTMENTS INSIDE A BANK
 
     SUPPORT FUNCTIONS
     +-------------------------------------------------+
-    |  Human Resources                                 |
-    |  Finance and Accounting                          |
-    |  Legal                                           |
-    |  Marketing and Communications                    |
-    |  Internal Audit                                  |
+    |  Human Resources                                |
+    |  Finance and Accounting                         |
+    |  Legal                                          |
+    |  Marketing and Communications                   |
+    |  Internal Audit                                 |
     +-------------------------------------------------+
 ```
 
