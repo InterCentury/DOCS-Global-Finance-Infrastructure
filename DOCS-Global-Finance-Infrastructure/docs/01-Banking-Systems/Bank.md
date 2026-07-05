@@ -1051,28 +1051,28 @@ BANKS AND FINANCIAL MARKETS
     │   ┌─────────────────────────────────────────────────────────────────────┐   │
     │   │  BANK ACTIVITIES IN FINANCIAL MARKETS                               │   │
     │   │                                                                     │   │
-    │   │  MARKET MAKING                          │   │
-    │   │  ├── Provide bid-ask quotes           │   │
-    │   │  ├── Provide liquidity                │   │
-    │   │  └── Earn spreads                    │   │
-    │   │                                        │   │
-    │   │  UNDERWRITING                          │   │
-    │   │  ├── Corporate bonds                  │   │
-    │   │  ├── Equity offerings (IPOs)          │   │
-    │   │  ├── Government bonds                 │   │
-    │   │  └── Earn fees                       │   │
-    │   │                                        │   │
-    │   │  TRADING                               │   │
-    │   │  ├── Proprietary trading              │   │
-    │   │  ├── Customer trading                 │   │
-    │   │  ├── Foreign exchange                 │   │
-    │   │  └── Interest rate derivatives        │   │
-    │   │                                        │   │
-    │   │  INVESTING                             │   │
-    │   │  ├── Purchase securities              │   │
-    │   │  ├── Hold for investment              │   │
-    │   │  └── Earn interest/dividends          │   │
-    │   │                                        │   │
+    │   │  MARKET MAKING                                                      │   │
+    │   │  ├── Provide bid-ask quotes                                         │   │
+    │   │  ├── Provide liquidity                                              │   │
+    │   │  └── Earn spreads                                                   │   │
+    │   │                                                                     │   │
+    │   │  UNDERWRITING                                                       │   │
+    │   │  ├── Corporate bonds                                               │   │
+    │   │  ├── Equity offerings (IPOs)                                       │   │
+    │   │  ├── Government bonds                                              │   │
+    │   │  └── Earn fees                                                    │   │
+    │   │                                                                     │   │
+    │   │  TRADING                                                            │   │
+    │   │  ├── Proprietary trading                                           │   │
+    │   │  ├── Customer trading                                              │   │
+    │   │  ├── Foreign exchange                                              │   │
+    │   │  └── Interest rate derivatives                                     │   │
+    │   │                                                                     │   │
+    │   │  INVESTING                                                          │   │
+    │   │  ├── Purchase securities                                           │   │
+    │   │  ├── Hold for investment                                           │   │
+    │   │  └── Earn interest/dividends                                       │   │
+    │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
