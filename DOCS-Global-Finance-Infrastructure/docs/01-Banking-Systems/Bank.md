@@ -1273,9 +1273,9 @@ DAILY OPERATIONS OF A BANK
     |  └── Wire processing                            |
     |                                                 |
     |  Trading (if investment bank)                   |
-    |  ├── Market making                           |
-    |  ├── Customer trades                         |
-    |  └── Proprietary trading                     |
+    |  ├── Market making                              |
+    |  ├── Customer trades                            |
+    |  └── Proprietary trading                        |
     +-------------------------------------------------+
 
     AFTERNOON (2:00 PM - 6:00 PM)
