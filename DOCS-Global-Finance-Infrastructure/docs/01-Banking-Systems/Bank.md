@@ -1128,11 +1128,11 @@ TYPICAL DEPARTMENTS INSIDE A BANK
     FRONT OFFICE (Customer-Facing)
     +-------------------------------------------------+
     |  Retail Banking                                 |
-    |  ├── Branch banking                            |
-    |  ├── Consumer lending                         |
-    |  ├── Mortgages                                |
-    |  └── Credit cards                             |
-    |                                                  |
+    |  ├── Branch banking                             |
+    |  ├── Consumer lending                           |
+    |  ├── Mortgages                                  |
+    |  └── Credit cards                               |
+    |                                                 |
     |  Commercial Banking                             |
     |  ├── Business lending                         |
     |  ├── Corporate banking                        |
