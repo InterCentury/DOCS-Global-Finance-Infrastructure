@@ -1109,12 +1109,12 @@ BASIC BANK ORGANIZATIONAL STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  BUSINESS UNITS           |  |  SUPPORT FUNCTIONS        |  |  REGIONAL / LOCAL       |
-|  - Retail banking         |  |  - Legal                  |  |  - Branch managers      |
-|  - Commercial banking     |  |  - Human resources        |  |  - Regional offices     |
-|  - Investment banking     |  |  - Internal audit         |  |  - Local operations     |
-|  - Wealth management      |  |  - Marketing              |  |                         |
-|  - Corporate banking      |  |  - Public relations       |  |                         |
+|  BUSINESS UNITS           |  |  SUPPORT FUNCTIONS        |  |  REGIONAL / LOCAL         |
+|  - Retail banking         |  |  - Legal                  |  |  - Branch managers        |
+|  - Commercial banking     |  |  - Human resources        |  |  - Regional offices       |
+|  - Investment banking     |  |  - Internal audit         |  |  - Local operations       |
+|  - Wealth management      |  |  - Marketing              |  |                           |
+|  - Corporate banking      |  |  - Public relations       |  |                           |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
