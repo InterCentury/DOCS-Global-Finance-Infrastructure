@@ -1099,12 +1099,12 @@ BASIC BANK ORGANIZATIONAL STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  CHIEF FINANCIAL         |  |  CHIEF RISK OFFICER       |  |  CHIEF OPERATIONS       |
-|  OFFICER (CFO)          |  |  (CRO)                    |  |  OFFICER (COO)          |
-|  - Financial reporting  |  |  - Risk management        |  |  - Operations           |
-|  - Treasury            |  |  - Compliance            |  |  - Technology           |
-|  - Capital management  |  |  - Credit risk           |  |  - Branch network       |
-|  - Investor relations  |  |  - Market risk           |  |  - Process improvement  |
+|  CHIEF FINANCIAL          |  |  CHIEF RISK OFFICER       |  |  CHIEF OPERATIONS       |
+|  OFFICER (CFO)            |  |  (CRO)                    |  |  OFFICER (COO)          |
+|  - Financial reporting    |  |  - Risk management        |  |  - Operations           |
+|  - Treasury               |  |  - Compliance             |  |  - Technology           |
+|  - Capital management     |  |  - Credit risk            |  |  - Branch network       |
+|  - Investor relations     |  |  - Market risk            |  |  - Process improvement  |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
