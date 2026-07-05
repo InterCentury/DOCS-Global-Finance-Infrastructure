@@ -1086,8 +1086,8 @@ Banks have a hierarchical organizational structure with defined roles and respon
 BASIC BANK ORGANIZATIONAL STRUCTURE
 
                          +---------------------------+
-                         |  BOARD OF DIRECTORS      |
-                         |  (Oversight, Strategy)   |
+                         |  BOARD OF DIRECTORS       |
+                         |  (Oversight, Strategy)    |
                          +-------------+-------------+
                                        |
                          +---------------------------+
