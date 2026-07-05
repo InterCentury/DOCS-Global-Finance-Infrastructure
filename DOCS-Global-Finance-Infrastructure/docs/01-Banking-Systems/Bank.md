@@ -1029,11 +1029,11 @@ BANKS AND CENTRAL BANKS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  HOLD RESERVES AT         |  |  TRANSMIT MONETARY        |  |  PARTICIPATE IN          |
-|  CENTRAL BANK             |  |  POLICY                   |  |  PAYMENT SYSTEM          |
-|  Required reserves        |  |  Rates affect lending     |  |  RTGS settlement         |
-|  Excess reserves          |  |  Credit availability      |  |  Fedwire, TARGET2        |
-|  Earn interest (IORB)     |  |  Money supply changes     |  |  CHAPS, BOJ-NET          |
+|  HOLD RESERVES AT         |  |  TRANSMIT MONETARY        |  |  PARTICIPATE IN           |
+|  CENTRAL BANK             |  |  POLICY                   |  |  PAYMENT SYSTEM           |
+|  Required reserves        |  |  Rates affect lending     |  |  RTGS settlement          |
+|  Excess reserves          |  |  Credit availability      |  |  Fedwire, TARGET2         |
+|  Earn interest (IORB)     |  |  Money supply changes     |  |  CHAPS, BOJ-NET           |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
