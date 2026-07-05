@@ -1164,16 +1164,16 @@ TYPICAL DEPARTMENTS INSIDE A BANK
     BACK OFFICE (Support and Operations)
     +-------------------------------------------------+
     |  Operations                                     |
-    |  ├── Payment processing                        |
-    |  ├── Settlement                               |
-    |  ├── Trade processing                         |
-    |  └── Reconciliation                           |
-    |                                                  |
+    |  ├── Payment processing                         |
+    |  ├── Settlement                                 |
+    |  ├── Trade processing                           |
+    |  └── Reconciliation                             |
+    |                                                 |
     |  Treasury                                       |
-    |  ├── Cash management                           |
-    |  ├── Liquidity management                      |
-    |  ├── Funding                                  |
-    |  └── Foreign exchange                         |
+    |  ├── Cash management                            |
+    |  ├── Liquidity management                       |
+    |  ├── Funding                                    |
+    |  └── Foreign exchange                           |
     |                                                  |
     |  Technology                                     |
     |  ├── Core banking systems                     |
