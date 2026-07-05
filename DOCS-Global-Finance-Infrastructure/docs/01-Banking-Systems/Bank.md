@@ -1134,10 +1134,10 @@ TYPICAL DEPARTMENTS INSIDE A BANK
     |  └── Credit cards                               |
     |                                                 |
     |  Commercial Banking                             |
-    |  ├── Business lending                         |
-    |  ├── Corporate banking                        |
-    |  ├── Commercial real estate                   |
-    |  └── Trade finance                           |
+    |  ├── Business lending                           |
+    |  ├── Corporate banking                          |
+    |  ├── Commercial real estate                     |
+    |  └── Trade finance                              |
     |                                                  |
     |  Investment Banking                             |
     |  ├── Mergers and acquisitions (M&A)           |
