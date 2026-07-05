@@ -1209,16 +1209,16 @@ BANK BRANCHES VS DIGITAL BANKING
 +---------------------------+                            +---------------------------+
 |  PHYSICAL BRANCHES        |                            |  DIGITAL CHANNELS         |
 +---------------------------+                            +---------------------------+
-          │                                              │
-          ▼                                              ▼
+          │                                                         │
+          ▼                                                         ▼
 +---------------------------+              +---------------------------+---------------------------+
-|  Advantages              |              |  Advantages                |
-|  - Personal service      |              |  - Convenience            |
-|  - Face-to-face advice   |              |  - 24/7 access           |
-|  - Cash handling        |              |  - Lower fees            |
-|  - Complex transactions  |              |  - Higher rates          |
-|  - Trusted environment  |              |  - Quick transactions    |
-|  - Financial advice     |              |  - Real-time updates     |
+|  Advantages               |              |  Advantages                |
+|  - Personal service       |              |  - Convenience            |
+|  - Face-to-face advice    |              |  - 24/7 access           |
+|  - Cash handling          |              |  - Lower fees            |
+|  - Complex transactions   |              |  - Higher rates          |
+|  - Trusted environment    |              |  - Quick transactions    |
+|  - Financial advice       |              |  - Real-time updates     |
 +---------------------------+              +---------------------------+---------------------------+
           │                                              │
           ▼                                              ▼
