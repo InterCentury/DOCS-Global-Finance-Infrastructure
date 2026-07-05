@@ -1138,12 +1138,12 @@ TYPICAL DEPARTMENTS INSIDE A BANK
     |  ├── Corporate banking                          |
     |  ├── Commercial real estate                     |
     |  └── Trade finance                              |
-    |                                                  |
+    |                                                 |
     |  Investment Banking                             |
-    |  ├── Mergers and acquisitions (M&A)           |
-    |  ├── Underwriting                              |
-    |  ├── Sales and trading                       |
-    |  └── Research                                |
+    |  ├── Mergers and acquisitions (M&A)             |
+    |  ├── Underwriting                               |
+    |  ├── Sales and trading                          |
+    |  └── Research                                   |
     +-------------------------------------------------+
 
     MIDDLE OFFICE (Risk and Control)
