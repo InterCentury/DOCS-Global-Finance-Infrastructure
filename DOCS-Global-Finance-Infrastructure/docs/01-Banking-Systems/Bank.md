@@ -1148,17 +1148,17 @@ TYPICAL DEPARTMENTS INSIDE A BANK
 
     MIDDLE OFFICE (Risk and Control)
     +-------------------------------------------------+
-    |  Risk Management                                 |
-    |  ├── Credit risk                               |
-    |  ├── Market risk                               |
-    |  ├── Operational risk                         |
-    |  └── Liquidity risk                           |
-    |                                                  |
+    |  Risk Management                                |
+    |  ├── Credit risk                                |
+    |  ├── Market risk                                |
+    |  ├── Operational risk                           |
+    |  └── Liquidity risk                             |
+    |                                                 |
     |  Compliance                                     |
-    |  ├── Regulatory compliance                    |
-    |  ├── Anti-money laundering (AML)              |
-    |  ├── Know Your Customer (KYC)                |
-    |  └── Fraud prevention                         |
+    |  ├── Regulatory compliance                      |
+    |  ├── Anti-money laundering (AML)                |
+    |  ├── Know Your Customer (KYC)                   |
+    |  └── Fraud prevention                           |
     +-------------------------------------------------+
 
     BACK OFFICE (Support and Operations)
