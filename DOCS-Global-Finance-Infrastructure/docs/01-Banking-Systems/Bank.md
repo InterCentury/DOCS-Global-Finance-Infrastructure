@@ -1200,14 +1200,14 @@ Banking has evolved from physical branches to digital channels, with each servin
 BANK BRANCHES VS DIGITAL BANKING
 
                          +---------------------------+
-                         |   BANKING CHANNELS       |
+                         |   BANKING CHANNELS        |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  PHYSICAL BRANCHES       |                            |  DIGITAL CHANNELS        |
+|  PHYSICAL BRANCHES        |                            |  DIGITAL CHANNELS         |
 +---------------------------+                            +---------------------------+
           │                                              │
           ▼                                              ▼
