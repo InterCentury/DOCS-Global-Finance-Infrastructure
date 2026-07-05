@@ -1222,14 +1222,14 @@ BANK BRANCHES VS DIGITAL BANKING
 +---------------------------+              +---------------------------+ 
           │                                              │
           ▼                                              ▼
-+---------------------------+              +---------------------------+---------------------------+
++---------------------------+              +---------------------------+ 
 |  Disadvantages            |              |  Disadvantages            |
 |  - Limited hours          |              |  - No personal service    |
 |  - Geographic constraints |              |  - Technology issues      |
 |  - Higher costs           |              |  - Security concerns      |
 |  - Queues and wait times  |              |  - Limited services       |
 |  - Paper-based            |              |  - Digital divide         |
-+---------------------------+              +---------------------------+---------------------------+
++---------------------------+              +---------------------------+ 
 
     The Trend:
     +-------------------------------------------------+
