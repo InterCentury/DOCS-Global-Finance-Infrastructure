@@ -1253,26 +1253,26 @@ DAILY OPERATIONS OF A BANK
     |  System startup                                 |
     |  Overnight processing completed                 |
     |  Branch opening procedures                      |
-    |  Cash vault reconciliation                     |
+    |  Cash vault reconciliation                      |
     |  Staff briefings                                |
     +-------------------------------------------------+
 
     BUSINESS HOURS (9:00 AM - 5:00 PM)
     +-------------------------------------------------+
     |  Customer transactions                          |
-    |  ├── Deposits and withdrawals                  |
-    |  ├── Check cashing                            |
-    |  ├── Wire transfers                           |
-    |  ├── Loan applications                        |
-    |  └── Account services                         |
-    |                                                  |
-    |  Payment processing                            |
-    |  ├── ACH files sent/received                  |
-    |  ├── Check clearing                           |
-    |  ├── Card authorization                       |
-    |  └── Wire processing                          |
-    |                                                  |
-    |  Trading (if investment bank)                  |
+    |  ├── Deposits and withdrawals                   |
+    |  ├── Check cashing                              |
+    |  ├── Wire transfers                             |
+    |  ├── Loan applications                          |
+    |  └── Account services                           |
+    |                                                 |
+    |  Payment processing                             |
+    |  ├── ACH files sent/received                    |
+    |  ├── Check clearing                             |
+    |  ├── Card authorization                         |
+    |  └── Wire processing                            |
+    |                                                 |
+    |  Trading (if investment bank)                   |
     |  ├── Market making                           |
     |  ├── Customer trades                         |
     |  └── Proprietary trading                     |
