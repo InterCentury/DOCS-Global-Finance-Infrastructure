@@ -1063,15 +1063,15 @@ BANKS AND FINANCIAL MARKETS
     │   │  └── Earn fees                                                      │   │
     │   │                                                                     │   │
     │   │  TRADING                                                            │   │
-    │   │  ├── Proprietary trading                                           │   │
-    │   │  ├── Customer trading                                              │   │
-    │   │  ├── Foreign exchange                                              │   │
-    │   │  └── Interest rate derivatives                                     │   │
+    │   │  ├── Proprietary trading                                            │   │
+    │   │  ├── Customer trading                                               │   │
+    │   │  ├── Foreign exchange                                               │   │
+    │   │  └── Interest rate derivatives                                      │   │
     │   │                                                                     │   │
     │   │  INVESTING                                                          │   │
-    │   │  ├── Purchase securities                                           │   │
-    │   │  ├── Hold for investment                                           │   │
-    │   │  └── Earn interest/dividends                                       │   │
+    │   │  ├── Purchase securities                                            │   │
+    │   │  ├── Hold for investment                                            │   │
+    │   │  └── Earn interest/dividends                                        │   │
     │   │                                                                     │   │
     │   └─────────────────────────────────────────────────────────────────────┘   │
     │                                                                             │
