@@ -1304,11 +1304,11 @@ DAILY OPERATIONS OF A BANK
 
     OVERNIGHT
     +-------------------------------------------------+
-    |  System maintenance                           |
-    |  Security scans                                |
-    |  External data feeds (market data)            |
-    |  Fraud monitoring                              |
-    |  On-call support                              |
+    |  System maintenance                             |
+    |  Security scans                                 |
+    |  External data feeds (market data)              |
+    |  Fraud monitoring                               |
+    |  On-call support                                |
     +-------------------------------------------------+
 ```
 
