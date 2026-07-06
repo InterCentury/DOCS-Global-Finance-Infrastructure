@@ -1342,25 +1342,25 @@ BANKING REGULATIONS (OVERVIEW)
     KEY REGULATIONS
     +-------------------------------------------------+
     |  Basel III                                      |
-    |  ├── Capital requirements (CET1 4.5%)         |
-    |  ├── Liquidity requirements (LCR, NSFR)       |
-    |  └── Leverage ratio (Tier 1 ≥ 3%)             |
-    |                                                  |
-    |  Dodd-Frank Act (US)                           |
-    |  ├── Enhanced prudential standards            |
-    |  ├── Stress testing                           |
-    |  └── Orderly liquidation authority            |
-    |                                                  |
-    |  Bank Secrecy Act (BSA) / AML                  |
-    |  ├── Anti-money laundering                    |
-    |  ├── Know Your Customer (KYC)                |
-    |  └── Suspicious Activity Reporting (SAR)     |
-    |                                                  |
-    |  Consumer Protection Laws                      |
-    |  ├── Truth in Lending Act (TILA)             |
-    |  ├── Fair Credit Reporting Act (FCRA)        |
-    |  ├── Equal Credit Opportunity Act (ECOA)     |
-    |  └── Fair Debt Collection Practices Act      |
+    |  ├── Capital requirements (CET1 4.5%)           |
+    |  ├── Liquidity requirements (LCR, NSFR)         |
+    |  └── Leverage ratio (Tier 1 ≥ 3%)               |
+    |                                                 |
+    |  Dodd-Frank Act (US)                            |
+    |  ├── Enhanced prudential standards              |
+    |  ├── Stress testing                             |
+    |  └── Orderly liquidation authority              |
+    |                                                 |
+    |  Bank Secrecy Act (BSA) / AML                   |
+    |  ├── Anti-money laundering                      |
+    |  ├── Know Your Customer (KYC)                   |
+    |  └── Suspicious Activity Reporting (SAR)        |
+    |                                                 |
+    |  Consumer Protection Laws                       |
+    |  ├── Truth in Lending Act (TILA)                |
+    |  ├── Fair Credit Reporting Act (FCRA)           |
+    |  ├── Equal Credit Opportunity Act (ECOA)        |
+    |  └── Fair Debt Collection Practices Act         |
     +-------------------------------------------------+
 ```
 
