@@ -1533,10 +1533,10 @@ WHY BANKS SOMETIMES FAIL
 
     CAUSE 6: CYBER ATTACKS
     +-------------------------------------------------+
-    |  Data breaches                                |
-    |  Ransomware attacks                          |
-    |  System disruptions                         |
-    |  Result: Customer losses, reputation damage   |
+    |  Data breaches                                  |
+    |  Ransomware attacks                             |
+    |  System disruptions                             |
+    |  Result: Customer losses, reputation damage     |
     +-------------------------------------------------+
 ```
 
@@ -1546,15 +1546,15 @@ WHY BANKS SOMETIMES FAIL
 COMMON BANKING TERMS
 
     +-------------------------------------------------+
-    |  ACH (Automated Clearing House)                |
-    |  Electronic network for batch payments        |
-    |  Direct deposits, bill payments               |
+    |  ACH (Automated Clearing House)                 |
+    |  Electronic network for batch payments          |
+    |  Direct deposits, bill payments                 |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  AML (Anti-Money Laundering)                   |
-    |  Laws and procedures to prevent money          |
-    |  laundering                                    |
+    |  AML (Anti-Money Laundering)                    |
+    |  Laws and procedures to prevent money           |
+    |  laundering                                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
