@@ -1437,15 +1437,15 @@ BANKING TECHNOLOGY (OVERVIEW)
     CORE SYSTEMS
     +-------------------------------------------------+
     |  Core Banking System                            |
-    |  ├── Central database of customer accounts    |
-    |  ├── Transaction processing engine            |
-    |  └── General ledger integration              |
-    |                                                  |
+    |  ├── Central database of customer accounts      |
+    |  ├── Transaction processing engine              |
+    |  └── General ledger integration                 |
+    |                                                 |
     |  Payment Systems                                |
-    |  ├── SWIFT (international messaging)          |
-    |  ├── RTGS (real-time settlement)              |
-    |  ├── ACH (batch processing)                  |
-    |  └── Card processing (Visa, Mastercard)      |
+    |  ├── SWIFT (international messaging)            |
+    |  ├── RTGS (real-time settlement)                |
+    |  ├── ACH (batch processing)                     |
+    |  └── Card processing (Visa, Mastercard)         |
     +-------------------------------------------------+
 
     DIGITAL CHANNELS
