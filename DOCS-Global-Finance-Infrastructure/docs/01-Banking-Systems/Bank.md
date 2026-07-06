@@ -1405,10 +1405,10 @@ RISKS FACED BY BANKS
 
     RISK 5: REGULATORY RISK
     +-------------------------------------------------+
-    |  Risk of regulatory penalties, legal action    |
-    |  Compliance failures                          |
-    |  Mitigation: Compliance programs, legal       |
-    |  review, training                             |
+    |  Risk of regulatory penalties, legal action     |
+    |  Compliance failures                            |
+    |  Mitigation: Compliance programs, legal         |
+    |  review, training                               |
     +-------------------------------------------------+
 
     RISK 6: REPUTATIONAL RISK
