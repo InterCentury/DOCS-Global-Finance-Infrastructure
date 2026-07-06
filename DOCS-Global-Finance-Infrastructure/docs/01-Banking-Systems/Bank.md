@@ -1285,21 +1285,21 @@ DAILY OPERATIONS OF A BANK
     |  ├── Balance updates                            |
     |  ├── Interest accrual                           |
     |  └── GL posting                                 |
-    |                                                  |
+    |                                                 |
     |  Reserve management                             |
-    |  ├── Forecast end-of-day balance              |
-    |  ├── Borrow or lend reserves                 |
-    |  └── Fed funds trading                        |
+    |  ├── Forecast end-of-day balance                |
+    |  ├── Borrow or lend reserves                    |
+    |  └── Fed funds trading                          |
     +-------------------------------------------------+
 
     EVENING (6:00 PM - 10:00 PM)
     +-------------------------------------------------+
     |  Batch processing                               |
-    |  ├── End-of-day (EOD) processing              |
-    |  ├── Interest calculation                     |
-    |  ├── Fee application                          |
-    |  ├── Statement generation                     |
-    |  └── Data backup                             |
+    |  ├── End-of-day (EOD) processing                |
+    |  ├── Interest calculation                       |
+    |  ├── Fee application                            |
+    |  ├── Statement generation                       |
+    |  └── Data backup                                |
     +-------------------------------------------------+
 
     OVERNIGHT
