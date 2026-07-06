@@ -1413,10 +1413,10 @@ RISKS FACED BY BANKS
 
     RISK 6: REPUTATIONAL RISK
     +-------------------------------------------------+
-    |  Risk of losing customer trust                |
-    |  Scandals, poor customer service              |
-    |  Mitigation: Strong governance, transparency,  |
-    |  ethical culture                              |
+    |  Risk of losing customer trust                  |
+    |  Scandals, poor customer service                |
+    |  Mitigation: Strong governance, transparency,   |
+    |  ethical culture                                |
     +-------------------------------------------------+
 
     RISK 7: INTEREST RATE RISK
