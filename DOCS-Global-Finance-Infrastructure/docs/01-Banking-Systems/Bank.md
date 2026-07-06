@@ -1321,22 +1321,22 @@ BANKING REGULATIONS (OVERVIEW)
 
     REGULATORY BODIES (US Example)
     +-------------------------------------------------+
-    |  Federal Reserve (Fed)                         |
-    |  ├── Bank holding companies                   |
-    |  ├── State member banks                       |
-    |  └── Monetary policy                         |
-    |                                                  |
+    |  Federal Reserve (Fed)                          |
+    |  ├── Bank holding companies                     |
+    |  ├── State member banks                         |
+    |  └── Monetary policy                            |
+    |                                                 |
     |  Office of the Comptroller of the Currency (OCC)|
-    |  ├── National banks                           |
-    |  └── Federal savings associations             |
-    |                                                  |
+    |  ├── National banks                             |
+    |  └── Federal savings associations               |
+    |                                                 |
     |  Federal Deposit Insurance Corporation (FDIC)   |
-    |  ├── State non-member banks                   |
-    |  └── Deposit insurance (up to $250,000)       |
-    |                                                  |
+    |  ├── State non-member banks                     |
+    |  └── Deposit insurance (up to $250,000)         |
+    |                                                 |
     |  Consumer Financial Protection Bureau (CFPB)    |
-    |  ├── Consumer protection                      |
-    |  └── Fair lending                              |
+    |  ├── Consumer protection                        |
+    |  └── Fair lending                               |
     +-------------------------------------------------+
 
     KEY REGULATIONS
