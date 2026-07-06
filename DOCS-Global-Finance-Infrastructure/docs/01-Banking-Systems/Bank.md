@@ -1421,9 +1421,9 @@ RISKS FACED BY BANKS
 
     RISK 7: INTEREST RATE RISK
     +-------------------------------------------------+
-    |  Risk from changes in interest rates           |
-    |  Net interest margin compression              |
-    |  Mitigation: ALM, hedging, gap analysis       |
+    |  Risk from changes in interest rates            |
+    |  Net interest margin compression                |
+    |  Mitigation: ALM, hedging, gap analysis         |
     +-------------------------------------------------+
 ```
 
