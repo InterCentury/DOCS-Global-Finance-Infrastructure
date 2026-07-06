@@ -1392,15 +1392,15 @@ RISKS FACED BY BANKS
     |  Risk from changes in interest rates, FX,      |
     |  asset prices                                  |
     |  Mitigation: Hedging, asset-liability          |
-    |  management, limits, stress testing           |
+    |  management, limits, stress testing            |
     +-------------------------------------------------+
 
     RISK 4: OPERATIONAL RISK
     +-------------------------------------------------+
-    |  Risk from internal failures, fraud, systems   |
-    |  Cyberattacks, human error                    |
-    |  Mitigation: Internal controls, cybersecurity, |
-    |  insurance, business continuity               |
+    |  Risk from internal failures, fraud, systems    |
+    |  Cyberattacks, human error                      |
+    |  Mitigation: Internal controls, cybersecurity,  |
+    |  insurance, business continuity                 |
     +-------------------------------------------------+
 
     RISK 5: REGULATORY RISK
