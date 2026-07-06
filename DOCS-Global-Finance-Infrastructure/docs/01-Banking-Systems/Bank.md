@@ -1465,21 +1465,21 @@ BANKING TECHNOLOGY (OVERVIEW)
 
     EMERGING TECHNOLOGIES
     +-------------------------------------------------+
-    |  Artificial Intelligence (AI)                 |
-    |  ├── Chatbots and virtual assistants         |
-    |  ├── Fraud detection                         |
-    |  ├── Credit scoring                         |
-    |  └── Personalized offers                    |
-    |                                                  |
-    |  Blockchain / Distributed Ledger               |
-    |  ├── Cross-border payments                   |
-    |  ├── Smart contracts                         |
-    |  └── Digital assets (CBDC)                  |
-    |                                                  |
-    |  Cloud Computing                              |
-    |  ├── Scalable infrastructure                 |
-    |  ├── Cost efficiency                         |
-    |  └── Agility                                 |
+    |  Artificial Intelligence (AI)                   |
+    |  ├── Chatbots and virtual assistants            |
+    |  ├── Fraud detection                            |
+    |  ├── Credit scoring                             |
+    |  └── Personalized offers                        |
+    |                                                 |
+    |  Blockchain / Distributed Ledger                |
+    |  ├── Cross-border payments                      |
+    |  ├── Smart contracts                            |
+    |  └── Digital assets (CBDC)                      |
+    |                                                 |
+    |  Cloud Computing                                |
+    |  ├── Scalable infrastructure                    |
+    |  ├── Cost efficiency                            |
+    |  └── Agility                                    |
     +-------------------------------------------------+
 ```
 
