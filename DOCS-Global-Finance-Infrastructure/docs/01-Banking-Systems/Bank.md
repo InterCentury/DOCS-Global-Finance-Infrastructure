@@ -1516,19 +1516,19 @@ WHY BANKS SOMETIMES FAIL
 
     CAUSE 4: POOR MANAGEMENT
     +-------------------------------------------------+
-    |  Inadequate risk management                   |
-    |  Weak governance                             |
-    |  Fraud and misconduct                        |
-    |  Result: Regulatory penalties, loss of        |
-    |  confidence                                  |
+    |  Inadequate risk management                     |
+    |  Weak governance                                |
+    |  Fraud and misconduct                           |
+    |  Result: Regulatory penalties, loss of          |
+    |  confidence                                     |
     +-------------------------------------------------+
 
     CAUSE 5: REGULATORY FAILURE
     +-------------------------------------------------+
-    |  Inadequate supervision                      |
-    |  Weak capital requirements                   |
-    |  Insufficient oversight                     |
-    |  Result: Problems go undetected, grow       |
+    |  Inadequate supervision                         |
+    |  Weak capital requirements                      |
+    |  Insufficient oversight                         |
+    |  Result: Problems go undetected, grow           |
     +-------------------------------------------------+
 
     CAUSE 6: CYBER ATTACKS
