@@ -1374,9 +1374,9 @@ RISKS FACED BY BANKS
     RISK 1: CREDIT RISK
     +-------------------------------------------------+
     |  Risk of borrower default                       |
-    |  Non-performing loans                          |
-    |  Mitigation: Underwriting, diversification,    |
-    |  collateral, reserves, capital                |
+    |  Non-performing loans                           |
+    |  Mitigation: Underwriting, diversification,     |
+    |  collateral, reserves, capital                  |
     +-------------------------------------------------+
 
     RISK 2: LIQUIDITY RISK
