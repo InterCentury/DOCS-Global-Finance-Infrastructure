@@ -1281,10 +1281,10 @@ DAILY OPERATIONS OF A BANK
     AFTERNOON (2:00 PM - 6:00 PM)
     +-------------------------------------------------+
     |  End-of-day processing                          |
-    |  ├── Transaction posting                       |
-    |  ├── Balance updates                           |
-    |  ├── Interest accrual                         |
-    |  └── GL posting                               |
+    |  ├── Transaction posting                        |
+    |  ├── Balance updates                            |
+    |  ├── Interest accrual                           |
+    |  └── GL posting                                 |
     |                                                  |
     |  Reserve management                             |
     |  ├── Forecast end-of-day balance              |
