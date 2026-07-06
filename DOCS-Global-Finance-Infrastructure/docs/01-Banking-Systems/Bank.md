@@ -1500,10 +1500,10 @@ WHY BANKS SOMETIMES FAIL
 
     CAUSE 2: LIQUIDITY CRISIS
     +-------------------------------------------------+
-    |  Too much short-term funding                   |
-    |  Depositors withdraw (bank run)                |
-    |  Cannot access funding markets                 |
-    |  Result: Forced asset sales, failure          |
+    |  Too much short-term funding                    |
+    |  Depositors withdraw (bank run)                 |
+    |  Cannot access funding markets                  |
+    |  Result: Forced asset sales, failure            |
     +-------------------------------------------------+
 
     CAUSE 3: MARKET SHOCKS
