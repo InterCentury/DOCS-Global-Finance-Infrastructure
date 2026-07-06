@@ -1389,10 +1389,10 @@ RISKS FACED BY BANKS
 
     RISK 3: MARKET RISK
     +-------------------------------------------------+
-    |  Risk from changes in interest rates, FX,      |
-    |  asset prices                                  |
-    |  Mitigation: Hedging, asset-liability          |
-    |  management, limits, stress testing            |
+    |  Risk from changes in interest rates, FX,       |
+    |  asset prices                                   |
+    |  Mitigation: Hedging, asset-liability           |
+    |  management, limits, stress testing             |
     +-------------------------------------------------+
 
     RISK 4: OPERATIONAL RISK
