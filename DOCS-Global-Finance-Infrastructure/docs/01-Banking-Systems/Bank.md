@@ -1493,9 +1493,9 @@ WHY BANKS SOMETIMES FAIL
     CAUSE 1: EXCESSIVE LENDING
     +-------------------------------------------------+
     |  Lending to uncreditworthy borrowers            |
-    |  Overconcentration in risky sectors            |
-    |  Asset bubbles (real estate, tech)            |
-    |  Result: High defaults, loan losses           |
+    |  Overconcentration in risky sectors             |
+    |  Asset bubbles (real estate, tech)              |
+    |  Result: High defaults, loan losses             |
     +-------------------------------------------------+
 
     CAUSE 2: LIQUIDITY CRISIS
