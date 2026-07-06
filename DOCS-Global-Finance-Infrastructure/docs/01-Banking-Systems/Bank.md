@@ -1450,17 +1450,17 @@ BANKING TECHNOLOGY (OVERVIEW)
 
     DIGITAL CHANNELS
     +-------------------------------------------------+
-    |  Online Banking                                  |
-    |  ├── Web-based access                         |
-    |  ├── Account management                       |
-    |  ├── Bill pay                                |
-    |  └── Transfers                               |
-    |                                                  |
-    |  Mobile Banking                                |
-    |  ├── Mobile apps                             |
-    |  ├── Mobile deposits                         |
-    |  ├── Contactless payments                    |
-    |  └── Biometric authentication                |
+    |  Online Banking                                 |
+    |  ├── Web-based access                           |
+    |  ├── Account management                         |
+    |  ├── Bill pay                                   |
+    |  └── Transfers                                  |
+    |                                                 |
+    |  Mobile Banking                                 |
+    |  ├── Mobile apps                                |
+    |  ├── Mobile deposits                            |
+    |  ├── Contactless payments                       |
+    |  └── Biometric authentication                   |
     +-------------------------------------------------+
 
     EMERGING TECHNOLOGIES
