@@ -1508,10 +1508,10 @@ WHY BANKS SOMETIMES FAIL
 
     CAUSE 3: MARKET SHOCKS
     +-------------------------------------------------+
-    |  Interest rate rises                           |
-    |  Asset price crashes                           |
-    |  Currency devaluation                         |
-    |  Result: Losses on positions, capital erosion  |
+    |  Interest rate rises                            |
+    |  Asset price crashes                            |
+    |  Currency devaluation                           |
+    |  Result: Losses on positions, capital erosion   |
     +-------------------------------------------------+
 
     CAUSE 4: POOR MANAGEMENT
