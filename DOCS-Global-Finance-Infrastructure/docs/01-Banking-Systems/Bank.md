@@ -1381,10 +1381,10 @@ RISKS FACED BY BANKS
 
     RISK 2: LIQUIDITY RISK
     +-------------------------------------------------+
-    |  Risk of not meeting obligations               |
-    |  Bank runs, funding shortages                 |
-    |  Mitigation: Liquid assets, LCR, NSFR,         |
-    |  contingency plans, central bank access       |
+    |  Risk of not meeting obligations                |
+    |  Bank runs, funding shortages                   |
+    |  Mitigation: Liquid assets, LCR, NSFR,          |
+    |  contingency plans, central bank access         |
     +-------------------------------------------------+
 
     RISK 3: MARKET RISK
