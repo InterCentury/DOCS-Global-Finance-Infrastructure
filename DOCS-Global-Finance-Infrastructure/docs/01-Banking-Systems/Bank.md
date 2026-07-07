@@ -1596,9 +1596,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  HQLA (High-Quality Liquid Assets)             |
-    |  Assets easily convertible to cash            |
-    |  Used for LCR                                 |
+    |  HQLA (High-Quality Liquid Assets)              |
+    |  Assets easily convertible to cash              |
+    |  Used for LCR                                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
