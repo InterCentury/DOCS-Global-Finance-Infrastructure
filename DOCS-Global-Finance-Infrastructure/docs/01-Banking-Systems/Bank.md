@@ -1626,22 +1626,22 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  NIM (Net Interest Margin)                     |
-    |  (Interest Income - Interest Expense) /       |
-    |  Earning Assets                               |
-    |  Key profitability metric                     |
+    |  NIM (Net Interest Margin)                      |
+    |  (Interest Income - Interest Expense) /         |
+    |  Earning Assets                                 |
+    |  Key profitability metric                       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  NPL (Non-Performing Loan)                     |
-    |  Loan with 90+ days past due                  |
-    |  Problem asset for banks                      |
+    |  NPL (Non-Performing Loan)                      |
+    |  Loan with 90+ days past due                    |
+    |  Problem asset for banks                        |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  NSFR (Net Stable Funding Ratio)               |
-    |  ASF / RSF ≥ 100%                             |
-    |  Basel III stable funding standard            |
+    |  NSFR (Net Stable Funding Ratio)                |
+    |  ASF / RSF ≥ 100%                               |
+    |  Basel III stable funding standard              |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
