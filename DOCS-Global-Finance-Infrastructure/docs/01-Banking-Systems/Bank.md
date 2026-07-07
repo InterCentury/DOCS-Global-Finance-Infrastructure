@@ -1602,9 +1602,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  IORB (Interest on Reserve Balances)           |
-    |  Interest paid by central bank on reserves    |
-    |  Used to implement monetary policy            |
+    |  IORB (Interest on Reserve Balances)            |
+    |  Interest paid by central bank on reserves      |
+    |  Used to implement monetary policy              |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
