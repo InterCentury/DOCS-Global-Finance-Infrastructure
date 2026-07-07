@@ -1570,10 +1570,10 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  CAMELS Rating                                 |
-    |  Bank examination rating system               |
-    |  Capital, Assets, Management, Earnings,       |
-    |  Liquidity, Sensitivity                       |
+    |  CAMELS Rating                                  |
+    |  Bank examination rating system                 |
+    |  Capital, Assets, Management, Earnings,         |
+    |  Liquidity, Sensitivity                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
