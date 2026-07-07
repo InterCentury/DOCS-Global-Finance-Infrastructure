@@ -1608,9 +1608,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KYC (Know Your Customer)                      |
-    |  Identity verification procedures             |
-    |  Anti-money laundering requirement            |
+    |  KYC (Know Your Customer)                       |
+    |  Identity verification procedures               |
+    |  Anti-money laundering requirement              |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
