@@ -1584,9 +1584,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  DTI (Debt-to-Income Ratio)                    |
-    |  Total monthly debt payments / Monthly income |
-    |  Used to assess borrower capacity             |
+    |  DTI (Debt-to-Income Ratio)                     |
+    |  Total monthly debt payments / Monthly income   |
+    |  Used to assess borrower capacity               |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
