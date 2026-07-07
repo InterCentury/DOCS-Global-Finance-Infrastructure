@@ -1564,9 +1564,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  Basel III                                     |
-    |  International banking regulatory framework   |
-    |  Capital, liquidity, leverage standards       |
+    |  Basel III                                      |
+    |  International banking regulatory framework     |
+    |  Capital, liquidity, leverage standards         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
