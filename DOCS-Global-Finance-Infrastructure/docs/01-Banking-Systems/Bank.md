@@ -1620,9 +1620,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  LTV (Loan-to-Value Ratio)                     |
-    |  Loan Amount / Collateral Value               |
-    |  Used for secured loans                       |
+    |  LTV (Loan-to-Value Ratio)                      |
+    |  Loan Amount / Collateral Value                 |
+    |  Used for secured loans                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
