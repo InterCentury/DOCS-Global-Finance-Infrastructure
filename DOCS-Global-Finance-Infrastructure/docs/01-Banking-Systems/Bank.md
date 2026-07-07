@@ -1590,9 +1590,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  Federal Funds Rate                            |
-    |  Overnight lending rate between US banks      |
-    |  Primary policy tool of Federal Reserve       |
+    |  Federal Funds Rate                             |
+    |  Overnight lending rate between US banks        |
+    |  Primary policy tool of Federal Reserve         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
