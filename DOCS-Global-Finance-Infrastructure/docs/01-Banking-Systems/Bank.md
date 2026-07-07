@@ -1558,9 +1558,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  APR (Annual Percentage Rate)                  |
-    |  Total cost of borrowing per year             |
-    |  Includes interest and fees                   |
+    |  APR (Annual Percentage Rate)                   |
+    |  Total cost of borrowing per year               |
+    |  Includes interest and fees                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
