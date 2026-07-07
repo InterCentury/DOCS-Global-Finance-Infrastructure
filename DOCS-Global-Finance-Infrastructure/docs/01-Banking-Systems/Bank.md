@@ -1614,9 +1614,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  LCR (Liquidity Coverage Ratio)                |
-    |  HQLA / Net Cash Outflows (30 days) ≥ 100%   |
-    |  Basel III liquidity standard                 |
+    |  LCR (Liquidity Coverage Ratio)                 |
+    |  HQLA / Net Cash Outflows (30 days) ≥ 100%      |
+    |  Basel III liquidity standard                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
