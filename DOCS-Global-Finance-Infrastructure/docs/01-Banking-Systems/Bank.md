@@ -1577,10 +1577,10 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  CET1 (Common Equity Tier 1)                   |
-    |  Highest quality bank capital                 |
-    |  Common shares + retained earnings            |
-    |  Minimum 4.5% of RWA                          |
+    |  CET1 (Common Equity Tier 1)                    |
+    |  Highest quality bank capital                   |
+    |  Common shares + retained earnings              |
+    |  Minimum 4.5% of RWA                            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
