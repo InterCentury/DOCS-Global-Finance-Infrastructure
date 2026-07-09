@@ -1682,8 +1682,8 @@ SUMMARY
 
     +-------------------------------------------------+
     |  WHAT IS A BANK?                                |
-    |  Licensed institution that accepts deposits,   |
-    |  makes loans, and provides financial services  |
+    |  Licensed institution that accepts deposits,    |
+    |  makes loans, and provides financial services   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
