@@ -1657,9 +1657,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  RTGS (Real-Time Gross Settlement)             |
-    |  Payment system settling individually         |
-    |  Final and irrevocable settlement             |
+    |  RTGS (Real-Time Gross Settlement)              |
+    |  Payment system settling individually           |
+    |  Final and irrevocable settlement               |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
