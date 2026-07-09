@@ -1669,9 +1669,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  SWIFT (Society for Worldwide Interbank       |
-    |  Financial Telecommunication)                  |
-    |  Global interbank messaging system            |
+    |  SWIFT (Society for Worldwide Interbank         |
+    |  Financial Telecommunication)                   |
+    |  Global interbank messaging system              |
     +-------------------------------------------------+
 ```
 
