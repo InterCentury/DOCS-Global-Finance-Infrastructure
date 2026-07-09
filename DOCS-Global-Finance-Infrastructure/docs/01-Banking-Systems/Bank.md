@@ -1687,15 +1687,15 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  WHY BANKS EXIST?                              |
-    |  Connect savers and borrowers, safe storage,   |
-    |  payment processing, maturity transformation   |
+    |  WHY BANKS EXIST?                               |
+    |  Connect savers and borrowers, safe storage,    |
+    |  payment processing, maturity transformation    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  KEY FUNCTIONS                                  |
-    |  Deposit taking, lending, payment processing,  |
-    |  money creation, financial intermediation      |
+    |  Deposit taking, lending, payment processing,   |
+    |  money creation, financial intermediation       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
