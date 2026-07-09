@@ -1663,9 +1663,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  RWA (Risk-Weighted Assets)                    |
-    |  Assets weighted by risk                      |
-    |  Used for capital requirements                |
+    |  RWA (Risk-Weighted Assets)                     |
+    |  Assets weighted by risk                        |
+    |  Used for capital requirements                  |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
