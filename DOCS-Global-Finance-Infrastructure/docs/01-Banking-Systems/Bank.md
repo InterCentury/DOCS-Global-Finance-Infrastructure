@@ -1706,10 +1706,10 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  BUSINESS MODEL                                |
-    |  Earn net interest income (spread) + fees     |
-    |  Assets (loans, securities) > liabilities     |
-    |  (deposits, borrowings)                        |
+    |  BUSINESS MODEL                                 |
+    |  Earn net interest income (spread) + fees       |
+    |  Assets (loans, securities) > liabilities       |
+    |  (deposits, borrowings)                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
