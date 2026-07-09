@@ -1651,9 +1651,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  Repo (Repurchase Agreement)                   |
-    |  Collateralized short-term borrowing          |
-    |  Sell securities, repurchase later            |
+    |  Repo (Repurchase Agreement)                    |
+    |  Collateralized short-term borrowing            |
+    |  Sell securities, repurchase later              |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
