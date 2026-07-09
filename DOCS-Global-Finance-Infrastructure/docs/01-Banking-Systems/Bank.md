@@ -1699,10 +1699,10 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  TYPES OF BANKS                                |
-    |  Commercial, central, investment, credit       |
-    |  unions, savings & loan, online, cooperative,  |
-    |  private                                       |
+    |  TYPES OF BANKS                                 |
+    |  Commercial, central, investment, credit        |
+    |  unions, savings & loan, online, cooperative,   |
+    |  private                                        |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
