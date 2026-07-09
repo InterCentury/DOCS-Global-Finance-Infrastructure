@@ -1645,9 +1645,9 @@ COMMON BANKING TERMS
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  OMO (Open Market Operations)                  |
-    |  Central bank buying/selling securities       |
-    |  Affects reserves and interest rates          |
+    |  OMO (Open Market Operations)                   |
+    |  Central bank buying/selling securities         |
+    |  Affects reserves and interest rates            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
