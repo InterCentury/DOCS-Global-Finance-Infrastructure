@@ -1745,9 +1745,9 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  TECHNOLOGY                                    |
-    |  Core systems, digital channels, AI,           |
-    |  blockchain, cloud computing                   |
+    |  TECHNOLOGY                                     |
+    |  Core systems, digital channels, AI,            |
+    |  blockchain, cloud computing                    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
