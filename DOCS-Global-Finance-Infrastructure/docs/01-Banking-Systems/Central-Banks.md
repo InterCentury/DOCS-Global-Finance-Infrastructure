@@ -293,7 +293,7 @@ Central bank independence is a cornerstone of modern monetary policy. Independen
 CENTRAL BANK INDEPENDENCE
 
                          +---------------------------+
-                         |    INDEPENDENCE DIMENSIONS |
+                         |  INDEPENDENCE DIMENSIONS  |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
