@@ -175,9 +175,9 @@ CENTRAL BANK VS COMMERCIAL BANK
           │                                              │
           ▼                                              ▼
 +---------------------------+              +---------------------------+
-|  Profit motive:          |              |  Profit motive:          |
-|  - Not profit-seeking    |              |  - Profit-seeking        |
-|  - Public service focus  |              |  - Shareholder returns   |
+|  Profit motive:           |              |  Profit motive:           |
+|  - Not profit-seeking     |              |  - Profit-seeking         |
+|  - Public service focus   |              |  - Shareholder returns    |
 +---------------------------+              +---------------------------+
 ```
 
