@@ -1739,9 +1739,9 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  RISKS                                         |
-    |  Credit, liquidity, market, operational,       |
-    |  regulatory, reputational, interest rate      |
+    |  RISKS                                          |
+    |  Credit, liquidity, market, operational,        |
+    |  regulatory, reputational, interest rate        |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
