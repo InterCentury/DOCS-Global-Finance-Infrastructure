@@ -206,11 +206,11 @@ CENTRAL BANK OBJECTIVES
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  PRICE STABILITY         |  |  FINANCIAL STABILITY      |  |  ECONOMIC GROWTH         |
-|  - 2% inflation target   |  |  - Prevent systemic risk  |  |  - Support expansion    |
-|  - Anchor expectations   |  |  - Lender of last resort  |  |  - Stable environment   |
-|  - Preserve purchasing   |  |  - Regulate banks         |  |  - Sustainable growth   |
-|    power                 |  |  - Payment system         |  |  - Employment support   |
+|  PRICE STABILITY          |  |  FINANCIAL STABILITY      |  |  ECONOMIC GROWTH          |
+|  - 2% inflation target    |  |  - Prevent systemic risk  |  |  - Support expansion      |
+|  - Anchor expectations    |  |  - Lender of last resort  |  |  - Stable environment     |
+|  - Preserve purchasing    |  |  - Regulate banks         |  |  - Sustainable growth     |
+|    power                  |  |  - Payment system         |  |  - Employment support     |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
