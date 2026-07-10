@@ -151,11 +151,11 @@ CENTRAL BANK VS COMMERCIAL BANK
           │                                              │
           ▼                                              ▼
 +---------------------------+              +---------------------------+
-|  Functions:              |              |  Functions:               |
-|  - Issue currency        |              |  - Accept deposits       |
-|  - Manage monetary policy|              |  - Make loans           |
-|  - Regulate banks        |              |  - Process payments     |
-|  - Lender of last resort |              |  - Create broad money   |
+|  Functions:               |              |  Functions:               |
+|  - Issue currency         |              |  - Accept deposits       |
+|  - Manage monetary policy |              |  - Make loans           |
+|  - Regulate banks         |              |  - Process payments     |
+|  - Lender of last resort  |              |  - Create broad money   |
 +---------------------------+              +---------------------------+
           │                                              │
           ▼                                              ▼
