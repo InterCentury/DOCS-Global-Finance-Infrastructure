@@ -168,9 +168,9 @@ CENTRAL BANK VS COMMERCIAL BANK
           │                                              │
           ▼                                              ▼
 +---------------------------+              +---------------------------+
-|  Ownership:              |              |  Ownership:              |
-|  - Public institution    |              |  - Private or public     |
-|  - Government-owned      |              |  - Shareholder-owned     |
+|  Ownership:              |               |  Ownership:               |
+|  - Public institution    |               |  - Private or public      |
+|  - Government-owned      |               |  - Shareholder-owned      |
 +---------------------------+              +---------------------------+
           │                                              │
           ▼                                              ▼
