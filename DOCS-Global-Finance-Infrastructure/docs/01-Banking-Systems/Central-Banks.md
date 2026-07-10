@@ -55,11 +55,11 @@ CENTRAL BANK DEFINITION
                                        │
                                        ▼
                          +---------------------------+
-                         |   FINANCIAL SYSTEM       |
-                         |   - Price stability      |
+                         |   FINANCIAL SYSTEM        |
+                         |   - Price stability       |
                          |   - Financial stability   |
-                         |   - Economic growth      |
-                         |   - Payment system       |
+                         |   - Economic growth       |
+                         |   - Payment system        |
                          +---------------------------+
 ```
 
