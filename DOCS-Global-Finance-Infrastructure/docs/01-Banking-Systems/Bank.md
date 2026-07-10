@@ -1713,9 +1713,9 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  BALANCE SHEET                                 |
-    |  Assets = Liabilities + Equity                |
-    |  Loans are assets, deposits are liabilities   |
+    |  BALANCE SHEET                                  |
+    |  Assets = Liabilities + Equity                  |
+    |  Loans are assets, deposits are liabilities     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
