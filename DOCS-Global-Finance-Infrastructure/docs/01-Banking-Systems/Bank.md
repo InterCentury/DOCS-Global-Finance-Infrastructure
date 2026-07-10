@@ -1726,9 +1726,9 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  MONEY CREATION                               |
-    |  Banks create money through lending           |
-    |  Multiplier effect expands money supply      |
+    |  MONEY CREATION                                 |
+    |  Banks create money through lending             |
+    |  Multiplier effect expands money supply         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
