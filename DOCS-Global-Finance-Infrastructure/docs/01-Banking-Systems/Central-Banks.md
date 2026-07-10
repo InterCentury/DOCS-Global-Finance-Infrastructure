@@ -138,15 +138,15 @@ CENTRAL BANK VS COMMERCIAL BANK
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  CENTRAL BANK            |                            |  COMMERCIAL BANK         |
+|  CENTRAL BANK             |                            |  COMMERCIAL BANK         |
 +---------------------------+                            +---------------------------+
           │                                              │
           ▼                                              ▼
 +---------------------------+              +---------------------------+---------------------------+
-|  Serves:                 |              |  Serves:                  |
-|  - Commercial banks      |              |  - Individuals           |
-|  - Government            |              |  - Businesses            |
-|  - Other central banks   |              |  - Other customers       |
+|  Serves:                  |              |  Serves:                  |
+|  - Commercial banks       |              |  - Individuals            |
+|  - Government             |              |  - Businesses             |
+|  - Other central banks    |              |  - Other customers        |
 +---------------------------+              +---------------------------+---------------------------+
           │                                              │
           ▼                                              ▼
