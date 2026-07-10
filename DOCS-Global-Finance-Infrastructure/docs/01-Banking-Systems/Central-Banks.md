@@ -11,16 +11,16 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and purpose of central banks                  │
-    │   Learn the history and evolution of central banking                      │
-    │   Study the core objectives and functions of central banks                │
-    │   Examine the organizational structure and governance                    │
-    │   Understand currency issuance and money creation                        │
-    │   Learn monetary policy tools and transmission                           │
-    │   Study banking supervision and regulation                              │
-    │   Examine financial stability and crisis management                      │
-    │   Understand payment systems and settlement                             │
-    │   Learn about modern central banking challenges                         │
+    │   Understand the definition and purpose of central banks                    │
+    │   Learn the history and evolution of central banking                        │
+    │   Study the core objectives and functions of central banks                  │
+    │   Examine the organizational structure and governance                       │
+    │   Understand currency issuance and money creation                           │
+    │   Learn monetary policy tools and transmission                              │
+    │   Study banking supervision and regulation                                  │
+    │   Examine financial stability and crisis management                         │
+    │   Understand payment systems and settlement                                 │
+    │   Learn about modern central banking challenges                             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
