@@ -42,13 +42,13 @@ CENTRAL BANK DEFINITION
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  BANKER TO BANKS         |  |  BANKER TO GOVERNMENT     |  |  MANAGER OF CURRENCY     |
-|  - Holds reserve         |  |  - Manages treasury       |  |  - Issues currency        |
-|    accounts              |  |    account                |  |  - Controls money         |
-|  - Settles interbank     |  |  - Processes tax          |  |    supply                |
-|    payments              |  |    receipts               |  |  - Manages exchange       |
-|  - Provides liquidity    |  |  - Makes government       |  |    rates                 |
-|    to banks              |  |    payments               |  |                         |
+|  BANKER TO BANKS          |  |  BANKER TO GOVERNMENT     |  |  MANAGER OF CURRENCY     |
+|  - Holds reserve          |  |  - Manages treasury       |  |  - Issues currency        |
+|    accounts               |  |    account                |  |  - Controls money         |
+|  - Settles interbank      |  |  - Processes tax          |  |    supply                |
+|    payments               |  |    receipts               |  |  - Manages exchange       |
+|  - Provides liquidity     |  |  - Makes government       |  |    rates                 |
+|    to banks               |  |    payments               |  |                         |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
