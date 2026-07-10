@@ -161,9 +161,9 @@ CENTRAL BANK VS COMMERCIAL BANK
           ▼                                              ▼
 +---------------------------+              +---------------------------+
 |  Money created:           |              |  Money created:           |
-|  - Base money (M0)        |              |  - Broad money (M1/M2)   |
+|  - Base money (M0)        |              |  - Broad money (M1/M2)    |
 |  - Currency and reserves  |              |  - Deposits through       |
-|                           |              |    lending               |
+|                           |              |    lending                |
 +---------------------------+              +---------------------------+
           │                                              │
           ▼                                              ▼
