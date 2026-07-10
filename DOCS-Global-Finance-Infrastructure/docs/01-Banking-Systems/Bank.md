@@ -1719,10 +1719,10 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  ROLE IN ECONOMY                              |
-    |  Financial intermediation, money creation,    |
-    |  payment system, risk transformation,         |
-    |  monetary policy transmission                 |
+    |  ROLE IN ECONOMY                                |
+    |  Financial intermediation, money creation,      |
+    |  payment system, risk transformation,           |
+    |  monetary policy transmission                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
