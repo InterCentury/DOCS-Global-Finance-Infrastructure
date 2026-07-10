@@ -329,13 +329,13 @@ Central banks have a hierarchical organizational structure with specialized depa
 ORGANIZATIONAL STRUCTURE
 
                          +---------------------------+
-                         |  BOARD OF GOVERNORS      |
-                         |  (Policy Direction)     |
+                         |  BOARD OF GOVERNORS       |
+                         |  (Policy Direction)       |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |       GOVERNOR           |
-                         |  (Chief Executive)       |
+                         |       GOVERNOR            |
+                         |  (Chief Executive)        |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
