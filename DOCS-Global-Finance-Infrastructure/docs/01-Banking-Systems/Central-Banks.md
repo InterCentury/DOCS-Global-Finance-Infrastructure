@@ -300,13 +300,13 @@ CENTRAL BANK INDEPENDENCE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  INSTRUMENT               |  |  PERSONNEL               |  |  FINANCIAL              |
-|  INDEPENDENCE             |  |  INDEPENDENCE            |  |  INDEPENDENCE           |
-|  - Free to choose         |  |  - Fixed terms          |  |  - Own budget           |
-|    policy tools           |  |  - Staggered terms     |  |  - Self-financed        |
-|  - Set rates without      |  |  - Cannot be fired for  |  |  - Remits profits      |
-|    approval               |  |    policy disagreements  |  |  - Not subject to      |
-|  - Operational freedom    |  |  - Long tenures        |  |    appropriations      |
+|  INSTRUMENT               |  |  PERSONNEL                |  |  FINANCIAL              |
+|  INDEPENDENCE             |  |  INDEPENDENCE             |  |  INDEPENDENCE           |
+|  - Free to choose         |  |  - Fixed terms            |  |  - Own budget           |
+|    policy tools           |  |  - Staggered terms        |  |  - Self-financed        |
+|  - Set rates without      |  |  - Cannot be fired for    |  |  - Remits profits      |
+|    approval               |  |    policy disagreements   |  |  - Not subject to      |
+|  - Operational freedom    |  |  - Long tenures           |  |    appropriations      |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
