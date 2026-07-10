@@ -131,7 +131,7 @@ Central banks and commercial banks serve fundamentally different roles in the fi
 CENTRAL BANK VS COMMERCIAL BANK
 
                          +---------------------------+
-                         |     BANK COMPARISON      |
+                         |     BANK COMPARISON       |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
