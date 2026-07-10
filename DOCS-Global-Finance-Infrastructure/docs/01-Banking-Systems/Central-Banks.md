@@ -35,7 +35,7 @@ How it works: Commercial banks hold accounts at the central bank, using them to 
 CENTRAL BANK DEFINITION
 
                          +---------------------------+
-                         |       CENTRAL BANK       |
+                         |       CENTRAL BANK        |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
