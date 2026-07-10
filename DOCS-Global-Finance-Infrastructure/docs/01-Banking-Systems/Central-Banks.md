@@ -342,12 +342,12 @@ ORGANIZATIONAL STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  MONETARY POLICY         |  |  SUPERVISION &           |  |  OPERATIONS              |
-|  DEPARTMENT              |  |  REGULATION DEPT         |  |  DEPARTMENT              |
-|  - Policy analysis      |  |  - Bank examination     |  |  - Payment systems       |
-|  - Economic research    |  |  - Licensing            |  |  - Currency issuance     |
-|  - Forecasting          |  |  - Consumer protection   |  |  - Settlement            |
-|  - Rate setting         |  |  - Enforcement          |  |  - Collateral management |
+|  MONETARY POLICY          |  |  SUPERVISION &            |  |  OPERATIONS               |
+|  DEPARTMENT               |  |  REGULATION DEPT          |  |  DEPARTMENT               |
+|  - Policy analysis        |  |  - Bank examination       |  |  - Payment systems        |
+|  - Economic research      |  |  - Licensing              |  |  - Currency issuance      |
+|  - Forecasting            |  |  - Consumer protection    |  |  - Settlement             |
+|  - Rate setting           |  |  - Enforcement            |  |  - Collateral management  |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
