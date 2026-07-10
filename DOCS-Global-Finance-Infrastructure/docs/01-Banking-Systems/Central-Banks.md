@@ -267,11 +267,11 @@ CENTRAL BANK GOVERNANCE STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  MONETARY POLICY         |  |  SUPERVISION &           |  |  OPERATIONS              |
-|  COMMITTEE               |  |  REGULATION              |  |  - Payment systems       |
-|  - Set interest rates    |  |  - Bank examinations    |  |  - Currency issuance     |
-|  - Monetary policy       |  |  - Capital standards   |  |  - Reserve management    |
-|  - Forward guidance      |  |  - Consumer protection  |  |  - Treasury operations   |
+|  MONETARY POLICY          |  |  SUPERVISION &            |  |  OPERATIONS               |
+|  COMMITTEE                |  |  REGULATION               |  |  - Payment systems        |
+|  - Set interest rates     |  |  - Bank examinations      |  |  - Currency issuance      |
+|  - Monetary policy        |  |  - Capital standards      |  |  - Reserve management     |
+|  - Forward guidance       |  |  - Consumer protection    |  |  - Treasury operations    |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
