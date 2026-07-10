@@ -1732,10 +1732,10 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  REGULATION                                    |
-    |  Heavily regulated for safety and soundness   |
-    |  Basel III, Dodd-Frank, AML, consumer         |
-    |  protection                                   |
+    |  REGULATION                                     |
+    |  Heavily regulated for safety and soundness     |
+    |  Basel III, Dodd-Frank, AML, consumer           |
+    |  protection                                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
