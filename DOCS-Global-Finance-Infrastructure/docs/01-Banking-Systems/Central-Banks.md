@@ -254,13 +254,13 @@ Central banks are controlled by their governing bodies, which are structured to 
 CENTRAL BANK GOVERNANCE STRUCTURE
 
                          +---------------------------+
-                         |   BOARD OF GOVERNORS     |
-                         |  (Policy direction)      |
+                         |   BOARD OF GOVERNORS      |
+                         |  (Policy direction)       |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |       GOVERNOR           |
-                         |  (Chief Executive)       |
+                         |       GOVERNOR            |
+                         |  (Chief Executive)        |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
