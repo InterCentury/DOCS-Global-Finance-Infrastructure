@@ -783,10 +783,10 @@ SERVICES PROVIDED TO BANKS
 
     SERVICE 5: COLLATERAL MANAGEMENT
     +-------------------------------------------------+
-    |  Accept eligible collateral                    |
-    |  Manage collateral pools                       |
-    |  Apply haircuts to collateral                  |
-    |  Ensure sufficient collateral for borrowing   |
+    |  Accept eligible collateral                     |
+    |  Manage collateral pools                        |
+    |  Apply haircuts to collateral                   |
+    |  Ensure sufficient collateral for borrowing     |
     +-------------------------------------------------+
 
     SERVICE 6: REGULATORY GUIDANCE
