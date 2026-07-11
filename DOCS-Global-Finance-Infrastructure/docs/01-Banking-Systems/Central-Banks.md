@@ -956,9 +956,9 @@ POLICY INTEREST RATE TRANSMISSION
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  LENDING RATES CHANGE    |                            |  DEPOSIT RATES CHANGE     |
-|  Mortgages, business     |                            |  Savings accounts, CDs   |
-|  loans, credit cards     |                            |                           |
+|  LENDING RATES CHANGE     |                            |  DEPOSIT RATES CHANGE     |
+|  Mortgages, business      |                            |  Savings accounts, CDs    |
+|  loans, credit cards      |                            |                           |
 +---------------------------+                            +---------------------------+
           │                                              │
           ▼                                              ▼
