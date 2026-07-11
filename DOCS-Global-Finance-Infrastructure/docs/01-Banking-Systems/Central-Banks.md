@@ -352,12 +352,12 @@ ORGANIZATIONAL STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  FINANCIAL STABILITY     |  |  INTERNATIONAL          |  |  COMMUNICATIONS          |
-|  DEPARTMENT              |  |  DEPARTMENT             |  |  DEPARTMENT              |
-|  - Systemic risk        |  |  - Foreign reserves     |  |  - Public affairs        |
-|  - Stress testing       |  |  - Swap lines          |  |  - Press releases        |
-|  - Macroprudential      |  |  - G20/IMF relations   |  |  - Speeches             |
-|  - Crisis management    |  |  - Foreign exchange    |  |  - Educational outreach   |
+|  FINANCIAL STABILITY      |  |  INTERNATIONAL            |  |  COMMUNICATIONS           |
+|  DEPARTMENT               |  |  DEPARTMENT               |  |  DEPARTMENT               |
+|  - Systemic risk          |  |  - Foreign reserves       |  |  - Public affairs         |
+|  - Stress testing         |  |  - Swap lines             |  |  - Press releases         |
+|  - Macroprudential        |  |  - G20/IMF relations      |  |  - Speeches               |
+|  - Crisis management      |  |  - Foreign exchange       |  |  - Educational outreach   |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
