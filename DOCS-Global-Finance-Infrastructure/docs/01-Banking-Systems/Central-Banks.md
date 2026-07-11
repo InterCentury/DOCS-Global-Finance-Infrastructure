@@ -791,10 +791,10 @@ SERVICES PROVIDED TO BANKS
 
     SERVICE 6: REGULATORY GUIDANCE
     +-------------------------------------------------+
-    |  Provide guidance on regulations               |
-    |  Interpret banking laws                        |
-    |  Offer supervisory feedback                    |
-    |  Support compliance efforts                    |
+    |  Provide guidance on regulations                |
+    |  Interpret banking laws                         |
+    |  Offer supervisory feedback                     |
+    |  Support compliance efforts                     |
     +-------------------------------------------------+
 ```
 
