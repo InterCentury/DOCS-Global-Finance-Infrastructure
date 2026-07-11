@@ -463,10 +463,10 @@ CENTRAL BANK MONEY CREATION
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  BROAD MONEY (M1/M2) INCREASES         |
-                    |  - Banks create deposits through       |
-                    |    lending                             |
-                    |  - Money supply expands               |
+                    |  BROAD MONEY (M1/M2) INCREASES          |
+                    |  - Banks create deposits through        |
+                    |    lending                              |
+                    |  - Money supply expands                 |
                     +-----------------------------------------+
 ```
 
