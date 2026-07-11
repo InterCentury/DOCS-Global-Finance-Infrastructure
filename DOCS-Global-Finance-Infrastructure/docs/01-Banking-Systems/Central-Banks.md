@@ -671,8 +671,8 @@ Central banks control commercial banks through four main channels: reserve requi
 CENTRAL BANK CONTROL OVER COMMERCIAL BANKS
 
                          +---------------------------+
-                         |  CENTRAL BANK CONTROLS   |
-                         |  COMMERCIAL BANKS        |
+                         |  CENTRAL BANK CONTROLS    |
+                         |  COMMERCIAL BANKS         |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
