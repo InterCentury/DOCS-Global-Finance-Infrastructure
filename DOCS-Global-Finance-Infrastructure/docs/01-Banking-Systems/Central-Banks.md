@@ -588,13 +588,13 @@ COMMERCIAL BANK MONEY CREATION
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  PHYSICAL CURRENCY       |                            |  DEPOSIT MONEY           |
-|  (Banknotes and coins)   |                            |  (Checking, savings)     |
+|  PHYSICAL CURRENCY        |                            |  DEPOSIT MONEY            |
+|  (Banknotes and coins)    |                            |  (Checking, savings)      |
 |                           |                            |                           |
-|  Created by:             |                            |  Created by:             |
-|  Central bank only       |                            |  Commercial banks        |
-|  Monopoly on issuance    |                            |  Through lending         |
-|  Government backing     |                            |  Fractional reserve      |
+|  Created by:              |                            |  Created by:              |
+|  Central bank only        |                            |  Commercial banks         |
+|  Monopoly on issuance     |                            |  Through lending          |
+|  Government backing       |                            |  Fractional reserve       |
 +---------------------------+                            +---------------------------+
           │                                              │
           ▼                                              ▼
