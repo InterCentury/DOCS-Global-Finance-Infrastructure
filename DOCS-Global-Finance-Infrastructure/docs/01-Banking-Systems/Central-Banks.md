@@ -714,8 +714,8 @@ Commercial banks need a central bank for four essential reasons: settlement, liq
 WHY BANKS NEED A CENTRAL BANK
 
                          +---------------------------+
-                         |  COMMERCIAL BANKS NEED   |
-                         |  A CENTRAL BANK FOR:     |
+                         |  COMMERCIAL BANKS NEED    |
+                         |  A CENTRAL BANK FOR:      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
@@ -724,9 +724,9 @@ WHY BANKS NEED A CENTRAL BANK
 +---------------------------+  +---------------------------+  +---------------------------+
 |  SETTLEMENT              |  |  LIQUIDITY               |  |  REGULATION              |
 |  - Final settlement      |  |  - Emergency funding    |  |  - Standards             |
-|  - No credit risk       |  |  - Discount window      |  |  - Examinations          |
-|  - RTGS system          |  |  - Prevents bank runs   |  |  - Enforcement           |
-|  - Reserve accounts     |  |  - Liquidity backstop   |  |  - Level playing field   |
+|  - No credit risk        |  |  - Discount window      |  |  - Examinations          |
+|  - RTGS system           |  |  - Prevents bank runs   |  |  - Enforcement           |
+|  - Reserve accounts      |  |  - Liquidity backstop   |  |  - Level playing field   |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
