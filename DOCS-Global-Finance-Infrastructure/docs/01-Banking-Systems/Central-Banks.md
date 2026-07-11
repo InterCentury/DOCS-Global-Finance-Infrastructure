@@ -952,23 +952,23 @@ POLICY INTEREST RATE TRANSMISSION
                     |  COMMERCIAL BANK FUNDING COSTS CHANGE   |
                     +-----------------------------------------+
                                        │
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  LENDING RATES CHANGE     |                            |  DEPOSIT RATES CHANGE     |
-|  Mortgages, business      |                            |  Savings accounts, CDs    |
-|  loans, credit cards      |                            |                           |
-+---------------------------+                            +---------------------------+
-          │                                              │
-          ▼                                              ▼
-+---------------------------+              +---------------------------+---------------------------+
-|  BORROWING COSTS         |              |  SAVING INCENTIVES         |
-|  Households & businesses  |              |  Higher rates encourage    |
-|  adjust behavior         |              |  saving                    |
-+---------------------------+              +---------------------------+---------------------------+
-          │                                              │
-          +----------------------------+-----------------+
+          +----------------------------+---------------------+
+          │                                                  │
+          ▼                                                  ▼
++---------------------------+                     +---------------------------+
+|  LENDING RATES CHANGE     |                     |  DEPOSIT RATES CHANGE     |
+|  Mortgages, business      |                     |  Savings accounts, CDs    |
+|  loans, credit cards      |                     |                           |
++---------------------------+                     +---------------------------+
+          │                                                  │
+          ▼                                                  ▼
++---------------------------+                     +---------------------------+
+|  BORROWING COSTS          |                     |  SAVING INCENTIVES        |
+|  Households & businesses  |                     |  Higher rates encourage   |
+|  adjust behavior          |                     |  saving                   |
++---------------------------+                     +---------------------------+
+          │                                                  │
+          +----------------------------+---------------------+
                                        │
                                        ▼
                     +-----------------------------------------+
