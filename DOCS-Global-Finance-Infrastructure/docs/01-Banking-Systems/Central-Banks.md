@@ -555,13 +555,13 @@ FIAT MONEY VALUE SOURCES
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  FIAT MONEY HAS VALUE BECAUSE:         |
-                    |  - Government decrees it              |
-                    |  - People believe in it               |
-                    |  - Supply is managed                  |
-                    |  - It functions as medium of          |
-                    |    exchange, unit of account, and     |
-                    |    store of value                    |
+                    |  FIAT MONEY HAS VALUE BECAUSE:          |
+                    |  - Government decrees it                |
+                    |  - People believe in it                 |
+                    |  - Supply is managed                    |
+                    |  - It functions as medium of            |
+                    |    exchange, unit of account, and       |
+                    |    store of value                       |
                     +-----------------------------------------+
 ```
 
