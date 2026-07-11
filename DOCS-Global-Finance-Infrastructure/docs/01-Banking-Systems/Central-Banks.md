@@ -971,16 +971,16 @@ POLICY INTEREST RATE TRANSMISSION
           +----------------------------+---------------------+
                                        │
                                        ▼
-                    +-----------------------------------------+
-                    |  SPENDING AND INVESTMENT CHANGES        |
-                    |  Aggregate demand adjusts               |
-                    +-----------------------------------------+
+                 +-----------------------------------------+
+                 |  SPENDING AND INVESTMENT CHANGES        |
+                 |  Aggregate demand adjusts               |
+                 +-----------------------------------------+
                                        │
                                        ▼
-                    +-----------------------------------------+
-                    |  INFLATION AND OUTPUT ADJUST            |
-                    |  Lag: 12-24 months                      |
-                    +-----------------------------------------+
+                 +-----------------------------------------+
+                 |  INFLATION AND OUTPUT ADJUST            |
+                 |  Lag: 12-24 months                      |
+                 +-----------------------------------------+
 ```
 
 ## 24. How Do Interest Rates Affect the Economy
