@@ -722,22 +722,22 @@ WHY BANKS NEED A CENTRAL BANK
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  SETTLEMENT              |  |  LIQUIDITY               |  |  REGULATION              |
-|  - Final settlement      |  |  - Emergency funding    |  |  - Standards             |
-|  - No credit risk        |  |  - Discount window      |  |  - Examinations          |
-|  - RTGS system           |  |  - Prevents bank runs   |  |  - Enforcement           |
-|  - Reserve accounts      |  |  - Liquidity backstop   |  |  - Level playing field   |
+|  SETTLEMENT               |  |  LIQUIDITY                |  |  REGULATION               |
+|  - Final settlement       |  |  - Emergency funding      |  |  - Standards              |
+|  - No credit risk         |  |  - Discount window        |  |  - Examinations           |
+|  - RTGS system            |  |  - Prevents bank runs     |  |  - Enforcement            |
+|  - Reserve accounts       |  |  - Liquidity backstop     |  |  - Level playing field    |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  CURRENCY                             |
-                    |  - Physical currency provision        |
-                    |  - Note issuance monopoly            |
-                    |  - Banknote exchange                 |
-                    |  - Maintains public confidence       |
+                    |  CURRENCY                               |
+                    |  - Physical currency provision          |
+                    |  - Note issuance monopoly               |
+                    |  - Banknote exchange                    |
+                    |  - Maintains public confidence          |
                     +-----------------------------------------+
 ```
 
