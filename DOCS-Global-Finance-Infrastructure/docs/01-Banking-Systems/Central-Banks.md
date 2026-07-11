@@ -1031,23 +1031,23 @@ How it works: When inflation rises above target, the central bank raises the pol
 INFLATION CONTROL MECHANISM
 
                          +---------------------------+
-                         |  INFLATION RISES         |
+                         |  INFLATION RISES          |
                          |  Above 2% target          |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK RESPONDS   |
-                         |  Raises policy rate      |
+                         |  CENTRAL BANK RESPONDS    |
+                         |  Raises policy rate       |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  HIGHER BORROWING COSTS  |
-                         |  Reduced spending        |
+                         |  HIGHER BORROWING COSTS   |
+                         |  Reduced spending         |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  SLOWER ECONOMIC GROWTH  |
-                         |  Reduced demand          |
+                         |  SLOWER ECONOMIC GROWTH   |
+                         |  Reduced demand           |
                          +-------------+-------------+
                                        |
                          +---------------------------+
