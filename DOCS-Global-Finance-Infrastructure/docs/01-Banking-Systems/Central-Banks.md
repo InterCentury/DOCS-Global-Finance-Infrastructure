@@ -437,10 +437,10 @@ CENTRAL BANK MONEY CREATION
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  OPEN MARKET PURCHASES    |  |  DISCOUNT WINDOW          |  |  QUANTITATIVE EASING     |
-|  - Buy bonds from banks   |  |  - Lend to banks          |  |  - Large asset purchases |
-|  - Credit reserves        |  |  - Credit reserves        |  |  - Massive reserves      |
-|  - Increase base money    |  |  - Penalty rate           |  |  - Crisis use           |
+|  OPEN MARKET PURCHASES    |  |  DISCOUNT WINDOW          |  |  QUANTITATIVE EASING      |
+|  - Buy bonds from banks   |  |  - Lend to banks          |  |  - Large asset purchases  |
+|  - Credit reserves        |  |  - Credit reserves        |  |  - Massive reserves       |
+|  - Increase base money    |  |  - Penalty rate           |  |  - Crisis use             |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
