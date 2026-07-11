@@ -398,17 +398,17 @@ CURRENCY ISSUANCE PROCESS
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  COMMERCIAL BANK HOLDS   |
+                         |  COMMERCIAL BANK HOLDS    |
                          |  Currency in vault/ATMs   |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CUSTOMER WITHDRAWS      |
+                         |  CUSTOMER WITHDRAWS       |
                          |  Cash from bank account   |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CURRENCY ENTERS         |
+                         |  CURRENCY ENTERS          |
                          |  Circulation              |
                          +---------------------------+
 ```
