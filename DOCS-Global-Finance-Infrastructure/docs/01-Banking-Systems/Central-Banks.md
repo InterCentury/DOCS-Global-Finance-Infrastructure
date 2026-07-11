@@ -853,9 +853,9 @@ How it works: The central bank adjusts the policy rate (the interest rate it pay
 MONETARY POLICY FRAMEWORK
 
                     +-----------------------------------------+
-                    |        MONETARY POLICY                 |
-                    |  Central bank actions to influence     |
-                    |  money, credit, and interest rates     |
+                    |        MONETARY POLICY                  |
+                    |  Central bank actions to influence      |
+                    |  money, credit, and interest rates      |
                     +-----------------------------------------+
                                        |
           +----------------------------+----------------------------+
