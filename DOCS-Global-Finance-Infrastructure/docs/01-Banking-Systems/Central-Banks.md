@@ -900,12 +900,12 @@ EXPANSIONARY VS CONTRACTIONARY POLICY
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  ACTIONS                  |  |  EFFECTS                  |  |  WHEN USED               |
-|  - Lower policy rate      |  |  - Lower borrowing cost   |  |  - Recession            |
-|  - Buy bonds (OMO)        |  |  - Increased spending     |  |  - High unemployment    |
-|  - Lower reserve req      |  |  - Higher investment      |  |  - Below target          |
-|  - Quantitative easing    |  |  - Money supply expands   |  |    inflation            |
-|  - Dovish guidance        |  |  - Inflation rises        |  |  - Slow growth          |
+|  ACTIONS                  |  |  EFFECTS                  |  |  WHEN USED                |
+|  - Lower policy rate      |  |  - Lower borrowing cost   |  |  - Recession              |
+|  - Buy bonds (OMO)        |  |  - Increased spending     |  |  - High unemployment      |
+|  - Lower reserve req      |  |  - Higher investment      |  |  - Below target           |
+|  - Quantitative easing    |  |  - Money supply expands   |  |    inflation              |
+|  - Dovish guidance        |  |  - Inflation rises        |  |  - Slow growth            |
 +---------------------------+  +---------------------------+  +---------------------------+
 
 
