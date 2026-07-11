@@ -938,18 +938,18 @@ How it works: The central bank announces a target for the policy rate. Commercia
 POLICY INTEREST RATE TRANSMISSION
 
                     +-----------------------------------------+
-                    |  CENTRAL BANK CHANGES POLICY RATE      |
+                    |  CENTRAL BANK CHANGES POLICY RATE       |
                     +-----------------------------------------+
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  INTERBANK LENDING RATE CHANGES        |
-                    |  (Federal Funds Rate, EONIA, SONIA)   |
+                    |  INTERBANK LENDING RATE CHANGES         |
+                    |  (Federal Funds Rate, EONIA, SONIA)     |
                     +-----------------------------------------+
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  COMMERCIAL BANK FUNDING COSTS CHANGE  |
+                    |  COMMERCIAL BANK FUNDING COSTS CHANGE   |
                     +-----------------------------------------+
                                        │
           +----------------------------+----------------------------+
