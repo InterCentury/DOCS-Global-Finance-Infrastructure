@@ -690,11 +690,11 @@ CENTRAL BANK CONTROL OVER COMMERCIAL BANKS
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  REGULATORY OVERSIGHT                  |
-                    |  - Examinations                        |
-                    |  - Capital standards                  |
-                    |  - Risk management                    |
-                    |  - Enforcement actions                |
+                    |  REGULATORY OVERSIGHT                   |
+                    |  - Examinations                         |
+                    |  - Capital standards                    |
+                    |  - Risk management                      |
+                    |  - Enforcement actions                  |
                     +-----------------------------------------+
 ```
 
