@@ -679,11 +679,11 @@ CENTRAL BANK CONTROL OVER COMMERCIAL BANKS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  RESERVE REQUIREMENTS    |  |  DISCOUNT WINDOW         |  |  OPEN MARKET             |
-|  - Set minimum reserves  |  |  - Set lending rate     |  |  OPERATIONS             |
-|  - Control multiplier    |  |  - Ceiling on rates    |  |  - Buy/sell securities   |
-|  - Influence lending    |  |  - Liquidity backstop  |  |  - Adjust reserves       |
-|  - Monetary policy tool  |  |  - Emergency funding   |  |  - Influence policy rate |
+|  RESERVE REQUIREMENTS     |  |  DISCOUNT WINDOW          |  |  OPEN MARKET              |
+|  - Set minimum reserves   |  |  - Set lending rate       |  |  OPERATIONS               |
+|  - Control multiplier     |  |  - Ceiling on rates       |  |  - Buy/sell securities    |
+|  - Influence lending      |  |  - Liquidity backstop     |  |  - Adjust reserves        |
+|  - Monetary policy tool   |  |  - Emergency funding      |  |  - Influence policy rate  |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
