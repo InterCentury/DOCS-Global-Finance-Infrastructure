@@ -862,12 +862,12 @@ MONETARY POLICY FRAMEWORK
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  OBJECTIVES              |  |  TOOLS                    |  |  TRANSMISSION            |
-|  - Price stability       |  |  - Policy rate           |  |  - Interbank rates       |
-|  - Maximum employment    |  |  - Open market ops      |  |  - Bank lending rates    |
-|  - Financial stability   |  |  - Reserve requirements   |  |  - Borrowing costs      |
-|  - Economic growth      |  |  - Discount window       |  |  - Spending/investment  |
-|                          |  |  - Forward guidance     |  |  - Inflation/output    |
+|  OBJECTIVES               |  |  TOOLS                    |  |  TRANSMISSION             |
+|  - Price stability        |  |  - Policy rate            |  |  - Interbank rates        |
+|  - Maximum employment     |  |  - Open market ops        |  |  - Bank lending rates     |
+|  - Financial stability    |  |  - Reserve requirements   |  |  - Borrowing costs        |
+|  - Economic growth        |  |  - Discount window        |  |  - Spending/investment    |
+|                           |  |  - Forward guidance       |  |  - Inflation/output       |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
