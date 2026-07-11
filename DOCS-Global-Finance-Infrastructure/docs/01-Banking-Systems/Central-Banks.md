@@ -544,11 +544,11 @@ FIAT MONEY VALUE SOURCES
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  LEGAL TENDER LAWS       |  |  SOCIAL TRUST            |  |  MANAGED SCARCITY        |
-|  - Must be accepted      |  |  - Everyone accepts it   |  |  - Central bank limits   |
-|    for debts             |  |  - Network effect        |  |    supply                |
-|  - Taxes payable in      |  |  - Past acceptance      |  |  - No over-issuance      |
-|    currency              |  |  - Collective belief    |  |  - Credible policy       |
+|  LEGAL TENDER LAWS        |  |  SOCIAL TRUST             |  |  MANAGED SCARCITY         |
+|  - Must be accepted       |  |  - Everyone accepts it    |  |  - Central bank limits    |
+|    for debts              |  |  - Network effect         |  |    supply                 |
+|  - Taxes payable in       |  |  - Past acceptance        |  |  - No over-issuance       |
+|    currency               |  |  - Collective belief      |  |  - Credible policy        |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
