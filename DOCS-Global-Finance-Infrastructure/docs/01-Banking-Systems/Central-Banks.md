@@ -823,12 +823,12 @@ BANK-CENTRAL BANK COMMUNICATION
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  RESERVE ACCOUNT         |  |  REGULATORY REPORTING    |  |  PAYMENT SYSTEM          |
-|  (Daily)                 |  |  (Monthly/Quarterly)     |  |  (Real-time)            |
-|  - Balance monitoring    |  |  - Financial statements  |  |  - RTGS instructions    |
-|  - Reserve transfers     |  |  - Capital reporting    |  |  - Payment queues       |
-|  - Interest accrual      |  |  - Liquidity reporting  |  |  - Settlement           |
-|  - Intraday monitoring   |  |  - Stress test results  |  |  - Intraday credit      |
+|  RESERVE ACCOUNT          |  |  REGULATORY REPORTING     |  |  PAYMENT SYSTEM           |
+|  (Daily)                  |  |  (Monthly/Quarterly)      |  |  (Real-time)              |
+|  - Balance monitoring     |  |  - Financial statements   |  |  - RTGS instructions      |
+|  - Reserve transfers      |  |  - Capital reporting      |  |  - Payment queues         |
+|  - Interest accrual       |  |  - Liquidity reporting    |  |  - Settlement             |
+|  - Intraday monitoring    |  |  - Stress test results    |  |  - Intraday credit        |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
