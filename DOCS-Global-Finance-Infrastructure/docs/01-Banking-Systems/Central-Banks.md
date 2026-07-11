@@ -387,12 +387,12 @@ CURRENCY ISSUANCE PROCESS
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK DEBITS     |
+                         |  CENTRAL BANK DEBITS      |
                          |  Bank's reserve account   |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK SHIPS      |
+                         |  CENTRAL BANK SHIPS       |
                          |  Currency to commercial   |
                          |  bank                     |
                          +-------------+-------------+
