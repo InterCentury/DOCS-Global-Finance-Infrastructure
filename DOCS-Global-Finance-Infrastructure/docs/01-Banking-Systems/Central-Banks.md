@@ -456,9 +456,9 @@ CENTRAL BANK MONEY CREATION
                                        ▼
                     +-----------------------------------------+
                     |  COMMERCIAL BANKS HAVE MORE RESERVES    |
-                    |  - Excess reserves increase            |
-                    |  - Lending capacity expands            |
-                    |  - Money multiplier effect            |
+                    |  - Excess reserves increase             |
+                    |  - Lending capacity expands             |
+                    |  - Money multiplier effect              |
                     +-----------------------------------------+
                                        │
                                        ▼
