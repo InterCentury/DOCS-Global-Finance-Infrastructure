@@ -647,11 +647,11 @@ HOW A CENTRAL BANK WORKS
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  ECONOMY RESPONDS:                     |
-                    |  - Interest rates change              |
-                    |  - Borrowing and spending adjust      |
-                    |  - Inflation moves toward target      |
-                    |  - Growth stabilizes                  |
+                    |  ECONOMY RESPONDS:                      |
+                    |  - Interest rates change                |
+                    |  - Borrowing and spending adjust        |
+                    |  - Inflation moves toward target        |
+                    |  - Growth stabilizes                    |
                     +-----------------------------------------+
 ```
 
