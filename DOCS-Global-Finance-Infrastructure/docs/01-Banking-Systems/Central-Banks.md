@@ -1051,8 +1051,8 @@ INFLATION CONTROL MECHANISM
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  INFLATION DECLINES      |
-                         |  Toward 2% target        |
+                         |  INFLATION DECLINES       |
+                         |  Toward 2% target         |
                          +-------------+-------------+
                                        |
                          +---------------------------+
