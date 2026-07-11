@@ -910,7 +910,7 @@ EXPANSIONARY VS CONTRACTIONARY POLICY
 
 
                          +---------------------------+
-                         |  CONTRACTIONARY POLICY   |
+                         |  CONTRACTIONARY POLICY    |
                          |  (Tightening)             |
                          +-------------+-------------+
                                        |
@@ -918,13 +918,13 @@ EXPANSIONARY VS CONTRACTIONARY POLICY
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  ACTIONS                 |  |  EFFECTS                  |  |  WHEN USED               |
-|  - Raise policy rate    |  |  - Higher borrowing cost  |  |  - High inflation        |
-|  - Sell bonds (OMO)    |  |  - Reduced spending       |  |  - Overheating          |
-|  - Raise reserve req   |  |  - Lower investment       |  |  - Asset bubbles        |
-|  - Quantitative         |  |  - Money supply contracts |  |  - Wage inflation       |
-|    tightening          |  |  - Inflation falls        |  |  - Above target          |
-|  - Hawkish guidance    |  |  - Growth slows          |  |    inflation            |
+|  ACTIONS                  |  |  EFFECTS                  |  |  WHEN USED               |
+|  - Raise policy rate      |  |  - Higher borrowing cost  |  |  - High inflation        |
+|  - Sell bonds (OMO)       |  |  - Reduced spending       |  |  - Overheating          |
+|  - Raise reserve req      |  |  - Lower investment       |  |  - Asset bubbles        |
+|  - Quantitative           |  |  - Money supply contracts |  |  - Wage inflation       |
+|    tightening             |  |  - Inflation falls        |  |  - Above target          |
+|  - Hawkish guidance       |  |  - Growth slows          |  |    inflation            |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
