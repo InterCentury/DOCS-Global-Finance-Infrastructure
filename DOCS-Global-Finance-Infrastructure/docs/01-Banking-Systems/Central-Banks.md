@@ -775,10 +775,10 @@ SERVICES PROVIDED TO BANKS
 
     SERVICE 4: LIQUIDITY FACILITIES
     +-------------------------------------------------+
-    |  Discount window for emergency borrowing       |
-    |  Standing lending facilities                   |
-    |  Intraday credit for payment processing       |
-    |  Collateralized borrowing                     |
+    |  Discount window for emergency borrowing        |
+    |  Standing lending facilities                    |
+    |  Intraday credit for payment processing         |
+    |  Collateralized borrowing                       |
     +-------------------------------------------------+
 
     SERVICE 5: COLLATERAL MANAGEMENT
