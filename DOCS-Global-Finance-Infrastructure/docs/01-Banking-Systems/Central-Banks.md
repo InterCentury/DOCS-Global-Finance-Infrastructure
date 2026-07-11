@@ -494,11 +494,11 @@ CENTRAL BANK MONEY DESTRUCTION
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  OPEN MARKET SALES       |  |  DISCOUNT WINDOW         |  |  QUANTITATIVE            |
-|  - Sell bonds to banks   |  |  REPAYMENT              |  |  TIGHTENING             |
-|  - Debit reserves        |  |  - Banks repay loans    |  |  - Maturing bonds       |
-|  - Decrease base money   |  |  - Debit reserves      |  |    not reinvested       |
-|                           |  |                         |  |  - Active asset sales  |
+|  OPEN MARKET SALES        |  |  DISCOUNT WINDOW          |  |  QUANTITATIVE             |
+|  - Sell bonds to banks    |  |  REPAYMENT                |  |  TIGHTENING               |
+|  - Debit reserves         |  |  - Banks repay loans      |  |  - Maturing bonds         |
+|  - Decrease base money    |  |  - Debit reserves         |  |    not reinvested         |
+|                           |  |                           |  |  - Active asset sales     |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
