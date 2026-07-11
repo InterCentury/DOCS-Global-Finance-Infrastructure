@@ -514,16 +514,16 @@ CENTRAL BANK MONEY DESTRUCTION
                                        ▼
                     +-----------------------------------------+
                     |  COMMERCIAL BANKS HAVE FEWER RESERVES   |
-                    |  - Excess reserves decrease            |
+                    |  - Excess reserves decrease             |
                     |  - Lending capacity contracts           |
-                    |  - Money multiplier effect reversed    |
+                    |  - Money multiplier effect reversed     |
                     +-----------------------------------------+
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  BROAD MONEY (M1/M2) DECREASES         |
-                    |  - Banks create fewer deposits         |
-                    |  - Money supply contracts              |
+                    |  BROAD MONEY (M1/M2) DECREASES          |
+                    |  - Banks create fewer deposits          |
+                    |  - Money supply contracts               |
                     +-----------------------------------------+
 ```
 
