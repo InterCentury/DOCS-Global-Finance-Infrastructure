@@ -816,7 +816,7 @@ Banks communicate with the central bank through multiple channels for various pu
 BANK-CENTRAL BANK COMMUNICATION
 
                          +---------------------------+
-                         |  COMMUNICATION CHANNELS  |
+                         |  COMMUNICATION CHANNELS   |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
