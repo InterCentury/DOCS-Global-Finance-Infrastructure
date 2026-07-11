@@ -1001,10 +1001,10 @@ Interest rates affect the economy through multiple channels, influencing borrowi
 INTEREST RATE EFFECTS
 
                          +---------------------------+
-                         |  INTEREST RATE CHANGES   |
-                         |  Affect the Economy      |
-                         |  Through Multiple        |
-                         |  Channels               |
+                         |  INTEREST RATE CHANGES    |
+                         |  Affect the Economy       |
+                         |  Through Multiple         |
+                         |  Channels                 |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
