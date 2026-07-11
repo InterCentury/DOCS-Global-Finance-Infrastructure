@@ -371,18 +371,18 @@ How it works: The central bank prints banknotes and mints coins. These are distr
 CURRENCY ISSUANCE PROCESS
 
                          +---------------------------+
-                         |  CENTRAL BANK DECIDES    |
+                         |  CENTRAL BANK DECIDES     |
                          |  Currency needed          |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK PRINTS     |
-                         |  Banknotes and mints    |
-                         |  coins                   |
+                         |  CENTRAL BANK PRINTS      |
+                         |  Banknotes and mints      |
+                         |  coins                    |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  COMMERCIAL BANK         |
+                         |  COMMERCIAL BANK          |
                          |  Requests currency        |
                          +-------------+-------------+
                                        |
