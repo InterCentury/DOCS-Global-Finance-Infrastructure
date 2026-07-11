@@ -750,11 +750,11 @@ SERVICES PROVIDED TO BANKS
 
     SERVICE 1: RESERVE ACCOUNTS
     +-------------------------------------------------+
-    |  Each commercial bank has a reserve account    |
-    |  at the central bank                           |
-    |  Used for settlement and holding reserves     |
-    |  Digital accounts, no physical cash            |
-    |  Interest is paid on balances (IORB)          |
+    |  Each commercial bank has a reserve account     |
+    |  at the central bank                            |
+    |  Used for settlement and holding reserves       |
+    |  Digital accounts, no physical cash             |
+    |  Interest is paid on balances (IORB)            |
     +-------------------------------------------------+
 
     SERVICE 2: PAYMENT SETTLEMENT
