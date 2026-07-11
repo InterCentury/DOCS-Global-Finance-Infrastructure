@@ -768,9 +768,9 @@ SERVICES PROVIDED TO BANKS
     SERVICE 3: CURRENCY PROVISION
     +-------------------------------------------------+
     |  Banks exchange reserves for physical currency  |
-    |  Currency distributed to branches and ATMs     |
-    |  Damaged notes can be exchanged                |
-    |  Maintains public confidence in currency       |
+    |  Currency distributed to branches and ATMs      |
+    |  Damaged notes can be exchanged                 |
+    |  Maintains public confidence in currency        |
     +-------------------------------------------------+
 
     SERVICE 4: LIQUIDITY FACILITIES
