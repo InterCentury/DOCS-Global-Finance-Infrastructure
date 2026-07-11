@@ -429,8 +429,8 @@ Central banks create base money (M0) through several mechanisms. This is the fou
 CENTRAL BANK MONEY CREATION
 
                          +---------------------------+
-                         |  CENTRAL BANK MONEY      |
-                         |  CREATION MECHANISMS     |
+                         |  CENTRAL BANK MONEY       |
+                         |  CREATION MECHANISMS      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
