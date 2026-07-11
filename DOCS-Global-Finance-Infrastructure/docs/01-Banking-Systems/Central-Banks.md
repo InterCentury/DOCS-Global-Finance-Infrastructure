@@ -759,10 +759,10 @@ SERVICES PROVIDED TO BANKS
 
     SERVICE 2: PAYMENT SETTLEMENT
     +-------------------------------------------------+
-    |  RTGS system processes interbank payments      |
-    |  Settlement is final and irrevocable           |
-    |  No credit risk between banks                  |
-    |  Real-time processing                         |
+    |  RTGS system processes interbank payments       |
+    |  Settlement is final and irrevocable            |
+    |  No credit risk between banks                   |
+    |  Real-time processing                           |
     +-------------------------------------------------+
 
     SERVICE 3: CURRENCY PROVISION
