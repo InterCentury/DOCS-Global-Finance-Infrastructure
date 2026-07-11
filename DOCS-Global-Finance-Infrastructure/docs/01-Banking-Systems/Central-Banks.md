@@ -1056,8 +1056,8 @@ INFLATION CONTROL MECHANISM
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK MONITORS   |
-                         |  Adjusts policy          |
+                         |  CENTRAL BANK MONITORS    |
+                         |  Adjusts policy           |
                          +-------------+-------------+
 ```
 
@@ -1071,20 +1071,20 @@ How it works: When deflation threatens, the central bank first cuts rates to zer
 DEFLATION CONTROL MECHANISM
 
                          +---------------------------+
-                         |  DEFLATION THREATENS     |
+                         |  DEFLATION THREATENS      |
                          |  Prices falling           |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CUT RATES TO ZERO       |
+                         |  CUT RATES TO ZERO        |
                          |  Conventional policy      |
                          |  exhausted                |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  QUANTITATIVE EASING     |
-                         |  Buy assets, inject      |
-                         |  liquidity              |
+                         |  QUANTITATIVE EASING      |
+                         |  Buy assets, inject       |
+                         |  liquidity                |
                          +-------------+-------------+
                                        |
                          +---------------------------+
