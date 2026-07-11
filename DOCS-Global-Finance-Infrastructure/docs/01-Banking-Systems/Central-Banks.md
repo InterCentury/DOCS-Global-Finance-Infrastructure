@@ -486,8 +486,8 @@ Central banks destroy money through the reverse of the creation mechanisms. This
 CENTRAL BANK MONEY DESTRUCTION
 
                          +---------------------------+
-                         |  CENTRAL BANK MONEY      |
-                         |  DESTRUCTION MECHANISMS  |
+                         |  CENTRAL BANK MONEY       |
+                         |  DESTRUCTION MECHANISMS   |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
