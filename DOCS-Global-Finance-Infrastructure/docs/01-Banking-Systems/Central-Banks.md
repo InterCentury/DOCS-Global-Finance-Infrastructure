@@ -638,11 +638,11 @@ HOW A CENTRAL BANK WORKS
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  COMMERCIAL BANKS RESPOND:             |
-                    |  - Adjust lending rates               |
-                    |  - Modify lending standards           |
-                    |  - Manage reserves                    |
-                    |  - Transmit policy to economy         |
+                    |  COMMERCIAL BANKS RESPOND:              |
+                    |  - Adjust lending rates                 |
+                    |  - Modify lending standards             |
+                    |  - Manage reserves                      |
+                    |  - Transmit policy to economy           |
                     +-----------------------------------------+
                                        │
                                        ▼
