@@ -837,9 +837,9 @@ BANK-CENTRAL BANK COMMUNICATION
                     +-----------------------------------------+
                     |  DISCOUNT WINDOW / SUPERVISION          |
                     |  - Emergency liquidity requests         |
-                    |  - On-site examinations                |
-                    |  - Enforcement actions                 |
-                    |  - Regulatory guidance                 |
+                    |  - On-site examinations                 |
+                    |  - Enforcement actions                  |
+                    |  - Regulatory guidance                  |
                     +-----------------------------------------+
 ```
 
