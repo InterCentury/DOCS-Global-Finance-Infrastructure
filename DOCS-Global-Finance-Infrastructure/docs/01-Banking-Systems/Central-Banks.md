@@ -815,13 +815,13 @@ Banks communicate with the central bank through multiple channels for various pu
 ```
 BANK-CENTRAL BANK COMMUNICATION
 
-                         +---------------------------+
-                         |  COMMUNICATION CHANNELS   |
-                         +-------------+-------------+
-                                       |
-          +----------------------------+----------------------------+
-          │                            │                            │
-          ▼                            ▼                            ▼
+                              +---------------------------+
+                              |  COMMUNICATION CHANNELS   |
+                              +-------------+-------------+
+                                            |
+               +----------------------------+----------------------------+
+               │                            │                            │
+               ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
 |  RESERVE ACCOUNT          |  |  REGULATORY REPORTING     |  |  PAYMENT SYSTEM           |
 |  (Daily)                  |  |  (Monthly/Quarterly)      |  |  (Real-time)              |
@@ -830,10 +830,10 @@ BANK-CENTRAL BANK COMMUNICATION
 |  - Interest accrual       |  |  - Liquidity reporting    |  |  - Settlement             |
 |  - Intraday monitoring    |  |  - Stress test results    |  |  - Intraday credit        |
 +---------------------------+  +---------------------------+  +---------------------------+
-          │                            │                            │
-          +----------------------------+----------------------------+
-                                       │
-                                       ▼
+               │                            │                            │
+               +----------------------------+----------------------------+
+                                            │
+                                            ▼
                     +-----------------------------------------+
                     |  DISCOUNT WINDOW / SUPERVISION          |
                     |  - Emergency liquidity requests         |
