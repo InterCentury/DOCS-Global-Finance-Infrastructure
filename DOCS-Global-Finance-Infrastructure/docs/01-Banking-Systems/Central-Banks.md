@@ -874,9 +874,9 @@ MONETARY POLICY FRAMEWORK
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  GOAL: Achieve 2% inflation target     |
-                    |  Support sustainable economic growth   |
-                    |  Maintain financial stability          |
+                    |  GOAL: Achieve 2% inflation target      |
+                    |  Support sustainable economic growth    |
+                    |  Maintain financial stability           |
                     +-----------------------------------------+
 ```
 
