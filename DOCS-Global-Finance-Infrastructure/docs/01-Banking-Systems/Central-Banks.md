@@ -1011,13 +1011,13 @@ INTEREST RATE EFFECTS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  LOWER RATES             |  |  HIGHER RATES            |  |  EFFECTS                 |
-|  - Encourage borrowing   |  |  - Discourage borrowing  |  |  - Consumer spending     |
-|  - Stimulate spending    |  |  - Reduce spending      |  |  - Business investment   |
-|  - Boost investment     |  |  - Reduce investment    |  |  - Housing market        |
-|  - Weaken currency      |  |  - Strengthen currency  |  |  - Exchange rates       |
-|  - Raise asset prices   |  |  - Lower asset prices   |  |  - Asset prices         |
-|  - Increase inflation   |  |  - Decrease inflation   |  |  - Inflation            |
+|  LOWER RATES              |  |  HIGHER RATES             |  |  EFFECTS                  |
+|  - Encourage borrowing    |  |  - Discourage borrowing   |  |  - Consumer spending      |
+|  - Stimulate spending     |  |  - Reduce spending        |  |  - Business investment    |
+|  - Boost investment       |  |  - Reduce investment      |  |  - Housing market         |
+|  - Weaken currency        |  |  - Strengthen currency    |  |  - Exchange rates         |
+|  - Raise asset prices     |  |  - Lower asset prices     |  |  - Asset prices           |
+|  - Increase inflation     |  |  - Decrease inflation     |  |  - Inflation              |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
