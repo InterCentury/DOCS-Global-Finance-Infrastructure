@@ -627,11 +627,11 @@ HOW A CENTRAL BANK WORKS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  MONETARY POLICY         |  |  BANKING SUPERVISION     |  |  PAYMENT SYSTEM          |
-|  - Set policy rate       |  |  - Regulate banks       |  |  - Operate RTGS          |
-|  - Control money supply  |  |  - Enforce capital      |  |  - Hold reserves         |
-|  - Manage inflation      |  |    requirements         |  |  - Settle payments       |
-|  - Influence economy     |  |  - Conduct exams       |  |  - Ensure finality       |
+|  MONETARY POLICY          |  |  BANKING SUPERVISION     |  |  PAYMENT SYSTEM          |
+|  - Set policy rate        |  |  - Regulate banks       |  |  - Operate RTGS          |
+|  - Control money supply   |  |  - Enforce capital      |  |  - Hold reserves         |
+|  - Manage inflation       |  |    requirements         |  |  - Settle payments       |
+|  - Influence economy      |  |  - Conduct exams       |  |  - Ensure finality       |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
