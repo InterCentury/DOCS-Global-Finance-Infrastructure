@@ -1254,7 +1254,7 @@ How it works: Banks facing temporary liquidity shortages can borrow from the dis
 DISCOUNT WINDOW STRUCTURE
 
                          +---------------------------+
-                         |  DISCOUNT WINDOW         |
+                         |  DISCOUNT WINDOW          |
                          |  Central bank lending     |
                          |  to commercial banks      |
                          +-------------+-------------+
@@ -1263,12 +1263,12 @@ DISCOUNT WINDOW STRUCTURE
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  PRIMARY CREDIT          |                            |  SECONDARY CREDIT         |
-|  (For sound institutions)|                            |  (For weaker institutions) |
-|  - Rate: Policy + 0.50% |                            |  - Rate: Policy + 1.00%   |
-|  - Overnight to 90 days  |                            |  - Shorter terms          |
-|  - No questions asked   |                            |  - Greater restrictions   |
-|    for first 90 days    |                            |                           |
+|  PRIMARY CREDIT           |                            |  SECONDARY CREDIT         |
+|  (For sound institutions) |                            |  (For weaker institutions) |
+|  - Rate: Policy + 0.50%   |                            |  - Rate: Policy + 1.00%   |
+|  - Overnight to 90 days   |                            |  - Shorter terms          |
+|  - No questions asked     |                            |  - Greater restrictions   |
+|    for first 90 days      |                            |                           |
 +---------------------------+                            +---------------------------+
 ```
 
