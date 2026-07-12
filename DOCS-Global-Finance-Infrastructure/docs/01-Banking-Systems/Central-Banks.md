@@ -1156,8 +1156,8 @@ How it works: Each commercial bank has a reserve account at the central bank. Th
 RESERVE ACCOUNT STRUCTURE
 
                          +---------------------------+
-                         |  RESERVE ACCOUNTS AT     |
-                         |  CENTRAL BANK            |
+                         |  RESERVE ACCOUNTS AT      |
+                         |  CENTRAL BANK             |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
