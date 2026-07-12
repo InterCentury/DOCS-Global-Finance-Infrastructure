@@ -1308,17 +1308,17 @@ How it works: The central bank creates new reserves to purchase long-term govern
 QUANTITATIVE EASING PROCESS
 
                          +---------------------------+
-                         |  QE PROCESS              |
+                         |  QE PROCESS               |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK CREATES    |
-                         |  New reserves            |
+                         |  CENTRAL BANK CREATES     |
+                         |  New reserves             |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK BUYS       |
-                         |  Long-term bonds         |
+                         |  CENTRAL BANK BUYS        |
+                         |  Long-term bonds          |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
