@@ -1454,19 +1454,19 @@ How it works: In a crisis, the central bank lends freely to solvent banks that c
 LENDER OF LAST RESORT PRINCIPLES
 
                          +---------------------------+
-                         |  BAGEHOT'S PRINCIPLES    |
-                         |  (1873)                  |
+                         |  BAGEHOT'S PRINCIPLES     |
+                         |  (1873)                   |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  1. LEND FREELY           |  |  2. AT A PENALTY RATE    |  |  3. AGAINST GOOD         |
-|  Do not restrict         |  |  Charge above market     |  |  COLLATERAL              |
-|  lending during a panic  |  |  rates to discourage    |  |  Accept high-quality     |
-|                           |  |  overuse                |  |  assets to protect       |
-|                           |  |                         |  |  central bank           |
+|  1. LEND FREELY           |  |  2. AT A PENALTY RATE     |  |  3. AGAINST GOOD          |
+|  Do not restrict          |  |  Charge above market      |  |  COLLATERAL               |
+|  lending during a panic   |  |  rates to discourage      |  |  Accept high-quality      |
+|                           |  |  overuse                  |  |  assets to protect        |
+|                           |  |                           |  |  central bank             |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
@@ -1474,8 +1474,8 @@ LENDER OF LAST RESORT PRINCIPLES
                                        ▼
                     +-----------------------------------------+
                     |  4. TO SOLVENT BUT ILLIQUID             |
-                    |  INSTITUTIONS                          |
-                    |  Do not lend to insolvent banks       |
+                    |  INSTITUTIONS                           |
+                    |  Do not lend to insolvent banks         |
                     +-----------------------------------------+
 ```
 
