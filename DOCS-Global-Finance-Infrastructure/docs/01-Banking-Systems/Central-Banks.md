@@ -1100,9 +1100,9 @@ DEFLATION CONTROL MECHANISM
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  INFLATION EXPECTATIONS  |
-                         |  Rise, spending          |
-                         |  increases              |
+                         |  INFLATION EXPECTATIONS   |
+                         |  Rise, spending           |
+                         |  increases                |
                          +-------------+-------------+
 ```
 
