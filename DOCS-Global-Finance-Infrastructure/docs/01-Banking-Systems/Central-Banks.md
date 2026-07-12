@@ -1164,12 +1164,12 @@ RESERVE ACCOUNT STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  KEY FEATURES            |  |  USED FOR:               |  |  CHARACTERISTICS          |
-|  - Digital (no cash)    |  |  - Interbank settlement  |  |  - No credit risk        |
-|  - Interest-bearing     |  |  - Reserve requirements  |  |  - Central bank          |
-|    (IORB)               |  |  - Excess liquidity     |  |    liability             |
-|  - Real-time            |  |  - Payment processing   |  |  - Most liquid asset     |
-|    transferable        |  |  - Withdrawal demand    |  |  - Base money            |
+|  KEY FEATURES             |  |  USED FOR:                |  |  CHARACTERISTICS          |
+|  - Digital (no cash)      |  |  - Interbank settlement   |  |  - No credit risk         |
+|  - Interest-bearing       |  |  - Reserve requirements   |  |  - Central bank           |
+|    (IORB)                 |  |  - Excess liquidity       |  |    liability              |
+|  - Real-time              |  |  - Payment processing     |  |  - Most liquid asset      |
+|    transferable           |  |  - Withdrawal demand      |  |  - Base money             |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
