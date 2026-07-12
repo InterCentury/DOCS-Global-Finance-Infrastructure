@@ -1395,8 +1395,8 @@ How it works: Banks with excess reserves lend to banks with reserve shortfalls o
 OVERNIGHT LENDING RATE
 
                          +---------------------------+
-                         |  BANK WITH EXCESS        |
-                         |  RESERVES               |
+                         |  BANK WITH EXCESS         |
+                         |  RESERVES                 |
                          +-------------+-------------+
                                        |
                          +---------------------------+
@@ -1405,13 +1405,13 @@ OVERNIGHT LENDING RATE
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  BANK WITH SHORTFALL     |
-                         |  RESERVES               |
+                         |  BANK WITH SHORTFALL      |
+                         |  RESERVES                 |
                          +-------------+-------------+
                                        |
                          +---------------------------+
                          |  RATE STAYS NEAR          |
-                         |  Central bank target     |
+                         |  Central bank target      |
                          +-------------+-------------+
 ```
 
