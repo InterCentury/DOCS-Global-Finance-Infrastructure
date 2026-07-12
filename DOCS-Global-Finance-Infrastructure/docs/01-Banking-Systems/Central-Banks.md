@@ -1335,10 +1335,10 @@ QUANTITATIVE EASING PROCESS
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  LOWER BORROWING COSTS                 |
-                    |  Wealth effect increases spending      |
-                    |  Asset prices rise                    |
-                    |  Aggregate demand increases            |
+                    |  LOWER BORROWING COSTS                  |
+                    |  Wealth effect increases spending       |
+                    |  Asset prices rise                      |
+                    |  Aggregate demand increases             |
                     +-----------------------------------------+
 ```
 
