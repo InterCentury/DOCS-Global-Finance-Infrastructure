@@ -1433,14 +1433,14 @@ FINANCIAL STABILITY TOOLS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  MACROPRUDENTIAL          |  |  SYSTEMIC RISK            |  |  CRISIS MANAGEMENT       |
+|  MACROPRUDENTIAL          |  |  SYSTEMIC RISK            |  |  CRISIS MANAGEMENT        |
 |  TOOLS                    |  |  MONITORING               |  |                           |
-|  - Countercyclical        |  |  - Stress testing         |  |  - Lender of last        |
-|    capital buffers        |  |  - Systemic risk          |  |    resort               |
+|  - Countercyclical        |  |  - Stress testing         |  |  - Lender of last         |
+|    capital buffers        |  |  - Systemic risk          |  |    resort                 |
 |  - LTV limits             |  |    indicators             |  |  - Emergency facilities   |
-|  - DTI limits             |  |  - Interconnectedness     |  |  - Systemic risk         |
-|  - Sectoral capital       |  |  - Concentration risk     |  |    exception           |
-|    requirements           |  |  - Market monitoring      |  |  - Recapitalization      |
+|  - DTI limits             |  |  - Interconnectedness     |  |  - Systemic risk          |
+|  - Sectoral capital       |  |  - Concentration risk     |  |    exception              |
+|    requirements           |  |  - Market monitoring      |  |  - Recapitalization       |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
