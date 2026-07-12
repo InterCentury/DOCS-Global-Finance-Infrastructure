@@ -1228,19 +1228,19 @@ Banks hold reserves for three primary reasons: to meet regulatory requirements, 
 WHY BANKS HOLD RESERVES
 
                          +---------------------------+
-                         |  BANKS HOLD RESERVES     |
-                         |  FOR THREE REASONS       |
+                         |  BANKS HOLD RESERVES      |
+                         |  FOR THREE REASONS        |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  REGULATORY              |  |  PAYMENT SETTLEMENT      |  |  LIQUIDITY BUFFER        |
-|  REQUIREMENT             |  |  - RTGS processing      |  |  - Unexpected outflows   |
-|  - Meet required ratio   |  |  - Interbank payments  |  |  - Withdrawal demands   |
-|  - Avoid penalties       |  |  - Final settlement    |  |  - Prevents crises      |
-|  - Comply with law       |  |  - No credit risk     |  |  - Provides confidence   |
+|  REGULATORY               |  |  PAYMENT SETTLEMENT      |  |  LIQUIDITY BUFFER        |
+|  REQUIREMENT              |  |  - RTGS processing      |  |  - Unexpected outflows   |
+|  - Meet required ratio    |  |  - Interbank payments  |  |  - Withdrawal demands   |
+|  - Avoid penalties        |  |  - Final settlement    |  |  - Prevents crises      |
+|  - Comply with law        |  |  - No credit risk     |  |  - Provides confidence   |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
