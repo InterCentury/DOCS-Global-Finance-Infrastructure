@@ -1352,17 +1352,17 @@ How it works: As bonds mature, the central bank does not reinvest the proceeds. 
 QUANTITATIVE TIGHTENING PROCESS
 
                          +---------------------------+
-                         |  QT PROCESS              |
+                         |  QT PROCESS               |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  BONDS MATURE OR         |
-                         |  Central bank sells      |
+                         |  BONDS MATURE OR          |
+                         |  Central bank sells       |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  PROCEEDS NOT REINVESTED |
-                         |  Reserves removed        |
+                         |  PROCEEDS NOT REINVESTED  |
+                         |  Reserves removed         |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
