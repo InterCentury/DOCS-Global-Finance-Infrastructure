@@ -1325,10 +1325,10 @@ QUANTITATIVE EASING PROCESS
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  BOND PRICES RISE        |                            |  PORTFOLIO REBALANCING   |
-|  Yields fall             |                            |  Investors buy riskier    |
+|  BOND PRICES RISE         |                            |  PORTFOLIO REBALANCING    |
+|  Yields fall              |                            |  Investors buy riskier    |
 |                           |                            |  assets (stocks,          |
-|                           |                            |  corporate bonds)        |
+|                           |                            |  corporate bonds)         |
 +---------------------------+                            +---------------------------+
           │                                              │
           +----------------------------+-----------------+
