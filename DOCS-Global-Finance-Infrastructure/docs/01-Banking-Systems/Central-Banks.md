@@ -1116,33 +1116,33 @@ How it works: By maintaining price stability (low inflation) and financial stabi
 ECONOMIC GROWTH INFLUENCE
 
                          +---------------------------+
-                         |  PRICE STABILITY         |
-                         |  2% inflation anchor     |
+                         |  PRICE STABILITY          |
+                         |  2% inflation anchor      |
                          |  Predictable environment  |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  LOW INTEREST RATES      |
-                         |  (When appropriate)      |
-                         |  Encourages investment   |
+                         |  LOW INTEREST RATES       |
+                         |  (When appropriate)       |
+                         |  Encourages investment    |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  FINANCIAL STABILITY     |
-                         |  No banking crises       |
-                         |  Payment system works    |
+                         |  FINANCIAL STABILITY      |
+                         |  No banking crises        |
+                         |  Payment system works     |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CONFIDENCE              |
-                         |  Consumers and           |
-                         |  businesses invest       |
+                         |  CONFIDENCE               |
+                         |  Consumers and            |
+                         |  businesses invest        |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  SUSTAINABLE GROWTH     |
-                         |  Long-term expansion    |
-                         |  High employment        |
+                         |  SUSTAINABLE GROWTH       |
+                         |  Long-term expansion      |
+                         |  High employment          |
                          +-------------+-------------+
 ```
 
