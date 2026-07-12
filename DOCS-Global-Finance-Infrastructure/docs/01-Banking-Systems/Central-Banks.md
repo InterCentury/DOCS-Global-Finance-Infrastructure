@@ -1198,9 +1198,9 @@ RESERVE REQUIREMENT CALCULATION
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  EXAMPLE 1: 10%          |                            |  EXAMPLE 2: 5%           |
-|  Deposits: $100M         |                            |  Deposits: $100M         |
-|  Required: $10M          |                            |  Required: $5M           |
+|  EXAMPLE 1: 10%           |                            |  EXAMPLE 2: 5%            |
+|  Deposits: $100M          |                            |  Deposits: $100M          |
+|  Required: $10M           |                            |  Required: $5M            |
 +---------------------------+                            +---------------------------+
           │                                              │
           ▼                                              ▼
