@@ -1183,15 +1183,15 @@ How it works: The central bank sets a reserve requirement ratio (e.g., 10%). Ban
 RESERVE REQUIREMENT CALCULATION
 
                          +---------------------------+
-                         |  RESERVE REQUIREMENT     |
-                         |  Minimum reserves banks  |
-                         |  must hold              |
+                         |  RESERVE REQUIREMENT      |
+                         |  Minimum reserves banks   |
+                         |  must hold                |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  FORMULA:                |
-                         |  Required Reserves =     |
-                         |  RR Ratio × Deposits    |
+                         |  FORMULA:                 |
+                         |  Required Reserves =      |
+                         |  RR Ratio × Deposits      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
