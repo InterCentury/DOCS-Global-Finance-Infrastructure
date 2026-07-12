@@ -1378,10 +1378,10 @@ QUANTITATIVE TIGHTENING PROCESS
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  HIGHER BORROWING COSTS                |
-                    |  Asset prices fall                    |
-                    |  Aggregate demand decreases           |
-                    |  Inflation moderates                  |
+                    |  HIGHER BORROWING COSTS                 |
+                    |  Asset prices fall                      |
+                    |  Aggregate demand decreases             |
+                    |  Inflation moderates                    |
                     +-----------------------------------------+
 ```
 
