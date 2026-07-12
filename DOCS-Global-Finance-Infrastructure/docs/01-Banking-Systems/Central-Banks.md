@@ -1094,9 +1094,9 @@ DEFLATION CONTROL MECHANISM
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  NEGATIVE RATES          |
-                         |  Charge banks for        |
-                         |  reserves               |
+                         |  NEGATIVE RATES           |
+                         |  Charge banks for         |
+                         |  reserves                 |
                          +-------------+-------------+
                                        |
                          +---------------------------+
