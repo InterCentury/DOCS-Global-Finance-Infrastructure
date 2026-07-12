@@ -1088,9 +1088,9 @@ DEFLATION CONTROL MECHANISM
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  FORWARD GUIDANCE        |
-                         |  Commit to low rates     |
-                         |  until conditions met    |
+                         |  FORWARD GUIDANCE         |
+                         |  Commit to low rates      |
+                         |  until conditions met     |
                          +-------------+-------------+
                                        |
                          +---------------------------+
