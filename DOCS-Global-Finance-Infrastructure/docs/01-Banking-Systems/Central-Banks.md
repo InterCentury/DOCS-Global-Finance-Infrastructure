@@ -1425,22 +1425,22 @@ How it works: The central bank monitors the entire financial system for vulnerab
 FINANCIAL STABILITY TOOLS
 
                          +---------------------------+
-                         |  FINANCIAL STABILITY     |
-                         |  MAINTENANCE             |
+                         |  FINANCIAL STABILITY      |
+                         |  MAINTENANCE              |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  MACROPRUDENTIAL         |  |  SYSTEMIC RISK           |  |  CRISIS MANAGEMENT       |
-|  TOOLS                   |  |  MONITORING              |  |                           |
-|  - Countercyclical      |  |  - Stress testing       |  |  - Lender of last        |
-|    capital buffers      |  |  - Systemic risk        |  |    resort               |
-|  - LTV limits           |  |    indicators          |  |  - Emergency facilities   |
-|  - DTI limits           |  |  - Interconnectedness  |  |  - Systemic risk         |
-|  - Sectoral capital     |  |  - Concentration risk  |  |    exception           |
-|    requirements         |  |  - Market monitoring  |  |  - Recapitalization      |
+|  MACROPRUDENTIAL          |  |  SYSTEMIC RISK            |  |  CRISIS MANAGEMENT       |
+|  TOOLS                    |  |  MONITORING               |  |                           |
+|  - Countercyclical        |  |  - Stress testing         |  |  - Lender of last        |
+|    capital buffers        |  |  - Systemic risk          |  |    resort               |
+|  - LTV limits             |  |    indicators             |  |  - Emergency facilities   |
+|  - DTI limits             |  |  - Interconnectedness     |  |  - Systemic risk         |
+|  - Sectoral capital       |  |  - Concentration risk     |  |    exception           |
+|    requirements           |  |  - Market monitoring      |  |  - Recapitalization      |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
