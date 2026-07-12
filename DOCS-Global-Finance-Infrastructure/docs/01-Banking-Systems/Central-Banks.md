@@ -1264,7 +1264,7 @@ DISCOUNT WINDOW STRUCTURE
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
 |  PRIMARY CREDIT           |                            |  SECONDARY CREDIT         |
-|  (For sound institutions) |                            |  (For weaker institutions) |
+|  (For sound institutions) |                            |  (For weaker institutions)|
 |  - Rate: Policy + 0.50%   |                            |  - Rate: Policy + 1.00%   |
 |  - Overnight to 90 days   |                            |  - Shorter terms          |
 |  - No questions asked     |                            |  - Greater restrictions   |
