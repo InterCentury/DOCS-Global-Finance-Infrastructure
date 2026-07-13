@@ -1489,9 +1489,9 @@ How it works: The central bank activates the discount window, lending cash to th
 BANK RUN RESPONSE
 
                          +---------------------------+
-                         |  BANK RUN BEGINS         |
-                         |  Depositors withdraw     |
-                         |  En masse               |
+                         |  BANK RUN BEGINS          |
+                         |  Depositors withdraw      |
+                         |  En masse                 |
                          +-------------+-------------+
                                        |
                          +---------------------------+
