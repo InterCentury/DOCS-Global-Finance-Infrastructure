@@ -1649,11 +1649,11 @@ PAYMENT SETTLEMENT PROCESS
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK PROCESSES  |
-                         |  - Verify Bank A has     |
-                         |    sufficient reserves  |
-                         |  - Debit Bank A         |
-                         |  - Credit Bank B        |
+                         |  CENTRAL BANK PROCESSES   |
+                         |  - Verify Bank A has      |
+                         |    sufficient reserves    |
+                         |  - Debit Bank A           |
+                         |  - Credit Bank B          |
                          +-------------+-------------+
                                        |
                          +---------------------------+
