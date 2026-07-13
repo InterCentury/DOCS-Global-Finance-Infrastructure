@@ -1712,7 +1712,7 @@ PAYMENT INFRASTRUCTURE SUPPORT
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
 |  OVERSIGHT                |  |  OPERATION                |  |  INNOVATION              |
-|  - Set standards          |  |  - RTGS systems           |  |  - Real-time payments   |
+|  - Set standards          |  |  - RTGS systems           |  |  - Real-time payments    |
 |  - Ensure safety          |  |  - ACH networks           |  |  - Fast payment systems  |
 |  - Monitor risks          |  |  - Settlement services    |  |  - Digital currencies    |
 |  - Enforce rules          |  |  - Collateral             |  |  - Open banking         |
