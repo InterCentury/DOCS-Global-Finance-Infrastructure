@@ -1594,11 +1594,11 @@ BANKING SYSTEM RESCUE TOOLS
                                        │
                                        ▼
                     +-----------------------------------------+
-                    |  COORDINATED RESPONSE                  |
-                    |  - Treasury (fiscal support)          |
-                    |  - Deposit insurance (FDIC)           |
-                    |  - Regulatory forbearance             |
-                    |  - Public communication              |
+                    |  COORDINATED RESPONSE                   |
+                    |  - Treasury (fiscal support)            |
+                    |  - Deposit insurance (FDIC)             |
+                    |  - Regulatory forbearance               |
+                    |  - Public communication                 |
                     +-----------------------------------------+
 ```
 
