@@ -1544,9 +1544,9 @@ FINANCIAL CRISIS RESPONSE
     PHASE 3: CENTRAL BANK RESPONDS
     +-------------------------------------------------+
     |  Cut policy rate aggressively                   |
-    |  Provide emergency liquidity                   |
-    |  Create new lending facilities                 |
-    |  Coordinate with other regulators              |
+    |  Provide emergency liquidity                    |
+    |  Create new lending facilities                  |
+    |  Coordinate with other regulators               |
     +-------------------------------------------------+
 
     PHASE 4: SYSTEMIC INTERVENTION
