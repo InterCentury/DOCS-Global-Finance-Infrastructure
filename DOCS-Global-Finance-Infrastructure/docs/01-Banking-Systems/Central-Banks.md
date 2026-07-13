@@ -1730,20 +1730,20 @@ How it works: The central bank accumulates foreign currencies (primarily US doll
 FOREIGN CURRENCY RESERVES
 
                          +---------------------------+
-                         |  REASONS TO HOLD         |
-                         |  FOREIGN RESERVES        |
+                         |  REASONS TO HOLD          |
+                         |  FOREIGN RESERVES         |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  CURRENCY INTERVENTION   |  |  CONFIDENCE              |  |  INTERNATIONAL           |
-|  - Support domestic      |  |  - Show ability to      |  |  OBLIGATIONS            |
-|    currency             |  |    defend currency      |  |  - Import payments       |
-|  - Prevent depreciation  |  |  - Attract investors    |  |  - Debt service         |
-|  - Stabilize exchange   |  |  - Maintain credit      |  |  - IMF commitments      |
-|    rates                |  |    rating              |  |  - Trade settlements    |
+|  CURRENCY INTERVENTION    |  |  CONFIDENCE               |  |  INTERNATIONAL            |
+|  - Support domestic       |  |  - Show ability to        |  |  OBLIGATIONS              |
+|    currency               |  |    defend currency        |  |  - Import payments        |
+|  - Prevent depreciation   |  |  - Attract investors      |  |  - Debt service           |
+|  - Stabilize exchange     |  |  - Maintain credit        |  |  - IMF commitments        |
+|    rates                  |  |    rating                 |  |  - Trade settlements      |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
