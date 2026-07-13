@@ -1551,10 +1551,10 @@ FINANCIAL CRISIS RESPONSE
 
     PHASE 4: SYSTEMIC INTERVENTION
     +-------------------------------------------------+
-    |  Lender of last resort activated               |
-    |  Guarantees provided                           |
-    |  Capital injections (if needed)               |
-    |  Systemic risk exception invoked              |
+    |  Lender of last resort activated                |
+    |  Guarantees provided                            |
+    |  Capital injections (if needed)                 |
+    |  Systemic risk exception invoked                |
     +-------------------------------------------------+
 
     PHASE 5: RECOVERY
