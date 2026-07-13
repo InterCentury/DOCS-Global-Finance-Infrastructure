@@ -1537,8 +1537,8 @@ FINANCIAL CRISIS RESPONSE
     PHASE 2: MARKET FREEZE
     +-------------------------------------------------+
     |  Interbank lending stops                        |
-    |  Liquidity evaporates                          |
-    |  Asset prices collapse                         |
+    |  Liquidity evaporates                           |
+    |  Asset prices collapse                          |
     +-------------------------------------------------+
 
     PHASE 3: CENTRAL BANK RESPONDS
