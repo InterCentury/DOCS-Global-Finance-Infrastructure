@@ -1682,14 +1682,14 @@ RTGS SYSTEM
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  KEY FEATURES            |                            |  MAJOR SYSTEMS           |
-|  - Real-time processing  |                            |  - Fedwire (US)          |
-|  - Gross settlement     |                            |  - TARGET2 (EU)          |
-|    (individual)         |                            |  - CHAPS (UK)            |
-|  - Final and irrevocable|                            |  - BOJ-NET (Japan)       |
-|  - No credit risk       |                            |  - CNAPS (China)         |
-|  - Uses central bank    |                            |                          |
-|    reserves             |                            |                          |
+|  KEY FEATURES             |                            |  MAJOR SYSTEMS            |
+|  - Real-time processing   |                            |  - Fedwire (US)           |
+|  - Gross settlement       |                            |  - TARGET2 (EU)           |
+|    (individual)           |                            |  - CHAPS (UK)             |
+|  - Final and irrevocable  |                            |  - BOJ-NET (Japan)        |
+|  - No credit risk         |                            |  - CNAPS (China)          |
+|  - Uses central bank      |                            |                           |
+|    reserves               |                            |                           |
 +---------------------------+                            +---------------------------+
 ```
 
