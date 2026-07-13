@@ -1583,11 +1583,11 @@ BANKING SYSTEM RESCUE TOOLS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  LIQUIDITY PROVISION     |  |  RATE CUTS               |  |  EMERGENCY FACILITIES     |
-|  - Discount window       |  |  - Lower policy rate    |  |  - TAF (Term Auction)    |
-|  - Open market ops      |  |  - Reduce borrowing     |  |  - PDCF (Primary Dealer)  |
-|  - Quantitative easing  |  |    costs               |  |  - MMLF (Money Market)    |
-|  - Swap lines           |  |  - Stimulate lending   |  |  - CPFF (Commercial Paper)|
+|  LIQUIDITY PROVISION      |  |  RATE CUTS                |  |  EMERGENCY FACILITIES     |
+|  - Discount window        |  |  - Lower policy rate      |  |  - TAF (Term Auction)     |
+|  - Open market ops        |  |  - Reduce borrowing       |  |  - PDCF (Primary Dealer)  |
+|  - Quantitative easing    |  |    costs                  |  |  - MMLF (Money Market)    |
+|  - Swap lines             |  |  - Stimulate lending      |  |  - CPFF (Commercial Paper)|
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
