@@ -1507,9 +1507,9 @@ BANK RUN RESPONSE
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  PUBLIC COMMUNICATION   |
-                         |  Reassure depositors    |
-                         |  Confidence restored    |
+                         |  PUBLIC COMMUNICATION     |
+                         |  Reassure depositors      |
+                         |  Confidence restored      |
                          +-------------+-------------+
                                        |
                          +---------------------------+
