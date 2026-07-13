@@ -1495,9 +1495,9 @@ BANK RUN RESPONSE
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  CENTRAL BANK RESPONDS   |
-                         |  Activate discount       |
-                         |  window                 |
+                         |  CENTRAL BANK RESPONDS    |
+                         |  Activate discount        |
+                         |  window                   |
                          +-------------+-------------+
                                        |
                          +---------------------------+
