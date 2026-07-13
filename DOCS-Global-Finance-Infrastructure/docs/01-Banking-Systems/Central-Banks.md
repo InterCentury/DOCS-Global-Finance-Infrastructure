@@ -1501,9 +1501,9 @@ BANK RUN RESPONSE
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  PROVIDE EMERGENCY       |
-                         |  LIQUIDITY               |
-                         |  Against collateral      |
+                         |  PROVIDE EMERGENCY        |
+                         |  LIQUIDITY                |
+                         |  Against collateral       |
                          +-------------+-------------+
                                        |
                          +---------------------------+
