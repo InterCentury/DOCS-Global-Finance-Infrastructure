@@ -1576,7 +1576,7 @@ How it works: The central bank uses multiple tools simultaneously: aggressive ra
 BANKING SYSTEM RESCUE TOOLS
 
                          +---------------------------+
-                         |  RESCUE TOOLS            |
+                         |  RESCUE TOOLS             |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
