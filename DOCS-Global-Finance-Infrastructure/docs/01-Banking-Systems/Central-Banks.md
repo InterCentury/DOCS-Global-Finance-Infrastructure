@@ -1703,8 +1703,8 @@ How it works: The central bank sets standards for payment systems, ensuring safe
 PAYMENT INFRASTRUCTURE SUPPORT
 
                          +---------------------------+
-                         |  PAYMENT INFRASTRUCTURE  |
-                         |  SUPPORT                |
+                         |  PAYMENT INFRASTRUCTURE   |
+                         |  SUPPORT                  |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
