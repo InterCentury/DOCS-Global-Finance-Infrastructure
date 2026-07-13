@@ -1612,8 +1612,8 @@ How it works: Commercial banks hold reserve accounts at the central bank. All in
 PAYMENT SYSTEM ROLE
 
                          +---------------------------+
-                         |  CENTRAL BANK ROLE IN    |
-                         |  PAYMENT SYSTEMS         |
+                         |  CENTRAL BANK ROLE IN     |
+                         |  PAYMENT SYSTEMS          |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
