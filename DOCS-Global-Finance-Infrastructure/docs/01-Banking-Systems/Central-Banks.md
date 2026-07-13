@@ -1559,10 +1559,10 @@ FINANCIAL CRISIS RESPONSE
 
     PHASE 5: RECOVERY
     +-------------------------------------------------+
-    |  Markets stabilize                            |
-    |  Liquidity returns                            |
-    |  Confidence gradually restored               |
-    |  Policy normalized over time                 |
+    |  Markets stabilize                              |
+    |  Liquidity returns                              |
+    |  Confidence gradually restored                  |
+    |  Policy normalized over time                    |
     +-------------------------------------------------+
 ```
 
