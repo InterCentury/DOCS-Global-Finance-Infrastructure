@@ -1530,7 +1530,7 @@ FINANCIAL CRISIS RESPONSE
 
     PHASE 1: TRIGGER EVENT
     +-------------------------------------------------+
-    |  Asset bubble bursts or major institution fails  |
+    |  Asset bubble bursts or major institution fails |
     |  Market confidence falls sharply                |
     +-------------------------------------------------+
 
