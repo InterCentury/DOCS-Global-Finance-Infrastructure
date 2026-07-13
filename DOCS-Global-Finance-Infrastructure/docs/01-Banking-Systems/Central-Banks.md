@@ -1657,9 +1657,9 @@ PAYMENT SETTLEMENT PROCESS
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  PAYMENT IS FINAL        |
-                         |  Irrevocable             |
-                         |  No credit risk         |
+                         |  PAYMENT IS FINAL         |
+                         |  Irrevocable              |
+                         |  No credit risk           |
                          +-------------+-------------+
 ```
 
