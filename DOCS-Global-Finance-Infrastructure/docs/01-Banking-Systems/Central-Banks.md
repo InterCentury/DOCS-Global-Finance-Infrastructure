@@ -1621,11 +1621,11 @@ PAYMENT SYSTEM ROLE
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
 |  SETTLEMENT ACCOUNTS      |  |  RTGS OPERATION           |  |  PAYMENT SYSTEM           |
-|  - Reserve accounts for   |  |  - Real-time settlement   |  |  OVERSIGHT               |
-|    banks                  |  |  - Final and irrevocable  |  |  - Ensure efficiency     |
-|  - Digital accounts       |  |  - Individual payments    |  |  - Reduce systemic risk  |
-|  - Interest-bearing       |  |  - No credit risk         |  |  - Promote innovation    |
-|  - Used for settlement    |  |  - High value payments    |  |  - Set standards        |
+|  - Reserve accounts for   |  |  - Real-time settlement   |  |  OVERSIGHT                |
+|    banks                  |  |  - Final and irrevocable  |  |  - Ensure efficiency      |
+|  - Digital accounts       |  |  - Individual payments    |  |  - Reduce systemic risk   |
+|  - Interest-bearing       |  |  - No credit risk         |  |  - Promote innovation     |
+|  - Used for settlement    |  |  - High value payments    |  |  - Set standards          |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
