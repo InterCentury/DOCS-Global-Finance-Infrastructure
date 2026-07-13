@@ -1639,13 +1639,13 @@ How it works: Bank A owes Bank B $10 million. Bank A instructs the central bank 
 PAYMENT SETTLEMENT PROCESS
 
                          +---------------------------+
-                         |  BANK A PAYS $10M        |
-                         |  TO BANK B              |
+                         |  BANK A PAYS $10M         |
+                         |  TO BANK B                |
                          +-------------+-------------+
                                        |
                          +---------------------------+
                          |  CENTRAL BANK RECEIVES    |
-                         |  Payment instruction     |
+                         |  Payment instruction      |
                          +-------------+-------------+
                                        |
                          +---------------------------+
