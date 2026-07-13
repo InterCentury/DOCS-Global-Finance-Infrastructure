@@ -1673,9 +1673,9 @@ How it works: In RTGS, each payment is processed in real time. The sending bank'
 RTGS SYSTEM
 
                          +---------------------------+
-                         |  RTGS SYSTEM             |
-                         |  Real-Time Gross        |
-                         |  Settlement             |
+                         |  RTGS SYSTEM              |
+                         |  Real-Time Gross          |
+                         |  Settlement               |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
