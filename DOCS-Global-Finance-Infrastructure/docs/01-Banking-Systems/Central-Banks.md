@@ -1513,9 +1513,9 @@ BANK RUN RESPONSE
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  BANK RUN STOPS          |
-                         |  Liquidity provided     |
-                         |  System stabilizes      |
+                         |  BANK RUN STOPS           |
+                         |  Liquidity provided       |
+                         |  System stabilizes        |
                          +-------------+-------------+
 ```
 
