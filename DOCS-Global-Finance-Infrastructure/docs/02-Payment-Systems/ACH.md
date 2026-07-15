@@ -134,11 +134,11 @@ ACH PROCESSING WINDOWS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  SAME-DAY WINDOW          |  |  NEXT-DAY WINDOW        |  |  STANDARD WINDOW         |
-|  - Morning submission     |  |  - Morning submission   |  |  - Multiple windows     |
-|  - Same-day settlement    |  |  - Next-day settlement  |  |  - 1-2 day settlement  |
-|  - Higher cost            |  |  - Medium cost         |  |  - Lowest cost         |
-|  - For urgent payments    |  |  - Regular payments    |  |  - Bulk processing    |
+|  SAME-DAY WINDOW          |  |  NEXT-DAY WINDOW          |  |  STANDARD WINDOW         |
+|  - Morning submission     |  |  - Morning submission     |  |  - Multiple windows     |
+|  - Same-day settlement    |  |  - Next-day settlement    |  |  - 1-2 day settlement  |
+|  - Higher cost            |  |  - Medium cost            |  |  - Lowest cost         |
+|  - For urgent payments    |  |  - Regular payments       |  |  - Bulk processing    |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
