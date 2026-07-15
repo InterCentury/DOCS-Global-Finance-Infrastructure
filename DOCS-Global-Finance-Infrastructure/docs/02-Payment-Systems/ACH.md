@@ -100,8 +100,8 @@ ACH CLEARING PROCESS
                                        │
                                        ▼
                          +---------------------------+
-                         |  FILES DISTRIBUTED TO    |
-                         |  RDFIs                   |
+                         |  FILES DISTRIBUTED TO     |
+                         |  RDFIs                    |
                          +---------------------------+
 ```
 
