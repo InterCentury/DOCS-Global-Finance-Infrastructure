@@ -2142,24 +2142,24 @@ MODERN CENTRAL BANK CHALLENGES
 
     CHALLENGE 3: CLIMATE CHANGE
     +-------------------------------------------------+
-    |  Climate risk to financial system              |
-    |  Green finance and transition                 |
-    |  Stress testing climate scenarios             |
+    |  Climate risk to financial system               |
+    |  Green finance and transition                   |
+    |  Stress testing climate scenarios               |
     +-------------------------------------------------+
 
     CHALLENGE 4: MAINTAINING INDEPENDENCE
     +-------------------------------------------------+
-    |  Political pressure on central banks          |
-    |  Fiscal dominance risks                      |
-    |  Credibility and trust                       |
+    |  Political pressure on central banks            |
+    |  Fiscal dominance risks                         |
+    |  Credibility and trust                          |
     +-------------------------------------------------+
 
     CHALLENGE 5: FINANCIAL STABILITY
     +-------------------------------------------------+
-    |  Non-bank financial intermediation             |
-    |  Asset bubbles                                |
-    |  Systemic risk monitoring                     |
-    |  Cross-border spillovers                     |
+    |  Non-bank financial intermediation              |
+    |  Asset bubbles                                  |
+    |  Systemic risk monitoring                       |
+    |  Cross-border spillovers                        |
     +-------------------------------------------------+
 
     CHALLENGE 6: DEMOGRAPHIC CHANGES
