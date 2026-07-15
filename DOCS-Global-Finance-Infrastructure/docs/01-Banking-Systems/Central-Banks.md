@@ -2164,10 +2164,10 @@ MODERN CENTRAL BANK CHALLENGES
 
     CHALLENGE 6: DEMOGRAPHIC CHANGES
     +-------------------------------------------------+
-    |  Aging populations                            |
-    |  Labor force participation                     |
-    |  Productivity growth                          |
-    |  Fiscal sustainability                        |
+    |  Aging populations                              |
+    |  Labor force participation                      |
+    |  Productivity growth                            |
+    |  Fiscal sustainability                          |
     +-------------------------------------------------+
 ```
 
@@ -2177,57 +2177,57 @@ MODERN CENTRAL BANK CHALLENGES
 MAJOR CENTRAL BANKS
 
     +-------------------------------------------------+
-    |  FEDERAL RESERVE SYSTEM (US)                   |
-    |  Established: 1913                             |
-    |  Currency: USD                                |
-    |  Policy Rate: 5.25-5.50% (as of 2024)         |
-    |  Mandate: Dual (price stability + employment) |
-    |  Unique: 12 regional banks, FOMC             |
+    |  FEDERAL RESERVE SYSTEM (US)                    |
+    |  Established: 1913                              |
+    |  Currency: USD                                  |
+    |  Policy Rate: 5.25-5.50% (as of 2024)           |
+    |  Mandate: Dual (price stability + employment)   |
+    |  Unique: 12 regional banks, FOMC                |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  EUROPEAN CENTRAL BANK (EU)                    |
-    |  Established: 1998                             |
-    |  Currency: EUR                                |
-    |  Policy Rate: 4.50%                           |
-    |  Mandate: Price stability (hierarchical)      |
-    |  Unique: First supranational central bank     |
+    |  EUROPEAN CENTRAL BANK (EU)                     |
+    |  Established: 1998                              |
+    |  Currency: EUR                                  |
+    |  Policy Rate: 4.50%                             |
+    |  Mandate: Price stability (hierarchical)        |
+    |  Unique: First supranational central bank       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  BANK OF ENGLAND (UK)                          |
-    |  Established: 1694                             |
-    |  Currency: GBP                                |
-    |  Policy Rate: 5.25%                           |
-    |  Mandate: Price stability + support growth    |
-    |  Unique: Oldest modern central bank          |
+    |  BANK OF ENGLAND (UK)                           |
+    |  Established: 1694                              |
+    |  Currency: GBP                                  |
+    |  Policy Rate: 5.25%                             |
+    |  Mandate: Price stability + support growth      |
+    |  Unique: Oldest modern central bank             |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  BANK OF JAPAN (JP)                            |
-    |  Established: 1882                             |
-    |  Currency: JPY                                |
-    |  Policy Rate: -0.10%                          |
-    |  Mandate: Price stability                     |
-    |  Unique: Negative rates, YCC                 |
+    |  BANK OF JAPAN (JP)                             |
+    |  Established: 1882                              |
+    |  Currency: JPY                                  |
+    |  Policy Rate: -0.10%                            |
+    |  Mandate: Price stability                       |
+    |  Unique: Negative rates, YCC                    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  PEOPLE'S BANK OF CHINA (CN)                   |
-    |  Established: 1948                             |
-    |  Currency: CNY                                |
-    |  Policy Rate: 3.45%                           |
-    |  Mandate: Multiple objectives                 |
-    |  Unique: Most advanced CBDC (e-CNY)          |
+    |  PEOPLE'S BANK OF CHINA (CN)                    |
+    |  Established: 1948                              |
+    |  Currency: CNY                                  |
+    |  Policy Rate: 3.45%                             |
+    |  Mandate: Multiple objectives                   |
+    |  Unique: Most advanced CBDC (e-CNY)             |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  SWISS NATIONAL BANK (CH)                      |
-    |  Established: 1907                             |
-    |  Currency: CHF                                |
-    |  Policy Rate: 1.75%                           |
-    |  Mandate: Price stability                     |
-    |  Unique: Mixed public-private ownership      |
+    |  SWISS NATIONAL BANK (CH)                       |
+    |  Established: 1907                              |
+    |  Currency: CHF                                  |
+    |  Policy Rate: 1.75%                             |
+    |  Mandate: Price stability                       |
+    |  Unique: Mixed public-private ownership         |
     +-------------------------------------------------+
 ```
 
@@ -2237,68 +2237,68 @@ MAJOR CENTRAL BANKS
 SUMMARY
 
     +-------------------------------------------------+
-    |  WHAT IS A CENTRAL BANK?                       |
-    |  Public institution managing currency, money   |
-    |  supply, and interest rates                   |
+    |  WHAT IS A CENTRAL BANK?                        |
+    |  Public institution managing currency, money    |
+    |  supply, and interest rates                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  WHY CENTRAL BANKS EXIST?                      |
-    |  Unified currency, payment system, lender of   |
-    |  last resort, inflation control, stability    |
+    |  WHY CENTRAL BANKS EXIST?                       |
+    |  Unified currency, payment system, lender of    |
+    |  last resort, inflation control, stability      |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY FUNCTIONS                                 |
-    |  Monetary policy, currency issuance, banking   |
-    |  supervision, payment systems, lender of last  |
-    |  resort, financial stability                  |
+    |  KEY FUNCTIONS                                  |
+    |  Monetary policy, currency issuance, banking    |
+    |  supervision, payment systems, lender of last   |
+    |  resort, financial stability                    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  MONETARY POLICY TOOLS                         |
-    |  Policy rate, open market operations, reserve  |
-    |  requirements, discount window, QE, forward    |
-    |  guidance                                     |
+    |  MONETARY POLICY TOOLS                          |
+    |  Policy rate, open market operations, reserve   |
+    |  requirements, discount window, QE, forward     |
+    |  guidance                                       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  CENTRAL BANK INDEPENDENCE                     |
-    |  Instrument independence, personnel            |
-    |  independence, financial independence         |
+    |  CENTRAL BANK INDEPENDENCE                      |
+    |  Instrument independence, personnel             |
+    |  independence, financial independence           |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  MONEY CREATION                                |
-    |  Central banks create base money (M0) through  |
-    |  OMO, discount window, QE                     |
+    |  MONEY CREATION                                 |
+    |  Central banks create base money (M0) through   |
+    |  OMO, discount window, QE                       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  FINANCIAL STABILITY                           |
-    |  Lender of last resort, bank regulation,       |
-    |  systemic risk monitoring, crisis management   |
+    |  FINANCIAL STABILITY                            |
+    |  Lender of last resort, bank regulation,        |
+    |  systemic risk monitoring, crisis management    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  PAYMENT SYSTEMS                               |
-    |  RTGS settlement, reserve accounts, payment    |
-    |  infrastructure oversight                     |
+    |  PAYMENT SYSTEMS                                |
+    |  RTGS settlement, reserve accounts, payment     |
+    |  infrastructure oversight                       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  MODERN CHALLENGES                             |
-    |  Inflation management, digital disruption,     |
-    |  climate change, maintaining independence     |
+    |  MODERN CHALLENGES                              |
+    |  Inflation management, digital disruption,      |
+    |  climate change, maintaining independence       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY TAKEAWAY                                  |
-    |  Central banks are the foundation of the       |
-    |  monetary and financial system. They provide   |
-    |  stability, trust, and the infrastructure for  |
-    |  economic activity. Without central banks,     |
-    |  modern economies could not function.         |
+    |  KEY TAKEAWAY                                   |
+    |  Central banks are the foundation of the        |
+    |  monetary and financial system. They provide    |
+    |  stability, trust, and the infrastructure for   |
+    |  economic activity. Without central banks,      |
+    |  modern economies could not function.           |
     +-------------------------------------------------+
 ```
 
