@@ -201,11 +201,11 @@ PUSH VS PULL PAYMENTS
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  PAYEE INITIATES         |
-                         |  Withdraws from payer   |
-                         |  Payee controls amount  |
-                         |  Examples: Bill pay,    |
-                         |  subscriptions          |
+                         |  PAYEE INITIATES          |
+                         |  Withdraws from payer     |
+                         |  Payee controls amount    |
+                         |  Examples: Bill pay,      |
+                         |  subscriptions            |
                          +---------------------------+
 ```
 
