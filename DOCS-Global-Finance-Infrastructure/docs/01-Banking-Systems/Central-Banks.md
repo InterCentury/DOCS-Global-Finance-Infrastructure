@@ -1923,21 +1923,21 @@ How it works: In most developed countries, central banks are operationally indep
 CONTROL VS INDEPENDENCE
 
                          +---------------------------+
-                         |  GOVERNMENT CONTROL?     |
+                         |  GOVERNMENT CONTROL?      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  INDEPENDENT             |  |  LIMITED INFLUENCE       |  |  DOMINATED               |
-|  (Most developed)        |  |  (Some countries)        |  |  (Few countries)          |
-|  - Operationally         |  |  - Government sets      |  |  - Direct control        |
-|    independent          |  |    target              |  |  - Governor serves       |
-|  - Fixed terms          |  |  - Appoints board      |  |    at pleasure          |
-|  - Cannot be fired for  |  |  - Can remove for      |  |  - Rates set by         |
-|    policy disagreements |  |    cause               |  |    government          |
-|  - Statutory mandate   |  |  - Some influence      |  |  - Limited credibility  |
+|  INDEPENDENT              |  |  LIMITED INFLUENCE        |  |  DOMINATED               |
+|  (Most developed)         |  |  (Some countries)         |  |  (Few countries)          |
+|  - Operationally          |  |  - Government sets        |  |  - Direct control        |
+|    independent            |  |    target                 |  |  - Governor serves       |
+|  - Fixed terms            |  |  - Appoints board         |  |    at pleasure          |
+|  - Cannot be fired for    |  |  - Can remove for         |  |  - Rates set by         |
+|    policy disagreements   |  |    cause                  |  |    government          |
+|  - Statutory mandate      |  |  - Some influence         |  |  - Limited credibility  |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
