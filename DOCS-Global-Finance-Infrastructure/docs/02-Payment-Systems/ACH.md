@@ -316,20 +316,20 @@ ACH processes payments in batches with deferred settlement. RTGS processes payme
 ACH VS RTGS COMPARISON
 
                          +---------------------------+    +---------------------------+
-                         |  ACH                     |    |  RTGS                    |
+                         |  ACH                      |    |            RTGS           |
                          +-------------+-------------+    +-------------+-------------+
-                                       |                                  |
-                                       |                                  |
+                                       |                                |
+                                       |                                |
           +----------------------------+                 +----------------------------+
           │                                               │                            │
           ▼                                               ▼                            ▼
 +---------------------------+               +---------------------------+  +---------------------------+
-|  Batch processing        |               |  Real-time processing     |  |  Individual settlement    |
-|  Deferred settlement    |               |  Immediate settlement     |  |  Gross settlement         |
-|  Net settlement         |               |  No settlement risk       |  |  Higher cost              |
-|  Lower cost             |               |  For high-value payments  |  |  Real-time finality       |
-|  Settlement risk       |               |  Example: Fedwire,        |  |  Example: Fedwire,        |
-|  Example: ACH, BACS   |               |  TARGET2, CHAPS           |  |  TARGET2, CHAPS          |
+|  Batch processing         |               |  Real-time processing     |  |  Individual settlement    |
+|  Deferred settlement      |               |  Immediate settlement     |  |  Gross settlement         |
+|  Net settlement           |               |  No settlement risk       |  |  Higher cost              |
+|  Lower cost               |               |  For high-value payments  |  |  Real-time finality       |
+|  Settlement risk          |               |  Example: Fedwire,        |  |  Example: Fedwire,        |
+|  Example: ACH, BACS       |               |  TARGET2, CHAPS           |  |  TARGET2, CHAPS           |
 +---------------------------+               +---------------------------+  +---------------------------+
 ```
 
