@@ -2110,11 +2110,11 @@ DIGITAL ADAPTATION
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
 |  CBDC DEVELOPMENT         |  |  PAYMENT MODERNIZATION    |  |  REGULATORY UPDATES       |
-|  - Research and pilots    |  |  - Real-time payments     |  |  - Fintech frameworks    |
+|  - Research and pilots    |  |  - Real-time payments     |  |  - Fintech frameworks     |
 |  - Design features        |  |  - Faster clearing        |  |  - Digital bank           |
-|  - Implementation         |  |  - Interoperability       |  |    supervision          |
-|  - International          |  |  - Lower costs            |  |  - Cybersecurity         |
-|    coordination           |  |  - Greater access         |  |    standards           |
+|  - Implementation         |  |  - Interoperability       |  |    supervision            |
+|  - International          |  |  - Lower costs            |  |  - Cybersecurity          |
+|    coordination           |  |  - Greater access         |  |    standards              |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
