@@ -1884,13 +1884,13 @@ TREASURY-CENTRAL BANK RELATIONSHIP
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  RESPONSIBILITIES        |                            |  INTERACTIONS            |
-|  - Tax collection       |                            |  - Treasury account at   |
-|  - Government spending  |                            |    central bank         |
-|  - Debt issuance       |                            |  - Debt management      |
-|  - Fiscal policy       |                            |  - Cash management      |
-|  - Budget management   |                            |  - Crisis coordination  |
-|                        |                            |  - Information sharing  |
+|  RESPONSIBILITIES         |                            |  INTERACTIONS             |
+|  - Tax collection         |                            |  - Treasury account at    |
+|  - Government spending    |                            |    central bank           |
+|  - Debt issuance          |                            |  - Debt management        |
+|  - Fiscal policy          |                            |  - Cash management        |
+|  - Budget management      |                            |  - Crisis coordination    |
+|                           |                            |  - Information sharing    |
 +---------------------------+                            +---------------------------+
 
 
