@@ -196,8 +196,8 @@ PUSH VS PULL PAYMENTS
 
 
                          +---------------------------+
-                         |  PULL PAYMENT            |
-                         |  (ACH Debit)             |
+                         |  PULL PAYMENT             |
+                         |  (ACH Debit)              |
                          +-------------+-------------+
                                        |
                          +---------------------------+
