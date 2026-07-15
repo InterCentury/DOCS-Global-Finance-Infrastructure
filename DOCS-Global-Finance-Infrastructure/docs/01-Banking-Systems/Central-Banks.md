@@ -2128,16 +2128,16 @@ MODERN CENTRAL BANK CHALLENGES
     CHALLENGE 1: INFLATION MANAGEMENT
     +-------------------------------------------------+
     |  Balancing inflation with growth                |
-    |  Supply shocks complicate policy               |
-    |  Inflation expectations must be anchored       |
+    |  Supply shocks complicate policy                |
+    |  Inflation expectations must be anchored        |
     +-------------------------------------------------+
 
     CHALLENGE 2: DIGITAL DISRUPTION
     +-------------------------------------------------+
-    |  Cryptocurrencies and stablecoins              |
-    |  Digital banking and fintech                  |
-    |  CBDC development                             |
-    |  Cyber threats                                |
+    |  Cryptocurrencies and stablecoins               |
+    |  Digital banking and fintech                    |
+    |  CBDC development                               |
+    |  Cyber threats                                  |
     +-------------------------------------------------+
 
     CHALLENGE 3: CLIMATE CHANGE
