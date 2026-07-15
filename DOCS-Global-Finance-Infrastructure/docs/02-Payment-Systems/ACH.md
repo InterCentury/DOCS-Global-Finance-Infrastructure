@@ -40,10 +40,10 @@ ACH PARTICIPANTS
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
 |  RECEIVER                 |  |  RDFI                   |  |                           |
-|  (Payee or Payer)        |  |  (Receiver's Bank)     |  |                           |
-|  - Receives funds        |  |  - Receives batch file |  |                           |
-|  - Account credited     |  |  - Posts to account    |  |                           |
-|  - Or debited          |  |  - Notifies customer   |  |                           |
+|  (Payee or Payer)         |  |  (Receiver's Bank)     |  |                           |
+|  - Receives funds         |  |  - Receives batch file |  |                           |
+|  - Account credited       |  |  - Posts to account    |  |                           |
+|  - Or debited             |  |  - Notifies customer   |  |                           |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
