@@ -83,19 +83,19 @@ ACH CLEARING PROCESS
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  VALIDATION               |                            |  SORTING                  |
-|  - Format check           |                            |  - By RDFI                |
-|  - Authorization check    |                            |  - By transaction type    |
-|  - Amount verification    |                            |  - By settlement time     |
-+---------------------------+                            +---------------------------+
++---------------------------+                   +---------------------------+
+|  VALIDATION               |                   |  SORTING                  |
+|  - Format check           |                   |  - By RDFI                |
+|  - Authorization check    |                   |  - By transaction type    |
+|  - Amount verification    |                   |  - By settlement time     |
++---------------------------+                   +---------------------------+
           │                                              │
           +----------------------------+-----------------+
                                        │
                                        ▼
                          +---------------------------+
                          |  NET POSITION CALCULATED  |
-                         |  Credits - Debits          |
+                         |  Credits - Debits         |
                          +-------------+-------------+
                                        │
                                        ▼
