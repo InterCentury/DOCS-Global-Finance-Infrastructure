@@ -70,8 +70,8 @@ During clearing, the ACH operator receives batches from all ODFIs. It validates 
 ACH CLEARING PROCESS
 
                          +---------------------------+
-                         |  ODFIs SUBMIT BATCHES    |
-                         |  (Multiple banks)        |
+                         |  ODFIs SUBMIT BATCHES     |
+                         |  (Multiple banks)         |
                          +-------------+-------------+
                                        |
                                        ▼
