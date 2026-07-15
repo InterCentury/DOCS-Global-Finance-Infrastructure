@@ -2048,19 +2048,19 @@ How it works: The central bank investigates violations. Depending on severity, i
 REGULATORY VIOLATION RESPONSE
 
                          +---------------------------+
-                         |  VIOLATION DETECTED      |
+                         |  VIOLATION DETECTED       |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  MINOR VIOLATIONS        |                            |  MAJOR VIOLATIONS         |
-|  - Warning letter       |                            |  - Large fines           |
-|  - Small fines          |                            |  - Cease and desist      |
-|  - Corrective plan      |                            |  - Management changes    |
-|  - Increased monitoring |                            |  - License suspension   |
-|                        |                            |  - License revocation    |
+|  MINOR VIOLATIONS         |                            |  MAJOR VIOLATIONS         |
+|  - Warning letter         |                            |  - Large fines            |
+|  - Small fines            |                            |  - Cease and desist       |
+|  - Corrective plan        |                            |  - Management changes     |
+|  - Increased monitoring   |                            |  - License suspension     |
+|                           |                            |  - License revocation     |
 +---------------------------+                            +---------------------------+
 ```
 
