@@ -283,10 +283,10 @@ ACH NETWORK STRUCTURE
                     +-------------------------------------------------+
 
                     +-------------------------------------------------+
-                    |  FEDERAL RESERVE (Settlement)                  |
-                    |  - Transfers funds between banks              |
-                    |  - Net settlement                            |
-                    |  - Final settlement                          |
+                    |  FEDERAL RESERVE (Settlement)                   |
+                    |  - Transfers funds between banks                |
+                    |  - Net settlement                               |
+                    |  - Final settlement                             |
                     +-------------------------------------------------+
 ```
 
