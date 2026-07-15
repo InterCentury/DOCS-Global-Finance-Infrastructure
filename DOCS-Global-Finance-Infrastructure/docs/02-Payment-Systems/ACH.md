@@ -18,19 +18,19 @@ The Receiver is the person or business that receives the payment (for credits) o
 ACH PARTICIPANTS
 
                          +---------------------------+
-                         |   ACH TRANSACTION        |
-                         |   PARTICIPANTS           |
+                         |   ACH TRANSACTION         |
+                         |   PARTICIPANTS            |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  ORIGINATOR              |  |  ODFI                   |  |  ACH OPERATOR            |
-|  (Payer or Payee)        |  |  (Originator's Bank)   |  |  (Fed or TCH)            |
-|  - Initiates payment    |  |  - Creates batch file  |  |  - Processes batch       |
-|  - Authorizes           |  |  - Submits to operator |  |  - Routes transactions  |
-|  - Provides bank info   |  |  - Takes settlement   |  |  - Initiates settlement  |
+|  ORIGINATOR               |  |  ODFI                     |  |  ACH OPERATOR            |
+|  (Payer or Payee)         |  |  (Originator's Bank)      |  |  (Fed or TCH)            |
+|  - Initiates payment      |  |  - Creates batch file     |  |  - Processes batch       |
+|  - Authorizes             |  |  - Submits to operator    |  |  - Routes transactions  |
+|  - Provides bank info     |  |  - Takes settlement       |  |  - Initiates settlement  |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
