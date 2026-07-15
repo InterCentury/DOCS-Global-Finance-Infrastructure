@@ -575,9 +575,9 @@ COMPLETE ACH FLOW DIAGRAM
     SETTLEMENT:
     +-------------------------------+
     |  CENTRAL BANK (Reserve Accts) |
-    |  - Debit net debit banks     |
-    |  - Credit net credit banks   |
-    |  - Settlement final          |
+    |  - Debit net debit banks      |
+    |  - Credit net credit banks    |
+    |  - Settlement final           |
     +-------------------------------+
 ```
 
