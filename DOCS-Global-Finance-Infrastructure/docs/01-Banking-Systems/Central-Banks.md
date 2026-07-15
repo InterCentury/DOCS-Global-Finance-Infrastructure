@@ -2013,10 +2013,10 @@ KEY BANKING REGULATIONS
     REGULATION 2: ANTI-MONEY LAUNDERING (AML)
     +-------------------------------------------------+
     |  Prevent money laundering and terrorist         |
-    |  financing                                     |
-    |  - Know Your Customer (KYC)                   |
-    |  - Suspicious Activity Reporting (SAR)        |
-    |  - Customer due diligence                     |
+    |  financing                                      |
+    |  - Know Your Customer (KYC)                     |
+    |  - Suspicious Activity Reporting (SAR)          |
+    |  - Customer due diligence                       |
     +-------------------------------------------------+
 
     REGULATION 3: CONSUMER PROTECTION
