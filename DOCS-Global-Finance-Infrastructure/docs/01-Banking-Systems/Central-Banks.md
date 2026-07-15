@@ -1813,21 +1813,21 @@ How it works: If the domestic currency is appreciating too rapidly (hurting expo
 FOREIGN EXCHANGE INTERVENTION
 
                          +---------------------------+
-                         |  FX INTERVENTION         |
+                         |  FX INTERVENTION          |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  TO WEAKEN DOMESTIC      |                            |  TO STRENGTHEN DOMESTIC   |
-|  CURRENCY                |                            |  CURRENCY                |
-|  - Sell domestic         |                            |  - Sell foreign          |
-|    currency             |                            |    currency             |
-|  - Buy foreign          |                            |  - Buy domestic          |
-|    currency             |                            |    currency             |
-|  - Increase supply of   |                            |  - Reduce supply of     |
-|    domestic currency    |                            |    domestic currency    |
+|  TO WEAKEN DOMESTIC       |                            |  TO STRENGTHEN DOMESTIC   |
+|  CURRENCY                 |                            |  CURRENCY                 |
+|  - Sell domestic          |                            |  - Sell foreign           |
+|    currency               |                            |    currency               |
+|  - Buy foreign            |                            |  - Buy domestic           |
+|    currency               |                            |    currency               |
+|  - Increase supply of     |                            |  - Reduce supply of       |
+|    domestic currency      |                            |    domestic currency      |
 +---------------------------+                            +---------------------------+
 ```
 
