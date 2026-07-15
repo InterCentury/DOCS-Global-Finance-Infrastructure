@@ -1895,7 +1895,7 @@ TREASURY-CENTRAL BANK RELATIONSHIP
 
 
                          +---------------------------+
-                         |  CENTRAL BANK            |
+                         |  CENTRAL BANK             |
                          |  (Monetary Policy)        |
                          +-------------+-------------+
                                        |
@@ -1903,13 +1903,13 @@ TREASURY-CENTRAL BANK RELATIONSHIP
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  RESPONSIBILITIES        |                            |  INDEPENDENCE            |
-|  - Monetary policy      |                            |  - Operationally         |
-|  - Interest rates       |                            |    independent          |
-|  - Money supply        |                            |  - No political         |
-|  - Inflation target    |                            |    interference        |
-|  - Financial stability  |                            |  - Statutory mandate   |
-|  - Banking supervision  |                            |  - Fixed terms         |
+|  RESPONSIBILITIES         |                            |  INDEPENDENCE             |
+|  - Monetary policy        |                            |  - Operationally          |
+|  - Interest rates         |                            |    independent            |
+|  - Money supply           |                            |  - No political           |
+|  - Inflation target       |                            |    interference           |
+|  - Financial stability    |                            |  - Statutory mandate      |
+|  - Banking supervision    |                            |  - Fixed terms            |
 +---------------------------+                            +---------------------------+
 ```
 
