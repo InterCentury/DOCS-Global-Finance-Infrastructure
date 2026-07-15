@@ -1876,7 +1876,7 @@ How it works: The Treasury collects taxes, manages government spending, and issu
 TREASURY-CENTRAL BANK RELATIONSHIP
 
                          +---------------------------+
-                         |  TREASURY                |
+                         |  TREASURY                 |
                          |  (Fiscal Policy)          |
                          +-------------+-------------+
                                        |
