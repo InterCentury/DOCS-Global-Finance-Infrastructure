@@ -2021,11 +2021,11 @@ KEY BANKING REGULATIONS
 
     REGULATION 3: CONSUMER PROTECTION
     +-------------------------------------------------+
-    |  Protect consumers from unfair practices       |
-    |  - Truth in Lending (TILA)                    |
-    |  - Fair Credit Reporting (FCRA)              |
-    |  - Equal Credit Opportunity (ECOA)           |
-    |  - Fair Debt Collection (FDCPA)              |
+    |  Protect consumers from unfair practices        |
+    |  - Truth in Lending (TILA)                      |
+    |  - Fair Credit Reporting (FCRA)                 |
+    |  - Equal Credit Opportunity (ECOA)              |
+    |  - Fair Debt Collection (FDCPA)                 |
     +-------------------------------------------------+
 
     REGULATION 4: CAPITAL REQUIREMENTS
