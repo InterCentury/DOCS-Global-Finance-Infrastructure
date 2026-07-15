@@ -553,11 +553,11 @@ COMPLETE ACH FLOW DIAGRAM
          │ Submits to operator
          ▼
     +-------------------------------+
-    |      ACH OPERATOR            |
-    |  (FedACH or TCH)             |
+    |      ACH OPERATOR             |
+    |  (FedACH or TCH)              |
     |                               |
-    |  1. Receive batch files      |
-    |  2. Validate transactions    |
+    |  1. Receive batch files       |
+    |  2. Validate transactions     |
     |  3. Sort by RDFI            |
     |  4. Distribute to RDFIs     |
     |  5. Calculate net positions  |
