@@ -85,9 +85,9 @@ ACH CLEARING PROCESS
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
 |  VALIDATION               |                            |  SORTING                 |
-|  - Format check          |                            |  - By RDFI              |
-|  - Authorization check   |                            |  - By transaction type  |
-|  - Amount verification   |                            |  - By settlement time   |
+|  - Format check           |                            |  - By RDFI              |
+|  - Authorization check    |                            |  - By transaction type  |
+|  - Amount verification    |                            |  - By settlement time   |
 +---------------------------+                            +---------------------------+
           │                                              │
           +----------------------------+-----------------+
