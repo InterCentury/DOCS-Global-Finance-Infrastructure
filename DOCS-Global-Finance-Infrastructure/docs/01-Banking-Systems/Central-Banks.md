@@ -2003,11 +2003,11 @@ KEY BANKING REGULATIONS
     REGULATION 1: BASEL III
     +-------------------------------------------------+
     |  International capital and liquidity standards  |
-    |  - CET1 capital: 4.5% of RWA                   |
-    |  - Tier 1 capital: 6% of RWA                  |
-    |  - Total capital: 8% of RWA                   |
-    |  - LCR: ≥ 100%                                |
-    |  - NSFR: ≥ 100%                               |
+    |  - CET1 capital: 4.5% of RWA                    |
+    |  - Tier 1 capital: 6% of RWA                    |
+    |  - Total capital: 8% of RWA                     |
+    |  - LCR: ≥ 100%                                  |
+    |  - NSFR: ≥ 100%                                 |
     +-------------------------------------------------+
 
     REGULATION 2: ANTI-MONEY LAUNDERING (AML)
