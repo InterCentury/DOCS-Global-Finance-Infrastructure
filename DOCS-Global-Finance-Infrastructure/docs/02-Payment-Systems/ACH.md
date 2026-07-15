@@ -15,36 +15,23 @@ The Receiving Depository Financial Institution (RDFI) is the bank that receives 
 The Receiver is the person or business that receives the payment (for credits) or whose account is debited (for debits).
 
 ```
-ACH PARTICIPANTS
-
-                         +---------------------------+
-                         |   ACH TRANSACTION         |
-                         |   PARTICIPANTS            |
-                         +-------------+-------------+
-                                       |
-          +----------------------------+----------------------------+
-          │                            │                            │
-          ▼                            ▼                            ▼
-+---------------------------+  +---------------------------+  +---------------------------+
-|  ORIGINATOR               |  |  ODFI                     |  |  ACH OPERATOR             |
-|  (Payer or Payee)         |  |  (Originator's Bank)      |  |  (Fed or TCH)             |
-|  - Initiates payment      |  |  - Creates batch file     |  |  - Processes batch        |
-|  - Authorizes             |  |  - Submits to operator    |  |  - Routes transactions    |
-|  - Provides bank info     |  |  - Takes settlement       |  |  - Initiates settlement   |
-+---------------------------+  +---------------------------+  +---------------------------+
-          │                            │                            │
-          +----------------------------+----------------------------+
-                                       │
-          +----------------------------+----------------------------+
-          │                            │                            │
-          ▼                            ▼                            ▼
-+---------------------------+  +---------------------------+  +---------------------------+
-|  RECEIVER                 |  |  RDFI                   |  |                           |
-|  (Payee or Payer)         |  |  (Receiver's Bank)     |  |                           |
-|  - Receives funds         |  |  - Receives batch file |  |                           |
-|  - Account credited       |  |  - Posts to account    |  |                           |
-|  - Or debited             |  |  - Notifies customer   |  |                           |
-+---------------------------+  +---------------------------+  +---------------------------+
+ACH PARTICIPANT
++-----------------------+      +-----------------------+      +-----------------------+
+|      ORIGINATOR       |      |         ODFI          |      |     ACH OPERATOR      |
+|   (Payer or Payee)    | ---> |  (Originator's Bank)  | ---> |     (Fed or TCH)      |
+| - Initiates payment   |      | - Creates batch file  |      | - Processes batch     |
+| - Authorizes          |      | - Submits to operator |      | - Routes transactions |
+| - Provides bank info  |      | - Takes settlement    |      | - Initiates settlement|
++-----------------------+      +-----------------------+      +-----------------------+
+                                                                          |
+                                                                          v
+                               +-----------------------+      +-----------------------+
+                               |       RECEIVER        |      |         RDFI          |
+                               |   (Payee or Payer)    | <--- |   (Receiver's Bank)   |
+                               | - Receives funds      |      | - Receives batch file |
+                               | - Account credited    |      | - Posts to account    |
+                               | - Or debited          |      | - Notifies customer   |
+                               +-----------------------+      +-----------------------+
 ```
 
 ## 7. What Is an ACH Operator
