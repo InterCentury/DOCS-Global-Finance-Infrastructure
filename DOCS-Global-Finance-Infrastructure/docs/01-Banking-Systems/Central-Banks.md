@@ -1958,12 +1958,12 @@ BANK REGULATION
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  LICENSING                |  |  SUPERVISION              |  |  ENFORCEMENT             |
-|  - Charter review         |  |  - Examinations           |  |  - Fines                 |
-|  - Ownership approval     |  |  - CAMELS ratings         |  |  - Cease and desist      |
-|  - Management review      |  |  - Stress testing         |  |  - Removal of officers   |
-|  - Capital adequacy       |  |  - On-site reviews        |  |  - License revocation    |
-|  - Business plan          |  |  - Off-site monitoring    |  |  - Public enforcement    |
+|  LICENSING                |  |  SUPERVISION              |  |  ENFORCEMENT              |
+|  - Charter review         |  |  - Examinations           |  |  - Fines                  |
+|  - Ownership approval     |  |  - CAMELS ratings         |  |  - Cease and desist       |
+|  - Management review      |  |  - Stress testing         |  |  - Removal of officers    |
+|  - Capital adequacy       |  |  - On-site reviews        |  |  - License revocation     |
+|  - Business plan          |  |  - Off-site monitoring    |  |  - Public enforcement     |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
@@ -1977,19 +1977,19 @@ How it works: The central bank monitors bank financial reports (balance sheets, 
 FINANCIAL SUPERVISION
 
                          +---------------------------+
-                         |  SUPERVISION PROCESS     |
+                         |  SUPERVISION PROCESS      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  OFF-SITE MONITORING     |  |  ON-SITE EXAMINATIONS    |  |  RISK ASSESSMENT         |
-|  - Financial reports    |  |  - Review loan portfolio  |  |  - Credit risk          |
-|  - Capital ratios       |  |  - Assess management     |  |  - Liquidity risk       |
-|  - Liquidity metrics   |  |  - Evaluate controls     |  |  - Market risk          |
-|  - Stress test results  |  |  - Test compliance      |  |  - Operational risk     |
-|  - Risk indicators     |  |  - Interview staff       |  |  - Systemic risk        |
+|  OFF-SITE MONITORING      |  |  ON-SITE EXAMINATIONS     |  |  RISK ASSESSMENT          |
+|  - Financial reports      |  |  - Review loan portfolio  |  |  - Credit risk            |
+|  - Capital ratios         |  |  - Assess management      |  |  - Liquidity risk         |
+|  - Liquidity metrics      |  |  - Evaluate controls      |  |  - Market risk            |
+|  - Stress test results    |  |  - Test compliance        |  |  - Operational risk       |
+|  - Risk indicators        |  |  - Interview staff        |  |  - Systemic risk          |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
