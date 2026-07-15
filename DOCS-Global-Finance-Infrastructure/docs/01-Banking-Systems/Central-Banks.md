@@ -1786,20 +1786,20 @@ How it works: A central bank can intervene directly by buying or selling foreign
 EXCHANGE RATE MANAGEMENT
 
                          +---------------------------+
-                         |  EXCHANGE RATE           |
-                         |  MANAGEMENT             |
+                         |  EXCHANGE RATE            |
+                         |  MANAGEMENT               |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  DIRECT INTERVENTION     |  |  INDIRECT INFLUENCE      |  |  EXCHANGE RATE           |
-|  - Buy/sell foreign      |  |  - Interest rates        |  |  REGIMES                |
-|    currency             |  |  - Monetary policy       |  |  - Floating             |
-|  - Support domestic     |  |  - Inflation outlook    |  |  - Managed float        |
-|    currency             |  |  - Economic outlook     |  |  - Fixed/pegged         |
-|  - Smooth fluctuations  |  |  - Forward guidance     |  |  - Currency board       |
+|  DIRECT INTERVENTION      |  |  INDIRECT INFLUENCE       |  |  EXCHANGE RATE            |
+|  - Buy/sell foreign       |  |  - Interest rates         |  |  REGIMES                  |
+|    currency               |  |  - Monetary policy        |  |  - Floating               |
+|  - Support domestic       |  |  - Inflation outlook      |  |  - Managed float          |
+|    currency               |  |  - Economic outlook       |  |  - Fixed/pegged           |
+|  - Smooth fluctuations    |  |  - Forward guidance       |  |  - Currency board         |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
