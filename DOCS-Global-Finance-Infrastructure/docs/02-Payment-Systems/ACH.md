@@ -266,11 +266,11 @@ ACH NETWORK STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  ODFIs                   |  |  ACH OPERATORS           |  |  RDFIs                   |
-|  (Originating Banks)     |  |  (Fed, TCH)             |  |  (Receiving Banks)       |
-|  - Submit transactions   |  |  - Process batches      |  |  - Receive transactions  |
-|  - Guarantee settlement  |  |  - Route transactions  |  |  - Post to accounts      |
-|  - Handle returns       |  |  - Calculate net        |  |  - Notify customers      |
+|  ODFIs                    |  |  ACH OPERATORS            |  |  RDFIs                   |
+|  (Originating Banks)      |  |  (Fed, TCH)               |  |  (Receiving Banks)       |
+|  - Submit transactions    |  |  - Process batches        |  |  - Receive transactions  |
+|  - Guarantee settlement   |  |  - Route transactions     |  |  - Post to accounts      |
+|  - Handle returns         |  |  - Calculate net          |  |  - Notify customers      |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
