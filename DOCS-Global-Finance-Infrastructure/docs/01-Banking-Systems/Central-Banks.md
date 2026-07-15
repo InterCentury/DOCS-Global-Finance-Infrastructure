@@ -2074,21 +2074,21 @@ How it works: CBDC is issued by the central bank and is a liability of the centr
 CBDC ARCHITECTURE
 
                          +---------------------------+
-                         |  CBDC TYPES              |
+                         |  CBDC TYPES               |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  RETAIL CBDC             |                            |  WHOLESALE CBDC           |
-|  - For public use       |                            |  - For interbank          |
-|  - Digital cash         |                            |    settlement            |
-|  - Wallet-based         |                            |  - Large value payments  |
-|  - Interest-bearing     |                            |  - Limited to banks      |
-|    (or not)            |                            |  - Efficient settlement  |
-|  - 24/7 transactions   |                            |  - Reduces settlement    |
-|                        |                            |    costs                |
+|  RETAIL CBDC              |                            |  WHOLESALE CBDC           |
+|  - For public use         |                            |  - For interbank          |
+|  - Digital cash           |                            |    settlement             |
+|  - Wallet-based           |                            |  - Large value payments   |
+|  - Interest-bearing       |                            |  - Limited to banks       |
+|    (or not)               |                            |  - Efficient settlement   |
+|  - 24/7 transactions      |                            |  - Reduces settlement     |
+|                           |                            |    costs                  |
 +---------------------------+                            +---------------------------+
 ```
 
