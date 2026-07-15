@@ -1930,14 +1930,14 @@ CONTROL VS INDEPENDENCE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  INDEPENDENT              |  |  LIMITED INFLUENCE        |  |  DOMINATED               |
+|  INDEPENDENT              |  |  LIMITED INFLUENCE        |  |  DOMINATED                |
 |  (Most developed)         |  |  (Some countries)         |  |  (Few countries)          |
-|  - Operationally          |  |  - Government sets        |  |  - Direct control        |
-|    independent            |  |    target                 |  |  - Governor serves       |
-|  - Fixed terms            |  |  - Appoints board         |  |    at pleasure          |
-|  - Cannot be fired for    |  |  - Can remove for         |  |  - Rates set by         |
-|    policy disagreements   |  |    cause                  |  |    government          |
-|  - Statutory mandate      |  |  - Some influence         |  |  - Limited credibility  |
+|  - Operationally          |  |  - Government sets        |  |  - Direct control         |
+|    independent            |  |    target                 |  |  - Governor serves        |
+|  - Fixed terms            |  |  - Appoints board         |  |    at pleasure            |
+|  - Cannot be fired for    |  |  - Can remove for         |  |  - Rates set by           |
+|    policy disagreements   |  |    cause                  |  |    government             |
+|  - Statutory mandate      |  |  - Some influence         |  |  - Limited credibility    |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
