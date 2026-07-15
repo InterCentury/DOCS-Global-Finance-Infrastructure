@@ -2030,11 +2030,11 @@ KEY BANKING REGULATIONS
 
     REGULATION 4: CAPITAL REQUIREMENTS
     +-------------------------------------------------+
-    |  Ensure banks have adequate capital buffer     |
-    |  - Minimum capital ratios                     |
-    |  - Capital conservation buffer                |
-    |  - Countercyclical buffer                    |
-    |  - G-SIB surcharge                          |
+    |  Ensure banks have adequate capital buffer      |
+    |  - Minimum capital ratios                       |
+    |  - Capital conservation buffer                  |
+    |  - Countercyclical buffer                       |
+    |  - G-SIB surcharge                              |
     +-------------------------------------------------+
 ```
 
