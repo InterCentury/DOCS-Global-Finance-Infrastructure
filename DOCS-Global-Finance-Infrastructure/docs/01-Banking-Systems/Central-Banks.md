@@ -1765,14 +1765,14 @@ GOLD RESERVES
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  TOP GOLD HOLDERS         |  |  PURPOSES                |  |  CHARACTERISTICS          |
-|  (Metric tons)            |  |  - Store of value       |  |  - Safe-haven asset      |
-|  - US: 8,133              |  |  - Diversification     |  |  - Retains value during  |
-|  - Germany: 3,352         |  |  - Crisis hedge       |  |    crises               |
-|  - Italy: 2,452           |  |  - Inflation hedge    |  |  - No credit risk       |
-|  - France: 2,437          |  |  - Long-term asset    |  |  - Limited supply       |
-|  - China: 2,062           |  |  - International      |  |  - Historical monetary  |
-|  - Russia: 2,332          |  |    acceptance        |  |    role                |
+|  TOP GOLD HOLDERS         |  |  PURPOSES                 |  |  CHARACTERISTICS          |
+|  (Metric tons)            |  |  - Store of value         |  |  - Safe-haven asset       |
+|  - US: 8,133              |  |  - Diversification        |  |  - Retains value during   |
+|  - Germany: 3,352         |  |  - Crisis hedge           |  |    crises                 |
+|  - Italy: 2,452           |  |  - Inflation hedge        |  |  - No credit risk         |
+|  - France: 2,437          |  |  - Long-term asset        |  |  - Limited supply         |
+|  - China: 2,062           |  |  - International          |  |  - Historical monetary    |
+|  - Russia: 2,332          |  |    acceptance             |  |    role                   |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
