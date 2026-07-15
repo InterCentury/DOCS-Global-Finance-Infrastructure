@@ -182,16 +182,16 @@ A pull payment is initiated by the payee. The payee instructs the payer's bank t
 PUSH VS PULL PAYMENTS
 
                          +---------------------------+
-                         |  PUSH PAYMENT            |
-                         |  (ACH Credit)            |
+                         |  PUSH PAYMENT             |
+                         |  (ACH Credit)             |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  PAYER INITIATES         |
-                         |  Sends money to payee    |
-                         |  Payer controls amount   |
-                         |  Examples: Payroll,      |
-                         |  tax refunds             |
+                         |  PAYER INITIATES          |
+                         |  Sends money to payee     |
+                         |  Payer controls amount    |
+                         |  Examples: Payroll,       |
+                         |  tax refunds              |
                          +---------------------------+
 
 
