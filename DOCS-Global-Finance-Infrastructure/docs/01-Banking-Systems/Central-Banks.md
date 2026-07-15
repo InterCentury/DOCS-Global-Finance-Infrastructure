@@ -1854,15 +1854,15 @@ GOVERNMENT FINANCING
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  PROHIBITED               |                            |  ALLOWED                 |
-|  - Direct purchase of     |                            |  - Secondary market     |
-|    government debt        |                            |    purchases           |
-|  - Monetization of        |                            |  - Open market         |
-|    deficits               |                            |    operations         |
-|  - Creates inflation      |                            |  - Quantitative        |
-|    pressure               |                            |    easing             |
-|  - Undermines             |                            |  - Normal monetary    |
-|    independence           |                            |    policy operations  |
+|  PROHIBITED               |                            |  ALLOWED                  |
+|  - Direct purchase of     |                            |  - Secondary market       |
+|    government debt        |                            |    purchases              |
+|  - Monetization of        |                            |  - Open market            |
+|    deficits               |                            |    operations             |
+|  - Creates inflation      |                            |  - Quantitative           |
+|    pressure               |                            |    easing                 |
+|  - Undermines             |                            |  - Normal monetary        |
+|    independence           |                            |    policy operations      |
 +---------------------------+                            +---------------------------+
 ```
 
