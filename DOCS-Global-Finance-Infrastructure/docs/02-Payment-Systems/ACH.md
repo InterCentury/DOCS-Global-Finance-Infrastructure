@@ -276,10 +276,10 @@ ACH NETWORK STRUCTURE
           +----------------------------+----------------------------+
                                        │
                     +-------------------------------------------------+
-                    |  NACHA (Rules and Standards)                   |
-                    |  - Writes operating rules                     |
-                    |  - Enforces compliance                        |
-                    |  - Updates standards                          |
+                    |  NACHA (Rules and Standards)                    |
+                    |  - Writes operating rules                       |
+                    |  - Enforces compliance                          |
+                    |  - Updates standards                            |
                     +-------------------------------------------------+
 
                     +-------------------------------------------------+
