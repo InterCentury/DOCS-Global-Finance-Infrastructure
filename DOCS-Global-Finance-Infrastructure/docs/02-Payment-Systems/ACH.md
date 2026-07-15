@@ -357,28 +357,28 @@ Net settlement reduces the total value of funds that need to be transferred. Thi
 NET SETTLEMENT CALCULATION
 
                          +---------------------------+
-                         |  BANK A TRANSACTIONS     |
+                         |  BANK A TRANSACTIONS      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  CREDITS (Receives)       |                            |  DEBITS (Pays)           |
-|  - Payroll deposits      |                            |  - Bill payments         |
-|  - Tax refunds           |                            |  - Loan payments         |
-|  - Vendor payments       |                            |  - Transfers out         |
-|  Total: $100M           |                            |  Total: $90M            |
-+---------------------------+                            +---------------------------+
++---------------------------+                      +---------------------------+
+|  CREDITS (Receives)       |                      |  DEBITS (Pays)            |
+|  - Payroll deposits       |                      |  - Bill payments          |
+|  - Tax refunds            |                      |  - Loan payments          |
+|  - Vendor payments        |                      |  - Transfers out          |
+|  Total: $100M             |                      |  Total: $90M              |
++---------------------------+                      +---------------------------+
           │                                              │
           +----------------------------+-----------------+
                                        │
                                        ▼
                          +---------------------------+
-                         |  NET POSITION            |
-                         |  Credits - Debits        |
-                         |  $100M - $90M = $10M    |
-                         |  Bank A receives $10M   |
+                         |  NET POSITION             |
+                         |  Credits - Debits         |
+                         |  $100M - $90M = $10M      |
+                         |  Bank A receives $10M     |
                          +---------------------------+
 ```
 
@@ -485,30 +485,30 @@ EMPLOYEE PAYROLL EXAMPLE
 
     DAY 1: EMPLOYER PROCESSES PAYROLL
     +-------------------------------------------------+
-    |  - Calculate gross pay, taxes, deductions      |
-    |  - Create payroll file                         |
-    |  - Send to bank                               |
+    |  - Calculate gross pay, taxes, deductions       |
+    |  - Create payroll file                          |
+    |  - Send to bank                                 |
     +-------------------------------------------------+
 
     DAY 1: BANK CREATES ACH FILE
     +-------------------------------------------------+
-    |  - 500 ACH credit entries                      |
-    |  - Total payroll: $2,000,000                 |
-    |  - Submit to ACH operator by deadline         |
+    |  - 500 ACH credit entries                       |
+    |  - Total payroll: $2,000,000                    |
+    |  - Submit to ACH operator by deadline           |
     +-------------------------------------------------+
 
     DAY 2: ACH OPERATOR PROCESSES
     +-------------------------------------------------+
-    |  - Validate transactions                       |
-    |  - Sort by RDFI                               |
-    |  - Distribute to banks                        |
+    |  - Validate transactions                        |
+    |  - Sort by RDFI                                 |
+    |  - Distribute to banks                          |
     +-------------------------------------------------+
 
     DAY 2: RDFI CREDITS EMPLOYEE ACCOUNTS
     +-------------------------------------------------+
-    |  - Employee accounts credited                  |
-    |  - Funds available on payday                  |
-    |  - Employees receive direct deposit           |
+    |  - Employee accounts credited                   |
+    |  - Funds available on payday                    |
+    |  - Employees receive direct deposit             |
     +-------------------------------------------------+
 ```
 
