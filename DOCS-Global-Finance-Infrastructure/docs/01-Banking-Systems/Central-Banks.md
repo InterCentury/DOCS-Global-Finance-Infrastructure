@@ -1951,19 +1951,19 @@ How it works: Banks must obtain a license from the central bank to operate. The 
 BANK REGULATION
 
                          +---------------------------+
-                         |  REGULATION TOOLS       |
+                         |    REGULATION TOOLS       |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  LICENSING               |  |  SUPERVISION             |  |  ENFORCEMENT             |
-|  - Charter review       |  |  - Examinations         |  |  - Fines                 |
-|  - Ownership approval   |  |  - CAMELS ratings      |  |  - Cease and desist      |
-|  - Management review   |  |  - Stress testing       |  |  - Removal of officers   |
-|  - Capital adequacy    |  |  - On-site reviews     |  |  - License revocation    |
-|  - Business plan       |  |  - Off-site monitoring  |  |  - Public enforcement   |
+|  LICENSING                |  |  SUPERVISION             |  |  ENFORCEMENT             |
+|  - Charter review         |  |  - Examinations         |  |  - Fines                 |
+|  - Ownership approval     |  |  - CAMELS ratings      |  |  - Cease and desist      |
+|  - Management review      |  |  - Stress testing       |  |  - Removal of officers   |
+|  - Capital adequacy       |  |  - On-site reviews     |  |  - License revocation    |
+|  - Business plan          |  |  - Off-site monitoring  |  |  - Public enforcement   |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
