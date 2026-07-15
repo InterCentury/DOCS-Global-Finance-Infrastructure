@@ -29,7 +29,7 @@ ACH PARTICIPANTS
 |  ORIGINATOR               |  |  ODFI                     |  |  ACH OPERATOR            |
 |  (Payer or Payee)         |  |  (Originator's Bank)      |  |  (Fed or TCH)            |
 |  - Initiates payment      |  |  - Creates batch file     |  |  - Processes batch       |
-|  - Authorizes             |  |  - Submits to operator    |  |  - Routes transactions  |
+|  - Authorizes             |  |  - Submits to operator    |  |  - Routes transactions   |
 |  - Provides bank info     |  |  - Takes settlement       |  |  - Initiates settlement  |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
