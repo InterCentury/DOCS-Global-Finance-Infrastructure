@@ -2102,19 +2102,19 @@ How it works: Central banks are developing CBDC pilots and real-time payment sys
 DIGITAL ADAPTATION
 
                          +---------------------------+
-                         |  DIGITAL ADAPTATION      |
+                         |  DIGITAL ADAPTATION       |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  CBDC DEVELOPMENT        |  |  PAYMENT MODERNIZATION   |  |  REGULATORY UPDATES       |
-|  - Research and pilots   |  |  - Real-time payments   |  |  - Fintech frameworks    |
-|  - Design features      |  |  - Faster clearing      |  |  - Digital bank           |
-|  - Implementation       |  |  - Interoperability    |  |    supervision          |
-|  - International        |  |  - Lower costs         |  |  - Cybersecurity         |
-|    coordination        |  |  - Greater access      |  |    standards           |
+|  CBDC DEVELOPMENT         |  |  PAYMENT MODERNIZATION    |  |  REGULATORY UPDATES       |
+|  - Research and pilots    |  |  - Real-time payments     |  |  - Fintech frameworks    |
+|  - Design features        |  |  - Faster clearing        |  |  - Digital bank           |
+|  - Implementation         |  |  - Interoperability       |  |    supervision          |
+|  - International          |  |  - Lower costs            |  |  - Cybersecurity         |
+|    coordination           |  |  - Greater access         |  |    standards           |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
