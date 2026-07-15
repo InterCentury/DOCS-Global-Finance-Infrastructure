@@ -1841,13 +1841,13 @@ How it works: In most countries, direct financing (central bank buying governmen
 GOVERNMENT FINANCING
 
                          +---------------------------+
-                         |  DIRECT FINANCING        |
-                         |  (Generally prohibited)  |
+                         |  DIRECT FINANCING         |
+                         |  (Generally prohibited)   |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  INDIRECT SUPPORT        |
-                         |  Through OMO and QE     |
+                         |  INDIRECT SUPPORT         |
+                         |  Through OMO and QE       |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
