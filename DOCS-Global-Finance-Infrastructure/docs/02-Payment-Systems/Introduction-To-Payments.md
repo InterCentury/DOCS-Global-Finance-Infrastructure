@@ -640,9 +640,9 @@ SUMMARY
 
     +-------------------------------------------------+
     |  WHAT IS A PAYMENT?                             |
-    |  Voluntary transfer of value between parties   |
-    |  in exchange for goods, services, or to       |
-    |  fulfill a legal obligation                   |
+    |  Voluntary transfer of value between parties    |
+    |  in exchange for goods, services, or to         |
+    |  fulfill a legal obligation                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
