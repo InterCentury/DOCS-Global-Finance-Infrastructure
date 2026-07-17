@@ -172,37 +172,37 @@ The clearing facility validates the data, checking for correct formatting, valid
 CLEARING PROCESS FLOW
 
                          +---------------------------+
-                         |  CLEARING PROCESS        |
+                         |  CLEARING PROCESS         |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  1. BATCH RECEIVED       |
-                         |  From ODFIs              |
+                         |  1. BATCH RECEIVED        |
+                         |  From ODFIs               |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  2. VALIDATION           |
-                         |  Format, routing, auth   |
+                         |  2. VALIDATION            |
+                         |  Format, routing, auth    |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  3. SORTING              |
-                         |  Group by RDFI          |
+                         |  3. SORTING               |
+                         |  Group by RDFI            |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  4. GROSS POSITION       |
-                         |  Calculate totals        |
+                         |  4. GROSS POSITION        |
+                         |  Calculate totals         |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  5. NET CALCULATION      |
-                         |  Credits minus debits    |
+                         |  5. NET CALCULATION       |
+                         |  Credits minus debits     |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  6. SETTLEMENT           |
-                         |  INSTRUCTIONS GENERATED  |
+                         |  6. SETTLEMENT            |
+                         |  INSTRUCTIONS GENERATED   |
                          +---------------------------+
 ```
 
