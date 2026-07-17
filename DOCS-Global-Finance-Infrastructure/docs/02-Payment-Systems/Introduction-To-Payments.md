@@ -494,9 +494,9 @@ ACCOUNT-BASED VS TOKEN-BASED
 |  - Identity is key        |                            |  - Token is key           |
 |  - Verify who you are     |                            |  - Verify token validity  |
 |  - Authorization based    |                            |  - Whoever holds token    |
-|    on identity            |                            |    holds value          |
-|  - Examples: Bank         |                            |  - Examples: Cash,      |
-|    transfers, ACH,        |                            |    cryptocurrency       |
+|    on identity            |                            |    holds value            |
+|  - Examples: Bank         |                            |  - Examples: Cash,        |
+|    transfers, ACH,        |                            |    cryptocurrency         |
 |    card payments          |                            |                           |
 +---------------------------+                            +---------------------------+
 ```
