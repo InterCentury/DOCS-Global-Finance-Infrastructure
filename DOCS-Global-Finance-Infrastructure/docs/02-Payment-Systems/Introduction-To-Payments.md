@@ -646,16 +646,16 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  WHY PAYMENTS EXIST?                           |
-    |  Facilitate economic trade                     |
-    |  Abstract value exchange into universal       |
-    |  medium                                       |
+    |  WHY PAYMENTS EXIST?                            |
+    |  Facilitate economic trade                      |
+    |  Abstract value exchange into universal         |
+    |  medium                                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  PAYMENT LIFECYCLE                             |
-    |  Initiation → Authorization → Clearing →      |
-    |  Settlement → Finality                        |
+    |  PAYMENT LIFECYCLE                              |
+    |  Initiation → Authorization → Clearing →        |
+    |  Settlement → Finality                          |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
