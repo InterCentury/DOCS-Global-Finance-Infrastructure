@@ -775,12 +775,12 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY TAKEAWAY                                  |
-    |  Clearing is the backbone of the payment       |
-    |  system. It transforms chaos into order,     |
-    |  enabling billions of transactions to flow   |
-    |  through the financial system efficiently    |
-    |  and safely.                                 |
+    |  KEY TAKEAWAY                                   |
+    |  Clearing is the backbone of the payment        |
+    |  system. It transforms chaos into order,        |
+    |  enabling billions of transactions to flow      |
+    |  through the financial system efficiently       |
+    |  and safely.                                    |
     +-------------------------------------------------+
 ```
 
