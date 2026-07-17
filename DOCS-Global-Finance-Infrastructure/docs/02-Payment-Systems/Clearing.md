@@ -657,7 +657,7 @@ REAL-TIME CLEARING
 |    processing             |                            |  - Real-time             |
 |  - Near-instant           |                            |    notification         |
 |    settlement             |                            |  - Improved cash flow   |
-|  - 24/7/365             |                            |                          |
+|  - 24/7/365               |                            |                          |
 +---------------------------+                            +---------------------------+
 ```
 
