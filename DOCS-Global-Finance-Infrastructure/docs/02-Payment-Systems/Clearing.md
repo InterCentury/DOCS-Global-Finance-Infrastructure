@@ -507,7 +507,7 @@ Clearing houses mitigate risk through several mechanisms. They require members t
 CLEARING HOUSE RISK MANAGEMENT
 
                          +---------------------------+
-                         |  RISK MANAGEMENT TOOLS   |
+                         |  RISK MANAGEMENT TOOLS    |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
