@@ -738,7 +738,7 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY PROCESSES                                 |
+    |  KEY PROCESSES                                  |
     |  - Capture, validate, match, route            |
     |  - Calculate gross positions                  |
     |  - Net obligations (bilateral/multilateral)   |
