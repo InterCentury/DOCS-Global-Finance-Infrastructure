@@ -739,9 +739,9 @@ SUMMARY
 
     +-------------------------------------------------+
     |  KEY PROCESSES                                  |
-    |  - Capture, validate, match, route            |
-    |  - Calculate gross positions                  |
-    |  - Net obligations (bilateral/multilateral)   |
+    |  - Capture, validate, match, route              |
+    |  - Calculate gross positions                    |
+    |  - Net obligations (bilateral/multilateral)     |
     |  - Generate settlement instructions          |
     +-------------------------------------------------+
 
