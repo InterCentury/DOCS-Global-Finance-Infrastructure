@@ -659,49 +659,49 @@ SUMMARY
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY PARTICIPANTS                              |
-    |  Payer, Payer's Bank (ODFI), Payment Network,  |
-    |  Payee's Bank (RDFI), Payee                   |
+    |  KEY PARTICIPANTS                               |
+    |  Payer, Payer's Bank (ODFI), Payment Network,   |
+    |  Payee's Bank (RDFI), Payee                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  PAYMENT TYPES                                 |
-    |  Cash, Checks, Bank Transfers, Cards,         |
-    |  Mobile, Digital Wallets, Real-Time,          |
-    |  Cross-Border                                |
+    |  PAYMENT TYPES                                  |
+    |  Cash, Checks, Bank Transfers, Cards,           |
+    |  Mobile, Digital Wallets, Real-Time,            |
+    |  Cross-Border                                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  PAYMENT SYSTEMS                               |
-    |  Retail (high-volume, low-value)              |
-    |  Wholesale (low-volume, high-value)           |
-    |  Domestic (single currency)                   |
-    |  International (multiple currencies)          |
+    |  PAYMENT SYSTEMS                                |
+    |  Retail (high-volume, low-value)                |
+    |  Wholesale (low-volume, high-value)             |
+    |  Domestic (single currency)                     |
+    |  International (multiple currencies)            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  RISKS                                         |
-    |  Fraud, Operational, Settlement (Herstatt),   |
-    |  Counterparty                                 |
+    |  RISKS                                          |
+    |  Fraud, Operational, Settlement (Herstatt),     |
+    |  Counterparty                                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  REGULATION                                    |
-    |  AML, KYC, Compliance, Consumer protection    |
+    |  REGULATION                                     |
+    |  AML, KYC, Compliance, Consumer protection      |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  MODERN PAYMENTS                               |
-    |  Instant Payments, Open Banking, APIs,        |
-    |  Digital Wallets, CBDCs                       |
+    |  MODERN PAYMENTS                                |
+    |  Instant Payments, Open Banking, APIs,          |
+    |  Digital Wallets, CBDCs                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY TAKEAWAY                                  |
-    |  Payments are secure messages that update     |
-    |  ledgers. They move value, not physical       |
-    |  money. The goal is speed, security, and      |
-    |  finality.                                   |
+    |  KEY TAKEAWAY                                   |
+    |  Payments are secure messages that update       |
+    |  ledgers. They move value, not physical         |
+    |  money. The goal is speed, security, and        |
+    |  finality.                                      |
     +-------------------------------------------------+
 ```
 
