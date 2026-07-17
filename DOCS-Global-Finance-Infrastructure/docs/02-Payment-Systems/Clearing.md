@@ -514,11 +514,11 @@ CLEARING HOUSE RISK MANAGEMENT
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  COLLATERAL              |  |  MEMBERSHIP STANDARDS    |  |  EXPOSURE MONITORING      |
-|  - Clearing funds        |  |  - Capital requirements |  |  - Real-time positions   |
-|  - Margin requirements   |  |  - Financial stability  |  |  - Concentration limits  |
-|  - Default fund          |  |  - Operational          |  |  - Stress testing       |
-|                          |  |    capability          |  |  - Early warning signals |
+|  COLLATERAL               |  |  MEMBERSHIP STANDARDS     |  |  EXPOSURE MONITORING      |
+|  - Clearing funds         |  |  - Capital requirements   |  |  - Real-time positions   |
+|  - Margin requirements    |  |  - Financial stability    |  |  - Concentration limits  |
+|  - Default fund           |  |  - Operational            |  |  - Stress testing       |
+|                           |  |    capability             |  |  - Early warning signals |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
