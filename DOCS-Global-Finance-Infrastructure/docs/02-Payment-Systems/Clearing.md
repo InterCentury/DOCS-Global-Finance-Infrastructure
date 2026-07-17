@@ -732,9 +732,9 @@ SUMMARY
 
     +-------------------------------------------------+
     |  WHY CLEARING EXISTS?                           |
-    |  Process high transaction volume efficiently   |
+    |  Process high transaction volume efficiently    |
     |  Reduce liquidity requirements                  |
-    |  Eliminate point-to-point connections          |
+    |  Eliminate point-to-point connections           |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
