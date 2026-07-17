@@ -742,36 +742,36 @@ SUMMARY
     |  - Capture, validate, match, route              |
     |  - Calculate gross positions                    |
     |  - Net obligations (bilateral/multilateral)     |
-    |  - Generate settlement instructions          |
+    |  - Generate settlement instructions             |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  NETTING                                       |
-    |  Core mathematical process                     |
-    |  Reduces liquidity needs by 80-90%            |
-    |  Enables batch processing                     |
+    |  NETTING                                        |
+    |  Core mathematical process                      |
+    |  Reduces liquidity needs by 80-90%              |
+    |  Enables batch processing                       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  CLEARING HOUSES                                |
-    |  Central entities that process clearing        |
-    |  Manage risk through collateral and margins    |
-    |  Enforce rules and standards                  |
+    |  Central entities that process clearing         |
+    |  Manage risk through collateral and margins     |
+    |  Enforce rules and standards                    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  CLEARING RISKS                                 |
-    |  - Credit risk (bank may default)             |
-    |  - Operational risk (system failure)          |
-    |  - Settlement risk (Herstatt risk)            |
+    |  - Credit risk (bank may default)               |
+    |  - Operational risk (system failure)            |
+    |  - Settlement risk (Herstatt risk)              |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  MODERN DEVELOPMENTS                            |
-    |  - Same-day and instant clearing              |
-    |  - ISO 20022 messaging standard               |
-    |  - DLT and blockchain potential               |
-    |  - 24/7/365 processing                       |
+    |  - Same-day and instant clearing                |
+    |  - ISO 20022 messaging standard                 |
+    |  - DLT and blockchain potential                 |
+    |  - 24/7/365 processing                          |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
