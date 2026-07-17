@@ -249,12 +249,12 @@ CLEARING DATA FLOW
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  ODFI SENDS:             |                            |  CLEARING HOUSE SENDS:    |
-|  - Batch header          |                            |  - Sorted transactions    |
-|  - Entry detail records  |                            |  - Net settlement         |
-|  - Addenda records      |                            |    instructions          |
-|  - Batch control records |                            |  - Reports and            |
-|  - File control records |                            |    acknowledgments       |
+|  ODFI SENDS:              |                            |  CLEARING HOUSE SENDS:    |
+|  - Batch header           |                            |  - Sorted transactions    |
+|  - Entry detail records   |                            |  - Net settlement         |
+|  - Addenda records        |                            |    instructions           |
+|  - Batch control records  |                            |  - Reports and            |
+|  - File control records   |                            |    acknowledgments        |
 +---------------------------+                            +---------------------------+
 ```
 
