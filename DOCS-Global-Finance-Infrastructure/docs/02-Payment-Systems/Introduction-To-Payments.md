@@ -496,8 +496,8 @@ ACCOUNT-BASED VS TOKEN-BASED
 |  - Authorization based    |                            |  - Whoever holds token   |
 |    on identity            |                            |    holds value          |
 |  - Examples: Bank         |                            |  - Examples: Cash,      |
-|    transfers, ACH,     |                            |    cryptocurrency       |
-|    card payments       |                            |                           |
+|    transfers, ACH,        |                            |    cryptocurrency       |
+|    card payments          |                            |                           |
 +---------------------------+                            +---------------------------+
 ```
 
