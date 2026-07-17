@@ -350,7 +350,7 @@ PAYMENT TYPES COMPARISON
 |  Card Payment             |  Seconds (Auth)           |  Chargebackable           |
 |  Real-Time (RTP)          |  Seconds (Settle)         |  Irrevocable              |
 |  Cash                     |  Immediate                |  Irrevocable              |
-|  Check                    |  Days                     |  Reversible              |
+|  Check                    |  Days                     |  Reversible               |
 +---------------------------+---------------------------+---------------------------+
 ```
 
