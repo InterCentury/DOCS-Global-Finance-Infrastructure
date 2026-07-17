@@ -428,17 +428,17 @@ GROSS VS NET SETTLEMENT
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  GROSS SETTLEMENT        |                            |  NET SETTLEMENT           |
-|  (RTGS)                  |                            |  (ACH)                    |
+|  GROSS SETTLEMENT         |                            |  NET SETTLEMENT           |
+|  (RTGS)                   |                            |  (ACH)                    |
 |                           |                            |                           |
-|  - Transaction by        |                            |  - Batched at end of      |
-|    transaction          |                            |    cycle                 |
-|  - High liquidity need  |                            |  - Low liquidity need    |
-|  - Real-time            |                            |  - Deferred              |
-|  - No settlement risk   |                            |  - Settlement risk exists |
-|  - Immediate finality   |                            |  - Delayed finality      |
-|  - Examples: Fedwire,   |                            |  - Examples: ACH, BACS   |
-|    TARGET2, CHAPS      |                            |                           |
+|  - Transaction by         |                            |  - Batched at end of      |
+|    transaction            |                            |    cycle                  |
+|  - High liquidity need    |                            |  - Low liquidity need     |
+|  - Real-time              |                            |  - Deferred               |
+|  - No settlement risk     |                            |  - Settlement risk exists |
+|  - Immediate finality     |                            |  - Delayed finality       |
+|  - Examples: Fedwire,     |                            |  - Examples: ACH, BACS    |
+|    TARGET2, CHAPS         |                            |                           |
 +---------------------------+                            +---------------------------+
 ```
 
