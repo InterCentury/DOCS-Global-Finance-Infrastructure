@@ -11,10 +11,10 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and purpose of clearing                       │
-    │   Learn the distinction between clearing, settlement, and authorization   │
-    │   Study the clearing lifecycle from capture to netting                   │
-    │   Examine the role of clearing houses and networks                        │
+    │   Understand the definition and purpose of clearing                         │
+    │   Learn the distinction between clearing, settlement, and authorization     │
+    │   Study the clearing lifecycle from capture to netting                      │
+    │   Examine the role of clearing houses and networks                          │
     │   Understand netting mechanisms (bilateral, multilateral)                │
     │   Analyze clearing in different payment systems (ACH, cards, RTGS)       │
     │   Study clearing in financial markets (securities, derivatives)          │
