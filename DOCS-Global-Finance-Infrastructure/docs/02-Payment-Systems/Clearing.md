@@ -15,11 +15,11 @@ DOCUMENTATION OBJECTIVES
     │   Learn the distinction between clearing, settlement, and authorization     │
     │   Study the clearing lifecycle from capture to netting                      │
     │   Examine the role of clearing houses and networks                          │
-    │   Understand netting mechanisms (bilateral, multilateral)                │
-    │   Analyze clearing in different payment systems (ACH, cards, RTGS)       │
-    │   Study clearing in financial markets (securities, derivatives)          │
-    │   Understand clearing risks and mitigation                               │
-    │   Learn about modern clearing technologies and instant payments          │
+    │   Understand netting mechanisms (bilateral, multilateral)                   │
+    │   Analyze clearing in different payment systems (ACH, cards, RTGS)          │
+    │   Study clearing in financial markets (securities, derivatives)             │
+    │   Understand clearing risks and mitigation                                  │
+    │   Learn about modern clearing technologies and instant payments             │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -34,23 +34,23 @@ How it works: When a payment is initiated, the transaction data flows from the o
 CLEARING DEFINITION
 
                          +---------------------------+
-                         |         CLEARING         |
-                         |  Data exchange and       |
-                         |  net calculation         |
+                         |         CLEARING          |
+                         |  Data exchange and        |
+                         |  net calculation          |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  KEY CHARACTERISTICS     |  |  PRIMARY FUNCTIONS       |  |  TIMING                  |
-|  - Data exchange         |  |  - Validate transactions |  |  - Post-authorization    |
-|  - Transaction matching  |  |  - Sort by receiving    |  |  - Pre-settlement        |
-|  - Net calculation       |  |    bank                 |  |  - Batch or real-time    |
-|  - Position reporting    |  |  - Calculate net        |  |  - Deferred settlement   |
-|                          |  |    positions            |  |    (usually)             |
-|                          |  |  - Generate settlement  |  |                          |
-|                          |  |    instructions        |  |                          |
+|  KEY CHARACTERISTICS      |  |  PRIMARY FUNCTIONS        |  |  TIMING                   |
+|  - Data exchange          |  |  - Validate transactions  |  |  - Post-authorization     |
+|  - Transaction matching   |  |  - Sort by receiving      |  |  - Pre-settlement         |
+|  - Net calculation        |  |    bank                   |  |  - Batch or real-time     |
+|  - Position reporting     |  |  - Calculate net          |  |  - Deferred settlement    |
+|                           |  |    positions              |  |    (usually)              |
+|                           |  |  - Generate settlement    |  |                           |
+|                           |  |    instructions           |  |                           |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
@@ -82,34 +82,34 @@ Settlement is the third phase where actual funds are transferred between central
 PAYMENT LIFECYCLE
 
                          +---------------------------+
-                         |  PAYMENT LIFECYCLE       |
+                         |  PAYMENT LIFECYCLE        |
                          +-------------+-------------+
                                        |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  PHASE 1: INITIATION     |                            |  PHASE 2: CLEARING        |
-|  & AUTHORIZATION         |                            |                           |
-|  - Payer requests       |                            |  - Banks exchange data   |
-|  - Bank verifies funds  |                            |  - Transactions matched  |
-|  - Authorization        |                            |  - Net positions         |
-|    approval             |                            |    calculated           |
-|  - Real-time            |                            |  - Settlement            |
-|                          |                            |    instructions         |
-|                          |                            |    generated           |
-+---------------------------+                            +---------------------------+
+          +----------------------------+-----------------+
+          │                                              │
+          ▼                                              ▼
++---------------------------+             +---------------------------+
+|  PHASE 1: INITIATION      |             |  PHASE 2: CLEARING        |
+|  & AUTHORIZATION          |             |                           |
+|  - Payer requests         |             |  - Banks exchange data    |
+|  - Bank verifies funds    |             |  - Transactions matched   |
+|  - Authorization          |             |  - Net positions          |
+|    approval               |             |    calculated             |
+|  - Real-time              |             |  - Settlement             |
+|                           |             |    instructions           |
+|                           |             |    generated              |
++---------------------------+             +---------------------------+
           │                                              │
           +----------------------------+-----------------+
                                        │
                                        ▼
                          +---------------------------+
-                         |  PHASE 3: SETTLEMENT     |
-                         |  - Actual funds move    |
-                         |  - Central bank         |
-                         |    reserves             |
-                         |  - Final and            |
-                         |    irrevocable          |
+                         |  PHASE 3: SETTLEMENT      |
+                         |  - Actual funds move      |
+                         |  - Central bank           |
+                         |    reserves               |
+                         |  - Final and              |
+                         |    irrevocable            |
                          +---------------------------+
 ```
 
@@ -123,13 +123,13 @@ The table below summarizes the key differences.
 CLEARING VS SETTLEMENT
 
                          +---------------------------+
-                         |  CLEARING VS SETTLEMENT  |
+                         |  CLEARING VS SETTLEMENT   |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
-+---------------------------+                            +---------------------------+
++---------------------------+---------------------------+---------------------------+
 |  ASPECT                   |  CLEARING                 |  SETTLEMENT              |
 +---------------------------+---------------------------+---------------------------+
 |  Purpose                  |  Calculate net            |  Transfer actual         |
