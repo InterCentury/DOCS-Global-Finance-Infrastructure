@@ -642,8 +642,8 @@ How it works: Instead of batch processing, real-time clearing processes transact
 REAL-TIME CLEARING
 
                          +---------------------------+
-                         |  REAL-TIME CLEARING      |
-                         |  24/7/365 processing     |
+                         |  REAL-TIME CLEARING       |
+                         |  24/7/365 processing      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
