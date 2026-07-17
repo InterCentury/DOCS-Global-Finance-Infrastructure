@@ -465,19 +465,19 @@ NET SETTLEMENT EXAMPLE
 
     WITHOUT NETTING (Gross):
     +-------------------------------------------------+
-    |  A pays B: $50 million                         |
-    |  B pays C: $30 million                         |
-    |  C pays A: $40 million                         |
-    |  Total funds moved: $120 million              |
+    |  A pays B: $50 million                          |
+    |  B pays C: $30 million                          |
+    |  C pays A: $40 million                          |
+    |  Total funds moved: $120 million                |
     +-------------------------------------------------+
 
     WITH MULTILATERAL NETTING:
     +-------------------------------------------------+
-    |  Bank A: Receives $40M, Pays $50M = -$10M     |
-    |  Bank B: Receives $50M, Pays $30M = +$20M    |
-    |  Bank C: Receives $30M, Pays $40M = -$10M    |
-    |  Total funds moved: $20 million               |
-    |  (B receives $10M from A and $10M from C)    |
+    |  Bank A: Receives $40M, Pays $50M = -$10M       |
+    |  Bank B: Receives $50M, Pays $30M = +$20M       |
+    |  Bank C: Receives $30M, Pays $40M = -$10M       |
+    |  Total funds moved: $20 million                 |
+    |  (B receives $10M from A and $10M from C)       |
     +-------------------------------------------------+
 ```
 
