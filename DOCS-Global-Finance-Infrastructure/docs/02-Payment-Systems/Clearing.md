@@ -525,10 +525,10 @@ CLEARING HOUSE RISK MANAGEMENT
                                        │
                                        ▼
                          +---------------------------+
-                         |  LOSS ALLOCATION         |
-                         |  - Default waterfall     |
-                         |  - Loss mutualization   |
-                         |  - Recovery process     |
+                         |  LOSS ALLOCATION          |
+                         |  - Default waterfall      |
+                         |  - Loss mutualization     |
+                         |  - Recovery process       |
                          +---------------------------+
 ```
 
