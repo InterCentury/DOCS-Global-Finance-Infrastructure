@@ -480,8 +480,8 @@ In token-based systems, the ```token itself``` is the key to value. The system d
 ACCOUNT-BASED VS TOKEN-BASED
 
                          +---------------------------+
-                         |  ACCOUNT-BASED vs        |
-                         |  TOKEN-BASED PAYMENTS    |
+                         |  ACCOUNT-BASED vs         |
+                         |  TOKEN-BASED PAYMENTS     |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
