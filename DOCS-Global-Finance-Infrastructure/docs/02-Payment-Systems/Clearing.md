@@ -653,11 +653,11 @@ REAL-TIME CLEARING
 |  CHARACTERISTICS          |                            |  ADVANTAGES               |
 |  - Individual             |                            |  - No settlement risk     |
 |    transactions           |                            |  - Immediate availability |
-|  - Continuous             |                            |  - 24/7 access          |
-|    processing             |                            |  - Real-time             |
-|  - Near-instant           |                            |    notification         |
-|    settlement             |                            |  - Improved cash flow   |
-|  - 24/7/365               |                            |                          |
+|  - Continuous             |                            |  - 24/7 access            |
+|    processing             |                            |  - Real-time              |
+|  - Near-instant           |                            |    notification           |
+|    settlement             |                            |  - Improved cash flow     |
+|  - 24/7/365               |                            |                           |
 +---------------------------+                            +---------------------------+
 ```
 
