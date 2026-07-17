@@ -727,7 +727,7 @@ SUMMARY
     +-------------------------------------------------+
     |  WHAT IS CLEARING?                              |
     |  Procedure for exchanging payment instructions  |
-    |  and calculating net obligations               |
+    |  and calculating net obligations                |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
