@@ -130,23 +130,23 @@ CLEARING VS SETTLEMENT
           │                                                         │
           ▼                                                         ▼
 +---------------------------+---------------------------+---------------------------+
-|  ASPECT                   |  CLEARING                 |  SETTLEMENT              |
+|  ASPECT                   |  CLEARING                 |  SETTLEMENT               |
 +---------------------------+---------------------------+---------------------------+
-|  Purpose                  |  Calculate net            |  Transfer actual         |
-|                           |  obligations              |  funds                   |
+|  Purpose                  |  Calculate net            |  Transfer actual          |
+|                           |  obligations              |  funds                    |
 +---------------------------+---------------------------+---------------------------+
-|  Timing                   |  Middle stage             |  Final stage             |
-|                           |  (post-authorization)    |                          |
+|  Timing                   |  Middle stage             |  Final stage              |
+|                           |  (post-authorization)     |                           |
 +---------------------------+---------------------------+---------------------------+
-|  Action                   |  Data exchange,          |  Liquidity movement      |
-|                           |  matching, netting       |                          |
+|  Action                   |  Data exchange,           |  Liquidity movement       |
+|                           |  matching, netting        |                           |
 +---------------------------+---------------------------+---------------------------+
-|  Risk                     |  Credit risk (bank       |  Settlement risk         |
-|                           |  may default before      |  (Herstatt risk)         |
-|                           |  settlement)             |                          |
+|  Risk                     |  Credit risk (bank        |  Settlement risk          |
+|                           |  may default before       |  (Herstatt risk)          |
+|                           |  settlement)              |                           |
 +---------------------------+---------------------------+---------------------------+
-|  Example                  |  ACH batch processing    |  Fedwire reserve         |
-|                           |                          |  transfer                |
+|  Example                  |  ACH batch processing     |  Fedwire reserve          |
+|                           |                           |  transfer                 |
 +---------------------------+---------------------------+---------------------------+
 ```
 
