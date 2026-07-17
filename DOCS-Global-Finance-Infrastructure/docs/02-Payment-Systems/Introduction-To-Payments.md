@@ -488,12 +488,12 @@ ACCOUNT-BASED VS TOKEN-BASED
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  ACCOUNT-BASED            |                            |  TOKEN-BASED             |
-|  (Identity-based)         |                            |  (Token-based)           |
+|  ACCOUNT-BASED            |                            |  TOKEN-BASED              |
+|  (Identity-based)         |                            |  (Token-based)            |
 |                           |                            |                           |
-|  - Identity is key        |                            |  - Token is key          |
+|  - Identity is key        |                            |  - Token is key           |
 |  - Verify who you are     |                            |  - Verify token validity  |
-|  - Authorization based    |                            |  - Whoever holds token   |
+|  - Authorization based    |                            |  - Whoever holds token    |
 |    on identity            |                            |    holds value          |
 |  - Examples: Bank         |                            |  - Examples: Cash,      |
 |    transfers, ACH,        |                            |    cryptocurrency       |
