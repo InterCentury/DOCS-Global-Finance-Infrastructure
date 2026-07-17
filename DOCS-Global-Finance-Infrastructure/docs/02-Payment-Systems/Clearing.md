@@ -381,13 +381,13 @@ NET OBLIGATION CALCULATION
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  EXAMPLE:                 |                            |  NET POSITION:           |
-|  Bank A:                  |                            |  Credits - Debits        |
-|  Credits: $100M          |                            |  $100M - $90M = $10M    |
-|  Debits: $90M            |                            |  Bank A receives $10M   |
+|  EXAMPLE:                 |                            |  NET POSITION:            |
+|  Bank A:                  |                            |  Credits - Debits         |
+|  Credits: $100M           |                            |  $100M - $90M = $10M      |
+|  Debits: $90M             |                            |  Bank A receives $10M     |
 +---------------------------+                            +---------------------------+
-          │                                              │
-          ▼                                              ▼
+          │                                                         │
+          ▼                                                         ▼
 +---------------------------+              +---------------------------+---------------------------+
 |  Bank B:                  |              |  Bank C:                  |
 |  Credits: $80M           |              |  Credits: $60M           |
