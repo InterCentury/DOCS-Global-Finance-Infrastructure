@@ -169,8 +169,8 @@ MERCHANT ACCOUNT VS BUSINESS ACCOUNT
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  MERCHANT ACCOUNT         |                            |  BUSINESS ACCOUNT         |
++---------------------------+                           +---------------------------+
+|  MERCHANT ACCOUNT         |                           |  BUSINESS ACCOUNT         |
 +---------------------------+---------------------------+---------------------------+
 |  Accepts cards            │ Yes                       │ No                        |
 |  Stores funds             │ Temporary                 │ Long-term                 |
