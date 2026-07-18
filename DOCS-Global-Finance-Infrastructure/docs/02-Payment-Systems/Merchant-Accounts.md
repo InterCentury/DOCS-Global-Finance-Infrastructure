@@ -366,18 +366,18 @@ Settlement timing varies based on the payment type and processing model.
 SETTLEMENT TIMING
 
                          +---------------------------+
-                         |  SETTLEMENT TIMING       |
+                         |  SETTLEMENT TIMING        |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  SAME-DAY                |  |  NEXT-DAY                |  |  DELAYED                |
-|  - Hours                 |  |  - 1 business day       |  |  - 2+ business days    |
-|  - Modern processing    |  |  - Standard cards       |  |  - Risk review          |
-|  - Higher fees          |  |  - Most common          |  |  - International        |
-|  - Faster cash flow     |  |  - Balanced cost       |  |  - High-risk merchants  |
+|  SAME-DAY                 |  |  NEXT-DAY                 |  |  DELAYED                  |
+|  - Hours                  |  |  - 1 business day         |  |  - 2+ business days       |
+|  - Modern processing      |  |  - Standard cards         |  |  - Risk review            |
+|  - Higher fees            |  |  - Most common            |  |  - International          |
+|  - Faster cash flow       |  |  - Balanced cost          |  |  - High-risk merchants    |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
