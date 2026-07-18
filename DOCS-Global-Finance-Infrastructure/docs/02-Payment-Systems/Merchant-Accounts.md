@@ -300,9 +300,9 @@ MERCHANT PAYMENT LIFECYCLE
     PHASE 3: CLEARING
     +-------------------------------------------------+
     |  Transaction details exchanged:                 |
-    |  - Merchant → Acquirer → Network → Issuer     |
-    |  - Data reconciliation                         |
-    |  - Calculate net obligations                   |
+    |  - Merchant → Acquirer → Network → Issuer       |
+    |  - Data reconciliation                          |
+    |  - Calculate net obligations                    |
     +-------------------------------------------------+
 
     PHASE 4: SETTLEMENT
