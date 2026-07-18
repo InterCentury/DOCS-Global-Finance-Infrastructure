@@ -115,7 +115,7 @@ QR payments use optical scanning of a QR code. The transaction requires scanning
 NFC VS QR PAYMENTS
 
                          +---------------------------+
-                         |  NFC VS QR PAYMENTS      |
+                         |  NFC VS QR PAYMENTS       |
                          +-------------+-------------+
                                        |
                     +------------------+---------------------+
@@ -145,22 +145,22 @@ NFC payments are contactless. The card or device is tapped near the reader. No p
 NFC VS EMV CHIP
 
                          +---------------------------+
-                         |  NFC VS EMV CHIP         |
+                         |  NFC VS EMV CHIP          |
                          +-------------+-------------+
                                        |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  NFC (Contactless)       |                            |  EMV CHIP (Contact)       |
-+---------------------------+---------------------------+---------------------------+
-|  Action: Tap             │  Action: Insert           |
-|  Contact: None           │  Contact: Physical        |
-|  Speed: Very Fast        │  Speed: Slower            |
-|  Device: Card/Phone     │  Device: Card only        |
-|  Security: High          │  Security: High           |
-|  Mode: RF                │  Mode: Electrical pins    |
-+---------------------------+---------------------------+
+                +----------------------+-------------------+
+                │                                          │
+                ▼                                          ▼
+           +---------------------------+---------------------------+
+           |  NFC (Contactless)        |  EMV CHIP (Contact)       |
+           +---------------------------+---------------------------+
+           |  Action: Tap              │  Action: Insert           |
+           |  Contact: None            │  Contact: Physical        |
+           |  Speed: Very Fast         │  Speed: Slower            |
+           |  Device: Card/Phone       │  Device: Card only        |
+           |  Security: High           │  Security: High           |
+           |  Mode: RF                 │  Mode: Electrical pins    |
+           +---------------------------+---------------------------+
 ```
 
 ## 11. What Are the Components of an NFC System
@@ -181,28 +181,28 @@ The ```Secure Element``` is a tamper-resistant hardware component that securely 
 NFC SYSTEM COMPONENTS
 
                          +---------------------------+
-                         |  NFC SYSTEM COMPONENTS   |
+                         |  NFC SYSTEM COMPONENTS    |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  NFC READER              |  |  NFC TAG                 |  |  NFC ANTENNA             |
-|  - Generates RF field   |  |  - Responds to field    |  |  - Loop coil             |
-|  - Initiates            |  |  - Contains data        |  |  - Transmits/receives    |
-|    communication       |  |  - Passive or active    |  |  - 13.56 MHz            |
-|  - In POS terminal      |  |  - Card or device      |  |                          |
+|  NFC READER               |  |  NFC TAG                  |  |  NFC ANTENNA              |
+|  - Generates RF field     |  |  - Responds to field      |  |  - Loop coil              |
+|  - Initiates              |  |  - Contains data          |  |  - Transmits/receives     |
+|    communication          |  |  - Passive or active      |  |  - 13.56 MHz              |
+|  - In POS terminal        |  |  - Card or device         |  |                           |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
                                        │
                                        ▼
                     +-------------------------------------------------+
-                    |  NFC CONTROLLER + SECURE ELEMENT              |
-                    |  - Manages communication                      |
-                    |  - Stores credentials securely                |
-                    |  - Cryptographic operations                   |
+                    |  NFC CONTROLLER + SECURE ELEMENT                |
+                    |  - Manages communication                        |
+                    |  - Stores credentials securely                  |
+                    |  - Cryptographic operations                     |
                     +-------------------------------------------------+
 ```
 
