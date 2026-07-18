@@ -489,35 +489,35 @@ NFC PAYMENT ARCHITECTURE
     +-------------------------------------------------+
     |  DEVICE LAYER                                   |
     |  Smartphone / Card / Wearable                   |
-    |  NFC Controller + Secure Element / HCE         |
-    |  Wallet Application                            |
+    |  NFC Controller + Secure Element / HCE          |
+    |  Wallet Application                             |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  TERMINAL LAYER                                 |
-    |  Merchant POS Terminal                         |
-    |  NFC Reader + Payment Application              |
+    |  Merchant POS Terminal                          |
+    |  NFC Reader + Payment Application               |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  ACQUIRING LAYER                                |
-    |  Acquiring Bank                                |
-    |  Merchant Account Management                   |
-    |  Transaction Processing                        |
+    |  Acquiring Bank                                 |
+    |  Merchant Account Management                    |
+    |  Transaction Processing                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  NETWORK LAYER                                  |
-    |  Card Network (Visa, Mastercard)               |
-    |  Routing, Token Translation                    |
-    |  Interchange Calculations                      |
+    |  Card Network (Visa, Mastercard)                |
+    |  Routing, Token Translation                     |
+    |  Interchange Calculations                       |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  ISSUING LAYER                                  |
-    |  Issuing Bank                                  |
-    |  Authorization and Fraud Detection            |
-    |  Customer Account Management                   |
+    |  Issuing Bank                                   |
+    |  Authorization and Fraud Detection              |
+    |  Customer Account Management                    |
     +-------------------------------------------------+
 ```
 
@@ -710,39 +710,39 @@ SUMMARY
 
     +-------------------------------------------------+
     |  WHAT IS NFC?                                   |
-    |  Short-range wireless communication for        |
-    |  contactless data exchange                     |
+    |  Short-range wireless communication for         |
+    |  contactless data exchange                      |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  HOW NFC PAYMENTS WORK?                         |
-    |  Tap device → NFC communication →              |
-    |  Authorization → Settlement                    |
+    |  Tap device → NFC communication →               |
+    |  Authorization → Settlement                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  KEY TECHNOLOGY                                 |
-    |  NFC (13.56 MHz, < 4 cm range)                 |
-    |  Tokenization (replace PAN with token)         |
-    |  Secure Element/HCE (secure storage)           |
-    |  Dynamic Authentication (unique cryptograms)   |
+    |  NFC (13.56 MHz, < 4 cm range)                  |
+    |  Tokenization (replace PAN with token)          |
+    |  Secure Element/HCE (secure storage)            |
+    |  Dynamic Authentication (unique cryptograms)    |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  SECURITY LAYERS                                |
-    |  Short range (prevents eavesdropping)          |
-    |  Tokenization (no real card number)            |
-    |  Cryptogram (unique per transaction)           |
-    |  Biometrics (user authentication)              |
-    |  Secure Element (hardware security)            |
+    |  Short range (prevents eavesdropping)           |
+    |  Tokenization (no real card number)             |
+    |  Cryptogram (unique per transaction)            |
+    |  Biometrics (user authentication)               |
+    |  Secure Element (hardware security)             |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  KEY TAKEAWAY                                   |
-    |  NFC payments combine convenience and          |
-    |  security. Tokens replace real card numbers,   |
-    |  cryptograms prevent reuse, and short range   |
-    |  prevents interception.                       |
+    |  NFC payments combine convenience and           |
+    |  security. Tokens replace real card numbers,    |
+    |  cryptograms prevent reuse, and short range     |
+    |  prevents interception.                         |
     +-------------------------------------------------+
 ```
 
