@@ -955,18 +955,18 @@ MID is the Merchant Identification Number. MCC is the Merchant Category Code. Ga
 COMMON MERCHANT ACCOUNT TERMINOLOGY
 
     +-------------------------------------------------+
-    |  MID: Merchant Identification Number             |
-    |  Unique identifier for merchant                  |
+    |  MID: Merchant Identification Number            |
+    |  Unique identifier for merchant                 |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  MCC: Merchant Category Code                     |
+    |  MCC: Merchant Category Code                    |
     |  Four-digit code identifying business type      |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  Gateway: Technical interface for payment       |
-    |  transmission                                    |
+    |  transmission                                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
@@ -1017,50 +1017,50 @@ SUMMARY
 
     +-------------------------------------------------+
     |  WHAT IS A MERCHANT ACCOUNT?                    |
-    |  Specialized bank account for accepting        |
-    |  electronic payments                           |
+    |  Specialized bank account for accepting         |
+    |  electronic payments                            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  WHY MERCHANT ACCOUNTS EXIST?                  |
-    |  Enable card acceptance, manage processing,    |
-    |  handle risk and settlement                   |
+    |  WHY MERCHANT ACCOUNTS EXIST?                   |
+    |  Enable card acceptance, manage processing,     |
+    |  handle risk and settlement                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY PARTICIPANTS                              |
-    |  Customer, Merchant, Gateway, Processor,       |
-    |  Acquirer, Card Network, Issuer                |
+    |  KEY PARTICIPANTS                               |
+    |  Customer, Merchant, Gateway, Processor,        |
+    |  Acquirer, Card Network, Issuer                 |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  LIFECYCLE PHASES                              |
-    |  Initiation → Authorization → Clearing →      |
-    |  Settlement → Payout                          |
+    |  LIFECYCLE PHASES                               |
+    |  Initiation → Authorization → Clearing →        |
+    |  Settlement → Payout                            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  ACCOUNT TYPES                                 |
-    |  Retail, E-Commerce, MOTO, High-Risk          |
+    |  ACCOUNT TYPES                                  |
+    |  Retail, E-Commerce, MOTO, High-Risk            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  FEES                                          |
-    |  Transaction fee, discount rate, interchange,  |
-    |  network fee, gateway fee, monthly fees       |
+    |  FEES                                           |
+    |  Transaction fee, discount rate, interchange,   |
+    |  network fee, gateway fee, monthly fees         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  RISKS                                         |
-    |  Fraud, chargeback, operational, compliance    |
+    |  RISKS                                          |
+    |  Fraud, chargeback, operational, compliance     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY TAKEAWAY                                  |
-    |  Merchant accounts are the link between       |
-    |  customer payments and merchant operations.  |
-    |  They manage processing, risk, and           |
-    |  settlement so businesses can accept cards.  |
+    |  KEY TAKEAWAY                                   |
+    |  Merchant accounts are the link between         |
+    |  customer payments and merchant operations.     |
+    |  They manage processing, risk, and              |
+    |  settlement so businesses can accept cards.     |
     +-------------------------------------------------+
 ```
 
