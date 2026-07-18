@@ -346,11 +346,11 @@ PAYMENT TYPES COMPARISON
 |  PAYMENT TYPE             |  SPEED                    |  REVERSIBILITY           |
 +---------------------------+---------------------------+---------------------------+
 |  Wire Transfer            |  Hours                    |  Irrevocable              |
-|  ACH                      |  1-3 Days                |  Reversible              |
-|  Card Payment             |  Seconds (Auth)          |  Chargebackable          |
-|  Real-Time (RTP)          |  Seconds (Settle)        |  Irrevocable              |
-|  Cash                     |  Immediate               |  Irrevocable              |
-|  Check                    |  Days                    |  Reversible              |
+|  ACH                      |  1-3 Days                 |  Reversible              |
+|  Card Payment             |  Seconds (Auth)           |  Chargebackable          |
+|  Real-Time (RTP)          |  Seconds (Settle)         |  Irrevocable              |
+|  Cash                     |  Immediate                |  Irrevocable              |
+|  Check                    |  Days                     |  Reversible              |
 +---------------------------+---------------------------+---------------------------+
 ```
 
