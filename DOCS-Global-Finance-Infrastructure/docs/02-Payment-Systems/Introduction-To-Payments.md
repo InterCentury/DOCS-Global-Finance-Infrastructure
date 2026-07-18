@@ -11,16 +11,16 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the fundamental definition and purpose of payments           │
-    │   Learn the participants and their roles in a payment transaction         │
-    │   Study the complete payment lifecycle from initiation to finality        │
-    │   Examine different types of payments and their characteristics           │
-    │   Understand payment systems and their components                        │
-    │   Learn about payment infrastructure and messaging standards             │
-    │   Study the risks associated with payments and their mitigation          │
-    │   Understand the regulatory framework governing payments                │
-    │   Learn about modern payment innovations (instant, open banking, APIs)   │
-    │   Explore real-world payment examples                                  │
+    │   Understand the fundamental definition and purpose of payments             │
+    │   Learn the participants and their roles in a payment transaction           │
+    │   Study the complete payment lifecycle from initiation to finality          │
+    │   Examine different types of payments and their characteristics             │
+    │   Understand payment systems and their components                           │
+    │   Learn about payment infrastructure and messaging standards                │
+    │   Study the risks associated with payments and their mitigation             │
+    │   Understand the regulatory framework governing payments                    │
+    │   Learn about modern payment innovations (instant, open banking, APIs)      │
+    │   Explore real-world payment examples                                       │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
