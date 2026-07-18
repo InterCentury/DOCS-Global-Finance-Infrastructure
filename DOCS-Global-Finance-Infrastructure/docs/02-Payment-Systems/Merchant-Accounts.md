@@ -163,23 +163,23 @@ The merchant account accepts card payments and performs the necessary processing
 MERCHANT ACCOUNT VS BUSINESS ACCOUNT
 
                          +---------------------------+
-                         |  ACCOUNT COMPARISON      |
+                         |  ACCOUNT COMPARISON       |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  MERCHANT ACCOUNT        |                            |  BUSINESS ACCOUNT         |
+|  MERCHANT ACCOUNT         |                            |  BUSINESS ACCOUNT         |
 +---------------------------+---------------------------+---------------------------+
-|  Accepts cards           │ Yes                       │ No                        |
-|  Stores funds            │ Temporary                 │ Long-term                 |
-|  Settlement              │ Yes                       │ Receives settlement       |
-|  Chargebacks             │ Yes                       │ No                        |
-|  Card processing         │ Yes                       │ No                        |
-|  Risk management         │ Yes                       │ Limited                   |
-|  Fee structure           │ Transaction-based        │ Service-based             |
-|  Primary use             │ Payment acceptance       │ Business operations       |
+|  Accepts cards            │ Yes                       │ No                        |
+|  Stores funds             │ Temporary                 │ Long-term                 |
+|  Settlement               │ Yes                       │ Receives settlement       |
+|  Chargebacks              │ Yes                       │ No                        |
+|  Card processing          │ Yes                       │ No                        |
+|  Risk management          │ Yes                       │ Limited                   |
+|  Fee structure            │ Transaction-based         │ Service-based             |
+|  Primary use              │ Payment acceptance        │ Business operations       |
 +---------------------------+---------------------------+---------------------------+
 ```
 
