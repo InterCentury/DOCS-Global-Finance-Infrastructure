@@ -512,12 +512,12 @@ MERCHANT ACCOUNT TYPES
                                        │
                                        ▼
                          +---------------------------+
-                         |  HIGH-RISK               |
-                         |  - Elevated chargeback   |
-                         |    risk                  |
-                         |  - Stricter underwriting |
-                         |  - Higher fees          |
-                         |  - Reserves required    |
+                         |  HIGH-RISK                |
+                         |  - Elevated chargeback    |
+                         |    risk                   |
+                         |  - Stricter underwriting  |
+                         |  - Higher fees            |
+                         |  - Reserves required      |
                          +---------------------------+
 ```
 
