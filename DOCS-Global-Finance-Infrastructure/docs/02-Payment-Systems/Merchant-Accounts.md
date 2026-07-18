@@ -307,10 +307,10 @@ MERCHANT PAYMENT LIFECYCLE
 
     PHASE 4: SETTLEMENT
     +-------------------------------------------------+
-    |  Funds transferred:                            |
-    |  - Issuer → Network → Acquirer → Merchant     |
-    |    Account                                     |
-    |  - Typically 1-3 business days                |
+    |  Funds transferred:                             |
+    |  - Issuer → Network → Acquirer → Merchant       |
+    |    Account                                      |
+    |  - Typically 1-3 business days                  |
     +-------------------------------------------------+
 
     PHASE 5: PAYOUT
