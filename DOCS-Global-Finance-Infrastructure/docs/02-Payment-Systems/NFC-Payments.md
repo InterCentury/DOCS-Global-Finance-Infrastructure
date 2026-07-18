@@ -598,10 +598,10 @@ NFC PAYMENT COMMUNICATION
 
         NFC FIELD
 
-+-------------+       ~~~~~~~       +-------------+
-| Smartphone  | <--------------->   | POS Reader  |
-| NFC Chip    |                     | NFC Module  |
-+-------------+                     +-------------+
++-------------+       ~~~~~~~     +-------------+
+| Smartphone  | <---------------> | POS Reader  |
+| NFC Chip    |                   | NFC Module  |
++-------------+                   +-------------+
 
 Range: Usually < 4 cm
 ```
