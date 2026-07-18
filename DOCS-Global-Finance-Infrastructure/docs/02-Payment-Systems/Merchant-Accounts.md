@@ -282,9 +282,9 @@ MERCHANT PAYMENT LIFECYCLE
     PHASE 1: INITIATION
     +-------------------------------------------------+
     |  Customer presents payment method               |
-    |  - Swipe, dip, or tap physical card            |
-    |  - Digital wallet (Apple Pay, Google Pay)      |
-    |  - Enter card details online                   |
+    |  - Swipe, dip, or tap physical card             |
+    |  - Digital wallet (Apple Pay, Google Pay)       |
+    |  - Enter card details online                    |
     +-------------------------------------------------+
 
     PHASE 2: AUTHORIZATION
