@@ -11,14 +11,14 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and purpose of NFC technology                 │
-    │   Learn the technical fundamentals of NFC communication                  │
-    │   Study the NFC payment ecosystem and participants                       │
-    │   Examine how contactless cards and mobile wallets work                  │
-    │   Understand security mechanisms (tokenization, secure elements)         │
-    │   Analyze the complete NFC payment lifecycle                            │
-    │   Study the infrastructure supporting NFC payments                      │
-    │   Learn about risks, limitations, and future trends                     │
+    │   Understand the definition and purpose of NFC technology                   │
+    │   Learn the technical fundamentals of NFC communication                     │
+    │   Study the NFC payment ecosystem and participants                          │
+    │   Examine how contactless cards and mobile wallets work                     │
+    │   Understand security mechanisms (tokenization, secure elements)            │
+    │   Analyze the complete NFC payment lifecycle                                │
+    │   Study the infrastructure supporting NFC payments                          │
+    │   Learn about risks, limitations, and future trends                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -85,22 +85,22 @@ NFC is a subset of RFID technology specifically designed for near-field (short-r
 NFC VS RFID
 
                          +---------------------------+
-                         |  NFC VS RFID             |
+                         |  NFC VS RFID              |
                          +-------------+-------------+
                                        |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  NFC                     |                            |  RFID                    |
-+---------------------------+---------------------------+---------------------------+
-|  Range: < 4 cm           │  Range: cm to meters      |
-|  Frequency: 13.56 MHz   │  Various frequencies       |
-|  Two-way communication  │  One-way (mostly)         |
-|  Secure applications    │  Identification apps      |
-|  Payments, access       │  Inventory, tracking      |
-|  Card emulation         │  Tag reading              |
-+---------------------------+---------------------------+
+                     +-----------------+-----------------+
+                     │                                   │
+                     ▼                                   ▼
+           +---------------------------+---------------------------+
+           |  NFC                      |  RFID                     |
+           +---------------------------+---------------------------+
+           |  Range: < 4 cm            │  Range: cm to meters      |
+           |  Frequency: 13.56 MHz     │  Various frequencies      |
+           |  Two-way communication    │  One-way (mostly)         |
+           |  Secure applications      │  Identification apps      |
+           |  Payments, access         │  Inventory, tracking      |
+           |  Card emulation           │  Tag reading              |
+           +---------------------------+---------------------------+
 ```
 
 ## 9. NFC vs QR Payments
@@ -118,19 +118,19 @@ NFC VS QR PAYMENTS
                          |  NFC VS QR PAYMENTS      |
                          +-------------+-------------+
                                        |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  NFC                     |                            |  QR PAYMENTS             |
-+---------------------------+---------------------------+---------------------------+
-|  Technology: Radio       │  Technology: Optical      |
-|  Action: Tap             │  Action: Scan             |
-|  Speed: Milliseconds     │  Speed: Seconds           |
-|  Internet: Usually no    │  Internet: Often required |
-|  Security: High          │  Security: Lower          |
-|  Range: < 4 cm           │  Range: Visual            |
-+---------------------------+---------------------------+
+                    +------------------+---------------------+
+                    │                                        │
+                    ▼                                        ▼
+           +---------------------------+---------------------------+
+           |  NFC                      | QR PAYMENTS               |
+           +---------------------------+---------------------------+
+           |  Technology: Radio        │ Technology: Optical       |
+           |  Action: Tap              │ Action: Scan              |
+           |  Speed: Milliseconds      │ Speed: Seconds            |
+           |  Internet: Usually no     │ Internet: Often required  |
+           |  Security: High           │ Security: Lower           |
+           |  Range: < 4 cm            │ Range: Visual             |
+           +---------------------------+---------------------------+
 ```
 
 ## 10. NFC vs EMV Chip Payments
