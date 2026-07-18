@@ -290,11 +290,11 @@ MERCHANT PAYMENT LIFECYCLE
     PHASE 2: AUTHORIZATION
     +-------------------------------------------------+
     |  System checks:                                 |
-    |  - Card validity                               |
-    |  - Available funds or credit                   |
-    |  - Fraud indicators                           |
-    |  - Velocity checks                           |
-    |  Outcome: Approved, Declined, or Referred     |
+    |  - Card validity                                |
+    |  - Available funds or credit                    |
+    |  - Fraud indicators                             |
+    |  - Velocity checks                              |
+    |  Outcome: Approved, Declined, or Referred       |
     +-------------------------------------------------+
 
     PHASE 3: CLEARING
