@@ -501,11 +501,11 @@ MERCHANT ACCOUNT TYPES
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  RETAIL                   |  |  E-COMMERCE               |  |  MOTO                    |
-|  - Physical stores        |  |  - Online businesses      |  |  - Mail/telephone       |
-|  - Card present           |  |  - Card not present       |  |  - Card not present     |
-|  - Lower risk             |  |  - Higher risk            |  |  - Higher risk          |
-|  - Lower fees             |  |  - Higher fees            |  |  - Higher fees          |
+|  RETAIL                   |  |  E-COMMERCE               |  |  MOTO                     |
+|  - Physical stores        |  |  - Online businesses      |  |  - Mail/telephone         |
+|  - Card present           |  |  - Card not present       |  |  - Card not present       |
+|  - Lower risk             |  |  - Higher risk            |  |  - Higher risk            |
+|  - Lower fees             |  |  - Higher fees            |  |  - Higher fees            |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
