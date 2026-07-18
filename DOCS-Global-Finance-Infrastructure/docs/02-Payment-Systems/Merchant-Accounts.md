@@ -414,10 +414,10 @@ MERCHANT PROCESSING PARTICIPANTS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  CUSTOMER                 |  |  MERCHANT                 |  |  PAYMENT GATEWAY         |
-|  - Initiates payment      |  |  - Accepts payment        |  |  - Securely transmits    |
-|  - Presents card or       |  |  - Submits transaction    |  |  - Encrypts data        |
-|    credential             |  |  - Provides goods/        |  |  - Routes to acquirer   |
+|  CUSTOMER                 |  |  MERCHANT                 |  |  PAYMENT GATEWAY          |
+|  - Initiates payment      |  |  - Accepts payment        |  |  - Securely transmits     |
+|  - Presents card or       |  |  - Submits transaction    |  |  - Encrypts data          |
+|    credential             |  |  - Provides goods/        |  |  - Routes to acquirer     |
 +---------------------------+  |    services               |  +---------------------------+
                                +---------------------------+          │
           │                            │                            │
