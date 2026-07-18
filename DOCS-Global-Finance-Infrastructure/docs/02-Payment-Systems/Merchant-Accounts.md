@@ -11,16 +11,16 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and purpose of merchant accounts              │
-    │   Learn the distinction between merchant accounts and other accounts      │
-    │   Study the complete merchant payment lifecycle                          │
-    │   Examine the participants in merchant processing                        │
-    │   Understand different types of merchant accounts                        │
-    │   Learn about settlement, fees, and risk management                      │
-    │   Study chargebacks, fraud, and compliance requirements                  │
-    │   Understand merchant reserves and their purpose                         │
-    │   Explore modern merchant account solutions                              │
-    │   Review real-world examples and common terminology                      │
+    │   Understand the definition and purpose of merchant accounts                │
+    │   Learn the distinction between merchant accounts and other accounts        │
+    │   Study the complete merchant payment lifecycle                             │
+    │   Examine the participants in merchant processing                           │
+    │   Understand different types of merchant accounts                           │
+    │   Learn about settlement, fees, and risk management                         │
+    │   Study chargebacks, fraud, and compliance requirements                     │
+    │   Understand merchant reserves and their purpose                            │
+    │   Explore modern merchant account solutions                                 │
+    │   Review real-world examples and common terminology                         │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
