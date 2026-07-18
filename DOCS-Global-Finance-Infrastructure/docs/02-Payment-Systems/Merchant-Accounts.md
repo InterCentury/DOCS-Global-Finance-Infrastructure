@@ -235,22 +235,22 @@ The MID is typically 10-15 digits long. It identifies the merchant in the acquir
 MERCHANT IDENTIFICATION
 
                          +---------------------------+
-                         |  MERCHANT IDENTIFICATION |
+                         |  MERCHANT IDENTIFICATION  |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                                                         │
           ▼                                                         ▼
 +---------------------------+                            +---------------------------+
-|  MERCHANT ID (MID)       |                            |  MERCHANT CATEGORY CODE   |
-|  - Unique identifier     |                            |  (MCC)                    |
-|  - 10-15 digits         |                            |  - 4-digit code           |
-|  - Assigned by acquirer |                            |  - Identifies business    |
-|  - Used for tracking    |                            |    type                   |
-|  - Used for settlement  |                            |  - Examples:              |
-|  - Used for reporting   |                            |    5411 = Grocery         |
-|                          |                            |    5812 = Restaurant      |
-|                          |                            |    5732 = Electronics     |
+|  MERCHANT ID (MID)        |                            |  MERCHANT CATEGORY CODE   |
+|  - Unique identifier      |                            |  (MCC)                    |
+|  - 10-15 digits           |                            |  - 4-digit code           |
+|  - Assigned by acquirer   |                            |  - Identifies business    |
+|  - Used for tracking      |                            |    type                   |
+|  - Used for settlement    |                            |  - Examples:              |
+|  - Used for reporting     |                            |    5411 = Grocery         |
+|                           |                            |    5812 = Restaurant      |
+|                           |                            |    5732 = Electronics     |
 +---------------------------+                            +---------------------------+
 ```
 
