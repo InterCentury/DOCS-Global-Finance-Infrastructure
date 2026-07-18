@@ -494,7 +494,7 @@ High-risk merchant accounts are used by industries with elevated chargeback risk
 MERCHANT ACCOUNT TYPES
 
                          +---------------------------+
-                         |  MERCHANT ACCOUNT TYPES  |
+                         |  MERCHANT ACCOUNT TYPES   |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
