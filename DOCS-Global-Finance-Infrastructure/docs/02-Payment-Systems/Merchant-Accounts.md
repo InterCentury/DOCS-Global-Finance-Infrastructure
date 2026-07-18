@@ -589,17 +589,17 @@ Monthly service fees cover account maintenance, reporting, and support. These ar
 MERCHANT FEE STRUCTURE
 
                          +---------------------------+
-                         |  MERCHANT FEES           |
+                         |  MERCHANT FEES            |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  TRANSACTION FEE         |  |  DISCOUNT RATE          |  |  INTERCHANGE FEES        |
-|  - Per-transaction       |  |  - Percentage of sale   |  |  - Paid to issuing bank  |
-|  - $0.10 - $0.50        |  |  - 1.5% - 3.5%         |  |  - Varies by card type  |
-|  - Covers processing    |  |  - Varies by card       |  |  - Largest cost         |
+|  TRANSACTION FEE          |  |  DISCOUNT RATE            |  |  INTERCHANGE FEES         |
+|  - Per-transaction        |  |  - Percentage of sale     |  |  - Paid to issuing bank   |
+|  - $0.10 - $0.50          |  |  - 1.5% - 3.5%            |  |  - Varies by card type    |
+|  - Covers processing      |  |  - Varies by card         |  |  - Largest cost           |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
