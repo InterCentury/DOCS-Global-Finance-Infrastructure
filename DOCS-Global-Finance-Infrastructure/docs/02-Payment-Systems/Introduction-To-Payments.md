@@ -89,11 +89,11 @@ PAYMENT VALIDITY REQUIREMENTS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  CONSENT                  |  |  AVAILABILITY OF FUNDS   |  |  AUTHENTICATION          |
-|  - Explicit approval      |  |  - Sufficient balance   |  |  - Identity verified    |
-|  - Signature/PIN          |  |  - Available credit      |  |  - Instruction valid    |
-|  - Biometric              |  |  - No holds blocking    |  |  - Fraud screening      |
-|  - Digital auth           |  |  - Within limits        |  |  - Multi-factor auth    |
+|  CONSENT                  |  |  AVAILABILITY OF FUNDS    |  |  AUTHENTICATION           |
+|  - Explicit approval      |  |  - Sufficient balance     |  |  - Identity verified      |
+|  - Signature/PIN          |  |  - Available credit       |  |  - Instruction valid      |
+|  - Biometric              |  |  - No holds blocking      |  |  - Fraud screening        |
+|  - Digital auth           |  |  - Within limits          |  |  - Multi-factor auth      |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
