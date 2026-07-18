@@ -100,11 +100,11 @@ PAYMENT VALIDITY REQUIREMENTS
                                        │
                                        ▼
                          +---------------------------+
-                         |  NON-REPUDIATION         |
-                         |  - Cannot be denied      |
-                         |  - Audit trail exists    |
-                         |  - Proof of execution   |
-                         |  - Legal enforceability  |
+                         |  NON-REPUDIATION          |
+                         |  - Cannot be denied       |
+                         |  - Audit trail exists     |
+                         |  - Proof of execution     |
+                         |  - Legal enforceability   |
                          +---------------------------+
 ```
 
