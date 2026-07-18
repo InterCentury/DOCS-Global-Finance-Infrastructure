@@ -44,12 +44,12 @@ PAYMENT DEFINITION
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  KEY ELEMENTS             |  |  ESSENTIAL COMPONENTS     |  |  PURPOSE                 |
-|  - Payer (sender)         |  |  - Instruction            |  |  - Exchange for goods    |
-|  - Payee (receiver)       |  |  - Authorization          |  |  - Service payment       |
-|  - Amount (value)         |  |  - Clearing               |  |  - Legal obligation      |
-|  - Medium (cash, wire,    |  |  - Settlement             |  |  - Debt repayment        |
-|    card, etc.)            |  |  - Finality               |  |  - Transfer of wealth   |
+|  KEY ELEMENTS             |  |  ESSENTIAL COMPONENTS     |  |  PURPOSE                  |
+|  - Payer (sender)         |  |  - Instruction            |  |  - Exchange for goods     |
+|  - Payee (receiver)       |  |  - Authorization          |  |  - Service payment        |
+|  - Amount (value)         |  |  - Clearing               |  |  - Legal obligation       |
+|  - Medium (cash, wire,    |  |  - Settlement             |  |  - Debt repayment         |
+|    card, etc.)            |  |  - Finality               |  |  - Transfer of wealth     |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
