@@ -315,10 +315,10 @@ MERCHANT PAYMENT LIFECYCLE
 
     PHASE 5: PAYOUT
     +-------------------------------------------------+
-    |  Merchant account transfers funds:             |
-    |  - Merchant Account → Business Bank Account   |
-    |  - Funds available to merchant                |
-    |  - Transaction complete                       |
+    |  Merchant account transfers funds:              |
+    |  - Merchant Account → Business Bank Account     |
+    |  - Funds available to merchant                  |
+    |  - Transaction complete                         |
     +-------------------------------------------------+
 ```
 
