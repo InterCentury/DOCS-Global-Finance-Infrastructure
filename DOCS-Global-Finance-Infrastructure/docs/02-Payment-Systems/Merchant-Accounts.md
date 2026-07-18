@@ -419,7 +419,7 @@ MERCHANT PROCESSING PARTICIPANTS
 |  - Presents card or       |  |  - Submits transaction    |  |  - Encrypts data          |
 |    credential             |  |  - Provides goods/        |  |  - Routes to acquirer     |
 +---------------------------+  |    services               |  +---------------------------+
-                               +---------------------------+          │
+                               +---------------------------+        │
           │                            │                            │
           +----------------------------+----------------------------+
                                        │
