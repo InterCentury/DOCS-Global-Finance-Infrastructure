@@ -44,14 +44,14 @@ MERCHANT ACCOUNT DEFINITION
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  KEY CHARACTERISTICS     |  |  PRIMARY FUNCTIONS       |  |  TEMPORARY NATURE         |
-|  - Accepts card payments |  |  - Hold funds during     |  |  - Holds funds until      |
-|  - Temporary holding    |  |    processing            |  |    settlement             |
-|  - Connects to business |  |  - Facilitate clearing  |  |  - Transfers to business   |
-|    account              |  |  - Manage chargebacks   |  |    account after           |
-|  - Subject to fees      |  |  - Handle fraud         |  |    settlement             |
-|  - Risk-managed         |  |  - Provide settlement   |  |  - Not for long-term      |
-|                          |  |    reporting           |  |    storage               |
+|  KEY CHARACTERISTICS      |  |  PRIMARY FUNCTIONS        |  |  TEMPORARY NATURE         |
+|  - Accepts card payments  |  |  - Hold funds during      |  |  - Holds funds until      |
+|  - Temporary holding      |  |    processing             |  |    settlement             |
+|  - Connects to business   |  |  - Facilitate clearing    |  |  - Transfers to business  |
+|    account                |  |  - Manage chargebacks     |  |    account after          |
+|  - Subject to fees        |  |  - Handle fraud           |  |    settlement             |
+|  - Risk-managed           |  |  - Provide settlement     |  |  - Not for long-term      |
+|                           |  |    reporting              |  |    storage                |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
