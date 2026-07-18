@@ -438,11 +438,11 @@ MERCHANT PROCESSING PARTICIPANTS
                                        │
                                        ▼
                          +---------------------------+
-                         |  ISSUING BANK            |
-                         |  - Issues card to        |
-                         |    customer              |
-                         |  - Approves/declines    |
-                         |    transactions         |
+                         |  ISSUING BANK             |
+                         |  - Issues card to         |
+                         |    customer               |
+                         |  - Approves/declines      |
+                         |    transactions           |
                          +---------------------------+
 ```
 
