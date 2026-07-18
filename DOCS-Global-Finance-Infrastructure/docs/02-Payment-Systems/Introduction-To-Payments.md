@@ -135,17 +135,17 @@ PAYMENT PARTICIPANTS
        |  Payer  | ---> | Payer's Bank| ---> | Payment Network| ---> | Payee's Bank | ---> |  Payee  |
        | (Buyer) |      |   (ODFI)    |      | (Intermediary) |      |    (RDFI)    |      | (Seller)|
        +---------+      +-------------+      +----------------+      +--------------+      +---------+
-            │                │                    │                    │               │
-            │                │                    │                    │               │
-            ▼                ▼                    ▼                    ▼               ▼
-+----------+----+  +--------+--------+  +---------+---------+  +-------+-------+  +-------+-------+
-| Initiates     |  | Submits        |  | Routes         |  | Receives      |  | Receives      |
-| payment       |  | instruction    |  | transaction    |  | instruction   |  | funds         |
-| Authorizes    |  | Debits payer   |  | Processes data |  | Credits payee |  | Account       |
-| transfer      |  | Sends to       |  | Applies rules  |  | Notifies      |  | credited      |
-| Provides      |  | network        |  | Calculates net |  | payee         |  |               |
-| account info  |  |                |  |                |  |               |  |               |
-+---------------+---------------+  +----------------+  +---------------+---------------+---------------+
+            │                │                    │                    │                      │
+            │                │                    │                    │                      │
+            ▼                ▼                    ▼                    ▼                      ▼
++---------------+  +----------------+      +----------------+     +---------------+   +---------------+
+| Initiates     |  | Submits        |      | Routes         |     | Receives      |   | Receives      |
+| payment       |  | instruction    |      | transaction    |     | instruction   |   | funds         |
+| Authorizes    |  | Debits payer   |      | Processes data |     | Credits payee |   | Account       |
+| transfer      |  | Sends to       |      | Applies rules  |     | Notifies      |   | credited      |
+| Provides      |  | network        |      | Calculates net |     | payee         |   |               |
+| account info  |  |                |      |                |     |               |   |               |
++---------------+  +----------------+      +----------------+     +---------------+   +---------------+
 ```
 
 ## 7. What Is a Payer
