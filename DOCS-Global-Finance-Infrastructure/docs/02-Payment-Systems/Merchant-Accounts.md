@@ -427,11 +427,11 @@ MERCHANT PROCESSING PARTICIPANTS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  PAYMENT PROCESSOR       |  |  ACQUIRING BANK          |  |  CARD NETWORK            |
-|  - Processes transaction |  |  - Provides merchant     |  |  - Communication layer  |
-|  - Handles routing      |  |    account               |  |  - Routes to issuer     |
-|  - Validates payments   |  |  - Manages settlement    |  |  - Sets rules and fees  |
-|  - Authorizes           |  |  - Risk management      |  |  - Examples: Visa, MC  |
+|  PAYMENT PROCESSOR        |  |  ACQUIRING BANK           |  |  CARD NETWORK             |
+|  - Processes transaction  |  |  - Provides merchant      |  |  - Communication layer    |
+|  - Handles routing        |  |    account                |  |  - Routes to issuer       |
+|  - Validates payments     |  |  - Manages settlement     |  |  - Sets rules and fees    |
+|  - Authorizes             |  |  - Risk management        |  |  - Examples: Visa, MC     |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
