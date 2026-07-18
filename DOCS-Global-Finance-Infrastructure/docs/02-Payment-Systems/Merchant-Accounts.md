@@ -604,10 +604,10 @@ MERCHANT FEE STRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  NETWORK FEES            |  |  GATEWAY FEES           |  |  MONTHLY FEES            |
-|  - Paid to card network |  |  - Gateway provider     |  |  - Account maintenance  |
-|  - Small percentage     |  |  - Per-transaction or   |  |  - Reporting            |
-|  - Covers operations    |  |    monthly              |  |  - Support              |
+|  NETWORK FEES             |  |  GATEWAY FEES             |  |  MONTHLY FEES             |
+|  - Paid to card network   |  |  - Gateway provider       |  |  - Account maintenance    |
+|  - Small percentage       |  |  - Per-transaction or     |  |  - Reporting              |
+|  - Covers operations      |  |    monthly                |  |  - Support                |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
