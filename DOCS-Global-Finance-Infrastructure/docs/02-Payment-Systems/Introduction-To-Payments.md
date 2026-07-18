@@ -343,7 +343,7 @@ PAYMENT TYPES COMPARISON
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  PAYMENT TYPE            |  |  SPEED                   |  |  REVERSIBILITY           |
+|  PAYMENT TYPE             |  |  SPEED                   |  |  REVERSIBILITY           |
 +---------------------------+---------------------------+---------------------------+
 |  Wire Transfer           |  Hours                    |  Irrevocable              |
 |  ACH                     |  1-3 Days                |  Reversible              |
