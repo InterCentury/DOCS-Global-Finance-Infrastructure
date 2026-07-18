@@ -35,9 +35,9 @@ How it works: A payment involves two key elements: the ```instruction``` to tran
 PAYMENT DEFINITION
 
                          +---------------------------+
-                         |        PAYMENT           |
-                         |  Voluntary transfer of   |
-                         |  value between parties   |
+                         |        PAYMENT            |
+                         |  Voluntary transfer of    |
+                         |  value between parties    |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
