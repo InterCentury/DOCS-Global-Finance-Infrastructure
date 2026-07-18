@@ -407,19 +407,19 @@ The ```issuing bank``` issues the customer's payment card and approves or declin
 MERCHANT PROCESSING PARTICIPANTS
 
                     +-----------------------------------------+
-                    |         CARD PAYMENT ECOSYSTEM         |
+                    |         CARD PAYMENT ECOSYSTEM          |
                     +-----------------------------------------+
                                        │
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  CUSTOMER                |  |  MERCHANT                |  |  PAYMENT GATEWAY         |
-|  - Initiates payment    |  |  - Accepts payment       |  |  - Securely transmits    |
-|  - Presents card or    |  |  - Submits transaction   |  |  - Encrypts data        |
-|    credential          |  |  - Provides goods/       |  |  - Routes to acquirer   |
-+---------------------------+  |    services            |  +---------------------------+
-                              +---------------------------+          │
+|  CUSTOMER                 |  |  MERCHANT                 |  |  PAYMENT GATEWAY         |
+|  - Initiates payment      |  |  - Accepts payment        |  |  - Securely transmits    |
+|  - Presents card or       |  |  - Submits transaction    |  |  - Encrypts data        |
+|    credential             |  |  - Provides goods/        |  |  - Routes to acquirer   |
++---------------------------+  |    services               |  +---------------------------+
+                               +---------------------------+          │
           │                            │                            │
           +----------------------------+----------------------------+
                                        │
