@@ -328,18 +328,18 @@ A payment processor handles several types of data for each transaction.
 PROCESSOR DATA HANDLING
 
                          +---------------------------+
-                         |  PROCESSOR DATA FLOW     |
+                         |  PROCESSOR DATA FLOW      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  INPUT DATA              |  |  PROCESSING DATA         |  |  OUTPUT DATA             |
-|  - Card details          |  |  - Validation results    |  |  - Authorization code    |
-|  - Transaction amount    |  |  - Risk scores           |  |  - Response code         |
-|  - Merchant information  |  |  - Routing decisions     |  |  - Settlement reports    |
-|  - Customer information  |  |  - Authorization status  |  |  - Reconciliation data   |
+|  INPUT DATA               |  |  PROCESSING DATA          |  |  OUTPUT DATA              |
+|  - Card details           |  |  - Validation results     |  |  - Authorization code     |
+|  - Transaction amount     |  |  - Risk scores            |  |  - Response code          |
+|  - Merchant information   |  |  - Routing decisions      |  |  - Settlement reports     |
+|  - Customer information   |  |  - Authorization status   |  |  - Reconciliation data    |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
@@ -457,46 +457,46 @@ The authorization response is returned through the network. The issuer sends app
 AUTHORIZATION REQUEST FLOW
 
     +-------------------------------+
-    |     PROCESSOR                |
-    |  Receives transaction        |
+    |     PROCESSOR                 |
+    |  Receives transaction         |
     +-------------------------------+
                  │
                  │ Authorization Request
                  ▼
     +-------------------------------+
-    |     ACQUIRER                 |
-    |  Routes to network           |
+    |     ACQUIRER                  |
+    |  Routes to network            |
     +-------------------------------+
                  │
                  ▼
     +-------------------------------+
-    |     CARD NETWORK             |
-    |  Routes to issuer            |
+    |     CARD NETWORK              |
+    |  Routes to issuer             |
     +-------------------------------+
                  │
                  ▼
     +-------------------------------+
-    |     ISSUER                   |
-    |  Approves or declines        |
+    |     ISSUER                    |
+    |  Approves or declines         |
     +-------------------------------+
                  │
                  │ Authorization Response
                  ▼
     +-------------------------------+
-    |     CARD NETWORK             |
-    |  Returns response            |
+    |     CARD NETWORK              |
+    |  Returns response             |
     +-------------------------------+
                  │
                  ▼
     +-------------------------------+
-    |     ACQUIRER                 |
-    |  Receives response           |
+    |     ACQUIRER                  |
+    |  Receives response            |
     +-------------------------------+
                  │
                  ▼
     +-------------------------------+
-    |     PROCESSOR                |
-    |  Returns to gateway          |
+    |     PROCESSOR                 |
+    |  Returns to gateway           |
     +-------------------------------+
 ```
 
@@ -533,22 +533,22 @@ PROCESSOR INFRASTRUCTURE
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  SERVERS                 |  |  NETWORK                 |  |  DATA STORAGE            |
-|  - Application servers   |  |  - Secure connections   |  |  - Transaction database  |
-|  - Authorization servers |  |  - Redundant links     |  |  - Reporting database    |
-|  - Settlement servers   |  |  - Low latency          |  |  - Archive storage       |
-|  - High availability    |  |  - Load balanced        |  |  - Backup systems        |
+|  SERVERS                  |  |  NETWORK                  |  |  DATA STORAGE             |
+|  - Application servers    |  |  - Secure connections     |  |  - Transaction database   |
+|  - Authorization servers  |  |  - Redundant links        |  |  - Reporting database     |
+|  - Settlement servers     |  |  - Low latency            |  |  - Archive storage        |
+|  - High availability      |  |  - Load balanced          |  |  - Backup systems         |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
                                        │
                                        ▼
                     +-------------------------------------------------+
-                    |  SECURITY & MONITORING                        |
-                    |  - Encryption systems                         |
-                    |  - Fraud detection                           |
-                    |  - Performance monitoring                    |
-                    |  - Alerting and reporting                    |
+                    |  SECURITY & MONITORING                          |
+                    |  - Encryption systems                           |
+                    |  - Fraud detection                              |
+                    |  - Performance monitoring                       |
+                    |  - Alerting and reporting                       |
                     +-------------------------------------------------+
 ```
 
