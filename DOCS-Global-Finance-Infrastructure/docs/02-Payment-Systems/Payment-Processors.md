@@ -11,15 +11,15 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and purpose of payment processors             │
-    │   Learn the distinction between processors, gateways, and merchant        │
-    │   accounts                                                                │
-    │   Study the complete payment processing lifecycle                        │
-    │   Examine the participants and their roles                               │
-    │   Understand processing architecture and internal components             │
-    │   Learn about security and compliance requirements                      │
-    │   Study global processing considerations                                │
-    │   Explore modern processor trends and innovations                        │
+    │   Understand the definition and purpose of payment processors               │
+    │   Learn the distinction between processors, gateways, and merchant          │
+    │   accounts                                                                  │
+    │   Study the complete payment processing lifecycle                           │
+    │   Examine the participants and their roles                                  │
+    │   Understand processing architecture and internal components                │
+    │   Learn about security and compliance requirements                          │
+    │   Study global processing considerations                                    │
+    │   Explore modern processor trends and innovations                           │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -34,23 +34,23 @@ How it works: When a payment gateway receives a customer's payment data, it forw
 PAYMENT PROCESSOR DEFINITION
 
                          +---------------------------+
-                         |    PAYMENT PROCESSOR     |
-                         |  Handles transaction     |
-                         |  processing, routing,    |
-                         |  and settlement          |
+                         |    PAYMENT PROCESSOR      |
+                         |  Handles transaction      |
+                         |  processing, routing,     |
+                         |  and settlement           |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  KEY CHARACTERISTICS     |  |  PRIMARY FUNCTIONS       |  |  WHAT IT IS NOT          |
-|  - Processes transactions|  |  - Route authorization   |  |  - Payment gateway       |
-|  - Routes to acquirers   |  |  - Validate transactions |  |  - Merchant account      |
-|  - Manages settlement    |  |  - Apply risk checks     |  |  - Acquiring bank        |
-|  - Handles clearing      |  |  - Manage clearing      |  |  - PSP                   |
-|  - Bank-facing           |  |  - Coordinate settlement |  |  - Card network          |
-|  - Back-end service      |  |  - Report transactions  |  |                         |
+|  KEY CHARACTERISTICS      |  |  PRIMARY FUNCTIONS        |  |  WHAT IT IS NOT           |
+|  - Processes transactions |  |  - Route authorization    |  |  - Payment gateway        |
+|  - Routes to acquirers    |  |  - Validate transactions  |  |  - Merchant account       |
+|  - Manages settlement     |  |  - Apply risk checks      |  |  - Acquiring bank         |
+|  - Handles clearing       |  |  - Manage clearing        |  |  - PSP                    |
+|  - Bank-facing            |  |  - Coordinate settlement  |  |  - Card network           |
+|  - Back-end service       |  |  - Report transactions    |  |                           |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
@@ -88,43 +88,43 @@ The flow begins when the processor receives the encrypted transaction data from 
 PROCESSOR WORKFLOW
 
                          +---------------------------+
-                         |  PROCESSOR WORKFLOW      |
+                         |  PROCESSOR WORKFLOW       |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  1. RECEIVE DATA         |
-                         |  From payment gateway    |
+                         |  1. RECEIVE DATA          |
+                         |  From payment gateway     |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  2. VALIDATE DATA        |
-                         |  Format and error check  |
+                         |  2. VALIDATE DATA         |
+                         |  Format and error check   |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  3. RISK & FRAUD CHECK  |
-                         |  Scoring and analysis   |
+                         |  3. RISK & FRAUD CHECK    |
+                         |  Scoring and analysis     |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  4. ROUTE TRANSACTION    |
-                         |  To appropriate acquirer |
+                         |  4. ROUTE TRANSACTION     |
+                         |  To appropriate acquirer  |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  5. AUTHORIZATION        |
-                         |  Through network to      |
-                         |  issuer                  |
+                         |  5. AUTHORIZATION         |
+                         |  Through network to       |
+                         |  issuer                   |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  6. RESPONSE             |
-                         |  Return to gateway       |
+                         |  6. RESPONSE              |
+                         |  Return to gateway        |
                          +-------------+-------------+
                                        |
                          +---------------------------+
-                         |  7. CLEARING &           |
-                         |  SETTLEMENT             |
+                         |  7. CLEARING &            |
+                         |  SETTLEMENT               |
                          +---------------------------+
 ```
 
@@ -179,24 +179,24 @@ The payment processor is the ```back-end layer```. It receives encrypted data fr
 PAYMENT PROCESSOR VS GATEWAY
 
                          +---------------------------+
-                         |  PROCESSOR VS GATEWAY    |
+                         |  PROCESSOR VS GATEWAY     |
                          +-------------+-------------+
                                        |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  PAYMENT GATEWAY         |                            |  PAYMENT PROCESSOR       |
-+---------------------------+---------------------------+---------------------------+
-|  Handles payment data    │  Handles transactions     |
-|  Captures and encrypts  │  Routes and authorizes   |
-|  Merchant-facing        │  Bank-facing             |
-|  Front-end layer        │  Back-end layer          |
-|  No transaction routing │  Routes transactions     |
-|  No settlement          │  Manages settlement      |
-|  Examples: Stripe       │  Examples: First Data,   |
-|  Gateway, Adyen         │  TSYS, Fiserv           |
-+---------------------------+---------------------------+
+                +----------------------+-----------------------+
+                │                                              │
+                ▼                                              ▼
+           +---------------------------+---------------------------+
+           |  PAYMENT GATEWAY          |  PAYMENT PROCESSOR        |
+           +---------------------------+---------------------------+
+           |  Handles payment data     │  Handles transactions     |
+           |  Captures and encrypts    │  Routes and authorizes    |
+           |  Merchant-facing          │  Bank-facing              |
+           |  Front-end layer          │  Back-end layer           |
+           |  No transaction routing   │  Routes transactions      |
+           |  No settlement            │  Manages settlement       |
+           |  Examples: Stripe         │  Examples: First Data,    |
+           |  Gateway, Adyen           │  TSYS, Fiserv             |
+           +---------------------------+---------------------------+
 ```
 
 ## 7. Payment Processor vs Merchant Account
@@ -209,21 +209,21 @@ The processor is a ```service``` that processes transactions. The merchant accou
 PAYMENT PROCESSOR VS MERCHANT ACCOUNT
 
                          +---------------------------+
-                         |  PROCESSOR VS ACCOUNT    |
+                         |  PROCESSOR VS ACCOUNT     |
                          +-------------+-------------+
                                        |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  PAYMENT PROCESSOR       |                            |  MERCHANT ACCOUNT         |
-+---------------------------+---------------------------+---------------------------+
-|  Processes transactions  │  Holds settlement funds   |
-|  Routes authorizations  │  Receives funds           |
-|  Manages clearing       │  Handles chargebacks      |
-|  Coordinates settlement │  Risk management          |
-|  Service provider       │  Financial account        |
-+---------------------------+---------------------------+
+                +----------------------+----------------------+
+                │                                             │
+                ▼                                             ▼
+           +---------------------------+---------------------------+
+           |  PAYMENT PROCESSOR        |  MERCHANT ACCOUNT         |
+           +---------------------------+---------------------------+
+           |  Processes transactions   │  Holds settlement funds   |
+           |  Routes authorizations    │  Receives funds           |
+           |  Manages clearing         │  Handles chargebacks      |
+           |  Coordinates settlement   │  Risk management          |
+           |  Service provider         │  Financial account        |
+           +---------------------------+---------------------------+
 ```
 
 ## 8. Payment Processor vs Acquiring Bank
@@ -236,23 +236,23 @@ The processor is a ```technology service```. The acquirer is a ```financial inst
 PAYMENT PROCESSOR VS ACQUIRING BANK
 
                          +---------------------------+
-                         |  PROCESSOR VS ACQUIRER   |
+                         |  PROCESSOR VS ACQUIRER    |
                          +-------------+-------------+
                                        |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  PAYMENT PROCESSOR       |                            |  ACQUIRING BANK          |
-+---------------------------+---------------------------+---------------------------+
-|  Technology service      │  Financial institution    |
-|  Processes transactions  │  Provides merchant        |
-|  Routes authorizations  │    account                |
-|  Manages clearing       │  Settles funds            |
-|  Works with acquirers   │  Manages risk             |
-|  Example: First Data    │  Example: Chase Merchant  |
-|                          │    Services               |
-+---------------------------+---------------------------+
+               +-----------------------+-----------------------+
+               │                                               │
+               ▼                                               ▼
+           +---------------------------+---------------------------+
+           |  PAYMENT PROCESSOR        |  ACQUIRING BANK           |
+           +---------------------------+---------------------------+
+           |  Technology service       │  Financial institution    |
+           |  Processes transactions   │  Provides merchant        |
+           |  Routes authorizations    │    account                |
+           |  Manages clearing         │  Settles funds            |
+           |  Works with acquirers     │  Manages risk             |
+           |  Example: First Data      │  Example: Chase Merchant  |
+           |                           │    Services               |
+           +---------------------------+---------------------------+
 ```
 
 ## 9. Payment Processor vs Payment Service Provider (PSP)
@@ -277,16 +277,16 @@ The processor receives transaction data from the gateway. It validates the data 
 PAYMENT PROCESSOR FUNCTIONS
 
                          +---------------------------+
-                         |  PROCESSOR FUNCTIONS    |
+                         |  PROCESSOR FUNCTIONS      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  RECEIVE DATA            |  |  VALIDATE DATA          |  |  FRAUD DETECTION         |
-|  From gateway            |  |  Format and fields     |  |  Risk scoring            |
-|  Encrypted transmission  |  |  Required data check   |  |  Rule-based analysis     |
+|  RECEIVE DATA             |  |  VALIDATE DATA            |  |  FRAUD DETECTION          |
+|  From gateway             |  |  Format and fields        |  |  Risk scoring             |
+|  Encrypted transmission   |  |  Required data check      |  |  Rule-based analysis      |
 +---------------------------+  +---------------------------+  +---------------------------+
           │                            │                            │
           +----------------------------+----------------------------+
@@ -295,10 +295,10 @@ PAYMENT PROCESSOR FUNCTIONS
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  ROUTE TRANSACTION       |  |  MANAGE AUTHORIZATION    |  |  MANAGE CLEARING         |
-|  To acquirer             |  |  Request/response flow  |  |  Data exchange           |
-|  To card network         |  |  Timeout handling       |  |  Reconciliation          |
-|  Optimized routing       |  |  Retry logic            |  |  Settlement reporting    |
+|  ROUTE TRANSACTION        |  |  MANAGE AUTHORIZATION     |  |  MANAGE CLEARING          |
+|  To acquirer              |  |  Request/response flow    |  |  Data exchange            |
+|  To card network          |  |  Timeout handling         |  |  Reconciliation           |
+|  Optimized routing        |  |  Retry logic              |  |  Settlement reporting     |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
