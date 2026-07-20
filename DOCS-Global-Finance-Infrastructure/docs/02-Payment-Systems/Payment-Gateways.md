@@ -849,3 +849,5 @@ SUMMARY
     |  and routing, not processing or settlement.   |
     +-------------------------------------------------+
 ```
+
+*This documentation belongs to https://github.com/InterCentury*
