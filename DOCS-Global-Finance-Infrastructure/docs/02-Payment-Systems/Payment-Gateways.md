@@ -11,16 +11,16 @@ DOCUMENTATION OBJECTIVES
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
     │                                                                             │
-    │   Understand the definition and purpose of payment gateways               │
-    │   Learn the distinction between gateways, processors, and merchant        │
-    │   accounts                                                                │
-    │   Study the complete gateway transaction lifecycle                       │
-    │   Examine the participants and their roles                               │
-    │   Understand security mechanisms (encryption, tokenization)              │
-    │   Learn about gateway technology and integration methods                 │
-    │   Study routing strategies and multi-gateway architectures               │
-    │   Understand global payment considerations                              │
-    │   Explore modern gateway trends and future developments                  │
+    │   Understand the definition and purpose of payment gateways                 │
+    │   Learn the distinction between gateways, processors, and merchant          │
+    │   accounts                                                                  │
+    │   Study the complete gateway transaction lifecycle                          │
+    │   Examine the participants and their roles                                  │
+    │   Understand security mechanisms (encryption, tokenization)                 │
+    │   Learn about gateway technology and integration methods                    │
+    │   Study routing strategies and multi-gateway architectures                  │
+    │   Understand global payment considerations                                  │
+    │   Explore modern gateway trends and future developments                     │
     │                                                                             │
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -35,23 +35,23 @@ How it works: When a customer enters their payment details on a merchant's websi
 PAYMENT GATEWAY DEFINITION
 
                          +---------------------------+
-                         |    PAYMENT GATEWAY       |
+                         |    PAYMENT GATEWAY        |
                          |  Secure data transmission |
-                         |  between merchant and    |
-                         |  financial ecosystem    |
+                         |  between merchant and     |
+                         |  financial ecosystem      |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  KEY CHARACTERISTICS     |  |  PRIMARY FUNCTIONS       |  |  WHAT IT IS NOT          |
-|  - Captures payment data |  |  - Encrypt sensitive     |  |  - Payment processor    |
-|  - Encrypts data        |  |    data                  |  |  - Merchant account      |
-|  - Routes to processor   |  |  - Transmit to processor |  |  - Acquiring bank       |
-|  - Returns response     |  |  - Route authorization   |  |  - PSP                   |
-|  - Handles security     |  |  - Return response      |  |  - A bank account        |
-|  - Provides integration |  |  - Provide integration   |  |                         |
+|  KEY CHARACTERISTICS      |  |  PRIMARY FUNCTIONS        |  |  WHAT IT IS NOT           |
+|  - Captures payment data  |  |  - Encrypt sensitive      |  |  - Payment processor      |
+|  - Encrypts data          |  |    data                   |  |  - Merchant account       |
+|  - Routes to processor    |  |  - Transmit to processor  |  |  - Acquiring bank         |
+|  - Returns response       |  |  - Route authorization    |  |  - PSP                    |
+|  - Handles security       |  |  - Return response        |  |  - A bank account         |
+|  - Provides integration   |  |  - Provide integration    |  |                           |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
@@ -157,23 +157,23 @@ Some companies offer both services (integrated gateways like Stripe), but they a
 ```
 PAYMENT GATEWAY VS PROCESSOR
 
-                         +---------------------------+
-                         |  GATEWAY VS PROCESSOR    |
-                         +-------------+-------------+
-                                       |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  PAYMENT GATEWAY         |                            |  PAYMENT PROCESSOR       |
-+---------------------------+---------------------------+---------------------------+
-|  Captures payment data   │  Receives encrypted data  |
-|  Encrypts sensitive data │  Routes transactions      |
-|  Transmits to processor  │  Handles authorization    |
-|  Returns authorization   │  Manages settlement       |
-|  Technology-focused     │  Transaction-focused      |
-|  Front-end of payment   │  Back-end of payment      |
-+---------------------------+---------------------------+
+                     +---------------------------+
+                     |  GATEWAY VS PROCESSOR     |
+                     +-------------+-------------+
+                                   |
+           +-----------------------+---------------------+
+           │                                             │
+           ▼                                             ▼
+       +---------------------------+---------------------------+
+       |  PAYMENT GATEWAY          |  PAYMENT PROCESSOR        |
+       +---------------------------+---------------------------+
+       |  Captures payment data    │  Receives encrypted data  |
+       |  Encrypts sensitive data  │  Routes transactions      |
+       |  Transmits to processor   │  Handles authorization    |
+       |  Returns authorization    │  Manages settlement       |
+       |  Technology-focused       │  Transaction-focused      |
+       |  Front-end of payment     │  Back-end of payment      |
+       +---------------------------+---------------------------+
 ```
 
 ## 7. Payment Gateway vs Merchant Account
@@ -189,23 +189,23 @@ They are complementary. A merchant needs both a gateway (to transmit data) and a
 ```
 PAYMENT GATEWAY VS MERCHANT ACCOUNT
 
-                         +---------------------------+
-                         |  GATEWAY VS ACCOUNT      |
-                         +-------------+-------------+
-                                       |
-          +----------------------------+----------------------------+
-          │                                                         │
-          ▼                                                         ▼
-+---------------------------+                            +---------------------------+
-|  PAYMENT GATEWAY         |                            |  MERCHANT ACCOUNT         |
-+---------------------------+---------------------------+---------------------------+
-|  Transmits payment data  │  Holds settlement funds   |
-|  Encrypts data          │  Receives funds           |
-|  Routes to processor    │  Handles chargebacks      |
-|  Returns response       │  Manages risk             |
-|  Technology function    │  Financial function       |
-|  Front-end of payment   │  Back-end of payment      |
-+---------------------------+---------------------------+
+                    +---------------------------+
+                    |  GATEWAY VS ACCOUNT       |
+                    +-------------+-------------+
+                                  |
+          +-----------------------+------------------------+
+          │                                                │
+          ▼                                                ▼
+      +---------------------------+---------------------------+
+      |  PAYMENT GATEWAY          |  MERCHANT ACCOUNT         |
+      +---------------------------+---------------------------+
+      |  Transmits payment data   │  Holds settlement funds   |
+      |  Encrypts data            │  Receives funds           |
+      |  Routes to processor      │  Handles chargebacks      |
+      |  Returns response         │  Manages risk             |
+      |  Technology function      │  Financial function       |
+      |  Front-end of payment     │  Back-end of payment      |
+      +---------------------------+---------------------------+
 ```
 
 ## 8. Payment Gateway vs Payment Service Provider (PSP)
@@ -232,18 +232,18 @@ The infrastructure includes servers (for processing and routing), databases (for
 GATEWAY INFRASTRUCTURE
 
                          +---------------------------+
-                         |  GATEWAY INFRASTRUCTURE  |
+                         |  GATEWAY INFRASTRUCTURE   |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  SERVERS                 |  |  NETWORK                 |  |  SECURITY                |
-|  - Application servers   |  |  - Internet connectivity |  |  - Encryption systems    |
-|  - Database servers     |  |  - Secure connections    |  |  - Firewalls             |
-|  - Load balancers       |  |  - Redundant links      |  |  - Intrusion detection   |
-|  - High availability    |  |  - Low latency          |  |  - DDoS protection      |
+|  SERVERS                  |  |  NETWORK                  |  |  SECURITY                 |
+|  - Application servers    |  |  - Internet connectivity  |  |  - Encryption systems     |
+|  - Database servers       |  |  - Secure connections     |  |  - Firewalls              |
+|  - Load balancers         |  |  - Redundant links        |  |  - Intrusion detection    |
+|  - High availability      |  |  - Low latency            |  |  - DDoS protection        |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
@@ -301,19 +301,19 @@ Payment gateways transmit specific data elements required for payment processing
 GATEWAY DATA FLOW
 
                          +---------------------------+
-                         |  DATA FLOW               |
+                         |  DATA FLOW                |
                          +-------------+-------------+
                                        |
           +----------------------------+----------------------------+
           │                            │                            │
           ▼                            ▼                            ▼
 +---------------------------+  +---------------------------+  +---------------------------+
-|  PAYMENT DATA            |  |  TRANSACTION DATA        |  |  CONTEXT DATA            |
-|  - Card number or token  |  |  - Amount                |  |  - Billing address       |
-|  - Expiration date       |  |  - Currency              |  |  - Shipping address      |
-|  - CVV/CVC              |  |  - Transaction date      |  |  - Customer ID           |
-|  - Cardholder name      |  |  - Transaction type      |  |  - IP address            |
-|  - Card type            |  |  - Order ID              |  |  - Device fingerprint    |
+|  PAYMENT DATA             |  |  TRANSACTION DATA         |  |  CONTEXT DATA             |
+|  - Card number or token   |  |  - Amount                 |  |  - Billing address        |
+|  - Expiration date        |  |  - Currency               |  |  - Shipping address       |
+|  - CVV/CVC                |  |  - Transaction date       |  |  - Customer ID            |
+|  - Cardholder name        |  |  - Transaction type       |  |  - IP address             |
+|  - Card type              |  |  - Order ID               |  |  - Device fingerprint     |
 +---------------------------+  +---------------------------+  +---------------------------+
 ```
 
@@ -748,21 +748,21 @@ COMPLETE GATEWAY PAYMENT FLOW
     |   CUSTOMER     |       |    MERCHANT      |       |   PAYMENT        |
     |   (Browser)    | ----> |    (Website)     | ----> |   GATEWAY        |
     +----------------+       +------------------+       +--------+---------+
-                                                                   │
-                                                                   │ Encrypted
-                                                                   ▼
+                                                                 │
+                                                                 │ Encrypted
+                                                                 ▼
     +----------------+       +------------------+       +------------------+
     |   PROCESSOR    |       |   ACQUIRER       |       |   CARD NETWORK   |
     |   (Routing)    | ----> |   (Processing)   | ----> |   (Communication)|
     +----------------+       +------------------+       +--------+---------+
-                                                                   │
-                                                                   ▼
-                                                       +------------------+
-                                                       |   ISSUER         |
-                                                       |   (Authorization)|
-                                                       +--------+---------+
-                                                                │
-                                                                │
+                                                                 │
+                                                                 ▼
+                                                        +------------------+
+                                                        |   ISSUER         |
+                                                        |   (Authorization)|
+                                                        +--------+---------+
+                                                                 │
+                                                                 │
     +----------------+       +------------------+       +--------+---------+
     |   CUSTOMER     |       |    MERCHANT      |       |   GATEWAY        |
     |   (Receives)   | <---- |    (Response)    | <---- |   (Response)     |
@@ -814,39 +814,39 @@ SUMMARY
 
     +-------------------------------------------------+
     |  WHAT IS A PAYMENT GATEWAY?                     |
-    |  Technology service that securely transmits    |
-    |  payment data from merchant to processor       |
+    |  Technology service that securely transmits     |
+    |  payment data from merchant to processor        |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  KEY FUNCTIONS                                  |
-    |  - Capture payment data                        |
-    |  - Encrypt sensitive data                      |
-    |  - Transmit to processor                       |
-    |  - Return authorization response               |
+    |  - Capture payment data                         |
+    |  - Encrypt sensitive data                       |
+    |  - Transmit to processor                        |
+    |  - Return authorization response                |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  GATEWAY VS PROCESSOR VS ACCOUNT               |
-    |  Gateway: Data transmission                    |
-    |  Processor: Transaction routing                |
-    |  Account: Funds holding                        |
+    |  GATEWAY VS PROCESSOR VS ACCOUNT                |
+    |  Gateway: Data transmission                     |
+    |  Processor: Transaction routing                 |
+    |  Account: Funds holding                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  SECURITY                                      |
-    |  - PCI DSS compliance                         |
-    |  - Encryption                                 |
-    |  - Tokenization                              |
-    |  - 3-D Secure                                |
+    |  SECURITY                                       |
+    |  - PCI DSS compliance                           |
+    |  - Encryption                                   |
+    |  - Tokenization                                 |
+    |  - 3-D Secure                                   |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY TAKEAWAY                                  |
-    |  Payment gateways are the secure bridge       |
-    |  between merchants and the payment ecosystem. |
-    |  They handle data transmission, encryption,   |
-    |  and routing, not processing or settlement.   |
+    |  KEY TAKEAWAY                                   |
+    |  Payment gateways are the secure bridge         |
+    |  between merchants and the payment ecosystem.   |
+    |  They handle data transmission, encryption,     |
+    |  and routing, not processing or settlement.     |
     +-------------------------------------------------+
 ```
 
