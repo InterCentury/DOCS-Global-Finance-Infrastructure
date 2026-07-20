@@ -582,35 +582,35 @@ Fraud detection systems identify potentially fraudulent transactions. They use r
 INTERNAL PROCESSOR ARCHITECTURE
 
     +---------------------------------------------------------+
-    |                   PAYMENT PROCESSOR                      |
+    |                   PAYMENT PROCESSOR                     |
     +---------------------------------------------------------+
     |                                                         |
     |  +-------------------+    +-------------------------+   |
-    |  | AUTHORIZATION    |    | ROUTING ENGINE          |   |
-    |  | ENGINE           |    | - Card type routing     |   |
-    |  | - Request/       |    | - Acquirer routing      |   |
-    |  |   response       |    | - Cost optimization    |   |
-    |  | - Timeout        |    | - Success optimization |   |
-    |  | - Retry logic    |    +-------------------------+   |
-    |  +-------------------+                                 |
+    |  | AUTHORIZATION     |    | ROUTING ENGINE          |   |
+    |  | ENGINE            |    | - Card type routing     |   |
+    |  | - Request/        |    | - Acquirer routing      |   |
+    |  |   response        |    | - Cost optimization     |   |
+    |  | - Timeout         |    | - Success optimization  |   |
+    |  | - Retry logic     |    +-------------------------+   |
+    |  +-------------------+                                  |
     |                                                         |
     |  +-------------------+    +-------------------------+   |
-    |  | FRAUD DETECTION  |    | RISK ENGINE            |   |
-    |  | ENGINE           |    | - Risk scoring         |   |
-    |  | - Rule-based     |    | - Velocity checks      |   |
-    |  | - Machine        |    | - Geographic checks    |   |
-    |  |   learning       |    | - Merchant risk        |   |
-    |  | - Pattern        |    | - Customer risk        |   |
-    |  |   analysis       |    +-------------------------+   |
-    |  +-------------------+                                 |
+    |  | FRAUD DETECTION   |    | RISK ENGINE             |   |
+    |  | ENGINE            |    | - Risk scoring          |   |
+    |  | - Rule-based      |    | - Velocity checks       |   |
+    |  | - Machine         |    | - Geographic checks     |   |
+    |  |   learning        |    | - Merchant risk         |   |
+    |  | - Pattern         |    | - Customer risk         |   |
+    |  |   analysis        |    +-------------------------+   |
+    |  +-------------------+                                  |
     |                                                         |
     |  +-------------------+    +-------------------------+   |
-    |  | SETTLEMENT       |    | RECONCILIATION SYSTEM  |   |
-    |  | ENGINE           |    | - Transaction matching  |   |
-    |  | - Clearing       |    | - Exception handling   |   |
-    |  | - Settlement     |    | - Reporting            |   |
-    |  | - Reporting      |    | - Discrepancy          |   |
-    |  |                  |    |   resolution          |   |
+    |  | SETTLEMENT        |    | RECONCILIATION SYSTEM   |   |
+    |  | ENGINE            |    | - Transaction matching  |   |
+    |  | - Clearing        |    | - Exception handling    |   |
+    |  | - Settlement      |    | - Reporting             |   |
+    |  | - Reporting       |    | - Discrepancy           |   |
+    |  |                   |    |   resolution            |   |
     |  +-------------------+    +-------------------------+   |
     |                                                         |
     +---------------------------------------------------------+
@@ -767,14 +767,14 @@ END-TO-END PROCESSING FLOW
     |   CUSTOMER     |       |    MERCHANT      |       |   GATEWAY        |
     |  (Initiates)   | ----> |  (Accepts)       | ----> |  (Transmits)     |
     +----------------+       +------------------+       +--------+---------+
-                                                              │
-                                                              ▼
+                                                                 │
+                                                                 ▼
     +----------------+       +------------------+       +------------------+
     |   PROCESSOR    |       |   ACQUIRER       |       |   CARD NETWORK   |
     |  (Processes)   | ----> |  (Routes)        | ----> |  (Routes)        |
     +----------------+       +------------------+       +--------+---------+
-                                                              │
-                                                              ▼
+                                                                 │
+                                                                 ▼
     +----------------+       +------------------+       +------------------+
     |   ISSUER       |       |   APPROVAL       |       |   RESPONSE       |
     |  (Authorizes)  | ----> |  (Sent back)     | ----> |  (To merchant)   |
@@ -792,15 +792,15 @@ END-TO-END PAYMENT PROCESSING FLOW
 
     1. INITIATION
     +------------------+
-    |  Customer makes   |
-    |  payment request  |
+    |  Customer makes  |
+    |  payment request |
     +--------+---------+
              │
              ▼
     2. DATA CAPTURE
     +------------------+
-    |  Gateway captures |
-    |  and encrypts     |
+    |  Gateway captures|
+    |  and encrypts    |
     +--------+---------+
              │
              ▼
@@ -829,8 +829,8 @@ END-TO-END PAYMENT PROCESSING FLOW
              ▼
     6. COMPLETION
     +------------------+
-    |  Order confirmed |
-    |  Customer notified|
+    | Order confirmed  |
+    | Customer notified|
     +------------------+
 ```
 
@@ -859,41 +859,41 @@ SUMMARY
 
     +-------------------------------------------------+
     |  WHAT IS A PAYMENT PROCESSOR?                   |
-    |  System that handles transaction processing,   |
-    |  routing, authorization, clearing, and         |
-    |  settlement                                    |
+    |  System that handles transaction processing,    |
+    |  routing, authorization, clearing, and          |
+    |  settlement                                     |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  KEY FUNCTIONS                                  |
-    |  - Validate and route transactions             |
-    |  - Manage authorization                        |
-    |  - Coordinate clearing                         |
-    |  - Manage settlement                           |
-    |  - Provide reporting                           |
+    |  - Validate and route transactions              |
+    |  - Manage authorization                         |
+    |  - Coordinate clearing                          |
+    |  - Manage settlement                            |
+    |  - Provide reporting                            |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  PROCESSOR VS GATEWAY VS ACCOUNT               |
-    |  Processor: Transaction processing             |
-    |  Gateway: Data transmission                    |
-    |  Account: Funds holding                        |
+    |  PROCESSOR VS GATEWAY VS ACCOUNT                |
+    |  Processor: Transaction processing              |
+    |  Gateway: Data transmission                     |
+    |  Account: Funds holding                         |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
     |  PROCESSOR ARCHITECTURE                         |
-    |  Authorization Engine, Routing Engine,         |
-    |  Fraud Detection, Risk Engine, Settlement     |
-    |  Engine, Reconciliation System                 |
+    |  Authorization Engine, Routing Engine,          |
+    |  Fraud Detection, Risk Engine, Settlement       |
+    |  Engine, Reconciliation System                  |
     +-------------------------------------------------+
 
     +-------------------------------------------------+
-    |  KEY TAKEAWAY                                  |
-    |  Payment processors are the back-end engine   |
-    |  of the payment ecosystem. They handle the   |
-    |  actual processing, routing, and settlement  |
-    |  of transactions after the gateway receives  |
-    |  the payment data.                           |
+    |  KEY TAKEAWAY                                   |
+    |  Payment processors are the back-end engine     |
+    |  of the payment ecosystem. They handle the      |
+    |  actual processing, routing, and settlement     |
+    |  of transactions after the gateway receives     |
+    |  the payment data.                              |
     +-------------------------------------------------+
 ```
 
