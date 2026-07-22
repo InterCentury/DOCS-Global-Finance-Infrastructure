@@ -1,28 +1,16 @@
 # DOCS-FinTech-Networking
-```
 
-DOCS-FinTech-Networking is a personal documentation and research repository dedicated to understanding how modern financial systems
-operate at both local and global scales.
+**DOCS-FinTech-Networking** is a personal documentation and research repository dedicated to understanding how modern financial systems operate at both local and global scales.
 
-The primary goal of this project is to explore and document the technologies, architectures, and processes that power today's financial
-ecosystem—including banking systems, online transactions, payment networks, digital money, SWIFT, Visa, Mastercard, FinTech platforms,
-and broader financial infrastructure.
+The primary goal of this project is to explore and document the technologies, architectures, and processes that power today's financial ecosystem—including banking systems, online transactions, payment networks, digital money, SWIFT, Visa, Mastercard, FinTech platforms, and broader financial infrastructure.
 
-This repository serves as a structured learning resource for students, developers, researchers, and technology enthusiasts interested in
-understanding how money moves across banks, payment processors, and international financial networks. It contains conceptual explanations,
-technical architectures, transaction flows, security considerations, real-world examples, and case studies related to modern financial
-systems.
+This repository serves as a structured learning resource for students, developers, researchers, and technology enthusiasts interested in understanding how money moves across banks, payment processors, and international financial networks. It contains conceptual explanations, technical architectures, transaction flows, security considerations, real-world examples, and case studies related to modern financial systems.
 
-The project was created to build a deeper understanding of digital finance from the ground up. Rather than relying on scattered information
-from multiple sources, this repository aims to provide a centralized and organized knowledge base for long-term learning, research, and
-future system design exploration.
+The project was created to build a deeper understanding of digital finance from the ground up. Rather than relying on scattered information from multiple sources, this repository aims to provide a centralized and organized knowledge base for long-term learning, research, and future system design exploration.
 
-Note: This is a personal learning and research repository. While every effort is made to ensure accuracy, the information contained here may
-not always be 100% complete or up to date. Financial technologies and regulations evolve rapidly, and some topics may contain simplifications,
-assumptions, or ongoing research notes.
-
-The objective of this repository is to collect and document the most relevant concepts, documentation, and resources related to each topic in
-a structured and accessible manner.
+> **Note:** This is a personal learning and research repository. While every effort is made to ensure accuracy, the information contained here may not always be 100% complete or up to date. Financial technologies and regulations evolve rapidly, and some topics may contain simplifications, assumptions, or ongoing research notes.
+>
+> The objective of this repository is to collect and document the most relevant concepts, documentation, and resources related to each topic in a structured and accessible manner.
 
 ## Topics Covered
 
@@ -44,11 +32,8 @@ a structured and accessible manner.
 * Financial Networking and Infrastructure
 * Real-World Case Studies
 
-Whether you're curious about how a credit card transaction is processed, how SWIFT messages are exchanged between banks, or how modern FinTech
-companies build scalable financial platforms, this repository aims to provide a solid foundation for understanding the systems that power the global economy.
+Whether you're curious about how a credit card transaction is processed, how SWIFT messages are exchanged between banks, or how modern FinTech companies build scalable financial platforms, this repository aims to provide a solid foundation for understanding the systems that power the global economy.
 
-
-```
 
 
 <details>
